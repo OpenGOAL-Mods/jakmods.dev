@@ -442,14 +442,16 @@ if (!lintMode) {
         // if it is, copy it over,
         if (JSON.stringify(existingModSourceData) === JSON.stringify(modSourceData)) {
             console.log("mods.json would be unchanged, not updating the file");
-        } else { // if not, do nothing!
+        } else {
             modSourceData.lastUpdated = (new Date()).toISOString();
-            // Save the json file out
-            fs.writeFileSync("../../site/mods.json", JSON.stringify(modSourceData));
+            // Save the JSON file out
+            fs.writeFileSync("../../site/mods.json", JSON.stringify(modSourceData, null, 4));
         }
     } else {
+        // If the file does not exist, create it with a new lastUpdated timestamp
         modSourceData.lastUpdated = (new Date()).toISOString();
-        // Save the json file out
-        fs.writeFileSync("../../site/mods.json", JSON.stringify(modSourceData));
+        // Save the JSON file out
+        fs.writeFileSync("../../site/mods.json", JSON.stringify(modSourceData, null, 4));
     }
 }
+
