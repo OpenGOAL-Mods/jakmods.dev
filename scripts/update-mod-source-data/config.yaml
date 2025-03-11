@@ -432,6 +432,8 @@ mods:
     repo_owner: "OpenGOAL-Mods"
     repo_name: "OG-AccurateUnlockables"
     url: "https://github.com/OpenGOAL-Mods/OG-AccurateUnlockables"
+    ignore_versions:
+      - "<0.0.0"
     display_name: "Accurate Unlockables"
     description: "Speedrun mod that doesn't unlock things you skip past."
     authors: ["Dexz"]
