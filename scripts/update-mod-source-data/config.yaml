@@ -428,6 +428,18 @@ mods:
     cover_art_url: "https://raw.githubusercontent.com/Nick0778/OG-Mod-Base/refs/heads/main/ModArt_BG.png"
     thumbnail_art_url: "https://raw.githubusercontent.com/Nick0778/OG-Mod-Base/refs/heads/main/ModArt_Cover.png"
 
+  accurate-unlockables:
+    repo_owner: "OpenGOAL-Mods"
+    repo_name: "OG-AccurateUnlockables"
+    url: "https://github.com/OpenGOAL-Mods/OG-AccurateUnlockables"
+    display_name: "Accurate Unlockables"
+    description: "Speedrun mod that doesn't unlock things you skip past."
+    authors: ["Dexz"]
+    tags: ["speedrunning", "gameplay-mod"]
+    website_url: "https://github.com/OpenGOAL-Mods/OG-AccurateUnlockables/blob/main/README.md"
+    cover_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-AccurateUnlockables/refs/heads/main/assets/cover_art.png"
+    thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-AccurateUnlockables/refs/heads/main/assets/thumbnail.png"
+
   #### CUSTOM LEVEL MODS ####
 
   forgotten-lands:
