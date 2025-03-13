@@ -144,7 +144,6 @@ mods:
   #   cover_art_url: "https://raw.githubusercontent.com/kekdeveloper/opengoal-mod-snowy-legacy/main/ModImage.png"
   #   thumbnail_art_url: "https://raw.githubusercontent.com/kekdeveloper/opengoal-mod-snowy-legacy/main/ModImage.png"
 
-  # TODO: migrate to modern mod base
   microtransactions:
     repo_owner: "OpenGOAL-Mods"
     repo_name: "OG-Microtransactions"
@@ -328,8 +327,6 @@ mods:
     repo_name: "OG-Jak2-AugustBuild"
     url: "https://github.com/OpenGOAL-Mods/OG-Jak2-AugustBuild"
     release_date_override: "2024-05-16"
-    ignore_versions:
-      - "<0.0.3"
     display_name: "Jak II - August Build"
     description: "Mimics the Jak II August 2003 Review build which allows for consite skip"
     authors: ["barg", "zed"]
@@ -388,8 +385,6 @@ mods:
     repo_name: "JakSpeeb"
     url: "https://github.com/EvelynTSMG/JakSpeeb"
     release_date_override: "2024-12-31"
-    ignore_versions:
-      - "<1.0.0"
     display_name: "Speeb"
     description: "Nyoom! :3"
     authors: ["EvelynTSMG"]
@@ -403,8 +398,6 @@ mods:
     repo_name: "Platformia"
     url: "https://github.com/Grateful-Forest/Platformia"
     release_date_override: "2024-10-09"
-    ignore_versions:
-      - "<0.0.1"
     display_name: "Platformia"
     description: "Contents: Platforms (99.9%), Particles (0.1%). May contain traces of Jak II checkpoints."
     authors: ["Grateful Forest"]
@@ -418,8 +411,6 @@ mods:
     repo_name: "OG-Mod-Base"
     url: "https://github.com/Nick0778/OG-Mod-Base"
     release_date_override: "2025-02-25"
-    ignore_versions:
-      - "<0.0.1"
     display_name: "Defend the Port Wall"
     description: "Play the cut mission 'Defend the Port Wall'. Special install instructions: https://github.com/Nick0778/OG-Mod-Base/blob/main/README.md"
     authors: ["Nick07"]
@@ -432,8 +423,6 @@ mods:
     repo_owner: "OpenGOAL-Mods"
     repo_name: "OG-AccurateUnlockables"
     url: "https://github.com/OpenGOAL-Mods/OG-AccurateUnlockables"
-    ignore_versions:
-      - "<0.0.0"
     display_name: "Accurate Unlockables"
     description: "Speedrun mod that doesn't unlock things you skip past."
     authors: ["Dexz"]
