@@ -635,7 +635,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Zoomer-Legacy/releases/download/v0.1.0/macos-intel-v0.1.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 212,
+            "windows": 213,
             "linux": 16,
             "macos": 7
           }
@@ -914,7 +914,7 @@
             "macos": "https://github.com/dallmeyer/OG-OrbHunt/releases/download/v1.10.9/macos-intel-v1.10.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 131,
+            "windows": 132,
             "linux": 13,
             "macos": 9
           }
@@ -1667,7 +1667,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.3/macos-intel-v0.5.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 98,
+            "windows": 101,
             "linux": 2,
             "macos": 2
           }
@@ -2613,7 +2613,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.7/macos-intel-v0.0.7.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 141,
+            "windows": 142,
             "linux": 9,
             "macos": 4
           }
@@ -3068,6 +3068,27 @@
       ],
       "versions": [
         {
+          "version": "0.4.4",
+          "publishedDate": "2025-03-13T20:02:37Z",
+          "supportedGames": [
+            "jak2"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/OpenGOAL-Mods/OG-Dark-Jak/releases/download/v0.4.4/windows-v0.4.4.zip",
+            "linux": "https://github.com/OpenGOAL-Mods/OG-Dark-Jak/releases/download/v0.4.4/linux-v0.4.4.tar.gz",
+            "macos": "https://github.com/OpenGOAL-Mods/OG-Dark-Jak/releases/download/v0.4.4/macos-intel-v0.4.4.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
           "version": "0.4.3",
           "publishedDate": "2025-03-12T19:15:45Z",
           "supportedGames": [
@@ -3195,7 +3216,7 @@
           "assetDownloadCounts": {
             "windows": 3,
             "linux": 1,
-            "macos": 0
+            "macos": 1
           }
         },
         {
@@ -3306,7 +3327,7 @@
             "macos": "https://github.com/Nick0778/OG-Mod-Base/releases/download/v1.0.0/macos-intel-v1.0.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 77,
+            "windows": 78,
             "linux": 2,
             "macos": 0
           }
@@ -3399,7 +3420,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.2.3/macos-intel-v0.1.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 464,
+            "windows": 465,
             "linux": 31,
             "macos": 9
           }
@@ -3597,7 +3618,7 @@
             "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base/releases/download/v0.0.7/macos-intel-v0.0.7.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 411,
+            "windows": 412,
             "linux": 32,
             "macos": 4
           }
@@ -3858,7 +3879,7 @@
             "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base-Glacier/releases/download/v1.0.7/macos-intel-v1.0.7.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 318,
+            "windows": 319,
             "linux": 23,
             "macos": 8
           }
@@ -4071,5 +4092,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-03-13T16:25:53.682Z"
+  "lastUpdated": "2025-03-13T20:21:48.479Z"
 }
