@@ -915,7 +915,7 @@
           },
           "assetDownloadCounts": {
             "windows": 134,
-            "linux": 13,
+            "linux": 14,
             "macos": 9
           }
         },
@@ -2615,7 +2615,7 @@
           "assetDownloadCounts": {
             "windows": 147,
             "linux": 10,
-            "macos": 4
+            "macos": 5
           }
         },
         {
@@ -3423,7 +3423,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.0.1/macos-intel-v0.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 0,
+            "windows": 1,
             "linux": 0,
             "macos": 0
           }
@@ -3585,7 +3585,7 @@
           },
           "assetDownloadCounts": {
             "windows": 26,
-            "linux": 2,
+            "linux": 3,
             "macos": 0
           }
         },
@@ -4145,5 +4145,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-03-15T03:47:51.072Z"
+  "lastUpdated": "2025-03-15T04:22:06.138Z"
 }
