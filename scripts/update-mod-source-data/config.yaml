@@ -431,6 +431,18 @@ mods:
     cover_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-AccurateUnlockables/refs/heads/main/assets/cover_art.png"
     thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-AccurateUnlockables/refs/heads/main/assets/thumbnail.png"
 
+  individual-mission:
+    repo_owner: "OpenGOAL-Mods"
+    repo_name: "OG-ILs"
+    url: "https://github.com/OpenGOAL-Mods/OG-ILs"
+    display_name: "Individual Mission Speedruns"
+    description: "Adds Individual Mission categories to the speedrun menu, with in-game timer! BETA"
+    authors: ["barg034", "ThaRixer", "bintendo42"]
+    tags: ["speedrunning", "gameplay-mod"]
+    website_url: "https://github.com/OpenGOAL-Mods/OG-ILs/blob/main/README.md"
+    cover_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-ILs/refs/heads/main/assets/ils-background.png"
+    thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-ILs/refs/heads/main/assets/ils-thumb.png"
+
   #### CUSTOM LEVEL MODS ####
 
   forgotten-lands:
