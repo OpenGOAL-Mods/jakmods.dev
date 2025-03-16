@@ -1667,7 +1667,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.3/macos-intel-v0.5.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 111,
+            "windows": 113,
             "linux": 3,
             "macos": 3
           }
@@ -1772,7 +1772,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.4.0/macos-intel-v0.4.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 197,
+            "windows": 198,
             "linux": 6,
             "macos": 3
           }
@@ -3407,6 +3407,28 @@
       ],
       "versions": [
         {
+          "version": "0.0.7",
+          "publishedDate": "2025-03-16T07:08:04Z",
+          "supportedGames": [
+            "jak2",
+            "jak3"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.0.7/windows-v0.0.7.zip",
+            "linux": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.0.7/linux-v0.0.7.tar.gz",
+            "macos": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.0.7/macos-intel-v0.0.7.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
           "version": "0.0.6",
           "publishedDate": "2025-03-15T20:39:21Z",
           "supportedGames": [
@@ -3517,9 +3539,9 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.2.3/macos-intel-v0.1.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 475,
+            "windows": 476,
             "linux": 31,
-            "macos": 9
+            "macos": 10
           }
         },
         {
@@ -4189,5 +4211,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-03-16T04:21:52.824Z"
+  "lastUpdated": "2025-03-16T08:22:53.391Z"
 }
