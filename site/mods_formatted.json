@@ -1667,7 +1667,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.4/macos-intel-v0.5.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1,
+            "windows": 2,
             "linux": 0,
             "macos": 0
           }
@@ -1688,7 +1688,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.3/macos-intel-v0.5.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 130,
+            "windows": 131,
             "linux": 3,
             "macos": 4
           }
@@ -3428,28 +3428,6 @@
       ],
       "versions": [
         {
-          "version": "0.0.10",
-          "publishedDate": "2025-03-18T22:45:32Z",
-          "supportedGames": [
-            "jak2",
-            "jak3"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.0.10/windows-v0.0.10.zip",
-            "linux": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.0.10/linux-v0.0.10.tar.gz",
-            "macos": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.0.10/macos-intel-v0.0.10.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 0,
-            "linux": 0,
-            "macos": 0
-          }
-        },
-        {
           "version": "0.0.9",
           "publishedDate": "2025-03-18T04:04:19Z",
           "supportedGames": [
@@ -4298,5 +4276,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-03-18T22:50:54.473Z"
+  "lastUpdated": "2025-03-18T23:11:52.278Z"
 }
