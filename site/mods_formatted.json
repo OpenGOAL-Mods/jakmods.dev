@@ -239,7 +239,7 @@
           "assetDownloadCounts": {
             "windows": 424,
             "linux": 22,
-            "macos": 11
+            "macos": 12
           }
         },
         {
@@ -708,7 +708,7 @@
           "assetDownloadCounts": {
             "windows": 144,
             "linux": 10,
-            "macos": 3
+            "macos": 4
           }
         },
         {
@@ -823,7 +823,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Microtransactions/releases/download/v0.2.0/macos-intel-v0.2.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 47,
+            "windows": 48,
             "linux": 5,
             "macos": 4
           }
@@ -1667,9 +1667,9 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.3/macos-intel-v0.5.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 127,
+            "windows": 129,
             "linux": 3,
-            "macos": 3
+            "macos": 4
           }
         },
         {
@@ -2613,7 +2613,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.7/macos-intel-v0.0.7.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 155,
+            "windows": 156,
             "linux": 10,
             "macos": 6
           }
@@ -2702,7 +2702,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.39/macos-intel-v0.0.39.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 126,
+            "windows": 127,
             "linux": 20,
             "macos": 4
           }
@@ -3585,7 +3585,7 @@
           "assetDownloadCounts": {
             "windows": 488,
             "linux": 31,
-            "macos": 11
+            "macos": 12
           }
         },
         {
@@ -3976,7 +3976,7 @@
             "macos": "https://github.com/Cuttlefishthesage/LL-OpenGOAL-ModBase/releases/download/v4.3.4/macos-intel-v4.3.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 515,
+            "windows": 516,
             "linux": 49,
             "macos": 7
           }
@@ -4255,5 +4255,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-03-18T04:22:51.652Z"
+  "lastUpdated": "2025-03-18T08:25:17.095Z"
 }
