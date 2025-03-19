@@ -461,7 +461,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/releases/download/v0.2.4/macos-intel-v0.2.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 20,
+            "windows": 21,
             "linux": 1,
             "macos": 2
           }
@@ -1667,7 +1667,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.4/macos-intel-v0.5.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 10,
+            "windows": 13,
             "linux": 0,
             "macos": 0
           }
@@ -2634,7 +2634,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.7/macos-intel-v0.0.7.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 159,
+            "windows": 160,
             "linux": 10,
             "macos": 6
           }
@@ -3199,6 +3199,27 @@
       ],
       "versions": [
         {
+          "version": "1.2.0-fools",
+          "publishedDate": "2025-03-19T16:42:33Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/EvelynTSMG/JakSpeeb/releases/download/v1.2.0-fools/windows-v1.2.0-fools.zip",
+            "linux": "https://github.com/EvelynTSMG/JakSpeeb/releases/download/v1.2.0-fools/linux-v1.2.0-fools.tar.gz",
+            "macos": "https://github.com/EvelynTSMG/JakSpeeb/releases/download/v1.2.0-fools/macos-intel-v1.2.0-fools.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
           "version": "1.2.0",
           "publishedDate": "2025-02-26T12:44:44Z",
           "supportedGames": [
@@ -3214,7 +3235,7 @@
             "macos": "https://github.com/EvelynTSMG/JakSpeeb/releases/download/v1.2.0/macos-intel-v1.2.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 19,
+            "windows": 20,
             "linux": 0,
             "macos": 1
           }
@@ -3444,7 +3465,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.0.11/macos-intel-v0.0.11.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 10,
+            "windows": 11,
             "linux": 0,
             "macos": 0
           }
@@ -3626,7 +3647,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.2.3/macos-intel-v0.1.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 491,
+            "windows": 492,
             "linux": 31,
             "macos": 12
           }
@@ -4298,5 +4319,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-03-19T16:24:30.123Z"
+  "lastUpdated": "2025-03-19T20:20:51.524Z"
 }
