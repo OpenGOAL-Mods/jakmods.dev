@@ -43,15 +43,3 @@ jobs:
           message: "source: Updated mod source data"
           push: true
           default_author: github_actions
-
-      - name: Checkout post-commit
-        uses: actions/checkout@v4
-        with:
-          ref: "main"
-
-  deploy_website:
-    name: "Deploy Website Changes"
-    needs:
-      - update-mod-source
-    uses: ./.github/workflows/deploy-gh-pages.yaml
-    secrets: inherit
