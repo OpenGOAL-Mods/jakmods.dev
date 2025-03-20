@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - main
+  schedule:
+    - cron: "0 */4 * * *" # every 4 hours, at minute 0 - https://crontab.guru/every-4-hours
   workflow_call: {}
   workflow_dispatch: {}
 
