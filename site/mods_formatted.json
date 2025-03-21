@@ -914,7 +914,7 @@
             "macos": "https://github.com/dallmeyer/OG-OrbHunt/releases/download/v1.10.9/macos-intel-v1.10.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 145,
+            "windows": 146,
             "linux": 14,
             "macos": 10
           }
@@ -1667,7 +1667,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.4/macos-intel-v0.5.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 28,
+            "windows": 30,
             "linux": 0,
             "macos": 0
           }
@@ -2634,7 +2634,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.7/macos-intel-v0.0.7.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 162,
+            "windows": 163,
             "linux": 10,
             "macos": 6
           }
@@ -3738,7 +3738,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 85,
+            "windows": 86,
             "linux": 3,
             "macos": 0
           }
@@ -4341,5 +4341,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-03-21T08:24:02.840Z"
+  "lastUpdated": "2025-03-21T12:36:54.701Z"
 }
