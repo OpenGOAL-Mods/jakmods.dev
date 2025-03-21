@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Redirecting in 5 seconds...</title>
+    <link rel="stylesheet" href="main_style.css">
+    <style>
+        /* Style for the marquee effect */
+        .marquee {
+            display: inline-block;
+            animation: marquee 2s linear infinite;
+        }
+
+        @keyframes marquee {
+            0% { transform: translateX(100%); }
+            100% { transform: translateX(-100%); }
+        }
+    </style>
+</head>
+<body>
+    <h1>Redirecting to the mod base in <span id="countdown">5</span> seconds...</h1>
+    <div class="marquee">
+        <a href="http://136.0.251.17:25817/">Didn't work? Click here</a>
+    </div>
+
+    <script>
+        // Function to update the countdown timer
+        function updateCountdown() {
+            var countdownElement = document.getElementById("countdown");
+            var countdownValue = parseInt(countdownElement.textContent);
+
+            if (countdownValue > 0) {
+                countdownValue--;
+                countdownElement.textContent = countdownValue;
+            } else {
+                // Redirect to the specified URL after countdown hits zero
+                window.location.href = "http://136.0.251.17:25817/";
+            }
+        }
+
+        // Start the countdown
+        window.onload = function () {
+            setInterval(updateCountdown, 1000); // Update every 1 second (1000ms)
+        };
+    </script>
+</body>
+</html>
