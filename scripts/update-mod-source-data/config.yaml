@@ -457,8 +457,8 @@ mods:
     authors: ["Kuitar", "Hat-Kid"]
     tags: ["custom-level", "gameplay-mod"]
     website_url: "https://github.com/Kuitar5/the-forgotten-lands/blob/main/README.md#the-forgotten-lands"
-    cover_art_url: "https://raw.githubusercontent.com/dallmeyer/the-forgotten-lands/refs/heads/main/mod_background.png"
-    thumbnail_art_url: "https://raw.githubusercontent.com/dallmeyer/the-forgotten-lands/refs/heads/main/mod_thumbnail.png"
+    cover_art_url: "https://raw.githubusercontent.com/Kuitar5/the-forgotten-lands/refs/heads/main/mod_background.png"
+    thumbnail_art_url: "https://raw.githubusercontent.com/Kuitar5/the-forgotten-lands/refs/heads/main/mod_thumbnail.png"
 
   up:
     repo_owner: "dallmeyer"
