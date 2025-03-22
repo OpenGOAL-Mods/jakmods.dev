@@ -706,7 +706,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-SM64/releases/download/v0.2.8/macos-intel-v0.2.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 145,
+            "windows": 146,
             "linux": 10,
             "macos": 4
           }
@@ -3449,6 +3449,28 @@
       ],
       "versions": [
         {
+          "version": "0.0.13",
+          "publishedDate": "2025-03-22T09:21:41Z",
+          "supportedGames": [
+            "jak2",
+            "jak3"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.0.13/windows-v0.0.13.zip",
+            "linux": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.0.13/linux-v0.0.13.tar.gz",
+            "macos": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.0.13/macos-intel-v0.0.13.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
           "version": "0.0.12",
           "publishedDate": "2025-03-20T01:55:37Z",
           "supportedGames": [
@@ -4341,5 +4363,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-03-22T08:23:04.020Z"
+  "lastUpdated": "2025-03-22T09:22:22.418Z"
 }
