@@ -1667,7 +1667,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.4/macos-intel-v0.5.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 44,
+            "windows": 46,
             "linux": 2,
             "macos": 0
           }
@@ -1688,7 +1688,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.3/macos-intel-v0.5.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 131,
+            "windows": 132,
             "linux": 3,
             "macos": 4
           }
@@ -3214,7 +3214,7 @@
             "macos": "https://github.com/EvelynTSMG/JakSpeeb/releases/download/v1.2.0-fools/macos-intel-v1.2.0-fools.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1,
+            "windows": 2,
             "linux": 0,
             "macos": 0
           }
@@ -3465,7 +3465,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.0.13/macos-intel-v0.0.13.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 13,
+            "windows": 14,
             "linux": 0,
             "macos": 0
           }
@@ -3691,7 +3691,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.0/macos-intel-v0.3.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 81,
+            "windows": 96,
             "linux": 2,
             "macos": 1
           }
@@ -3712,7 +3712,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.2.3/macos-intel-v0.1.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 500,
+            "windows": 502,
             "linux": 31,
             "macos": 12
           }
@@ -4039,7 +4039,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 435,
+            "windows": 436,
             "linux": 0,
             "macos": 0
           }
@@ -4384,5 +4384,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-03-23T08:22:19.125Z"
+  "lastUpdated": "2025-03-23T12:35:31.881Z"
 }
