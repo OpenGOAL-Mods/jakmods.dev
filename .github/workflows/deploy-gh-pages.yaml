@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 */4 * * *" # every 4 hours, at minute 0 - https://crontab.guru/every-4-hours
+    - cron: "30 */4 * * *" # every 4 hours, at minute 30 (30m after mod source update) - https://crontab.guru/every-4-hours
   workflow_call: {}
   workflow_dispatch: {}
 
