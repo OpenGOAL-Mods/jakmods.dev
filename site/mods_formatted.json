@@ -2723,7 +2723,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.39/macos-intel-v0.0.39.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 136,
+            "windows": 137,
             "linux": 22,
             "macos": 4
           }
@@ -3448,6 +3448,28 @@
         "jak3"
       ],
       "versions": [
+        {
+          "version": "0.0.15",
+          "publishedDate": "2025-03-25T09:05:13Z",
+          "supportedGames": [
+            "jak2",
+            "jak3"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.0.15/windows-v0.0.15.zip",
+            "linux": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.0.15/linux-v0.0.15.tar.gz",
+            "macos": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.0.15/macos-intel-v0.0.15.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
         {
           "version": "0.0.14",
           "publishedDate": "2025-03-25T07:03:20Z",
@@ -4427,5 +4449,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-03-25T08:25:18.486Z"
+  "lastUpdated": "2025-03-25T09:16:44.697Z"
 }
