@@ -2538,7 +2538,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 328,
+            "windows": 329,
             "linux": 0,
             "macos": 0
           }
@@ -3779,7 +3779,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.2/macos-intel-v0.3.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 27,
+            "windows": 29,
             "linux": 1,
             "macos": 0
           }
@@ -4514,5 +4514,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-03-27T08:17:25.044Z"
+  "lastUpdated": "2025-03-27T08:25:00.994Z"
 }
