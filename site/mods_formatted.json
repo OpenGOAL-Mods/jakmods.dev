@@ -461,7 +461,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/releases/download/v0.2.4/macos-intel-v0.2.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 33,
+            "windows": 34,
             "linux": 1,
             "macos": 2
           }
@@ -3449,6 +3449,28 @@
       ],
       "versions": [
         {
+          "version": "0.0.16",
+          "publishedDate": "2025-03-27T01:49:58Z",
+          "supportedGames": [
+            "jak2",
+            "jak3"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.0.16/windows-v0.0.16.zip",
+            "linux": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.0.16/linux-v0.0.16.tar.gz",
+            "macos": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.0.16/macos-intel-v0.0.16.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
           "version": "0.0.15",
           "publishedDate": "2025-03-25T09:05:13Z",
           "supportedGames": [
@@ -3735,7 +3757,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.2/macos-intel-v0.3.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 3,
+            "windows": 6,
             "linux": 0,
             "macos": 0
           }
@@ -4470,5 +4492,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-03-27T01:26:41.813Z"
+  "lastUpdated": "2025-03-27T01:50:46.754Z"
 }
