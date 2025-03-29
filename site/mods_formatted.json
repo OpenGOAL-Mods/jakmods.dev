@@ -706,7 +706,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-SM64/releases/download/v0.2.8/macos-intel-v0.2.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 151,
+            "windows": 152,
             "linux": 10,
             "macos": 4
           }
@@ -823,7 +823,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Microtransactions/releases/download/v0.2.0/macos-intel-v0.2.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 56,
+            "windows": 57,
             "linux": 5,
             "macos": 4
           }
@@ -3324,7 +3324,7 @@
             "macos": "https://github.com/gratefulforest/Platformia/releases/download/v0.0.1/macos-intel-v0.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 279,
+            "windows": 280,
             "linux": 16,
             "macos": 4
           }
@@ -3369,7 +3369,7 @@
             "macos": "https://github.com/Nick0778/OG-Mod-Base/releases/download/v1.0.0/macos-intel-v1.0.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 134,
+            "windows": 135,
             "linux": 3,
             "macos": 0
           }
@@ -3801,8 +3801,8 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.2/macos-intel-v0.3.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 135,
-            "linux": 8,
+            "windows": 140,
+            "linux": 9,
             "macos": 0
           }
         },
@@ -4323,7 +4323,7 @@
             "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base-Glacier/releases/download/v1.0.7/macos-intel-v1.0.7.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 367,
+            "windows": 369,
             "linux": 23,
             "macos": 8
           }
@@ -4536,5 +4536,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-03-29T01:26:56.494Z"
+  "lastUpdated": "2025-03-29T04:23:58.626Z"
 }
