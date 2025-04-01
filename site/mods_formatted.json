@@ -3806,7 +3806,7 @@
           }
         }
       ],
-      "coverArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Obama/main/thumbnail.png",
+      "coverArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Obama/main/background.png",
       "thumbnailArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Obama/main/thumbnail.png",
       "perGameConfig": {
         "jak1": {
@@ -4603,5 +4603,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-04-01T15:14:29.561Z"
+  "lastUpdated": "2025-04-01T15:16:59.832Z"
 }
