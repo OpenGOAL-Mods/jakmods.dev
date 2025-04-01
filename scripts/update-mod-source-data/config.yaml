@@ -443,6 +443,21 @@ mods:
     cover_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-ILs/refs/heads/main/ils-background.png"
     thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-ILs/refs/heads/main/ils-thumb.png"
 
+ obama:
+    repo_owner: "OpenGOAL-Mods"
+    repo_name: "OG-Obama"
+    url: "https://github.com/OpenGOAL-Mods/OG-Obama"
+    release_date_override: "2025-04-01"
+    ignore_versions:
+      - "<0.0.1"
+    display_name: "Obama: Jak and Daxter"
+    description: "Obama finds himself in a strange new world. Help him escape from Jak and Daxter and return to Michelle!"
+    authors: ["bintendo42", "barg"]
+    tags: ["gameplay-mod"]
+    website_url: "https://jakmods.dev"
+    cover_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Obama/main/thumbnail.png"
+    thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Obama/main/thumbnail.png"
+
   #### CUSTOM LEVEL MODS ####
 
   forgotten-lands:
