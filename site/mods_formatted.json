@@ -1620,7 +1620,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 558,
+            "windows": 559,
             "linux": 0,
             "macos": 0
           }
@@ -1667,7 +1667,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.4/macos-intel-v0.5.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 110,
+            "windows": 112,
             "linux": 2,
             "macos": 0
           }
@@ -3769,6 +3769,52 @@
       },
       "externalLink": null
     },
+    "obama": {
+      "displayName": "Obama: Jak and Daxter",
+      "description": "Obama finds himself in a strange new world. Help him escape from Jak and Daxter and return to Michelle!",
+      "authors": [
+        "bintendo42",
+        "barg"
+      ],
+      "tags": [
+        "gameplay-mod"
+      ],
+      "websiteUrl": "https://jakmods.dev",
+      "supportedGames": [
+        "jak1"
+      ],
+      "versions": [
+        {
+          "version": "0.0.1",
+          "publishedDate": "2025-04-01T03:59:01Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/OpenGOAL-Mods/OG-Obama/releases/download/v0.0.1/windows-v0.0.1.zip",
+            "linux": "https://github.com/OpenGOAL-Mods/OG-Obama/releases/download/v0.0.1/linux-v0.0.1.tar.gz",
+            "macos": "https://github.com/OpenGOAL-Mods/OG-Obama/releases/download/v0.0.1/macos-intel-v0.0.1.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 1,
+            "linux": 0,
+            "macos": 0
+          }
+        }
+      ],
+      "coverArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Obama/main/thumbnail.png",
+      "thumbnailArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Obama/main/thumbnail.png",
+      "perGameConfig": {
+        "jak1": {
+          "releaseDate": "2025-04-01"
+        }
+      },
+      "externalLink": null
+    },
     "forgotten-lands": {
       "displayName": "The Forgotten Lands",
       "description": "Experience a new story and levels. Start a new game and beat Geyser Rock to access the custom levels.",
@@ -3801,7 +3847,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.3/macos-intel-v0.3.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 134,
+            "windows": 135,
             "linux": 9,
             "macos": 0
           }
@@ -4557,5 +4603,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-04-01T12:40:18.920Z"
+  "lastUpdated": "2025-04-01T15:14:29.561Z"
 }
