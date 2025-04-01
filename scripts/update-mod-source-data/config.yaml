@@ -450,7 +450,7 @@ mods:
     release_date_override: "2025-04-01"
     ignore_versions:
       - "<0.0.1"
-    display_name: "Obama: Jak and Daxter"
+    display_name: "Obama Jak and Daxter"
     description: "Obama finds himself in a strange new world. Help him escape from Jak and Daxter and return to Michelle!"
     authors: ["bintendo42", "barg"]
     tags: ["gameplay-mod"]
