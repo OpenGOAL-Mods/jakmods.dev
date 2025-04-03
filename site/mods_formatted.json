@@ -1620,7 +1620,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 566,
+            "windows": 567,
             "linux": 0,
             "macos": 0
           }
@@ -1986,7 +1986,7 @@
             "macos": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.8/macos-intel-v2.1.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 182,
+            "windows": 183,
             "linux": 16,
             "macos": 5
           }
@@ -2538,7 +2538,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Daxter2/releases/download/v1.0.0/macos-intel-v1.0.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 198,
+            "windows": 200,
             "linux": 14,
             "macos": 4
           }
@@ -3486,7 +3486,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.0.18/macos-intel-v0.0.18.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 18,
+            "windows": 19,
             "linux": 0,
             "macos": 0
           }
@@ -3821,7 +3821,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Obama/releases/download/v0.0.1/macos-intel-v0.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 40,
+            "windows": 42,
             "linux": 1,
             "macos": 0
           }
@@ -3868,7 +3868,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.3/macos-intel-v0.3.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 173,
+            "windows": 176,
             "linux": 13,
             "macos": 1
           }
@@ -4021,7 +4021,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 125,
+            "windows": 126,
             "linux": 3,
             "macos": 0
           }
@@ -4624,5 +4624,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-04-03T12:39:40.071Z"
+  "lastUpdated": "2025-04-03T16:23:53.984Z"
 }
