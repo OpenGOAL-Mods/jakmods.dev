@@ -461,7 +461,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/releases/download/v0.2.4/macos-intel-v0.2.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 52,
+            "windows": 53,
             "linux": 2,
             "macos": 2
           }
@@ -1667,7 +1667,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.5/macos-intel-v0.5.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 48,
+            "windows": 50,
             "linux": 0,
             "macos": 0
           }
@@ -2539,7 +2539,7 @@
           },
           "assetDownloadCounts": {
             "windows": 203,
-            "linux": 14,
+            "linux": 15,
             "macos": 4
           }
         },
@@ -3470,6 +3470,28 @@
       ],
       "versions": [
         {
+          "version": "0.0.20",
+          "publishedDate": "2025-04-05T18:54:12Z",
+          "supportedGames": [
+            "jak2",
+            "jak3"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.0.20/windows-v0.0.20.zip",
+            "linux": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.0.20/linux-v0.0.20.tar.gz",
+            "macos": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.0.20/macos-intel-v0.0.20.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
           "version": "0.0.19",
           "publishedDate": "2025-04-03T23:22:50Z",
           "supportedGames": [
@@ -3890,7 +3912,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.3/macos-intel-v0.3.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 207,
+            "windows": 210,
             "linux": 15,
             "macos": 2
           }
@@ -4646,5 +4668,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-04-05T16:21:47.793Z"
+  "lastUpdated": "2025-04-05T19:08:27.319Z"
 }
