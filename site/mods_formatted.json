@@ -636,7 +636,7 @@
           },
           "assetDownloadCounts": {
             "windows": 240,
-            "linux": 18,
+            "linux": 19,
             "macos": 7
           }
         },
@@ -706,7 +706,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-SM64/releases/download/v0.2.8/macos-intel-v0.2.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 154,
+            "windows": 155,
             "linux": 12,
             "macos": 4
           }
@@ -914,7 +914,7 @@
             "macos": "https://github.com/dallmeyer/OG-OrbHunt/releases/download/v1.10.9/macos-intel-v1.10.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 173,
+            "windows": 175,
             "linux": 15,
             "macos": 10
           }
@@ -1409,7 +1409,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Patched/releases/download/v1.1.2/macos-intel-v1.1.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 350,
+            "windows": 352,
             "linux": 22,
             "macos": 2
           }
@@ -1667,7 +1667,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.5/macos-intel-v0.5.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 63,
+            "windows": 64,
             "linux": 0,
             "macos": 0
           }
@@ -2539,7 +2539,7 @@
           },
           "assetDownloadCounts": {
             "windows": 204,
-            "linux": 15,
+            "linux": 16,
             "macos": 4
           }
         },
@@ -2655,7 +2655,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.7/macos-intel-v0.0.7.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 215,
+            "windows": 217,
             "linux": 13,
             "macos": 6
           }
@@ -2744,8 +2744,8 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.39/macos-intel-v0.0.39.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 176,
-            "linux": 25,
+            "windows": 180,
+            "linux": 26,
             "macos": 4
           }
         },
@@ -3390,7 +3390,7 @@
             "macos": "https://github.com/Nick0778/OG-Mod-Base/releases/download/v1.0.0/macos-intel-v1.0.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 155,
+            "windows": 156,
             "linux": 3,
             "macos": 0
           }
@@ -3887,7 +3887,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Obama/releases/download/v0.0.1/macos-intel-v0.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 56,
+            "windows": 57,
             "linux": 2,
             "macos": 0
           }
@@ -3934,8 +3934,8 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.3/macos-intel-v0.3.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 231,
-            "linux": 18,
+            "windows": 242,
+            "linux": 19,
             "macos": 2
           }
         },
@@ -4087,8 +4087,8 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 127,
-            "linux": 6,
+            "windows": 128,
+            "linux": 7,
             "macos": 0
           }
         },
@@ -4345,7 +4345,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 471,
+            "windows": 472,
             "linux": 0,
             "macos": 0
           }
@@ -4567,7 +4567,7 @@
             "macos": "https://github.com/dallmeyer/OG-rayman/releases/download/v0.0.1/macos-intel-v0.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 109,
+            "windows": 110,
             "linux": 9,
             "macos": 6
           }
@@ -4690,5 +4690,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-04-06T20:20:35.767Z"
+  "lastUpdated": "2025-04-07T01:38:04.561Z"
 }
