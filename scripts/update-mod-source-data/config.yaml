@@ -239,8 +239,8 @@ mods:
     per_game_config:
       jak1:
         release_date_override: "2023-01-19"
-        cover_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/main/frickedup2.png"
-        thumbnail_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/main/frickedup2.png"
+        cover_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/main/frickedup1.png"
+        thumbnail_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/main/frickedup1.png"
       jak2:
         release_date_override: "2023-11-09"
         cover_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/main/frickedup2.png"
