@@ -260,7 +260,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Randomizer/releases/download/v0.3.0/macos-intel-v0.3.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 478,
+            "windows": 479,
             "linux": 24,
             "macos": 14
           }
@@ -729,7 +729,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-SM64/releases/download/v0.2.8/macos-intel-v0.2.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 159,
+            "windows": 160,
             "linux": 12,
             "macos": 4
           }
@@ -846,7 +846,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Microtransactions/releases/download/v0.2.0/macos-intel-v0.2.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 72,
+            "windows": 74,
             "linux": 7,
             "macos": 4
           }
@@ -937,7 +937,7 @@
             "macos": "https://github.com/dallmeyer/OG-OrbHunt/releases/download/v1.10.9/macos-intel-v1.10.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 192,
+            "windows": 193,
             "linux": 15,
             "macos": 11
           }
@@ -1643,7 +1643,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 582,
+            "windows": 583,
             "linux": 0,
             "macos": 0
           }
@@ -1690,7 +1690,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.5/macos-intel-v0.5.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 133,
+            "windows": 136,
             "linux": 2,
             "macos": 3
           }
@@ -2561,7 +2561,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Daxter2/releases/download/v1.0.0/macos-intel-v1.0.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 233,
+            "windows": 234,
             "linux": 16,
             "macos": 4
           }
@@ -2678,7 +2678,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.7/macos-intel-v0.0.7.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 242,
+            "windows": 243,
             "linux": 13,
             "macos": 6
           }
@@ -2767,7 +2767,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.39/macos-intel-v0.0.39.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 221,
+            "windows": 223,
             "linux": 28,
             "macos": 4
           }
@@ -3413,7 +3413,7 @@
             "macos": "https://github.com/Nick0778/OG-Mod-Base/releases/download/v1.0.0/macos-intel-v1.0.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 175,
+            "windows": 176,
             "linux": 4,
             "macos": 0
           }
@@ -3957,7 +3957,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.4/macos-intel-v0.3.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 186,
+            "windows": 187,
             "linux": 7,
             "macos": 4
           }
@@ -4131,7 +4131,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 146,
+            "windows": 147,
             "linux": 9,
             "macos": 0
           }
@@ -4734,5 +4734,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-04-16T01:39:39.573Z"
+  "lastUpdated": "2025-04-16T04:23:30.211Z"
 }
