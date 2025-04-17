@@ -1643,7 +1643,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 588,
+            "windows": 589,
             "linux": 0,
             "macos": 0
           }
@@ -1690,7 +1690,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.5/macos-intel-v0.5.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 145,
+            "windows": 146,
             "linux": 2,
             "macos": 3
           }
@@ -2561,7 +2561,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Daxter2/releases/download/v1.0.0/macos-intel-v1.0.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 238,
+            "windows": 239,
             "linux": 16,
             "macos": 5
           }
@@ -2678,7 +2678,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.7/macos-intel-v0.0.7.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 248,
+            "windows": 249,
             "linux": 13,
             "macos": 7
           }
@@ -2767,7 +2767,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.39/macos-intel-v0.0.39.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 231,
+            "windows": 233,
             "linux": 28,
             "macos": 5
           }
@@ -3509,7 +3509,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.0.21/macos-intel-v0.0.21.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 17,
+            "windows": 18,
             "linux": 2,
             "macos": 1
           }
@@ -3942,27 +3942,6 @@
       ],
       "versions": [
         {
-          "version": "0.3.5",
-          "publishedDate": "2025-04-17T21:43:37Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/windows-v0.3.6.zip",
-            "linux": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/linux-v0.3.6.tar.gz",
-            "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.6.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 0,
-            "linux": 0,
-            "macos": 0
-          }
-        },
-        {
           "version": "0.3.4",
           "publishedDate": "2025-04-07T23:01:28Z",
           "supportedGames": [
@@ -3978,7 +3957,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.4/macos-intel-v0.3.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 216,
+            "windows": 218,
             "linux": 8,
             "macos": 12
           }
@@ -4755,5 +4734,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-04-17T22:01:37.668Z"
+  "lastUpdated": "2025-04-17T23:01:31.829Z"
 }
