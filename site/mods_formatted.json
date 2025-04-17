@@ -3265,7 +3265,7 @@
         },
         {
           "version": "1.2.0",
-          "publishedDate": "2025-02-26T12:44:44Z",
+          "publishedDate": "2025-04-17T18:18:10Z",
           "supportedGames": [
             "jak1"
           ],
@@ -3279,9 +3279,9 @@
             "macos": "https://github.com/EvelynTSMG/JakSpeeb/releases/download/v1.2.0/macos-intel-v1.2.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 25,
+            "windows": 0,
             "linux": 0,
-            "macos": 1
+            "macos": 0
           }
         },
         {
@@ -3959,7 +3959,7 @@
           "assetDownloadCounts": {
             "windows": 209,
             "linux": 8,
-            "macos": 9
+            "macos": 10
           }
         },
         {
@@ -4734,5 +4734,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-04-17T18:10:36.511Z"
+  "lastUpdated": "2025-04-17T18:21:43.524Z"
 }
