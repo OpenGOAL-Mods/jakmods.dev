@@ -260,7 +260,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Randomizer/releases/download/v0.3.0/macos-intel-v0.3.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 510,
+            "windows": 512,
             "linux": 25,
             "macos": 14
           }
@@ -2053,7 +2053,7 @@
             "macos": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.8/macos-intel-v2.1.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 220,
+            "windows": 221,
             "linux": 20,
             "macos": 7
           }
@@ -4023,7 +4023,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 272,
+            "windows": 275,
             "linux": 18,
             "macos": 18
           }
@@ -4218,7 +4218,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 182,
+            "windows": 183,
             "linux": 13,
             "macos": 0
           }
@@ -4347,7 +4347,7 @@
             "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base/releases/download/v0.0.7/macos-intel-v0.0.7.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 482,
+            "windows": 483,
             "linux": 34,
             "macos": 4
           }
@@ -4476,7 +4476,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 506,
+            "windows": 507,
             "linux": 0,
             "macos": 0
           }
@@ -4608,7 +4608,7 @@
             "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base-Glacier/releases/download/v1.0.7/macos-intel-v1.0.7.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 456,
+            "windows": 457,
             "linux": 27,
             "macos": 9
           }
@@ -4821,5 +4821,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-05-01T16:25:09.974Z"
+  "lastUpdated": "2025-05-01T20:21:29.926Z"
 }
