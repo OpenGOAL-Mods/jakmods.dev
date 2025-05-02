@@ -262,7 +262,7 @@
           "assetDownloadCounts": {
             "windows": 515,
             "linux": 25,
-            "macos": 14
+            "macos": 15
           }
         },
         {
@@ -846,7 +846,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Microtransactions/releases/download/v0.2.0/macos-intel-v0.2.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 96,
+            "windows": 97,
             "linux": 8,
             "macos": 5
           }
@@ -937,7 +937,7 @@
             "macos": "https://github.com/dallmeyer/OG-OrbHunt/releases/download/v1.10.12/macos-intel-v1.10.12.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 5,
+            "windows": 6,
             "linux": 0,
             "macos": 0
           }
@@ -1476,7 +1476,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Patched/releases/download/v1.1.2/macos-intel-v1.1.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 373,
+            "windows": 374,
             "linux": 27,
             "macos": 2
           }
@@ -1734,7 +1734,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.5/macos-intel-v0.5.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 282,
+            "windows": 284,
             "linux": 7,
             "macos": 3
           }
@@ -3978,7 +3978,7 @@
           "assetDownloadCounts": {
             "windows": 125,
             "linux": 4,
-            "macos": 4
+            "macos": 5
           }
         }
       ],
@@ -4023,7 +4023,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 288,
+            "windows": 290,
             "linux": 19,
             "macos": 18
           }
@@ -4821,5 +4821,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-05-02T12:40:09.013Z"
+  "lastUpdated": "2025-05-02T16:26:17.957Z"
 }
