@@ -405,7 +405,7 @@ mods:
     website_url: "https://github.com/Grateful-Forest/Platformia/blob/main/README.md"
     cover_art_url: "https://raw.githubusercontent.com/Grateful-Forest/Platformia/main/background.png"
     thumbnail_art_url: "https://raw.githubusercontent.com/Grateful-Forest/Platformia/main/cover.png"
-    
+
   defend_port_wall:
     repo_owner: "Nick0778"
     repo_name: "OG-Mod-Base"
@@ -457,7 +457,7 @@ mods:
     website_url: "https://jakmods.dev"
     cover_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Obama/main/background.png"
     thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Obama/main/thumbnail.png"
-    
+
   #### CUSTOM LEVEL MODS ####
 
   forgotten-lands:
@@ -534,7 +534,7 @@ mods:
     website_url: "https://github.com/Cuttlefishthesage/LL-OpenGOAL-ModBase/blob/main/README.md"
     cover_art_url: "https://raw.githubusercontent.com/Cuttlefishthesage/LL-OpenGOAL-ModBase/refs/heads/master/overgrownthumbnail.png"
     thumbnail_art_url: "https://raw.githubusercontent.com/Cuttlefishthesage/LL-OpenGOAL-ModBase/refs/heads/master/overgrownthumbnail.png"
-    
+
   glacier:
     repo_owner: "Cuttlefishthesage"
     repo_name: "OG-Mod-Base-Glacier"
@@ -552,35 +552,35 @@ mods:
 
   #### MODEL REPLACEMENT MODS ####
 
-  its-ogre-now:
-    repo_owner: "OpenGOAL-Mods"
-    repo_name: "OG-Shrek-Adventures"
-    url: "https://github.com/OpenGOAL-Mods/OG-Shrek-Adventures"
-    release_date_override: "2023-04-05"
-    ignore_versions:
-      - "<1.0.57"
-    display_name: "Shrek Adventures"
-    description: "Shrek is life."
-    authors: ["zed"]
-    tags: ["model-replacement"]
-    website_url: "https://github.com/OpenGOAL-Mods/OG-Shrek-Adventures/blob/main/README.md"
-    cover_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Shrek-Adventures/main/shrek.png"
-    thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/ShrekSmall.png"
+  # its-ogre-now:
+  #   repo_owner: "OpenGOAL-Mods"
+  #   repo_name: "OG-Shrek-Adventures"
+  #   url: "https://github.com/OpenGOAL-Mods/OG-Shrek-Adventures"
+  #   release_date_override: "2023-04-05"
+  #   ignore_versions:
+  #     - "<1.0.57"
+  #   display_name: "Shrek Adventures"
+  #   description: "Shrek is life."
+  #   authors: ["zed"]
+  #   tags: ["model-replacement"]
+  #   website_url: "https://github.com/OpenGOAL-Mods/OG-Shrek-Adventures/blob/main/README.md"
+  #   cover_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Shrek-Adventures/main/shrek.png"
+  #   thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/ShrekSmall.png"
 
-  rayman:
-    repo_owner: "dallmeyer"
-    repo_name: "OG-rayman"
-    url: "https://github.com/dallmeyer/OG-rayman"
-    release_date_override: "2024-08-03"
-    ignore_versions:
-      - "<0.0.0"
-    display_name: "Rayman - The Precursor Legacy"
-    description: "Almost Rayman 4"
-    authors: ["Clankape"]
-    tags: ["model-replacement"]
-    website_url: "https://github.com/dallmeyer/OG-rayman/blob/main/README.md"
-    cover_art_url: "https://i.ytimg.com/vi/iVhPEnZxric/hqdefault.jpg"
-    thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/RaymanSmall.png"
+  # rayman:
+  #   repo_owner: "dallmeyer"
+  #   repo_name: "OG-rayman"
+  #   url: "https://github.com/dallmeyer/OG-rayman"
+  #   release_date_override: "2024-08-03"
+  #   ignore_versions:
+  #     - "<0.0.0"
+  #   display_name: "Rayman - The Precursor Legacy"
+  #   description: "Almost Rayman 4"
+  #   authors: ["Clankape"]
+  #   tags: ["model-replacement"]
+  #   website_url: "https://github.com/dallmeyer/OG-rayman/blob/main/README.md"
+  #   cover_art_url: "https://i.ytimg.com/vi/iVhPEnZxric/hqdefault.jpg"
+  #   thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/RaymanSmall.png"
 
   halloween:
     repo_owner: "Clankape"
