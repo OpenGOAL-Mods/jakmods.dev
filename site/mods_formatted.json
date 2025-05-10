@@ -352,7 +352,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-RCO/releases/download/v0.1.5/macos-intel-v0.1.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 0,
+            "windows": 1,
             "linux": 0,
             "macos": 0
           }
@@ -505,7 +505,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/releases/download/v0.2.4/macos-intel-v0.2.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 87,
+            "windows": 88,
             "linux": 8,
             "macos": 2
           }
@@ -1755,7 +1755,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.5/macos-intel-v0.5.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 345,
+            "windows": 346,
             "linux": 10,
             "macos": 3
           }
@@ -2832,7 +2832,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.39/macos-intel-v0.0.39.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 310,
+            "windows": 311,
             "linux": 31,
             "macos": 5
           }
@@ -4044,7 +4044,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 392,
+            "windows": 393,
             "linux": 24,
             "macos": 21
           }
@@ -4497,7 +4497,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 518,
+            "windows": 522,
             "linux": 0,
             "macos": 0
           }
@@ -4518,7 +4518,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 48,
+            "windows": 49,
             "linux": 0,
             "macos": 0
           }
@@ -4842,5 +4842,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-05-10T00:14:57.935Z"
+  "lastUpdated": "2025-05-10T01:37:03.620Z"
 }
