@@ -1042,7 +1042,7 @@
             "macos": "https://github.com/dallmeyer/OG-OrbHunt/releases/download/v1.10.12/macos-intel-v1.10.12.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 33,
+            "windows": 34,
             "linux": 0,
             "macos": 4
           }
@@ -1856,7 +1856,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 636,
+            "windows": 637,
             "linux": 0,
             "macos": 0
           }
@@ -1903,7 +1903,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.5/macos-intel-v0.5.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 384,
+            "windows": 386,
             "linux": 10,
             "macos": 3
           }
@@ -3647,7 +3647,7 @@
             "macos": "https://github.com/Nick0778/OG-Mod-Base/releases/download/v1.0.0/macos-intel-v1.0.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 222,
+            "windows": 224,
             "linux": 4,
             "macos": 0
           }
@@ -4213,7 +4213,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 442,
+            "windows": 443,
             "linux": 25,
             "macos": 21
           }
@@ -5026,5 +5026,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-05-14T01:42:25.477Z"
+  "lastUpdated": "2025-05-14T04:25:41.708Z"
 }
