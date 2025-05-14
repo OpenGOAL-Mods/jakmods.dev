@@ -408,16 +408,16 @@ mods:
 
   defend_port_wall:
     repo_owner: "Nick0778"
-    repo_name: "OG-Mod-Base"
-    url: "https://github.com/Nick0778/OG-Mod-Base"
+    repo_name: "OG-Jak2-Defend-The-Portwall"
+    url: "https://github.com/Nick0778/OG-Jak2-Defend-The-Portwall"
     release_date_override: "2025-02-25"
     display_name: "Defend the Port Wall"
-    description: "Play the cut mission 'Defend the Port Wall'. Special install instructions: https://github.com/Nick0778/OG-Mod-Base/blob/main/README.md"
+    description: "Play the cut mission 'Defend the Port Wall'. Special install instructions: https://github.com/Nick0778/OG-Jak2-Defend-The-Portwall/blob/main/README.md"
     authors: ["Nick07"]
     tags: ["gameplay-mod"]
-    website_url: "https://github.com/Nick0778/OG-Mod-Base/blob/main/README.md"
-    cover_art_url: "https://raw.githubusercontent.com/Nick0778/OG-Mod-Base/refs/heads/main/ModArt_BG.png"
-    thumbnail_art_url: "https://raw.githubusercontent.com/Nick0778/OG-Mod-Base/refs/heads/main/ModArt_Cover.png"
+    website_url: "https://github.com/Nick0778/OG-Jak2-Defend-The-Portwall/blob/main/README.md"
+    cover_art_url: "https://raw.githubusercontent.com/Nick0778/OG-Jak2-Defend-The-Portwall/refs/heads/main/ModArt_BG.png"
+    thumbnail_art_url: "https://raw.githubusercontent.com/Nick0778/OG-Jak2-Defend-The-Portwall/refs/heads/main/ModArt_Cover.png"
 
   accurate-unlockables:
     repo_owner: "OpenGOAL-Mods"
