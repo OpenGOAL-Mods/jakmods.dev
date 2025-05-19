@@ -219,80 +219,93 @@ for (const [modName, modInfo] of Object.entries(configFile["mods"])) {
                 }
             }
             if (metadataFileUrl !== null) {
-                const metadataResp = await fetch(metadataFileUrl);
-                if (metadataResp.status === 200) {
-                    try {
-                        const data = JSON.parse(await metadataResp.text());
-                        if (Object.keys(data).includes("settings")) {
-                            newVersion.settings = data.settings;
-                        }
-                        if (!Object.keys(data).includes("supportedGames")) {
-                            console.warn(`ignoring version - metadata.json, for version: ${modName}:${cleaned_release_tag} does not include 'supportedGames'`);
+                let attempts = 0, maxAttempts = 3;
+                while (attempts < maxAttempts) {
+                    const metadataResp = await fetch(metadataFileUrl);
+                    if (metadataResp.status === 200) {
+                        try {
+                            const data = JSON.parse(await metadataResp.text());
+                            if (Object.keys(data).includes("settings")) {
+                                newVersion.settings = data.settings;
+                            }
+                            if (!Object.keys(data).includes("supportedGames")) {
+                                console.warn(`ignoring version - metadata.json, for version: ${modName}:${cleaned_release_tag} does not include 'supportedGames'`);
+                                continue;
+                            } else {
+                                newVersion.supportedGames = data.supportedGames;
+    
+                                // temporary for backwards compatibility
+                                for (const supportedGame of newVersion.supportedGames) {
+                                    if (!modSourceInfo.supportedGames.includes(supportedGame)) {
+                                        modSourceInfo.supportedGames.push(supportedGame);
+                                    }
+                                }
+    
+                                // now we know what games are supported, we can check if we need to update per-game release date info
+                                for (const supportedGame of newVersion.supportedGames) {
+                                    if (!Object.keys(modSourceInfo.perGameConfig).includes(supportedGame)) {
+                                        modSourceInfo.perGameConfig[supportedGame] = {};
+                                    }
+    
+                                    if (Object.keys(modInfo).includes("release_date_override")) {
+                                        // top-level release date override
+                                        modSourceInfo.perGameConfig[supportedGame].releaseDate = modInfo["release_date_override"];
+                                    } else if (Object.keys(modInfo).includes("per_game_config") && Object.keys(modInfo["per_game_config"]).includes(supportedGame) && Object.keys(modInfo["per_game_config"][supportedGame]).includes("release_date_override")) {
+                                        // per-game release date override
+                                        modSourceInfo.perGameConfig[supportedGame].releaseDate = modInfo["per_game_config"][supportedGame]["release_date_override"];
+                                    } else {
+                                        // no override -> check if this is the first release we've seem for this game, or earlier than other releases;
+                                        if (!Object.keys(modSourceInfo.perGameConfig[supportedGame]).includes("releaseDate") || Date.parse(modSourceInfo.perGameConfig[supportedGame].releaseDate) > Date.parse(newVersion.publishedDate)) {
+                                            modSourceInfo.perGameConfig[supportedGame].releaseDate = newVersion.publishedDate;
+                                        }
+                                    }
+                                }
+    
+                                // verify art for all supported games (could be shared across all games, or specified per-game)
+                                if (modSourceInfo.coverArtUrl === undefined) {
+                                    if (!Object.keys(modInfo).includes("per_game_config")) {
+                                        exitWithError(`${modName} does not define 'cover_art_url' but lacks 'per_game_config'`)
+                                    }
+                                    // Check per game config
+                                    if (!lintMode) {
+                                        for (const supportedGame of newVersion.supportedGames) {
+                                            if (!Object.keys(modSourceInfo.perGameConfig).includes(supportedGame) || !Object.keys(modSourceInfo.perGameConfig[supportedGame]).includes("coverArtUrl")) {
+                                                exitWithError(`${modName} does not define 'cover_art_url' and it's missing in 'per_game_config.${supportedGame}'`);
+                                            }
+                                        }
+                                    }
+                                }
+                                if (modSourceInfo.thumbnailArtUrl === undefined) {
+                                    if (!Object.keys(modInfo).includes("per_game_config")) {
+                                        exitWithError(`${modName} does not define 'thumbnail_art_url' but lacks 'per_game_config'`)
+                                    }
+                                    // Check per game config
+                                    if (!lintMode) {
+                                        for (const supportedGame of newVersion.supportedGames) {
+                                            if (!Object.keys(modSourceInfo.perGameConfig).includes(supportedGame) || !Object.keys(modSourceInfo.perGameConfig[supportedGame]).includes("thumbnailArtUrl")) {
+                                                exitWithError(`${modName} does not define 'thumbnail_art_url' and it's missing in 'per_game_config.${supportedGame}'`);
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+
+                            // if we make it here we were successful, no need for more attempts
+                            break;
+                        } catch (e) {
+                            console.warn(`ignoring version - bad metadata.json, not valid JSON: ${e} -- ${modName}:${cleaned_release_tag}`);
                             continue;
-                        } else {
-                            newVersion.supportedGames = data.supportedGames;
-
-                            // temporary for backwards compatibility
-                            for (const supportedGame of newVersion.supportedGames) {
-                                if (!modSourceInfo.supportedGames.includes(supportedGame)) {
-                                    modSourceInfo.supportedGames.push(supportedGame);
-                                }
-                            }
-
-                            // now we know what games are supported, we can check if we need to update per-game release date info
-                            for (const supportedGame of newVersion.supportedGames) {
-                                if (!Object.keys(modSourceInfo.perGameConfig).includes(supportedGame)) {
-                                    modSourceInfo.perGameConfig[supportedGame] = {};
-                                }
-
-                                if (Object.keys(modInfo).includes("release_date_override")) {
-                                    // top-level release date override
-                                    modSourceInfo.perGameConfig[supportedGame].releaseDate = modInfo["release_date_override"];
-                                } else if (Object.keys(modInfo).includes("per_game_config") && Object.keys(modInfo["per_game_config"]).includes(supportedGame) && Object.keys(modInfo["per_game_config"][supportedGame]).includes("release_date_override")) {
-                                    // per-game release date override
-                                    modSourceInfo.perGameConfig[supportedGame].releaseDate = modInfo["per_game_config"][supportedGame]["release_date_override"];
-                                } else {
-                                    // no override -> check if this is the first release we've seem for this game, or earlier than other releases;
-                                    if (!Object.keys(modSourceInfo.perGameConfig[supportedGame]).includes("releaseDate") || Date.parse(modSourceInfo.perGameConfig[supportedGame].releaseDate) > Date.parse(newVersion.publishedDate)) {
-                                        modSourceInfo.perGameConfig[supportedGame].releaseDate = newVersion.publishedDate;
-                                    }
-                                }
-                            }
-
-                            // verify art for all supported games (could be shared across all games, or specified per-game)
-                            if (modSourceInfo.coverArtUrl === undefined) {
-                                if (!Object.keys(modInfo).includes("per_game_config")) {
-                                    exitWithError(`${modName} does not define 'cover_art_url' but lacks 'per_game_config'`)
-                                }
-                                // Check per game config
-                                if (!lintMode) {
-                                    for (const supportedGame of newVersion.supportedGames) {
-                                        if (!Object.keys(modSourceInfo.perGameConfig).includes(supportedGame) || !Object.keys(modSourceInfo.perGameConfig[supportedGame]).includes("coverArtUrl")) {
-                                            exitWithError(`${modName} does not define 'cover_art_url' and it's missing in 'per_game_config.${supportedGame}'`);
-                                        }
-                                    }
-                                }
-                            }
-                            if (modSourceInfo.thumbnailArtUrl === undefined) {
-                                if (!Object.keys(modInfo).includes("per_game_config")) {
-                                    exitWithError(`${modName} does not define 'thumbnail_art_url' but lacks 'per_game_config'`)
-                                }
-                                // Check per game config
-                                if (!lintMode) {
-                                    for (const supportedGame of newVersion.supportedGames) {
-                                        if (!Object.keys(modSourceInfo.perGameConfig).includes(supportedGame) || !Object.keys(modSourceInfo.perGameConfig[supportedGame]).includes("thumbnailArtUrl")) {
-                                            exitWithError(`${modName} does not define 'thumbnail_art_url' and it's missing in 'per_game_config.${supportedGame}'`);
-                                        }
-                                    }
-                                }
-                            }
                         }
-                    } catch (e) {
-                        console.warn(`ignoring version - bad metadata.json, not valid JSON: ${e} -- ${modName}:${cleaned_release_tag}`);
-                        continue;
+                    } else {
+                        attempts++;
+                        if (attempts >= maxAttempts) {
+                            // give up, fail the action
+                            exitWithError(`(Attempt ${attempts}) Hit non-200 status code when fetching metadata file for mod release version ${modName}:${cleaned_release_tag}`);
+                        } else {
+                            // log warning but retry
+                            console.warn(`(Attempt ${attempts}) Hit non-200 status code when fetching metadatafile for mod release version ${modName}:${cleaned_release_tag}`);
+                        }
                     }
-                } else {
-                    exitWithError(`Hit non-200 status code when fetching metadata file for mod release version ${modName}:${cleaned_release_tag}`);
                 }
             } else {
                 console.warn(`ignoring version - no 'metadata.json' asset found - ${modName}:${cleaned_release_tag}`);
