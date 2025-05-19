@@ -306,7 +306,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Randomizer/releases/download/v0.3.2/macos-intel-v0.3.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 34,
+            "windows": 35,
             "linux": 3,
             "macos": 0
           }
@@ -2268,7 +2268,7 @@
             "macos": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.9/macos-intel-v2.1.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 23,
+            "windows": 24,
             "linux": 2,
             "macos": 0
           }
@@ -4260,7 +4260,7 @@
           },
           "assetDownloadCounts": {
             "windows": 493,
-            "linux": 27,
+            "linux": 28,
             "macos": 25
           }
         },
@@ -4775,7 +4775,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 536,
+            "windows": 537,
             "linux": 0,
             "macos": 0
           }
@@ -5072,5 +5072,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-05-19T16:26:33.087Z"
+  "lastUpdated": "2025-05-19T17:40:51.605Z"
 }
