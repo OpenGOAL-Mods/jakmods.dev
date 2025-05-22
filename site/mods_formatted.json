@@ -22,6 +22,29 @@
       ],
       "versions": [
         {
+          "version": "0.4.0",
+          "publishedDate": "2025-05-22T00:48:57Z",
+          "supportedGames": [
+            "jak1",
+            "jak2",
+            "jak3"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/OpenGOAL-Mods/OG-Speedrun-Practice/releases/download/v0.4.0/windows-v0.4.0.zip",
+            "linux": "https://github.com/OpenGOAL-Mods/OG-Speedrun-Practice/releases/download/v0.4.0/linux-v0.4.0.tar.gz",
+            "macos": "https://github.com/OpenGOAL-Mods/OG-Speedrun-Practice/releases/download/v0.4.0/macos-intel-v0.4.0.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
           "version": "0.3.12",
           "publishedDate": "2025-05-17T22:24:58Z",
           "supportedGames": [
@@ -306,7 +329,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Randomizer/releases/download/v0.3.2/macos-intel-v0.3.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 41,
+            "windows": 42,
             "linux": 3,
             "macos": 0
           }
@@ -1088,7 +1111,7 @@
             "macos": "https://github.com/dallmeyer/OG-OrbHunt/releases/download/v1.10.12/macos-intel-v1.10.12.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 47,
+            "windows": 48,
             "linux": 1,
             "macos": 4
           }
@@ -2841,7 +2864,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Daxter2/releases/download/v1.0.0/macos-intel-v1.0.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 308,
+            "windows": 309,
             "linux": 20,
             "macos": 6
           }
@@ -5072,5 +5095,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-05-21T20:22:08.512Z"
+  "lastUpdated": "2025-05-22T00:50:53.940Z"
 }
