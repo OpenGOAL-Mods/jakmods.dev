@@ -39,7 +39,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Speedrun-Practice/releases/download/v0.4.0/macos-intel-v0.4.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 0,
+            "windows": 1,
             "linux": 0,
             "macos": 0
           }
@@ -2935,7 +2935,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Jak2-AugustBuild/releases/download/v0.1.0/macos-intel-v0.1.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 191,
+            "windows": 192,
             "linux": 16,
             "macos": 3
           }
@@ -3070,7 +3070,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.39/macos-intel-v0.0.39.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 353,
+            "windows": 354,
             "linux": 32,
             "macos": 5
           }
@@ -3716,7 +3716,7 @@
             "macos": "https://github.com/Nick0778/OG-Jak2-Defend-The-Portwall/releases/download/v1.0.0/macos-intel-v1.0.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 235,
+            "windows": 236,
             "linux": 5,
             "macos": 0
           }
@@ -4235,7 +4235,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Obama/releases/download/v0.0.1/macos-intel-v0.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 157,
+            "windows": 158,
             "linux": 5,
             "macos": 5
           }
@@ -4477,7 +4477,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 26,
+            "windows": 27,
             "linux": 2,
             "macos": 0
           }
@@ -5095,5 +5095,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-05-22T00:50:53.940Z"
+  "lastUpdated": "2025-05-22T01:42:36.406Z"
 }
