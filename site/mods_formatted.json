@@ -1064,7 +1064,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Microtransactions/releases/download/v0.2.5/macos-intel-v0.2.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 13,
+            "windows": 14,
             "linux": 0,
             "macos": 1
           }
@@ -1716,7 +1716,7 @@
           },
           "assetDownloadCounts": {
             "windows": 29,
-            "linux": 5,
+            "linux": 6,
             "macos": 0
           }
         },
@@ -2037,7 +2037,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.5/macos-intel-v0.5.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 452,
+            "windows": 455,
             "linux": 13,
             "macos": 3
           }
@@ -3047,7 +3047,7 @@
           },
           "assetDownloadCounts": {
             "windows": 365,
-            "linux": 18,
+            "linux": 19,
             "macos": 7
           }
         },
@@ -3135,7 +3135,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.39/macos-intel-v0.0.39.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 360,
+            "windows": 361,
             "linux": 34,
             "macos": 5
           }
@@ -4300,7 +4300,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Obama/releases/download/v0.0.1/macos-intel-v0.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 162,
+            "windows": 164,
             "linux": 5,
             "macos": 5
           }
@@ -4347,7 +4347,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 533,
+            "windows": 536,
             "linux": 32,
             "macos": 25
           }
@@ -4692,7 +4692,7 @@
             "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base/releases/download/v0.0.8-afoniddwr.2/macos-intel-v0.0.8-afoniddwr.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 20,
+            "windows": 21,
             "linux": 2,
             "macos": 0
           }
@@ -4863,7 +4863,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 545,
+            "windows": 546,
             "linux": 0,
             "macos": 0
           }
@@ -5160,5 +5160,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-05-24T16:23:07.626Z"
+  "lastUpdated": "2025-05-24T20:21:39.269Z"
 }
