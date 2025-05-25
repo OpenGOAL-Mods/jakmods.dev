@@ -352,7 +352,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Randomizer/releases/download/v0.4.1/macos-intel-v0.4.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 26,
+            "windows": 27,
             "linux": 0,
             "macos": 1
           }
@@ -639,7 +639,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/releases/download/v0.2.5-mergetime1127.1/macos-intel-v0.2.5-mergetime1127.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 18,
+            "windows": 19,
             "linux": 0,
             "macos": 0
           }
@@ -2037,7 +2037,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.5/macos-intel-v0.5.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 457,
+            "windows": 459,
             "linux": 13,
             "macos": 3
           }
@@ -3046,7 +3046,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.7/macos-intel-v0.0.7.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 366,
+            "windows": 368,
             "linux": 19,
             "macos": 7
           }
@@ -3135,7 +3135,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.39/macos-intel-v0.0.39.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 361,
+            "windows": 362,
             "linux": 34,
             "macos": 5
           }
@@ -4347,8 +4347,8 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 538,
-            "linux": 32,
+            "windows": 540,
+            "linux": 33,
             "macos": 25
           }
         },
@@ -5160,5 +5160,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-05-25T04:26:57.821Z"
+  "lastUpdated": "2025-05-25T08:25:10.745Z"
 }
