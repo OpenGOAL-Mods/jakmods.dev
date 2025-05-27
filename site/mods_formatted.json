@@ -22,6 +22,29 @@
       ],
       "versions": [
         {
+          "version": "0.4.2",
+          "publishedDate": "2025-05-27T02:39:49Z",
+          "supportedGames": [
+            "jak1",
+            "jak2",
+            "jak3"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/OpenGOAL-Mods/OG-Speedrun-Practice/releases/download/v0.4.2/windows-v0.4.2.zip",
+            "linux": "https://github.com/OpenGOAL-Mods/OG-Speedrun-Practice/releases/download/v0.4.2/linux-v0.4.2.tar.gz",
+            "macos": "https://github.com/OpenGOAL-Mods/OG-Speedrun-Practice/releases/download/v0.4.2/macos-intel-v0.4.2.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
           "version": "0.4.1",
           "publishedDate": "2025-05-23T22:59:11Z",
           "supportedGames": [
@@ -2037,7 +2060,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.5/macos-intel-v0.5.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 476,
+            "windows": 478,
             "linux": 13,
             "macos": 3
           }
@@ -2929,7 +2952,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Daxter2/releases/download/v1.0.0/macos-intel-v1.0.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 323,
+            "windows": 324,
             "linux": 21,
             "macos": 6
           }
@@ -5160,5 +5183,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-05-27T01:41:15.227Z"
+  "lastUpdated": "2025-05-27T03:25:41.030Z"
 }
