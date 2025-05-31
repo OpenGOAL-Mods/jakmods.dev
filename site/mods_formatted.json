@@ -39,7 +39,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Speedrun-Practice/releases/download/v0.4.2/macos-intel-v0.4.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 24,
+            "windows": 25,
             "linux": 0,
             "macos": 0
           }
@@ -530,7 +530,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-RCO/releases/download/v0.1.5/macos-intel-v0.1.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 20,
+            "windows": 21,
             "linux": 0,
             "macos": 0
           }
@@ -970,7 +970,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-SM64/releases/download/v0.2.8/macos-intel-v0.2.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 209,
+            "windows": 210,
             "linux": 13,
             "macos": 4
           }
@@ -3158,7 +3158,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.39/macos-intel-v0.0.39.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 383,
+            "windows": 384,
             "linux": 34,
             "macos": 5
           }
@@ -4370,8 +4370,8 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 587,
-            "linux": 34,
+            "windows": 589,
+            "linux": 35,
             "macos": 25
           }
         },
@@ -4391,7 +4391,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.4/macos-intel-v0.3.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 230,
+            "windows": 231,
             "linux": 8,
             "macos": 16
           }
@@ -5183,5 +5183,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-05-31T12:37:34.433Z"
+  "lastUpdated": "2025-05-31T16:23:34.819Z"
 }
