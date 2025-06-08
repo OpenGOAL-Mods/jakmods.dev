@@ -375,7 +375,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Randomizer/releases/download/v0.4.3/macos-intel-v0.4.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 16,
+            "windows": 18,
             "linux": 1,
             "macos": 0
           }
@@ -899,7 +899,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Zoomer-Legacy/releases/download/v0.1.4/macos-intel-v0.1.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 30,
+            "windows": 31,
             "linux": 1,
             "macos": 0
           }
@@ -1221,7 +1221,7 @@
           },
           "assetDownloadCounts": {
             "windows": 17,
-            "linux": 0,
+            "linux": 1,
             "macos": 0
           }
         },
@@ -2103,7 +2103,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.5/macos-intel-v0.5.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 560,
+            "windows": 562,
             "linux": 13,
             "macos": 4
           }
@@ -3201,7 +3201,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.39/macos-intel-v0.0.39.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 412,
+            "windows": 413,
             "linux": 35,
             "macos": 5
           }
@@ -4434,7 +4434,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 700,
+            "windows": 704,
             "linux": 42,
             "macos": 28
           }
@@ -5016,7 +5016,7 @@
             "macos": "https://github.com/Cuttlefishthesage/LL-OpenGOAL-ModBase/releases/download/v4.3.4/macos-intel-v4.3.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 656,
+            "windows": 657,
             "linux": 58,
             "macos": 9
           }
@@ -5083,7 +5083,7 @@
           },
           "assetDownloadCounts": {
             "windows": 71,
-            "linux": 6,
+            "linux": 7,
             "macos": 5
           }
         },
@@ -5247,5 +5247,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-06-07T20:20:45.017Z"
+  "lastUpdated": "2025-06-08T01:51:47.155Z"
 }
