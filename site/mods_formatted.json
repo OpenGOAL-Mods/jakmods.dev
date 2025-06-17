@@ -1870,7 +1870,7 @@
             "macos": "https://github.com/Hat-Kid/og-orange-demon/releases/download/v0.0.3/macos-intel-v0.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 26,
+            "windows": 27,
             "linux": 3,
             "macos": 2
           }
@@ -2103,7 +2103,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.5/macos-intel-v0.5.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 622,
+            "windows": 623,
             "linux": 15,
             "macos": 5
           }
@@ -2188,7 +2188,7 @@
           },
           "assetDownloadCounts": {
             "windows": 109,
-            "linux": 3,
+            "linux": 4,
             "macos": 3
           }
         },
@@ -3201,7 +3201,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.39/macos-intel-v0.0.39.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 439,
+            "windows": 440,
             "linux": 39,
             "macos": 6
           }
@@ -4387,7 +4387,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Obama/releases/download/v0.0.1/macos-intel-v0.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 205,
+            "windows": 206,
             "linux": 11,
             "macos": 6
           }
@@ -4434,7 +4434,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 847,
+            "windows": 848,
             "linux": 53,
             "macos": 33
           }
@@ -4477,7 +4477,7 @@
           },
           "assetDownloadCounts": {
             "windows": 263,
-            "linux": 23,
+            "linux": 24,
             "macos": 5
           }
         },
@@ -5247,5 +5247,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-06-17T12:43:20.385Z"
+  "lastUpdated": "2025-06-17T16:28:06.994Z"
 }
