@@ -3222,7 +3222,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.39/macos-intel-v0.0.39.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 444,
+            "windows": 445,
             "linux": 39,
             "macos": 6
           }
@@ -5268,5 +5268,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-06-19T04:30:14.646Z"
+  "lastUpdated": "2025-06-19T08:28:19.894Z"
 }
