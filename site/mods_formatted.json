@@ -2124,7 +2124,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.5/macos-intel-v0.5.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 652,
+            "windows": 653,
             "linux": 19,
             "macos": 5
           }
@@ -3133,7 +3133,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.7/macos-intel-v0.0.7.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 465,
+            "windows": 466,
             "linux": 27,
             "macos": 8
           }
@@ -3222,7 +3222,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.39/macos-intel-v0.0.39.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 453,
+            "windows": 454,
             "linux": 40,
             "macos": 6
           }
@@ -3604,7 +3604,7 @@
           },
           "assetDownloadCounts": {
             "windows": 44,
-            "linux": 6,
+            "linux": 7,
             "macos": 2
           }
         },
@@ -4455,7 +4455,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 929,
+            "windows": 930,
             "linux": 58,
             "macos": 33
           }
@@ -5268,5 +5268,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-06-23T01:51:28.377Z"
+  "lastUpdated": "2025-06-23T04:36:10.181Z"
 }
