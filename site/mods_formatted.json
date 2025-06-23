@@ -1241,7 +1241,7 @@
             "macos": "https://github.com/dallmeyer/OG-OrbHunt/releases/download/v1.10.13/macos-intel-v1.10.13.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 43,
+            "windows": 44,
             "linux": 3,
             "macos": 2
           }
@@ -5268,5 +5268,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-06-23T12:44:24.280Z"
+  "lastUpdated": "2025-06-23T16:27:43.511Z"
 }
