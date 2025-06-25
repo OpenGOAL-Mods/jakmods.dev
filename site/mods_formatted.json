@@ -1712,7 +1712,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Bugged/releases/download/v0.2.1/macos-intel-v0.2.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 161,
+            "windows": 163,
             "linux": 14,
             "macos": 10
           }
@@ -2077,7 +2077,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 711,
+            "windows": 712,
             "linux": 0,
             "macos": 0
           }
@@ -2124,7 +2124,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.5/macos-intel-v0.5.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 668,
+            "windows": 670,
             "linux": 19,
             "macos": 5
           }
@@ -3016,7 +3016,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Daxter2/releases/download/v1.0.0/macos-intel-v1.0.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 373,
+            "windows": 375,
             "linux": 25,
             "macos": 7
           }
@@ -4455,7 +4455,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 955,
+            "windows": 958,
             "linux": 60,
             "macos": 33
           }
@@ -4602,7 +4602,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.2.2/macos-intel-v0.1.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 28,
+            "windows": 29,
             "linux": 1,
             "macos": 2
           }
@@ -4971,7 +4971,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 588,
+            "windows": 589,
             "linux": 0,
             "macos": 0
           }
@@ -5037,7 +5037,7 @@
             "macos": "https://github.com/Cuttlefishthesage/LL-OpenGOAL-ModBase/releases/download/v4.3.4/macos-intel-v4.3.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 688,
+            "windows": 689,
             "linux": 64,
             "macos": 10
           }
@@ -5268,5 +5268,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-06-25T12:44:57.125Z"
+  "lastUpdated": "2025-06-25T16:28:05.273Z"
 }
