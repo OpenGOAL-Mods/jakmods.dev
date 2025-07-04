@@ -375,7 +375,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Randomizer/releases/download/v0.4.7/macos-intel-v0.4.7.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 8,
+            "windows": 9,
             "linux": 0,
             "macos": 0
           }
@@ -1823,8 +1823,8 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Patched/releases/download/v1.1.3/macos-intel-v1.1.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 82,
-            "linux": 14,
+            "windows": 85,
+            "linux": 16,
             "macos": 2
           }
         },
@@ -2145,7 +2145,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.5/macos-intel-v0.5.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 736,
+            "windows": 738,
             "linux": 22,
             "macos": 5
           }
@@ -2465,7 +2465,7 @@
           },
           "assetDownloadCounts": {
             "windows": 91,
-            "linux": 9,
+            "linux": 10,
             "macos": 3
           }
         },
@@ -3154,7 +3154,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.7/macos-intel-v0.0.7.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 502,
+            "windows": 503,
             "linux": 29,
             "macos": 8
           }
@@ -3243,7 +3243,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.51/macos-intel-v0.0.51.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 30,
+            "windows": 32,
             "linux": 3,
             "macos": 0
           }
@@ -4450,7 +4450,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Obama/releases/download/v0.0.1/macos-intel-v0.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 236,
+            "windows": 237,
             "linux": 12,
             "macos": 6
           }
@@ -4497,8 +4497,8 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1054,
-            "linux": 66,
+            "windows": 1057,
+            "linux": 68,
             "macos": 36
           }
         },
@@ -4519,7 +4519,7 @@
           },
           "assetDownloadCounts": {
             "windows": 235,
-            "linux": 9,
+            "linux": 10,
             "macos": 22
           }
         },
@@ -5310,5 +5310,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-07-04T16:27:08.630Z"
+  "lastUpdated": "2025-07-04T20:23:40.707Z"
 }
