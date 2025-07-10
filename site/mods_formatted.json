@@ -1733,7 +1733,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Bugged/releases/download/v0.2.1/macos-intel-v0.2.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 172,
+            "windows": 173,
             "linux": 14,
             "macos": 10
           }
@@ -2098,7 +2098,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 733,
+            "windows": 734,
             "linux": 0,
             "macos": 0
           }
@@ -2145,7 +2145,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.5/macos-intel-v0.5.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 788,
+            "windows": 789,
             "linux": 26,
             "macos": 5
           }
@@ -2377,7 +2377,7 @@
           },
           "assetDownloadCounts": {
             "windows": 40,
-            "linux": 6,
+            "linux": 7,
             "macos": 5
           }
         },
@@ -3154,7 +3154,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.7/macos-intel-v0.0.7.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 525,
+            "windows": 527,
             "linux": 31,
             "macos": 8
           }
@@ -4205,7 +4205,7 @@
           "assetDownloadCounts": {
             "windows": 5,
             "linux": 2,
-            "macos": 1
+            "macos": 2
           }
         },
         {
@@ -4497,7 +4497,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1114,
+            "windows": 1115,
             "linux": 71,
             "macos": 37
           }
@@ -5013,7 +5013,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 614,
+            "windows": 615,
             "linux": 0,
             "macos": 0
           }
@@ -5310,5 +5310,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-07-10T12:44:36.355Z"
+  "lastUpdated": "2025-07-10T16:29:12.313Z"
 }
