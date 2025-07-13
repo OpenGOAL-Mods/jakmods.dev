@@ -22,6 +22,29 @@
       ],
       "versions": [
         {
+          "version": "0.4.3",
+          "publishedDate": "2025-07-13T20:27:38Z",
+          "supportedGames": [
+            "jak1",
+            "jak2",
+            "jak3"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/OpenGOAL-Mods/OG-Speedrun-Practice/releases/download/v0.4.3/windows-v0.4.3.zip",
+            "linux": "https://github.com/OpenGOAL-Mods/OG-Speedrun-Practice/releases/download/v0.4.3/linux-v0.4.3.tar.gz",
+            "macos": "https://github.com/OpenGOAL-Mods/OG-Speedrun-Practice/releases/download/v0.4.3/macos-intel-v0.4.3.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
           "version": "0.4.2",
           "publishedDate": "2025-05-27T02:39:49Z",
           "supportedGames": [
@@ -5331,5 +5354,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-07-13T20:22:16.661Z"
+  "lastUpdated": "2025-07-13T20:29:56.894Z"
 }
