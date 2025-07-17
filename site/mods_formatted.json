@@ -3352,7 +3352,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.51/macos-intel-v0.0.51.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 73,
+            "windows": 75,
             "linux": 5,
             "macos": 0
           }
@@ -5419,5 +5419,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-07-17T04:38:36.048Z"
+  "lastUpdated": "2025-07-17T08:29:59.657Z"
 }
