@@ -444,7 +444,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Randomizer/releases/download/v0.6.1/macos-intel-v0.6.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 66,
+            "windows": 67,
             "linux": 7,
             "macos": 1
           }
@@ -858,7 +858,7 @@
           },
           "assetDownloadCounts": {
             "windows": 93,
-            "linux": 3,
+            "linux": 4,
             "macos": 1
           }
         },
@@ -1166,7 +1166,7 @@
           },
           "assetDownloadCounts": {
             "windows": 256,
-            "linux": 16,
+            "linux": 17,
             "macos": 5
           }
         },
@@ -1956,7 +1956,7 @@
           },
           "assetDownloadCounts": {
             "windows": 128,
-            "linux": 17,
+            "linux": 18,
             "macos": 4
           }
         },
@@ -2277,7 +2277,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.7/macos-intel-v0.5.7.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 6,
+            "windows": 10,
             "linux": 1,
             "macos": 1
           }
@@ -4061,7 +4061,7 @@
           },
           "assetDownloadCounts": {
             "windows": 364,
-            "linux": 24,
+            "linux": 25,
             "macos": 6
           }
         }
@@ -4672,7 +4672,7 @@
           },
           "assetDownloadCounts": {
             "windows": 1326,
-            "linux": 83,
+            "linux": 84,
             "macos": 39
           }
         },
@@ -4692,7 +4692,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.4/macos-intel-v0.3.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 241,
+            "windows": 242,
             "linux": 10,
             "macos": 23
           }
@@ -5407,7 +5407,7 @@
           },
           "assetDownloadCounts": {
             "windows": 391,
-            "linux": 17,
+            "linux": 18,
             "macos": 9
           }
         },
@@ -5484,5 +5484,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-07-31T12:47:09.686Z"
+  "lastUpdated": "2025-07-31T16:29:07.815Z"
 }
