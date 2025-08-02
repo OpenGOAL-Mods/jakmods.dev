@@ -39,7 +39,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Speedrun-Practice/releases/download/v0.4.5/macos-intel-v0.4.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 34,
+            "windows": 35,
             "linux": 2,
             "macos": 1
           }
@@ -1073,7 +1073,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Zoomer-Legacy/releases/download/v0.1.4/macos-intel-v0.1.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 74,
+            "windows": 75,
             "linux": 6,
             "macos": 4
           }
@@ -1394,7 +1394,7 @@
             "macos": "https://github.com/dallmeyer/OG-OrbHunt/releases/download/v1.10.13/macos-intel-v1.10.13.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 96,
+            "windows": 98,
             "linux": 6,
             "macos": 2
           }
@@ -1865,7 +1865,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Bugged/releases/download/v0.2.1/macos-intel-v0.2.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 179,
+            "windows": 180,
             "linux": 15,
             "macos": 13
           }
@@ -2135,7 +2135,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Fricked/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 107,
+            "windows": 109,
             "linux": 6,
             "macos": 1
           }
@@ -2230,7 +2230,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 760,
+            "windows": 763,
             "linux": 0,
             "macos": 0
           }
@@ -2277,8 +2277,8 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.7/macos-intel-v0.5.7.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 44,
-            "linux": 2,
+            "windows": 46,
+            "linux": 3,
             "macos": 1
           }
         },
@@ -2638,7 +2638,7 @@
             "macos": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.9/macos-intel-v2.1.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 125,
+            "windows": 126,
             "linux": 13,
             "macos": 3
           }
@@ -3211,7 +3211,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Daxter2/releases/download/v1.0.0/macos-intel-v1.0.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 443,
+            "windows": 444,
             "linux": 27,
             "macos": 9
           }
@@ -3328,7 +3328,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.7/macos-intel-v0.0.7.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 588,
+            "windows": 592,
             "linux": 34,
             "macos": 9
           }
@@ -3819,7 +3819,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Dark-Jak/releases/download/v0.5.0/macos-intel-v0.5.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 91,
+            "windows": 93,
             "linux": 10,
             "macos": 3
           }
@@ -4671,7 +4671,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1345,
+            "windows": 1348,
             "linux": 85,
             "macos": 41
           }
@@ -4866,7 +4866,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 174,
+            "windows": 176,
             "linux": 11,
             "macos": 0
           }
@@ -5484,5 +5484,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-08-02T16:25:48.980Z"
+  "lastUpdated": "2025-08-02T20:23:33.821Z"
 }
