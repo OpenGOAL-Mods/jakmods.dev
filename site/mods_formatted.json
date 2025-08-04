@@ -39,7 +39,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Speedrun-Practice/releases/download/v0.4.5/macos-intel-v0.4.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 38,
+            "windows": 40,
             "linux": 3,
             "macos": 1
           }
@@ -2638,7 +2638,7 @@
             "macos": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.9/macos-intel-v2.1.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 131,
+            "windows": 132,
             "linux": 13,
             "macos": 3
           }
@@ -3417,7 +3417,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.51/macos-intel-v0.0.51.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 116,
+            "windows": 117,
             "linux": 9,
             "macos": 0
           }
@@ -4866,7 +4866,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 179,
+            "windows": 180,
             "linux": 12,
             "macos": 0
           }
@@ -5016,7 +5016,7 @@
             "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base/releases/download/v0.0.8-afoniddwr.2/macos-intel-v0.0.8-afoniddwr.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 104,
+            "windows": 105,
             "linux": 13,
             "macos": 1
           }
@@ -5484,5 +5484,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-08-04T04:58:32.082Z"
+  "lastUpdated": "2025-08-04T08:33:16.266Z"
 }
