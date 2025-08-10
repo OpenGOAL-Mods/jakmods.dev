@@ -444,9 +444,9 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Randomizer/releases/download/v0.6.3/macos-intel-v0.6.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 12,
+            "windows": 13,
             "linux": 1,
-            "macos": 1
+            "macos": 6
           }
         },
         {
@@ -467,7 +467,7 @@
           "assetDownloadCounts": {
             "windows": 95,
             "linux": 7,
-            "macos": 2
+            "macos": 3
           }
         },
         {
@@ -488,7 +488,7 @@
           "assetDownloadCounts": {
             "windows": 1,
             "linux": 1,
-            "macos": 1
+            "macos": 3
           }
         },
         {
@@ -2300,7 +2300,7 @@
           "assetDownloadCounts": {
             "windows": 160,
             "linux": 6,
-            "macos": 1
+            "macos": 2
           }
         },
         {
@@ -5361,7 +5361,7 @@
             "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base-Glacier/releases/download/v1.0.9/macos-intel-v1.0.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 186,
+            "windows": 188,
             "linux": 17,
             "macos": 10
           }
@@ -5526,5 +5526,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-08-10T04:41:37.484Z"
+  "lastUpdated": "2025-08-10T08:27:16.893Z"
 }
