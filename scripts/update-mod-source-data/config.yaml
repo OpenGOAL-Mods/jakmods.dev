@@ -550,6 +550,18 @@ mods:
     cover_art_url: "https://raw.githubusercontent.com/Cuttlefishthesage/OG-Mod-Base-Glacier/refs/heads/main/GlacierThumbnailFinal.PNG"
     thumbnail_art_url: "https://raw.githubusercontent.com/Cuttlefishthesage/OG-Mod-Base-Glacier/refs/heads/main/GlacierThumbnailFinal.PNG"
 
+  sandpit:
+    repo_owner: "slak1-OG-mods"
+    repo_name: "jak1-sandpit-level"
+    url: "https://github.com/slak1-OG-mods/jak1-sandpit-level"
+    display_name: "Sandpit"
+    description: "Sandpit Custom Level"
+    authors: ["Slak"]
+    tags: ["custom-level"]
+    website_url: "https://github.com/slak1-OG-mods/jak1-sandpit-level/blob/modbase-merge/README.md"
+    cover_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/refs/heads/main/SNPModImage.png"
+    thumbnail_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/refs/heads/main/SNPthumbnail.png"
+
   #### MODEL REPLACEMENT MODS ####
 
   # its-ogre-now:
