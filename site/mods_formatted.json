@@ -2298,7 +2298,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.7/macos-intel-v0.5.7.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 172,
+            "windows": 173,
             "linux": 6,
             "macos": 2
           }
@@ -4713,7 +4713,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1425,
+            "windows": 1427,
             "linux": 97,
             "macos": 41
           }
@@ -5420,7 +5420,7 @@
     },
     "sandpit": {
       "displayName": "Sandpit",
-      "description": "Sandpit Custom Level",
+      "description": "Miners have vanished from a nearby excavation site, leaving behind their tools and Power Cells. Find the Power Cells before the lurkers do!",
       "authors": [
         "Slak"
       ],
@@ -5655,5 +5655,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-08-11T12:47:29.948Z"
+  "lastUpdated": "2025-08-11T15:19:47.756Z"
 }
