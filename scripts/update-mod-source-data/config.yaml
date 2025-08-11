@@ -555,7 +555,7 @@ mods:
     repo_name: "jak1-sandpit-level"
     url: "https://github.com/slak1-OG-mods/jak1-sandpit-level"
     display_name: "Sandpit"
-    description: "Sandpit Custom Level"
+    description: "Miners have vanished from a nearby excavation site, leaving behind their tools and Power Cells. Find the Power Cells before the lurkers do!"
     authors: ["Slak"]
     tags: ["custom-level"]
     website_url: "https://github.com/slak1-OG-mods/jak1-sandpit-level/blob/modbase-merge/README.md"
