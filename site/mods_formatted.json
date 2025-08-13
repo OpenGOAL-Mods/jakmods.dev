@@ -1417,7 +1417,7 @@
           "assetDownloadCounts": {
             "windows": 112,
             "linux": 6,
-            "macos": 2
+            "macos": 3
           }
         },
         {
@@ -3234,7 +3234,7 @@
           "assetDownloadCounts": {
             "windows": 466,
             "linux": 27,
-            "macos": 9
+            "macos": 10
           }
         },
         {
@@ -3351,7 +3351,7 @@
           "assetDownloadCounts": {
             "windows": 619,
             "linux": 35,
-            "macos": 9
+            "macos": 10
           }
         },
         {
@@ -3863,7 +3863,7 @@
           "assetDownloadCounts": {
             "windows": 109,
             "linux": 10,
-            "macos": 3
+            "macos": 4
           }
         },
         {
@@ -5448,7 +5448,7 @@
             "macos": "https://github.com/slak1-OG-mods/jak1-sandpit-level/releases/download/v2.0.1-modbase-merge.4/macos-intel-v2.0.1-modbase-merge.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2,
+            "windows": 3,
             "linux": 1,
             "macos": 1
           }
@@ -5676,5 +5676,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-08-13T07:16:47.501Z"
+  "lastUpdated": "2025-08-13T08:29:41.492Z"
 }
