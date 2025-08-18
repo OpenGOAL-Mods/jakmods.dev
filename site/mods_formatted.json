@@ -3861,7 +3861,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Dark-Jak/releases/download/v0.5.0/macos-intel-v0.5.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 114,
+            "windows": 116,
             "linux": 10,
             "macos": 4
           }
@@ -4713,7 +4713,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1477,
+            "windows": 1478,
             "linux": 99,
             "macos": 41
           }
@@ -5229,7 +5229,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 659,
+            "windows": 660,
             "linux": 0,
             "macos": 0
           }
@@ -5448,7 +5448,7 @@
             "macos": "https://github.com/slak1-OG-mods/jak1-sandpit-level/releases/download/v2.0.1-modbase-merge.4/macos-intel-v2.0.1-modbase-merge.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 73,
+            "windows": 74,
             "linux": 4,
             "macos": 3
           }
@@ -5676,5 +5676,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-08-18T04:39:55.403Z"
+  "lastUpdated": "2025-08-18T08:31:51.022Z"
 }
