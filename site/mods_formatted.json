@@ -4193,7 +4193,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-AccurateUnlockables/releases/download/v0.0.1/macos-intel-v0.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 87,
+            "windows": 88,
             "linux": 2,
             "macos": 3
           }
@@ -4713,7 +4713,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1486,
+            "windows": 1487,
             "linux": 100,
             "macos": 41
           }
@@ -5448,7 +5448,7 @@
             "macos": "https://github.com/slak1-OG-mods/jak1-sandpit-level/releases/download/v2.0.1-modbase-merge.4/macos-intel-v2.0.1-modbase-merge.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 80,
+            "windows": 81,
             "linux": 4,
             "macos": 3
           }
@@ -5655,6 +5655,73 @@
       },
       "externalLink": null
     },
+    "warp-randomizer": {
+      "displayName": "The Warp Randomizeder",
+      "description": "Find your way around the world of jak and daxter in new randomized layouts!",
+      "authors": [
+        "Zed",
+        "Mike"
+      ],
+      "tags": [
+        "gameplay-mod"
+      ],
+      "websiteUrl": "https://github.com/my-opengoal-mods/OG-warp-randomizer/blob/main/README.md",
+      "supportedGames": [
+        "jak1"
+      ],
+      "versions": [
+        {
+          "version": "0.0.2",
+          "publishedDate": "2025-08-19T03:09:22Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/my-opengoal-mods/OG-warp-randomizer/releases/download/v0.0.2/windows-v0.0.2.zip",
+            "linux": "https://github.com/my-opengoal-mods/OG-warp-randomizer/releases/download/v0.0.2/linux-v0.0.2.tar.gz",
+            "macos": "https://github.com/my-opengoal-mods/OG-warp-randomizer/releases/download/v0.0.2/macos-intel-v0.0.2.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 5,
+            "linux": 1,
+            "macos": 1
+          }
+        },
+        {
+          "version": "0.0.1",
+          "publishedDate": "2025-08-16T19:02:31Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/my-opengoal-mods/OG-warp-randomizer/releases/download/v0.0.1/windows-v0.0.1.zip",
+            "linux": "https://github.com/my-opengoal-mods/OG-warp-randomizer/releases/download/v0.0.1/linux-v0.0.1.tar.gz",
+            "macos": "https://github.com/my-opengoal-mods/OG-warp-randomizer/releases/download/v0.0.1/macos-intel-v0.0.1.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 5,
+            "linux": 1,
+            "macos": 1
+          }
+        }
+      ],
+      "coverArtUrl": "https://raw.githubusercontent.com/Clankape/OG-Mod-Base-Halloween/main/Background.png",
+      "thumbnailArtUrl": "https://raw.githubusercontent.com/Clankape/OG-Mod-Base-Halloween/main/thumbnail.png",
+      "perGameConfig": {
+        "jak1": {
+          "releaseDate": "2025-08-19"
+        }
+      },
+      "externalLink": null
+    },
     "teamruns": {
       "displayName": "TeamRuns",
       "description": "Online and couch co-op multiplayer mod",
@@ -5676,5 +5743,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-08-19T20:22:56.351Z"
+  "lastUpdated": "2025-08-19T22:43:43.372Z"
 }
