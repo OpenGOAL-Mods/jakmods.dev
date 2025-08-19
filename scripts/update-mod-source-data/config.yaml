@@ -609,6 +609,21 @@ mods:
     cover_art_url: "https://raw.githubusercontent.com/Clankape/OG-Mod-Base-Halloween/main/Background.png"
     thumbnail_art_url: "https://raw.githubusercontent.com/Clankape/OG-Mod-Base-Halloween/main/thumbnail.png"
 
+  warp-randomizer:
+    repo_owner: "my-opengoal-mods"
+    repo_name: "OG-warp-randomizer"
+    url: "https://github.com/my-opengoal-mods/OG-warp-randomizer"
+    release_date_override: "2025-08-19"
+    ignore_versions:
+      - "<0.0.0"
+    display_name: "The Warp Randomizeder"
+    description: "Find your way around the world of jak and daxter in new randomized layouts!"
+    authors: ["Zed","Mike"]
+    tags: ["gameplay-mod"]
+    website_url: "https://github.com/my-opengoal-mods/OG-warp-randomizer/blob/main/README.md"
+    cover_art_url: "https://raw.githubusercontent.com/Clankape/OG-Mod-Base-Halloween/main/Background.png"
+    thumbnail_art_url: "https://raw.githubusercontent.com/Clankape/OG-Mod-Base-Halloween/main/thumbnail.png"
+
   # NOTE - allows for just links to mods as well, for ones that don't really fit into
   # the standard mod installation experience
   teamruns:
