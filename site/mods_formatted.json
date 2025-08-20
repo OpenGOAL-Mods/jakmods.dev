@@ -5735,7 +5735,7 @@
         }
       ],
       "coverArtUrl": "https://raw.githubusercontent.com/Cuttlefishthesage/BrumeVillage/refs/heads/master/brumecover.png",
-      "thumbnailArtUrl": "https://raw.githubusercontent.com/Cuttlefishthesage/BrumeVillage/refs/heads/master/BrumeVillageThumbnailFinal.png",
+      "thumbnailArtUrl": "https://raw.githubusercontent.com/Cuttlefishthesage/BrumeVillage/refs/heads/master/BrumeThumbnailFinal.png",
       "perGameConfig": {
         "jak1": {
           "releaseDate": "2025-08-20"
@@ -5851,5 +5851,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-08-20T19:37:08.138Z"
+  "lastUpdated": "2025-08-20T19:42:05.819Z"
 }
