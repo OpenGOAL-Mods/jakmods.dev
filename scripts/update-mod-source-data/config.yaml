@@ -585,7 +585,7 @@ mods:
     ignore_versions:
       - "<1.0.1"
     display_name: "Brume Village"
-    description: "Welcome to Brume Village, home of the Yellow Sage!  The village is currently out of power, and nobody is brave enough to venture into the caves to switch the power back on. Should you be up to the task, this new hub world allows you to visit three brand new interconnected levels with a total of 24 powercells to collect!"
+    description: "Welcome to Brume Village, home of the Yellow Sage!  The village is currently out of power, and nobody is brave enough to venture into the caves to switch the power back on. Should you be up to the task, this new hub world allows you to visit three brand new interconnected levels with a total of 24 powercells to collect! Start a new save file to enter Brume!"
     authors: ["Cuttlefish"]
     tags: ["custom-level"]
     website_url: "https://github.com/Cuttlefishthesage/BrumeVillage/blob/main/README.md"
