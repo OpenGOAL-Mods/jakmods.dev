@@ -39,7 +39,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Speedrun-Practice/releases/download/v0.4.5/macos-intel-v0.4.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 72,
+            "windows": 73,
             "linux": 4,
             "macos": 1
           }
@@ -878,7 +878,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/releases/download/v0.2.5-mergetime1127.1/macos-intel-v0.2.5-mergetime1127.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 117,
+            "windows": 118,
             "linux": 4,
             "macos": 1
           }
@@ -2299,7 +2299,7 @@
           },
           "assetDownloadCounts": {
             "windows": 327,
-            "linux": 9,
+            "linux": 10,
             "macos": 3
           }
         },
@@ -3438,7 +3438,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.52/macos-intel-v0.0.52.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 68,
+            "windows": 69,
             "linux": 4,
             "macos": 2
           }
@@ -4666,7 +4666,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Obama/releases/download/v0.0.1/macos-intel-v0.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 293,
+            "windows": 294,
             "linux": 14,
             "macos": 6
           }
@@ -5361,7 +5361,7 @@
             "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base-Glacier/releases/download/v1.0.9/macos-intel-v1.0.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 202,
+            "windows": 203,
             "linux": 18,
             "macos": 10
           }
@@ -5448,7 +5448,7 @@
             "macos": "https://github.com/slak1-OG-mods/jak1-sandpit-level/releases/download/v2.0.1-modbase-merge.4/macos-intel-v2.0.1-modbase-merge.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 81,
+            "windows": 82,
             "linux": 4,
             "macos": 3
           }
@@ -5671,8 +5671,29 @@
       ],
       "versions": [
         {
+          "version": "0.0.4",
+          "publishedDate": "2025-08-20T00:07:57Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/my-opengoal-mods/OG-warp-randomizer/releases/download/v0.0.4/windows-v0.0.4.zip",
+            "linux": "https://github.com/my-opengoal-mods/OG-warp-randomizer/releases/download/v0.0.4/linux-v0.0.4.tar.gz",
+            "macos": "https://github.com/my-opengoal-mods/OG-warp-randomizer/releases/download/v0.0.4/macos-intel-v0.0.4.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 1,
+            "linux": 1,
+            "macos": 1
+          }
+        },
+        {
           "version": "0.0.3",
-          "publishedDate": "2025-08-19T22:55:04Z",
+          "publishedDate": "2025-08-19T23:38:55Z",
           "supportedGames": [
             "jak1"
           ],
@@ -5686,9 +5707,9 @@
             "macos": "https://github.com/my-opengoal-mods/OG-warp-randomizer/releases/download/v0.0.3/macos-intel-v0.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 0,
-            "linux": 0,
-            "macos": 0
+            "windows": 3,
+            "linux": 1,
+            "macos": 1
           }
         },
         {
@@ -5764,5 +5785,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-08-19T22:56:35.099Z"
+  "lastUpdated": "2025-08-20T01:39:39.507Z"
 }
