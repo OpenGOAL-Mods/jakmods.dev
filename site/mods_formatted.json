@@ -4712,9 +4712,9 @@
             "macos": "https://github.com/my-opengoal-mods/OG-warp-randomizer/releases/download/v0.0.5/macos-intel-v0.0.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 0,
-            "linux": 0,
-            "macos": 0
+            "windows": 1,
+            "linux": 1,
+            "macos": 1
           }
         },
         {
@@ -5700,7 +5700,7 @@
     },
     "brume_village": {
       "displayName": "Brume Village",
-      "description": "Welcome to Brume Village, home of the Yellow Sage!  The village is currently out of power, and nobody is brave enough to venture into the caves to switch the power back on. Should you be up to the task, this new hub world allows you to visit three brand new interconnected levels with a total of 24 powercells to collect!",
+      "description": "Welcome to Brume Village, home of the Yellow Sage!  The village is currently out of power, and nobody is brave enough to venture into the caves to switch the power back on. Should you be up to the task, this new hub world allows you to visit three brand new interconnected levels with a total of 24 powercells to collect! Start a new save file to enter Brume!",
       "authors": [
         "Cuttlefish"
       ],
@@ -5851,5 +5851,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-08-20T19:42:05.819Z"
+  "lastUpdated": "2025-08-20T19:48:31.424Z"
 }
