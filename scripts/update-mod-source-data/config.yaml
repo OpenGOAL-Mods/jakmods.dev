@@ -437,7 +437,7 @@ mods:
     url: "https://github.com/OpenGOAL-Mods/OG-ILs"
     display_name: "Individual Mission Speedruns"
     description: "Adds Individual Mission categories to the speedrun menu, with in-game timer! BETA"
-    authors: ["barg034", "ThaRixer", "bintendo42"]
+    authors: ["barg", "ThaRixer", "bintendo42"]
     tags: ["speedrunning", "gameplay-mod"]
     website_url: "https://github.com/OpenGOAL-Mods/OG-ILs/blob/main/README.md"
     cover_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-ILs/refs/heads/main/ils-background.png"
@@ -457,6 +457,21 @@ mods:
     website_url: "https://jakmods.dev"
     cover_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Obama/main/background.png"
     thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Obama/main/thumbnail.png"
+
+  warp-randomizer:
+    repo_owner: "my-opengoal-mods"
+    repo_name: "OG-warp-randomizer"
+    url: "https://github.com/my-opengoal-mods/OG-warp-randomizer"
+    release_date_override: "2025-08-19"
+    ignore_versions:
+      - "<0.0.0"
+    display_name: "The Warp Randomizeder"
+    description: "Find your way around the world of jak and daxter in new randomized layouts!"
+    authors: ["zed","MikeGamePro"]
+    tags: ["gameplay-mod"]
+    website_url: "https://github.com/my-opengoal-mods/OG-warp-randomizer/blob/main/README.md"
+    cover_art_url: "https://raw.githubusercontent.com/Clankape/OG-Mod-Base-Halloween/main/Background.png"
+    thumbnail_art_url: "https://raw.githubusercontent.com/Clankape/OG-Mod-Base-Halloween/main/thumbnail.png"
 
   #### CUSTOM LEVEL MODS ####
 
@@ -562,6 +577,21 @@ mods:
     cover_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/refs/heads/main/SNPModImage.png"
     thumbnail_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/refs/heads/main/SNPthumbnail.png"
 
+  brume_village:
+    repo_owner: "Cuttlefishthesage"
+    repo_name: "BrumeVillage"
+    url: "https://github.com/Cuttlefishthesage/BrumeVillage"
+    release_date_override: "2025-08-20"
+    ignore_versions:
+      - "<1.0.0"
+    display_name: "Brume Village"
+    description: "TBD"
+    authors: ["Cuttlefish"]
+    tags: ["custom-level"]
+    website_url: "https://github.com/Cuttlefishthesage/BrumeVillage/blob/main/README.md"
+    cover_art_url: "https://raw.githubusercontent.com/Cuttlefishthesage/BrumeVillage/refs/heads/master/BrumeVillageThumbnail.png"
+    thumbnail_art_url: "https://raw.githubusercontent.com/Cuttlefishthesage/BrumeVillage/refs/heads/master/BrumeVillageThumbnail.png"
+
   #### MODEL REPLACEMENT MODS ####
 
   # its-ogre-now:
@@ -606,21 +636,6 @@ mods:
     authors: ["Clankape"]
     tags: ["model-replacement"]
     website_url: "https://github.com/Clankape/OG-Mod-Base-Halloween/blob/main/README.md"
-    cover_art_url: "https://raw.githubusercontent.com/Clankape/OG-Mod-Base-Halloween/main/Background.png"
-    thumbnail_art_url: "https://raw.githubusercontent.com/Clankape/OG-Mod-Base-Halloween/main/thumbnail.png"
-
-  warp-randomizer:
-    repo_owner: "my-opengoal-mods"
-    repo_name: "OG-warp-randomizer"
-    url: "https://github.com/my-opengoal-mods/OG-warp-randomizer"
-    release_date_override: "2025-08-19"
-    ignore_versions:
-      - "<0.0.0"
-    display_name: "The Warp Randomizeder"
-    description: "Find your way around the world of jak and daxter in new randomized layouts!"
-    authors: ["Zed","Mike"]
-    tags: ["gameplay-mod"]
-    website_url: "https://github.com/my-opengoal-mods/OG-warp-randomizer/blob/main/README.md"
     cover_art_url: "https://raw.githubusercontent.com/Clankape/OG-Mod-Base-Halloween/main/Background.png"
     thumbnail_art_url: "https://raw.githubusercontent.com/Clankape/OG-Mod-Base-Halloween/main/thumbnail.png"
 
