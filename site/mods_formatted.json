@@ -39,7 +39,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Speedrun-Practice/releases/download/v0.4.5/macos-intel-v0.4.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 84,
+            "windows": 85,
             "linux": 7,
             "macos": 2
           }
@@ -2298,7 +2298,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 8,
+            "windows": 10,
             "linux": 3,
             "macos": 1
           }
@@ -4123,7 +4123,7 @@
             "macos": "https://github.com/gratefulforest/Platformia/releases/download/v0.0.1/macos-intel-v0.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 380,
+            "windows": 381,
             "linux": 26,
             "macos": 7
           }
@@ -5896,9 +5896,9 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.1/macos-intel-v1.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 210,
+            "windows": 211,
             "linux": 12,
-            "macos": 2
+            "macos": 3
           }
         }
       ],
@@ -6019,5 +6019,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-08-25T04:27:57.858Z"
+  "lastUpdated": "2025-08-25T08:29:36.404Z"
 }
