@@ -470,8 +470,8 @@ mods:
     authors: ["zed","MikeGamePro"]
     tags: ["gameplay-mod"]
     website_url: "https://github.com/my-opengoal-mods/OG-warp-randomizer/blob/main/README.md"
-    cover_art_url: "https://raw.githubusercontent.com/Clankape/OG-Mod-Base-Halloween/main/Background.png"
-    thumbnail_art_url: "https://raw.githubusercontent.com/Clankape/OG-Mod-Base-Halloween/main/thumbnail.png"
+    cover_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/refs/heads/main/warp-rando.png"
+    thumbnail_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/refs/heads/main/warp-rando.png"
 
   #### CUSTOM LEVEL MODS ####
 
