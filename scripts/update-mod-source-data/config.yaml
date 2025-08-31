@@ -473,6 +473,20 @@ mods:
     cover_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/refs/heads/main/warp-rando.png"
     thumbnail_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/refs/heads/main/warp-rando.png"
 
+  supercharged:
+    repo_owner: "OpenGOAL-Mods"
+    repo_name: "OG-SC"
+    url: "https://github.com/OpenGOAL-Mods/OG-SC"
+    ignore_versions:
+      - "<1.0.0"
+    display_name: "SUPERCHARGED!"
+    description: "Make the connections."
+    authors: ["OutrageousJosh", "barg"]
+    tags: ["challenge", "speedrunning", "gameplay-mod"]
+    website_url: "https://github.com/OpenGOAL-Mods/OG-SC/blob/main/README.md"
+    cover_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-SC/refs/heads/main/jadsc-bg.png"
+    thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-SC/refs/heads/main/jadsc-thumb.png"
+
   #### CUSTOM LEVEL MODS ####
 
   forgotten-lands:
