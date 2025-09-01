@@ -5077,9 +5077,9 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-SC/releases/download/v1.3.0/macos-intel-v1.3.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 0,
-            "linux": 0,
-            "macos": 0
+            "windows": 1,
+            "linux": 1,
+            "macos": 1
           }
         },
         {
@@ -6074,7 +6074,7 @@
           "assetDownloadCounts": {
             "windows": 384,
             "linux": 22,
-            "macos": 7
+            "macos": 8
           }
         }
       ],
@@ -6195,5 +6195,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-09-01T02:28:35.495Z"
+  "lastUpdated": "2025-09-01T02:43:39.793Z"
 }
