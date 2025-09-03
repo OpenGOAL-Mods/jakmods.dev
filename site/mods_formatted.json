@@ -2200,7 +2200,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Fricked/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 140,
+            "windows": 141,
             "linux": 7,
             "macos": 2
           }
@@ -2510,7 +2510,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.0/macos-intel-v0.5.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 98,
+            "windows": 99,
             "linux": 3,
             "macos": 3
           }
@@ -2724,7 +2724,7 @@
             "macos": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.9/macos-intel-v2.1.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 195,
+            "windows": 196,
             "linux": 14,
             "macos": 4
           }
@@ -3503,7 +3503,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.52/macos-intel-v0.0.52.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 112,
+            "windows": 113,
             "linux": 9,
             "macos": 3
           }
@@ -5062,6 +5062,27 @@
       ],
       "versions": [
         {
+          "version": "1.6.0",
+          "publishedDate": "2025-09-03T08:02:17Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/OpenGOAL-Mods/OG-SC/releases/download/v1.6.0/windows-v1.6.0.zip",
+            "linux": "https://github.com/OpenGOAL-Mods/OG-SC/releases/download/v1.6.0/linux-v1.6.0.tar.gz",
+            "macos": "https://github.com/OpenGOAL-Mods/OG-SC/releases/download/v1.6.0/macos-intel-v1.6.0.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
           "version": "1.5.1",
           "publishedDate": "2025-09-03T02:50:53Z",
           "supportedGames": [
@@ -5077,7 +5098,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-SC/releases/download/v1.5.1/macos-intel-v1.5.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1,
+            "windows": 2,
             "linux": 1,
             "macos": 1
           }
@@ -5098,7 +5119,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-SC/releases/download/v1.5.0/macos-intel-v1.5.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 18,
+            "windows": 19,
             "linux": 2,
             "macos": 1
           }
@@ -5271,7 +5292,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1617,
+            "windows": 1619,
             "linux": 110,
             "macos": 47
           }
@@ -5466,7 +5487,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 231,
+            "windows": 232,
             "linux": 14,
             "macos": 0
           }
@@ -6006,7 +6027,7 @@
             "macos": "https://github.com/slak1-OG-mods/jak1-sandpit-level/releases/download/v2.0.1-modbase-merge.4/macos-intel-v2.0.1-modbase-merge.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 146,
+            "windows": 147,
             "linux": 9,
             "macos": 4
           }
@@ -6156,7 +6177,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.1/macos-intel-v1.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 433,
+            "windows": 435,
             "linux": 24,
             "macos": 8
           }
@@ -6279,5 +6300,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-09-03T04:23:24.779Z"
+  "lastUpdated": "2025-09-03T08:03:56.638Z"
 }
