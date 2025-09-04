@@ -1459,7 +1459,7 @@
             "macos": "https://github.com/dallmeyer/OG-OrbHunt/releases/download/v1.10.13/macos-intel-v1.10.13.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 144,
+            "windows": 145,
             "linux": 10,
             "macos": 4
           }
@@ -2342,7 +2342,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 175,
+            "windows": 176,
             "linux": 9,
             "macos": 1
           }
@@ -3503,7 +3503,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.54/macos-intel-v0.0.54.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 4,
+            "windows": 5,
             "linux": 1,
             "macos": 0
           }
@@ -3947,7 +3947,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Dark-Jak/releases/download/v0.5.0/macos-intel-v0.5.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 139,
+            "windows": 140,
             "linux": 14,
             "macos": 5
           }
@@ -5098,7 +5098,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-SC/releases/download/v1.6.1/macos-intel-v1.6.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1,
+            "windows": 5,
             "linux": 1,
             "macos": 1
           }
@@ -5334,7 +5334,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1627,
+            "windows": 1628,
             "linux": 110,
             "macos": 47
           }
@@ -6220,7 +6220,7 @@
           },
           "assetDownloadCounts": {
             "windows": 445,
-            "linux": 24,
+            "linux": 25,
             "macos": 8
           }
         }
@@ -6342,5 +6342,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-09-04T08:26:17.555Z"
+  "lastUpdated": "2025-09-04T12:38:49.807Z"
 }
