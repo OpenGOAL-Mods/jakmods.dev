@@ -1459,7 +1459,7 @@
             "macos": "https://github.com/dallmeyer/OG-OrbHunt/releases/download/v1.10.13/macos-intel-v1.10.13.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 147,
+            "windows": 148,
             "linux": 10,
             "macos": 4
           }
@@ -2342,7 +2342,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 184,
+            "windows": 185,
             "linux": 9,
             "macos": 1
           }
@@ -3503,7 +3503,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.54/macos-intel-v0.0.54.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 13,
+            "windows": 14,
             "linux": 2,
             "macos": 0
           }
@@ -4329,7 +4329,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.0.23/macos-intel-v0.0.23.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 57,
+            "windows": 58,
             "linux": 8,
             "macos": 4
           }
@@ -5083,6 +5083,27 @@
       ],
       "versions": [
         {
+          "version": "1.6.2",
+          "publishedDate": "2025-09-05T07:03:49Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/OpenGOAL-Mods/OG-SC/releases/download/v1.6.2/windows-v1.6.2.zip",
+            "linux": "https://github.com/OpenGOAL-Mods/OG-SC/releases/download/v1.6.2/linux-v1.6.2.tar.gz",
+            "macos": "https://github.com/OpenGOAL-Mods/OG-SC/releases/download/v1.6.2/macos-intel-v1.6.2.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 1,
+            "linux": 1,
+            "macos": 1
+          }
+        },
+        {
           "version": "1.6.1",
           "publishedDate": "2025-09-04T07:42:28Z",
           "supportedGames": [
@@ -5098,7 +5119,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-SC/releases/download/v1.6.1/macos-intel-v1.6.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 20,
+            "windows": 23,
             "linux": 1,
             "macos": 1
           }
@@ -5140,7 +5161,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-SC/releases/download/v1.5.1/macos-intel-v1.5.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 3,
+            "windows": 4,
             "linux": 1,
             "macos": 1
           }
@@ -5334,7 +5355,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1630,
+            "windows": 1632,
             "linux": 112,
             "macos": 49
           }
@@ -6342,5 +6363,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-09-05T04:23:23.110Z"
+  "lastUpdated": "2025-09-05T07:54:36.531Z"
 }
