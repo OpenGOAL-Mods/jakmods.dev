@@ -5083,6 +5083,27 @@
       ],
       "versions": [
         {
+          "version": "1.6.3",
+          "publishedDate": "2025-09-05T08:14:07Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/OpenGOAL-Mods/OG-SC/releases/download/v1.6.3/windows-v1.6.3.zip",
+            "linux": "https://github.com/OpenGOAL-Mods/OG-SC/releases/download/v1.6.3/linux-v1.6.3.tar.gz",
+            "macos": "https://github.com/OpenGOAL-Mods/OG-SC/releases/download/v1.6.3/macos-intel-v1.6.3.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
           "version": "1.6.1",
           "publishedDate": "2025-09-04T07:42:28Z",
           "supportedGames": [
@@ -5098,7 +5119,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-SC/releases/download/v1.6.1/macos-intel-v1.6.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 23,
+            "windows": 24,
             "linux": 1,
             "macos": 1
           }
@@ -6342,5 +6363,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-09-05T08:00:41.510Z"
+  "lastUpdated": "2025-09-05T08:25:59.355Z"
 }
