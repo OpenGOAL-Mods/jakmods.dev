@@ -922,7 +922,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/releases/download/v0.2.5-mergetime1127.1/macos-intel-v0.2.5-mergetime1127.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 136,
+            "windows": 137,
             "linux": 6,
             "macos": 2
           }
@@ -1138,7 +1138,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Zoomer-Legacy/releases/download/v0.1.4/macos-intel-v0.1.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 107,
+            "windows": 108,
             "linux": 7,
             "macos": 5
           }
@@ -2724,7 +2724,7 @@
             "macos": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.9/macos-intel-v2.1.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 197,
+            "windows": 198,
             "linux": 14,
             "macos": 4
           }
@@ -3297,7 +3297,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Daxter2/releases/download/v1.0.0/macos-intel-v1.0.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 514,
+            "windows": 515,
             "linux": 30,
             "macos": 11
           }
@@ -3947,7 +3947,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Dark-Jak/releases/download/v0.5.0/macos-intel-v0.5.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 145,
+            "windows": 146,
             "linux": 14,
             "macos": 5
           }
@@ -5083,6 +5083,27 @@
       ],
       "versions": [
         {
+          "version": "1.6.4",
+          "publishedDate": "2025-09-06T03:27:01Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/OpenGOAL-Mods/OG-SC/releases/download/v1.6.4/windows-v1.6.4.zip",
+            "linux": "https://github.com/OpenGOAL-Mods/OG-SC/releases/download/v1.6.4/linux-v1.6.4.tar.gz",
+            "macos": "https://github.com/OpenGOAL-Mods/OG-SC/releases/download/v1.6.4/macos-intel-v1.6.4.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
           "version": "1.6.3",
           "publishedDate": "2025-09-05T08:14:07Z",
           "supportedGames": [
@@ -5098,7 +5119,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-SC/releases/download/v1.6.3/macos-intel-v1.6.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 17,
+            "windows": 19,
             "linux": 1,
             "macos": 1
           }
@@ -5550,7 +5571,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 236,
+            "windows": 237,
             "linux": 14,
             "macos": 0
           }
@@ -5871,7 +5892,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 685,
+            "windows": 686,
             "linux": 0,
             "macos": 0
           }
@@ -6363,5 +6384,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-09-06T01:24:15.884Z"
+  "lastUpdated": "2025-09-06T03:38:07.277Z"
 }
