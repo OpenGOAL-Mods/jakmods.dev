@@ -39,7 +39,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Speedrun-Practice/releases/download/v0.4.6/macos-intel-v0.4.6.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 30,
+            "windows": 31,
             "linux": 4,
             "macos": 1
           }
@@ -2295,7 +2295,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 812,
+            "windows": 813,
             "linux": 0,
             "macos": 0
           }
@@ -2342,7 +2342,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 216,
+            "windows": 218,
             "linux": 9,
             "macos": 1
           }
@@ -3503,7 +3503,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.54/macos-intel-v0.0.54.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 25,
+            "windows": 26,
             "linux": 2,
             "macos": 0
           }
@@ -4798,7 +4798,7 @@
             "macos": "https://github.com/my-opengoal-mods/OG-warp-randomizer/releases/download/v0.0.13-no-mem-card-stuff.0/macos-intel-v0.0.13-no-mem-card-stuff.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 52,
+            "windows": 54,
             "linux": 3,
             "macos": 1
           }
@@ -5098,7 +5098,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-SC/releases/download/v1.6.4/macos-intel-v1.6.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 22,
+            "windows": 23,
             "linux": 1,
             "macos": 1
           }
@@ -6384,5 +6384,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-09-08T16:24:17.182Z"
+  "lastUpdated": "2025-09-08T20:21:50.608Z"
 }
