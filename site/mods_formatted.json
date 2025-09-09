@@ -1230,7 +1230,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-SM64/releases/download/v0.2.8/macos-intel-v0.2.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 289,
+            "windows": 290,
             "linux": 18,
             "macos": 6
           }
@@ -1347,7 +1347,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Microtransactions/releases/download/v0.2.5/macos-intel-v0.2.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 117,
+            "windows": 118,
             "linux": 5,
             "macos": 5
           }
@@ -2342,7 +2342,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 219,
+            "windows": 220,
             "linux": 9,
             "macos": 1
           }
@@ -2724,7 +2724,7 @@
             "macos": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.9/macos-intel-v2.1.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 201,
+            "windows": 202,
             "linux": 14,
             "macos": 4
           }
@@ -3414,7 +3414,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.7/macos-intel-v0.0.7.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 691,
+            "windows": 692,
             "linux": 36,
             "macos": 11
           }
@@ -3503,7 +3503,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.54/macos-intel-v0.0.54.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 27,
+            "windows": 28,
             "linux": 3,
             "macos": 0
           }
@@ -4798,7 +4798,7 @@
             "macos": "https://github.com/my-opengoal-mods/OG-warp-randomizer/releases/download/v0.0.13-no-mem-card-stuff.0/macos-intel-v0.0.13-no-mem-card-stuff.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 54,
+            "windows": 55,
             "linux": 3,
             "macos": 1
           }
@@ -5098,9 +5098,9 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-SC/releases/download/v1.6.4/macos-intel-v1.6.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 23,
+            "windows": 24,
             "linux": 1,
-            "macos": 1
+            "macos": 2
           }
         },
         {
@@ -5721,7 +5721,7 @@
             "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base/releases/download/v0.0.8-afoniddwr.2/macos-intel-v0.0.8-afoniddwr.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 148,
+            "windows": 149,
             "linux": 16,
             "macos": 2
           }
@@ -6111,7 +6111,7 @@
             "macos": "https://github.com/slak1-OG-mods/jak1-sandpit-level/releases/download/v2.0.1-modbase-merge.4/macos-intel-v2.0.1-modbase-merge.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 162,
+            "windows": 163,
             "linux": 9,
             "macos": 4
           }
@@ -6261,7 +6261,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.1/macos-intel-v1.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 503,
+            "windows": 505,
             "linux": 25,
             "macos": 9
           }
@@ -6306,7 +6306,7 @@
             "macos": "https://github.com/Clankape/OG-Mod-Base-Halloween/releases/download/v0.0.4/macos-intel-v0.0.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 420,
+            "windows": 421,
             "linux": 19,
             "macos": 11
           }
@@ -6384,5 +6384,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-09-09T01:28:42.098Z"
+  "lastUpdated": "2025-09-09T04:24:41.811Z"
 }
