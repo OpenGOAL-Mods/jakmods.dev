@@ -39,9 +39,9 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Speedrun-Practice/releases/download/v0.4.9/macos-intel-v0.4.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 0,
-            "linux": 0,
-            "macos": 0
+            "windows": 3,
+            "linux": 1,
+            "macos": 1
           }
         },
         {
@@ -2365,7 +2365,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 239,
+            "windows": 241,
             "linux": 10,
             "macos": 1
           }
@@ -3971,7 +3971,7 @@
           },
           "assetDownloadCounts": {
             "windows": 150,
-            "linux": 14,
+            "linux": 15,
             "macos": 5
           }
         },
@@ -4806,6 +4806,27 @@
       ],
       "versions": [
         {
+          "version": "0.0.14",
+          "publishedDate": "2025-09-11T00:00:25Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/my-opengoal-mods/OG-warp-randomizer/releases/download/v0.0.14/windows-v0.0.14.zip",
+            "linux": "https://github.com/my-opengoal-mods/OG-warp-randomizer/releases/download/v0.0.14/linux-v0.0.14.tar.gz",
+            "macos": "https://github.com/my-opengoal-mods/OG-warp-randomizer/releases/download/v0.0.14/macos-intel-v0.0.14.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 1,
+            "linux": 1,
+            "macos": 1
+          }
+        },
+        {
           "version": "0.0.13-no-mem-card-stuff.0",
           "publishedDate": "2025-08-26T18:06:37Z",
           "supportedGames": [
@@ -5121,7 +5142,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-SC/releases/download/v1.6.5/macos-intel-v1.6.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 8,
+            "windows": 9,
             "linux": 1,
             "macos": 1
           }
@@ -5420,7 +5441,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1660,
+            "windows": 1662,
             "linux": 113,
             "macos": 49
           }
@@ -6305,7 +6326,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.1/macos-intel-v1.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 517,
+            "windows": 518,
             "linux": 25,
             "macos": 10
           }
@@ -6428,5 +6449,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-09-10T21:19:00.206Z"
+  "lastUpdated": "2025-09-11T01:27:43.374Z"
 }
