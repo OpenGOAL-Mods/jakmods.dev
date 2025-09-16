@@ -3526,7 +3526,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.54/macos-intel-v0.0.54.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 49,
+            "windows": 50,
             "linux": 5,
             "macos": 1
           }
@@ -3673,7 +3673,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 6,
+            "windows": 7,
             "linux": 0,
             "macos": 0
           }
@@ -5163,7 +5163,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-SC/releases/download/v1.6.5/macos-intel-v1.6.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 26,
+            "windows": 27,
             "linux": 1,
             "macos": 1
           }
@@ -6197,7 +6197,7 @@
             "macos": "https://github.com/slak1-OG-mods/jak1-sandpit-level/releases/download/v2.0.1-modbase-merge.4/macos-intel-v2.0.1-modbase-merge.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 176,
+            "windows": 177,
             "linux": 9,
             "macos": 4
           }
@@ -6470,5 +6470,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-09-16T08:27:22.581Z"
+  "lastUpdated": "2025-09-16T12:40:51.486Z"
 }
