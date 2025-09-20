@@ -2365,7 +2365,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 357,
+            "windows": 364,
             "linux": 14,
             "macos": 1
           }
@@ -2748,7 +2748,7 @@
             "macos": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.0.1-jak2.0/macos-intel-v0.0.1-jak2.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1,
+            "windows": 3,
             "linux": 1,
             "macos": 1
           }
@@ -4853,6 +4853,27 @@
       ],
       "versions": [
         {
+          "version": "0.0.16",
+          "publishedDate": "2025-09-20T19:03:49Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/my-opengoal-mods/OG-warp-randomizer/releases/download/v0.0.16/windows-v0.0.16.zip",
+            "linux": "https://github.com/my-opengoal-mods/OG-warp-randomizer/releases/download/v0.0.16/linux-v0.0.16.tar.gz",
+            "macos": "https://github.com/my-opengoal-mods/OG-warp-randomizer/releases/download/v0.0.16/macos-intel-v0.0.16.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 1,
+            "linux": 1,
+            "macos": 1
+          }
+        },
+        {
           "version": "0.0.15",
           "publishedDate": "2025-09-11T03:33:20Z",
           "supportedGames": [
@@ -5509,7 +5530,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1737,
+            "windows": 1738,
             "linux": 116,
             "macos": 53
           }
@@ -6394,7 +6415,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.1/macos-intel-v1.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 590,
+            "windows": 591,
             "linux": 27,
             "macos": 15
           }
@@ -6517,5 +6538,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-09-20T17:33:57.276Z"
+  "lastUpdated": "2025-09-20T20:18:51.450Z"
 }
