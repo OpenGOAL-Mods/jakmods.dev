@@ -813,7 +813,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-RCO/releases/download/v0.1.5/macos-intel-v0.1.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 104,
+            "windows": 105,
             "linux": 5,
             "macos": 4
           }
@@ -1482,7 +1482,7 @@
             "macos": "https://github.com/dallmeyer/OG-OrbHunt/releases/download/v1.10.13/macos-intel-v1.10.13.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 160,
+            "windows": 162,
             "linux": 12,
             "macos": 4
           }
@@ -2043,7 +2043,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Patched/releases/download/v1.1.3/macos-intel-v1.1.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 212,
+            "windows": 213,
             "linux": 30,
             "macos": 6
           }
@@ -2365,7 +2365,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 356,
+            "windows": 357,
             "linux": 14,
             "macos": 1
           }
@@ -2712,6 +2712,53 @@
       "perGameConfig": {
         "jak1": {
           "releaseDate": "2024-05-22"
+        }
+      },
+      "externalLink": null
+    },
+    "archipelagoal-2": {
+      "displayName": "ArchipelaGOAL II (ALPHA)",
+      "description": "Jak 2 Archipelago Randomizer - Alpha Release",
+      "authors": [
+        "narra, markus"
+      ],
+      "tags": [
+        "rng",
+        "challenge",
+        "gameplay-mod"
+      ],
+      "websiteUrl": "https://github.com/ArchipelaGOAL/Archipelago/blob/main/worlds/jakanddaxter/docs/setup_en.md",
+      "supportedGames": [
+        "jak2"
+      ],
+      "versions": [
+        {
+          "version": "0.0.1-jak2.0",
+          "publishedDate": "2025-09-20T03:57:27Z",
+          "supportedGames": [
+            "jak2"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.0.1-jak2.0/windows-v0.0.1-jak2.0.zip",
+            "linux": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.0.1-jak2.0/linux-v0.0.1-jak2.0.tar.gz",
+            "macos": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.0.1-jak2.0/macos-intel-v0.0.1-jak2.0.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 1,
+            "linux": 1,
+            "macos": 1
+          }
+        }
+      ],
+      "coverArtUrl": "https://raw.githubusercontent.com/ArchipelaGOAL/ArchipelaGOAL/main/thumbnails/background.gif",
+      "thumbnailArtUrl": "https://raw.githubusercontent.com/ArchipelaGOAL/ArchipelaGOAL/main/thumbnails/thumbnail.png",
+      "perGameConfig": {
+        "jak2": {
+          "releaseDate": "2025-09-20"
         }
       },
       "externalLink": null
@@ -3526,7 +3573,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.54/macos-intel-v0.0.54.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 64,
+            "windows": 65,
             "linux": 7,
             "macos": 1
           }
@@ -4122,7 +4169,7 @@
             "macos": "https://github.com/EvelynTSMG/JakSpeeb/releases/download/v1.2.0/macos-intel-v1.2.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 99,
+            "windows": 100,
             "linux": 3,
             "macos": 2
           }
@@ -5163,7 +5210,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-SC/releases/download/v1.6.5/macos-intel-v1.6.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 38,
+            "windows": 39,
             "linux": 3,
             "macos": 1
           }
@@ -6470,5 +6517,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-09-20T16:21:48.449Z"
+  "lastUpdated": "2025-09-20T17:33:57.276Z"
 }
