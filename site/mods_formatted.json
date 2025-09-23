@@ -3484,7 +3484,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.7/macos-intel-v0.0.7.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 723,
+            "windows": 724,
             "linux": 38,
             "macos": 12
           }
@@ -5231,7 +5231,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-SC/releases/download/v1.6.5/macos-intel-v1.6.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 42,
+            "windows": 43,
             "linux": 4,
             "macos": 3
           }
@@ -5530,7 +5530,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1779,
+            "windows": 1781,
             "linux": 119,
             "macos": 56
           }
@@ -6538,5 +6538,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-09-23T08:26:43.759Z"
+  "lastUpdated": "2025-09-23T12:41:04.370Z"
 }
