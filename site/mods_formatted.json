@@ -2365,7 +2365,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 421,
+            "windows": 422,
             "linux": 15,
             "macos": 2
           }
@@ -2733,27 +2733,6 @@
       ],
       "versions": [
         {
-          "version": "0.0.1-jak2.1",
-          "publishedDate": "2025-09-24T15:02:40Z",
-          "supportedGames": [
-            "jak2"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.0.1-jak2.1/windows-v0.0.1-jak2.1.zip",
-            "linux": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.0.1-jak2.1/linux-v0.0.1-jak2.1.tar.gz",
-            "macos": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.0.1-jak2.1/macos-intel-v0.0.1-jak2.1.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 0,
-            "linux": 0,
-            "macos": 0
-          }
-        },
-        {
           "version": "0.0.1",
           "publishedDate": "2025-09-20T03:57:27Z",
           "supportedGames": [
@@ -2769,9 +2748,30 @@
             "macos": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.0.1/macos-intel-v0.0.1-jak2.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 35,
+            "windows": 36,
             "linux": 1,
             "macos": 2
+          }
+        },
+        {
+          "version": "0.0.2",
+          "publishedDate": "2025-09-24T15:02:40Z",
+          "supportedGames": [
+            "jak2"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.0.2/windows-v0.0.1-jak2.1.zip",
+            "linux": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.0.2/linux-v0.0.1-jak2.1.tar.gz",
+            "macos": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.0.2/macos-intel-v0.0.1-jak2.1.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
           }
         }
       ],
@@ -3596,7 +3596,7 @@
           "assetDownloadCounts": {
             "windows": 76,
             "linux": 7,
-            "macos": 1
+            "macos": 2
           }
         },
         {
@@ -5551,7 +5551,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1789,
+            "windows": 1790,
             "linux": 120,
             "macos": 57
           }
@@ -6580,5 +6580,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-09-24T15:05:07.334Z"
+  "lastUpdated": "2025-09-24T16:20:42.982Z"
 }
