@@ -2365,7 +2365,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 420,
+            "windows": 421,
             "linux": 15,
             "macos": 2
           }
@@ -2733,7 +2733,28 @@
       ],
       "versions": [
         {
-          "version": "0.0.1-jak2.0",
+          "version": "0.0.1-jak2.1",
+          "publishedDate": "2025-09-24T15:02:40Z",
+          "supportedGames": [
+            "jak2"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.0.1-jak2.1/windows-v0.0.1-jak2.1.zip",
+            "linux": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.0.1-jak2.1/linux-v0.0.1-jak2.1.tar.gz",
+            "macos": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.0.1-jak2.1/macos-intel-v0.0.1-jak2.1.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
+          "version": "0.0.1",
           "publishedDate": "2025-09-20T03:57:27Z",
           "supportedGames": [
             "jak2"
@@ -2743,9 +2764,9 @@
             "shareVanillaSaves": false
           },
           "assets": {
-            "windows": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.0.1-jak2.0/windows-v0.0.1-jak2.0.zip",
-            "linux": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.0.1-jak2.0/linux-v0.0.1-jak2.0.tar.gz",
-            "macos": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.0.1-jak2.0/macos-intel-v0.0.1-jak2.0.tar.gz"
+            "windows": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.0.1/windows-v0.0.1-jak2.0.zip",
+            "linux": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.0.1/linux-v0.0.1-jak2.0.tar.gz",
+            "macos": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.0.1/macos-intel-v0.0.1-jak2.0.tar.gz"
           },
           "assetDownloadCounts": {
             "windows": 35,
@@ -2794,7 +2815,7 @@
             "macos": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.9/macos-intel-v2.1.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 220,
+            "windows": 221,
             "linux": 15,
             "macos": 4
           }
@@ -3485,7 +3506,7 @@
           },
           "assetDownloadCounts": {
             "windows": 728,
-            "linux": 38,
+            "linux": 39,
             "macos": 12
           }
         },
@@ -5725,7 +5746,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 263,
+            "windows": 264,
             "linux": 16,
             "macos": 0
           }
@@ -5875,7 +5896,7 @@
             "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base/releases/download/v0.0.8-afoniddwr.2/macos-intel-v0.0.8-afoniddwr.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 173,
+            "windows": 174,
             "linux": 17,
             "macos": 4
           }
@@ -6265,7 +6286,7 @@
             "macos": "https://github.com/slak1-OG-mods/jak1-sandpit-level/releases/download/v2.0.1-modbase-merge.4/macos-intel-v2.0.1-modbase-merge.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 202,
+            "windows": 203,
             "linux": 9,
             "macos": 7
           }
@@ -6415,7 +6436,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 15,
+            "windows": 16,
             "linux": 2,
             "macos": 2
           }
@@ -6559,5 +6580,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-09-24T12:40:59.177Z"
+  "lastUpdated": "2025-09-24T15:05:07.334Z"
 }
