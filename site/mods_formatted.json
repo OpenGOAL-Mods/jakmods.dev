@@ -2318,7 +2318,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 832,
+            "windows": 833,
             "linux": 0,
             "macos": 0
           }
@@ -2366,7 +2366,7 @@
           },
           "assetDownloadCounts": {
             "windows": 440,
-            "linux": 17,
+            "linux": 18,
             "macos": 2
           }
         },
@@ -5551,7 +5551,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1799,
+            "windows": 1800,
             "linux": 120,
             "macos": 57
           }
@@ -6286,7 +6286,7 @@
             "macos": "https://github.com/slak1-OG-mods/jak1-sandpit-level/releases/download/v2.0.1-modbase-merge.4/macos-intel-v2.0.1-modbase-merge.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 212,
+            "windows": 213,
             "linux": 9,
             "macos": 7
           }
@@ -6436,8 +6436,8 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 52,
-            "linux": 2,
+            "windows": 56,
+            "linux": 3,
             "macos": 2
           }
         },
@@ -6580,5 +6580,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-09-26T04:24:22.111Z"
+  "lastUpdated": "2025-09-26T08:28:08.355Z"
 }
