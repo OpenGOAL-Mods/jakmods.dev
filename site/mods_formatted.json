@@ -1163,7 +1163,7 @@
           "assetDownloadCounts": {
             "windows": 125,
             "linux": 12,
-            "macos": 5
+            "macos": 6
           }
         },
         {
@@ -4889,7 +4889,7 @@
             "macos": "https://github.com/my-opengoal-mods/OG-warp-randomizer/releases/download/v0.0.16/macos-intel-v0.0.16.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 6,
+            "windows": 7,
             "linux": 1,
             "macos": 2
           }
@@ -5551,7 +5551,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1800,
+            "windows": 1804,
             "linux": 120,
             "macos": 57
           }
@@ -6580,5 +6580,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-09-26T08:28:08.355Z"
+  "lastUpdated": "2025-09-26T12:41:03.406Z"
 }
