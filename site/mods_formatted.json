@@ -1954,7 +1954,7 @@
           },
           "assetDownloadCounts": {
             "windows": 199,
-            "linux": 16,
+            "linux": 17,
             "macos": 14
           }
         },
@@ -2318,7 +2318,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 836,
+            "windows": 837,
             "linux": 0,
             "macos": 0
           }
@@ -2365,7 +2365,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 484,
+            "windows": 488,
             "linux": 21,
             "macos": 2
           }
@@ -2748,7 +2748,7 @@
             "macos": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.0.1/macos-intel-v0.0.1-jak2.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 37,
+            "windows": 38,
             "linux": 1,
             "macos": 2
           }
@@ -2769,7 +2769,7 @@
             "macos": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.0.3/macos-intel-v0.0.3-jak2.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 3,
+            "windows": 5,
             "linux": 0,
             "macos": 0
           }
@@ -2790,7 +2790,7 @@
             "macos": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.0.2/macos-intel-v0.0.1-jak2.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 36,
+            "windows": 37,
             "linux": 0,
             "macos": 0
           }
@@ -3409,7 +3409,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Daxter2/releases/download/v1.0.0/macos-intel-v1.0.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 555,
+            "windows": 559,
             "linux": 32,
             "macos": 12
           }
@@ -3615,7 +3615,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.54/macos-intel-v0.0.54.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 92,
+            "windows": 93,
             "linux": 7,
             "macos": 2
           }
@@ -3678,7 +3678,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.39/macos-intel-v0.0.39.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 465,
+            "windows": 466,
             "linux": 43,
             "macos": 7
           }
@@ -5593,7 +5593,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1827,
+            "windows": 1830,
             "linux": 124,
             "macos": 58
           }
@@ -5939,7 +5939,7 @@
           },
           "assetDownloadCounts": {
             "windows": 182,
-            "linux": 17,
+            "linux": 18,
             "macos": 4
           }
         },
@@ -6176,7 +6176,7 @@
           },
           "assetDownloadCounts": {
             "windows": 846,
-            "linux": 74,
+            "linux": 75,
             "macos": 15
           }
         },
@@ -6241,7 +6241,7 @@
             "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base-Glacier/releases/download/v1.0.9/macos-intel-v1.0.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 309,
+            "windows": 310,
             "linux": 25,
             "macos": 13
           }
@@ -6478,8 +6478,8 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 89,
-            "linux": 4,
+            "windows": 92,
+            "linux": 5,
             "macos": 4
           }
         },
@@ -6622,5 +6622,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-09-28T12:36:53.549Z"
+  "lastUpdated": "2025-09-28T16:21:26.523Z"
 }
