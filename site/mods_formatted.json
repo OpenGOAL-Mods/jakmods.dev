@@ -2365,7 +2365,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 475,
+            "windows": 478,
             "linux": 21,
             "macos": 2
           }
@@ -2769,7 +2769,7 @@
             "macos": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.0.2/macos-intel-v0.0.1-jak2.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 32,
+            "windows": 34,
             "linux": 0,
             "macos": 0
           }
@@ -3506,7 +3506,7 @@
           },
           "assetDownloadCounts": {
             "windows": 736,
-            "linux": 39,
+            "linux": 40,
             "macos": 12
           }
         },
@@ -4038,7 +4038,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Dark-Jak/releases/download/v0.5.0/macos-intel-v0.5.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 176,
+            "windows": 177,
             "linux": 16,
             "macos": 5
           }
@@ -4309,6 +4309,27 @@
       ],
       "versions": [
         {
+          "version": "1.1.0",
+          "publishedDate": "2025-09-28T03:22:30Z",
+          "supportedGames": [
+            "jak2"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/Nick0778/OG-Jak2-Defend-The-Portwall/releases/download/v1.1.0/windows-v2.0.0.zip",
+            "linux": "https://github.com/Nick0778/OG-Jak2-Defend-The-Portwall/releases/download/v1.1.0/linux-v2.0.0.tar.gz",
+            "macos": "https://github.com/Nick0778/OG-Jak2-Defend-The-Portwall/releases/download/v1.1.0/macos-intel-v2.0.0.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
           "version": "1.0.0",
           "publishedDate": "2025-02-25T09:19:45Z",
           "supportedGames": [
@@ -4324,7 +4345,7 @@
             "macos": "https://github.com/Nick0778/OG-Jak2-Defend-The-Portwall/releases/download/v1.0.0/macos-intel-v1.0.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 407,
+            "windows": 409,
             "linux": 14,
             "macos": 2
           }
@@ -5551,7 +5572,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1823,
+            "windows": 1825,
             "linux": 124,
             "macos": 57
           }
@@ -5572,7 +5593,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.4/macos-intel-v0.3.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 248,
+            "windows": 249,
             "linux": 11,
             "macos": 29
           }
@@ -6067,7 +6088,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 719,
+            "windows": 720,
             "linux": 0,
             "macos": 0
           }
@@ -6133,7 +6154,7 @@
             "macos": "https://github.com/Cuttlefishthesage/LL-OpenGOAL-ModBase/releases/download/v4.3.4/macos-intel-v4.3.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 844,
+            "windows": 845,
             "linux": 74,
             "macos": 15
           }
@@ -6436,7 +6457,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 87,
+            "windows": 88,
             "linux": 4,
             "macos": 4
           }
@@ -6580,5 +6601,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-09-28T01:43:30.280Z"
+  "lastUpdated": "2025-09-28T04:24:00.879Z"
 }
