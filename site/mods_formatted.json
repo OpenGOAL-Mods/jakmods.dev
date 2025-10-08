@@ -1162,7 +1162,7 @@
           },
           "assetDownloadCounts": {
             "windows": 134,
-            "linux": 12,
+            "linux": 13,
             "macos": 6
           }
         },
@@ -5830,7 +5830,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 289,
+            "windows": 290,
             "linux": 17,
             "macos": 0
           }
@@ -6520,7 +6520,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 264,
+            "windows": 266,
             "linux": 16,
             "macos": 6
           }
@@ -6664,5 +6664,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-10-08T01:26:41.000Z"
+  "lastUpdated": "2025-10-08T04:23:43.328Z"
 }
