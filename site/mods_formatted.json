@@ -930,6 +930,27 @@
       ],
       "versions": [
         {
+          "version": "0.2.5-mergetime1127.2",
+          "publishedDate": "2025-10-09T20:29:00Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/releases/download/v0.2.5-mergetime1127.2/windows-v0.2.5-mergetime1127.2.zip",
+            "linux": "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/releases/download/v0.2.5-mergetime1127.2/linux-v0.2.5-mergetime1127.2.tar.gz",
+            "macos": "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/releases/download/v0.2.5-mergetime1127.2/macos-intel-v0.2.5-mergetime1127.2.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
           "version": "0.2.5-mergetime1127.1",
           "publishedDate": "2025-05-10T15:54:30Z",
           "supportedGames": [
@@ -6664,5 +6685,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-10-09T20:23:03.193Z"
+  "lastUpdated": "2025-10-09T20:30:45.212Z"
 }
