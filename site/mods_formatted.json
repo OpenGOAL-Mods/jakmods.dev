@@ -2811,7 +2811,7 @@
             "macos": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.0.5/macos-intel-v0.0.5-jak2.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 30,
+            "windows": 31,
             "linux": 0,
             "macos": 0
           }
@@ -6685,5 +6685,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-10-10T01:27:17.419Z"
+  "lastUpdated": "2025-10-10T01:51:28.239Z"
 }
