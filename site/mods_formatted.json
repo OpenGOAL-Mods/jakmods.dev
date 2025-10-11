@@ -945,7 +945,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/releases/download/v0.2.5-mergetime1127.3/macos-intel-v0.2.5-mergetime1127.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 7,
+            "windows": 8,
             "linux": 0,
             "macos": 0
           }
@@ -1503,7 +1503,7 @@
             "macos": "https://github.com/dallmeyer/OG-OrbHunt/releases/download/v1.10.13/macos-intel-v1.10.13.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 183,
+            "windows": 184,
             "linux": 13,
             "macos": 10
           }
@@ -2386,7 +2386,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 664,
+            "windows": 665,
             "linux": 23,
             "macos": 2
           }
@@ -4408,7 +4408,7 @@
             "macos": "https://github.com/Nick0778/OG-Jak2-Defend-The-Portwall/releases/download/v1.1.0/macos-intel-v2.0.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 15,
+            "windows": 17,
             "linux": 0,
             "macos": 0
           }
@@ -4746,7 +4746,7 @@
           },
           "assetDownloadCounts": {
             "windows": 28,
-            "linux": 2,
+            "linux": 3,
             "macos": 2
           }
         },
@@ -5504,7 +5504,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-SC/releases/download/v1.4.1/macos-intel-v1.4.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 36,
+            "windows": 37,
             "linux": 2,
             "macos": 1
           }
@@ -5548,7 +5548,7 @@
           "assetDownloadCounts": {
             "windows": 7,
             "linux": 3,
-            "macos": 1
+            "macos": 2
           }
         },
         {
@@ -6685,5 +6685,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-10-11T12:35:56.135Z"
+  "lastUpdated": "2025-10-11T16:21:23.278Z"
 }
