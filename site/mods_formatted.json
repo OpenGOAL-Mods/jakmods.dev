@@ -2386,7 +2386,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 666,
+            "windows": 669,
             "linux": 23,
             "macos": 2
           }
@@ -6001,7 +6001,7 @@
             "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base/releases/download/v0.0.8-afoniddwr.2/macos-intel-v0.0.8-afoniddwr.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 199,
+            "windows": 200,
             "linux": 21,
             "macos": 4
           }
@@ -6172,7 +6172,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 739,
+            "windows": 740,
             "linux": 0,
             "macos": 0
           }
@@ -6541,7 +6541,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 300,
+            "windows": 301,
             "linux": 17,
             "macos": 7
           }
@@ -6685,5 +6685,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-10-12T01:38:02.127Z"
+  "lastUpdated": "2025-10-12T04:22:45.093Z"
 }
