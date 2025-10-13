@@ -2386,7 +2386,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 690,
+            "windows": 691,
             "linux": 24,
             "macos": 2
           }
@@ -2796,6 +2796,27 @@
           }
         },
         {
+          "version": "0.0.6",
+          "publishedDate": "2025-10-13T16:47:06Z",
+          "supportedGames": [
+            "jak2"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.0.6/windows-v0.0.6-jak2.0.zip",
+            "linux": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.0.6/linux-v0.0.6-jak2.0.tar.gz",
+            "macos": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.0.6/macos-intel-v0.0.6-jak2.0.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 1,
+            "linux": 1,
+            "macos": 1
+          }
+        },
+        {
           "version": "0.0.5",
           "publishedDate": "2025-10-02T00:23:54Z",
           "supportedGames": [
@@ -2811,7 +2832,7 @@
             "macos": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.0.5/macos-intel-v0.0.5-jak2.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 35,
+            "windows": 36,
             "linux": 0,
             "macos": 0
           }
@@ -3589,7 +3610,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.7/macos-intel-v0.0.7.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 772,
+            "windows": 773,
             "linux": 40,
             "macos": 12
           }
@@ -4994,7 +5015,7 @@
             "macos": "https://github.com/my-opengoal-mods/OG-warp-randomizer/releases/download/v0.0.16/macos-intel-v0.0.16.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 28,
+            "windows": 29,
             "linux": 2,
             "macos": 3
           }
@@ -6685,5 +6706,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-10-13T16:27:01.936Z"
+  "lastUpdated": "2025-10-13T17:22:35.562Z"
 }
