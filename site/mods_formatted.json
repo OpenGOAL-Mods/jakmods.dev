@@ -1834,7 +1834,7 @@
           },
           "assetDownloadCounts": {
             "windows": 45,
-            "linux": 11,
+            "linux": 12,
             "macos": 4
           }
         },
@@ -2386,7 +2386,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 700,
+            "windows": 701,
             "linux": 24,
             "macos": 2
           }
@@ -6022,7 +6022,7 @@
             "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base/releases/download/v0.0.8-afoniddwr.2/macos-intel-v0.0.8-afoniddwr.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 201,
+            "windows": 202,
             "linux": 21,
             "macos": 4
           }
@@ -6628,7 +6628,7 @@
             "macos": "https://github.com/Clankape/OG-Mod-Base-Halloween/releases/download/v0.0.4/macos-intel-v0.0.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 461,
+            "windows": 462,
             "linux": 20,
             "macos": 11
           }
@@ -6706,5 +6706,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-10-14T01:27:25.294Z"
+  "lastUpdated": "2025-10-14T04:25:15.630Z"
 }
