@@ -392,6 +392,19 @@ mods:
     website_url: "https://github.com/OpenGOAL-Mods/OG-Dark-Jak/blob/main/README.md"
     cover_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/main/darkjak.webp"
     thumbnail_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/main/darkjak.webp"
+    
+  better-dark-jak:
+    repo_owner: "CraiyDev"
+    repo_name: "CraiyDev/Better-Dark-Jak"
+    url: "https://github.com/CraiyDev/Better-Dark-Jak"
+    release_date_override: "2025-07-16"
+    display_name: "Better Dark Jak"
+    description: "A gameplay overhaul mod for Jak 2 that modernizes the Dark Jak mechanics to work more like they do in Jak 3."
+    authors: ["CraiyDev"]
+    tags: ["gameplay-mod"]
+    website_url: "https://github.com/CraiyDev/Better-Dark-Jak/blob/main/README.md"
+    cover_art_url: "https://raw.githubusercontent.com/CraiyDev/Better-Dark-Jak/refs/heads/main/img/background.png"
+    thumbnail_art_url: "https://raw.githubusercontent.com/CraiyDev/Better-Dark-Jak/refs/heads/main/img/cover.png"
 
   speeb:
     repo_owner: "EvelynTSMG"
