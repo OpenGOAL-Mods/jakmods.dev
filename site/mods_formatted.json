@@ -1274,7 +1274,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-SM64/releases/download/v0.2.8/macos-intel-v0.2.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 312,
+            "windows": 313,
             "linux": 19,
             "macos": 10
           }
@@ -2386,7 +2386,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 706,
+            "windows": 709,
             "linux": 24,
             "macos": 2
           }
@@ -3610,7 +3610,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.7/macos-intel-v0.0.7.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 773,
+            "windows": 774,
             "linux": 41,
             "macos": 12
           }
@@ -3699,7 +3699,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.54/macos-intel-v0.0.54.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 137,
+            "windows": 138,
             "linux": 9,
             "macos": 2
           }
@@ -4238,6 +4238,51 @@
       "perGameConfig": {
         "jak2": {
           "releaseDate": "2023-11-11"
+        }
+      },
+      "externalLink": null
+    },
+    "better-dark-jak": {
+      "displayName": "Better Dark Jak",
+      "description": "A gameplay overhaul mod for Jak 2 that modernizes the Dark Jak mechanics to work more like they do in Jak 3.",
+      "authors": [
+        "CraiyDev"
+      ],
+      "tags": [
+        "gameplay-mod"
+      ],
+      "websiteUrl": "https://github.com/CraiyDev/Better-Dark-Jak/blob/main/README.md",
+      "supportedGames": [
+        "jak2"
+      ],
+      "versions": [
+        {
+          "version": "0.0.2",
+          "publishedDate": "2025-07-17T02:22:22Z",
+          "supportedGames": [
+            "jak2"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/CraiyDev/Better-Dark-Jak/releases/download/v0.0.2/windows-v0.0.2.zip",
+            "linux": "https://github.com/CraiyDev/Better-Dark-Jak/releases/download/v0.0.2/linux-v0.0.2.tar.gz",
+            "macos": "https://github.com/CraiyDev/Better-Dark-Jak/releases/download/v0.0.2/macos-intel-v0.0.2.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 3,
+            "linux": 1,
+            "macos": 1
+          }
+        }
+      ],
+      "coverArtUrl": "https://raw.githubusercontent.com/CraiyDev/Better-Dark-Jak/refs/heads/main/img/background.png",
+      "thumbnailArtUrl": "https://raw.githubusercontent.com/CraiyDev/Better-Dark-Jak/refs/heads/main/img/cover.png",
+      "perGameConfig": {
+        "jak2": {
+          "releaseDate": "2025-07-16"
         }
       },
       "externalLink": null
@@ -5677,7 +5722,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1954,
+            "windows": 1956,
             "linux": 129,
             "macos": 58
           }
@@ -5872,7 +5917,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 297,
+            "windows": 298,
             "linux": 17,
             "macos": 0
           }
@@ -6325,7 +6370,7 @@
             "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base-Glacier/releases/download/v1.0.9/macos-intel-v1.0.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 355,
+            "windows": 357,
             "linux": 30,
             "macos": 13
           }
@@ -6562,7 +6607,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 315,
+            "windows": 316,
             "linux": 17,
             "macos": 9
           }
@@ -6706,5 +6751,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-10-14T16:26:45.451Z"
+  "lastUpdated": "2025-10-14T19:43:05.375Z"
 }
