@@ -2386,7 +2386,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 702,
+            "windows": 704,
             "linux": 24,
             "macos": 2
           }
@@ -6325,7 +6325,7 @@
             "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base-Glacier/releases/download/v1.0.9/macos-intel-v1.0.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 354,
+            "windows": 355,
             "linux": 30,
             "macos": 13
           }
@@ -6706,5 +6706,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-10-14T08:25:54.022Z"
+  "lastUpdated": "2025-10-14T12:44:28.018Z"
 }
