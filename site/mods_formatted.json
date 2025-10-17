@@ -490,7 +490,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Randomizer/releases/download/v0.6.4/macos-intel-v0.6.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 109,
+            "windows": 111,
             "linux": 3,
             "macos": 7
           }
@@ -945,7 +945,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/releases/download/v0.2.5-mergetime1127.3/macos-intel-v0.2.5-mergetime1127.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 12,
+            "windows": 13,
             "linux": 0,
             "macos": 0
           }
@@ -1274,7 +1274,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-SM64/releases/download/v0.2.8/macos-intel-v0.2.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 314,
+            "windows": 315,
             "linux": 19,
             "macos": 10
           }
@@ -1503,7 +1503,7 @@
             "macos": "https://github.com/dallmeyer/OG-OrbHunt/releases/download/v1.10.13/macos-intel-v1.10.13.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 188,
+            "windows": 189,
             "linux": 13,
             "macos": 10
           }
@@ -2244,7 +2244,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Fricked/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 176,
+            "windows": 177,
             "linux": 10,
             "macos": 8
           }
@@ -2386,7 +2386,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 725,
+            "windows": 726,
             "linux": 24,
             "macos": 3
           }
@@ -4272,7 +4272,7 @@
             "macos": "https://github.com/CraiyDev/Better-Dark-Jak/releases/download/v0.0.2/macos-intel-v0.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 24,
+            "windows": 27,
             "linux": 2,
             "macos": 1
           }
@@ -4474,7 +4474,7 @@
             "macos": "https://github.com/Nick0778/OG-Jak2-Defend-The-Portwall/releases/download/v1.1.0/macos-intel-v2.0.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 32,
+            "windows": 34,
             "linux": 0,
             "macos": 0
           }
@@ -5423,7 +5423,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-SC/releases/download/v1.6.5/macos-intel-v1.6.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 61,
+            "windows": 62,
             "linux": 5,
             "macos": 3
           }
@@ -5722,7 +5722,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1969,
+            "windows": 1971,
             "linux": 129,
             "macos": 60
           }
@@ -6607,7 +6607,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 335,
+            "windows": 338,
             "linux": 17,
             "macos": 9
           }
@@ -6630,7 +6630,7 @@
           "assetDownloadCounts": {
             "windows": 638,
             "linux": 29,
-            "macos": 16
+            "macos": 17
           }
         }
       ],
@@ -6673,7 +6673,7 @@
             "macos": "https://github.com/Clankape/OG-Mod-Base-Halloween/releases/download/v0.0.4/macos-intel-v0.0.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 465,
+            "windows": 467,
             "linux": 20,
             "macos": 11
           }
@@ -6751,5 +6751,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-10-17T01:28:07.429Z"
+  "lastUpdated": "2025-10-17T04:24:39.655Z"
 }
