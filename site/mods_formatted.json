@@ -2386,7 +2386,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 767,
+            "windows": 768,
             "linux": 27,
             "macos": 3
           }
@@ -3610,7 +3610,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.7/macos-intel-v0.0.7.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 786,
+            "windows": 787,
             "linux": 42,
             "macos": 12
           }
@@ -3699,7 +3699,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.54/macos-intel-v0.0.54.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 151,
+            "windows": 152,
             "linux": 9,
             "macos": 2
           }
@@ -4272,7 +4272,7 @@
             "macos": "https://github.com/CraiyDev/Better-Dark-Jak/releases/download/v0.0.2/macos-intel-v0.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 50,
+            "windows": 53,
             "linux": 3,
             "macos": 1
           }
@@ -4474,7 +4474,7 @@
             "macos": "https://github.com/Nick0778/OG-Jak2-Defend-The-Portwall/releases/download/v1.1.0/macos-intel-v2.0.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 34,
+            "windows": 35,
             "linux": 0,
             "macos": 0
           }
@@ -5187,7 +5187,7 @@
           },
           "assetDownloadCounts": {
             "windows": 11,
-            "linux": 2,
+            "linux": 3,
             "macos": 1
           }
         },
@@ -5722,7 +5722,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1987,
+            "windows": 1988,
             "linux": 132,
             "macos": 60
           }
@@ -5917,7 +5917,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 304,
+            "windows": 305,
             "linux": 17,
             "macos": 0
           }
@@ -6608,7 +6608,7 @@
           },
           "assetDownloadCounts": {
             "windows": 378,
-            "linux": 19,
+            "linux": 20,
             "macos": 9
           }
         },
@@ -6673,7 +6673,7 @@
             "macos": "https://github.com/Clankape/OG-Mod-Base-Halloween/releases/download/v0.0.4/macos-intel-v0.0.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 471,
+            "windows": 473,
             "linux": 21,
             "macos": 11
           }
@@ -6751,5 +6751,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-10-20T08:35:14.245Z"
+  "lastUpdated": "2025-10-20T12:43:00.002Z"
 }
