@@ -149,6 +149,13 @@
     await navigator.clipboard.writeText(modsUrl);
     alert("Copied " + modsUrl + " to clipboard");
   }
+
+  async function toggleInstructions(show_short) {
+    let shortDiv = document.getElementById("installation-short");
+    let longDiv = document.getElementById("installation-long");
+    shortDiv.style.display = show_short ?  'block': 'none';
+    longDiv.style.display = show_short ? 'none' : 'block';
+  }
     
   window.addEventListener("load", () => {
     asyncLoadModTable();
@@ -165,11 +172,21 @@
     <div class="main">
       <p><a name="install"></a><h2>Installation</h2></p>
       <p><h3>OpenGOAL Mods are now supported in the vanilla OpenGOAL Launcher!</h3></p>
-      <p>Please see the following instructions, or the video below.
+      <div id="installation-short">
+        <p>Please see the following instructions, or the video below.</p>
+        <button onclick="toggleInstructions(false)">Show me the long instructions!</button>
+        <ol>
+          <li>Click this button to copy our Mod List URL to clipboard: <button onclick="copyUrlToClipboard()">Click to copy!</button></li>
+          <li>Add this URL as a new Mod Source in the OpenGOAL launcher</li>
+        </ol>
+      </div>
+      <div id="installation-long" style="display:none;">
+        <p>Please see the following instructions, or the video below.</p>
+        <button onclick="toggleInstructions(true)">Show me the short instructions!</button>
         <ol>
           <li>Download and install the <a href="https://opengoal.dev">OpenGOAL Launcher</a>. Your launcher version needs to be at least v2.4.10</li>
           <li>Before mods can be installed, go through the Launcher's <i>vanilla installation</i> process for the game(s) you're interested in</li>
-          <li>Copy our <a href="https://jakmods.dev/mods.json">Mod List URL</a> to clipboard <button onclick="copyUrlToClipboard()">Click to copy!</button></li>
+          <li>Click this button to copy our Mod List URL to clipboard: <button onclick="copyUrlToClipboard()">Click to copy!</button></li>
           <li>In the OpenGOAL Launcher go to Settings in the lower left, then go to the Mods tab</li>
           <li>Paste the Mod List URL in the box, then press the Add button</li>
           <li>Navigate to game page of your choice, click the Features button, and then the Mods option</li>
@@ -178,7 +195,7 @@
           <li>Once installed, clicking a mod brings you to a landing page for the mod. From here you can play the mod, change versions, uninstall, etc.</li>
           <li>For each mod, there can only be one version installed at a given time. When new versions of a mod are available, you should see a notification on the Versions button. You can select which version to install from here, or you'll also be prompted to update the mod before playing (unless you opt out of this behavior).</li>
         </ol>
-      </p>
+      </div>
       <p><b>PLEASE NOTE</b>: The mod list and the mods themselves are NOT supported by the main OpenGOAL developers! For more information see the <a href="faq.html">FAQ</a>, or join us in the <a href="https://discord.gg/k5PKHta6d8">OpenGOAL Modding Discord server</a> for any questions.</p>
       <p>All mods are installed and ran at your own risk.</p>
       <iframe width="560" height="315" src="https://www.youtube.com/embed/r9E01A3BlEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
