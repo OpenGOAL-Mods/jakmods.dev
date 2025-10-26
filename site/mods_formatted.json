@@ -2796,6 +2796,27 @@
           }
         },
         {
+          "version": "0.0.7",
+          "publishedDate": "2025-10-26T02:10:29Z",
+          "supportedGames": [
+            "jak2"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.0.7/windows-v0.0.7-jak2.0.zip",
+            "linux": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.0.7/linux-v0.0.7-jak2.0.tar.gz",
+            "macos": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.0.7/macos-intel-v0.0.7-jak2.0.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
           "version": "0.0.6",
           "publishedDate": "2025-10-13T16:47:06Z",
           "supportedGames": [
@@ -6607,7 +6628,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 420,
+            "windows": 421,
             "linux": 22,
             "macos": 11
           }
@@ -6751,5 +6772,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-10-26T01:43:10.967Z"
+  "lastUpdated": "2025-10-26T02:15:44.550Z"
 }
