@@ -2386,7 +2386,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 852,
+            "windows": 853,
             "linux": 34,
             "macos": 5
           }
@@ -2811,7 +2811,7 @@
             "macos": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.0.7/macos-intel-v0.0.7-jak2.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 12,
+            "windows": 13,
             "linux": 2,
             "macos": 2
           }
@@ -4293,7 +4293,7 @@
             "macos": "https://github.com/CraiyDev/Better-Dark-Jak/releases/download/v0.0.2/macos-intel-v0.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 103,
+            "windows": 104,
             "linux": 11,
             "macos": 3
           }
@@ -4403,8 +4403,8 @@
             "macos": "https://github.com/EvelynTSMG/JakSpeeb/releases/download/v1.0.0/macos-intel-v1.0.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 99,
-            "linux": 10,
+            "windows": 100,
+            "linux": 11,
             "macos": 10
           }
         }
@@ -4680,7 +4680,7 @@
           "assetDownloadCounts": {
             "windows": 13,
             "linux": 6,
-            "macos": 5
+            "macos": 6
           }
         },
         {
@@ -5745,7 +5745,7 @@
           "assetDownloadCounts": {
             "windows": 2041,
             "linux": 137,
-            "macos": 63
+            "macos": 64
           }
         },
         {
@@ -6259,7 +6259,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 763,
+            "windows": 764,
             "linux": 0,
             "macos": 0
           }
@@ -6628,7 +6628,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 451,
+            "windows": 453,
             "linux": 26,
             "macos": 13
           }
@@ -6772,5 +6772,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-10-29T20:23:55.836Z"
+  "lastUpdated": "2025-10-30T01:43:05.030Z"
 }
