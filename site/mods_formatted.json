@@ -1274,7 +1274,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-SM64/releases/download/v0.2.8/macos-intel-v0.2.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 330,
+            "windows": 331,
             "linux": 22,
             "macos": 12
           }
@@ -1503,7 +1503,7 @@
             "macos": "https://github.com/dallmeyer/OG-OrbHunt/releases/download/v1.10.13/macos-intel-v1.10.13.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 207,
+            "windows": 208,
             "linux": 15,
             "macos": 12
           }
@@ -2065,7 +2065,7 @@
           },
           "assetDownloadCounts": {
             "windows": 245,
-            "linux": 41,
+            "linux": 42,
             "macos": 10
           }
         },
@@ -2386,7 +2386,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 874,
+            "windows": 876,
             "linux": 34,
             "macos": 5
           }
@@ -3742,7 +3742,7 @@
           },
           "assetDownloadCounts": {
             "windows": 120,
-            "linux": 11,
+            "linux": 12,
             "macos": 5
           }
         },
@@ -5743,7 +5743,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2046,
+            "windows": 2047,
             "linux": 140,
             "macos": 64
           }
@@ -6088,7 +6088,7 @@
             "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base/releases/download/v0.0.8-afoniddwr.2/macos-intel-v0.0.8-afoniddwr.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 221,
+            "windows": 222,
             "linux": 27,
             "macos": 6
           }
@@ -6772,5 +6772,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-11-01T12:38:39.086Z"
+  "lastUpdated": "2025-11-01T16:22:10.219Z"
 }
