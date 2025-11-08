@@ -4876,7 +4876,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.0.9/macos-intel-v0.0.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 19,
+            "windows": 20,
             "linux": 6,
             "macos": 6
           }
@@ -5745,7 +5745,7 @@
           "assetDownloadCounts": {
             "windows": 2069,
             "linux": 143,
-            "macos": 64
+            "macos": 65
           }
         },
         {
@@ -6628,9 +6628,9 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 516,
+            "windows": 518,
             "linux": 36,
-            "macos": 13
+            "macos": 14
           }
         },
         {
@@ -6772,5 +6772,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-11-08T12:37:44.540Z"
+  "lastUpdated": "2025-11-08T16:23:52.819Z"
 }
