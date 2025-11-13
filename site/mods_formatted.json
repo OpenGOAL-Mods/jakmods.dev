@@ -2387,7 +2387,7 @@
           },
           "assetDownloadCounts": {
             "windows": 1032,
-            "linux": 40,
+            "linux": 41,
             "macos": 5
           }
         },
@@ -2451,7 +2451,7 @@
           "assetDownloadCounts": {
             "windows": 1014,
             "linux": 35,
-            "macos": 8
+            "macos": 9
           }
         },
         {
@@ -3721,7 +3721,7 @@
           },
           "assetDownloadCounts": {
             "windows": 202,
-            "linux": 17,
+            "linux": 18,
             "macos": 5
           }
         },
@@ -5228,7 +5228,7 @@
             "macos": "https://github.com/my-opengoal-mods/OG-warp-randomizer/releases/download/v0.0.9/macos-intel-v0.0.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 6,
+            "windows": 7,
             "linux": 5,
             "macos": 5
           }
@@ -5271,7 +5271,7 @@
           },
           "assetDownloadCounts": {
             "windows": 15,
-            "linux": 5,
+            "linux": 6,
             "macos": 6
           }
         },
@@ -6772,5 +6772,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-11-13T16:26:49.861Z"
+  "lastUpdated": "2025-11-13T20:24:01.174Z"
 }
