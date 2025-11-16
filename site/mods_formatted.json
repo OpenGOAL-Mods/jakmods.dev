@@ -1503,7 +1503,7 @@
             "macos": "https://github.com/dallmeyer/OG-OrbHunt/releases/download/v1.10.13/macos-intel-v1.10.13.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 221,
+            "windows": 222,
             "linux": 17,
             "macos": 13
           }
@@ -3720,8 +3720,8 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.54/macos-intel-v0.0.54.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 206,
-            "linux": 19,
+            "windows": 207,
+            "linux": 20,
             "macos": 5
           }
         },
@@ -5444,7 +5444,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-SC/releases/download/v1.6.5/macos-intel-v1.6.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 80,
+            "windows": 81,
             "linux": 8,
             "macos": 5
           }
@@ -5743,7 +5743,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2101,
+            "windows": 2102,
             "linux": 149,
             "macos": 66
           }
@@ -6325,7 +6325,7 @@
             "macos": "https://github.com/Cuttlefishthesage/LL-OpenGOAL-ModBase/releases/download/v4.3.4/macos-intel-v4.3.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 919,
+            "windows": 920,
             "linux": 89,
             "macos": 17
           }
@@ -6628,7 +6628,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 564,
+            "windows": 565,
             "linux": 42,
             "macos": 14
           }
@@ -6772,5 +6772,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-11-16T08:26:15.754Z"
+  "lastUpdated": "2025-11-16T12:38:50.331Z"
 }
