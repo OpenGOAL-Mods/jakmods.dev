@@ -2339,7 +2339,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 910,
+            "windows": 911,
             "linux": 0,
             "macos": 0
           }
@@ -4293,7 +4293,7 @@
             "macos": "https://github.com/CraiyDev/Better-Dark-Jak/releases/download/v0.0.2/macos-intel-v0.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 188,
+            "windows": 189,
             "linux": 17,
             "macos": 4
           }
@@ -5938,8 +5938,8 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 340,
-            "linux": 21,
+            "windows": 341,
+            "linux": 22,
             "macos": 0
           }
         },
@@ -6772,5 +6772,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-11-19T08:29:18.931Z"
+  "lastUpdated": "2025-11-19T12:45:14.425Z"
 }
