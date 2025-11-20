@@ -26,6 +26,34 @@
       </details></p>
 
       <p><details>
+        <summary><b>Can I apply a texture pack to a mod?</b></summary>
+        <p style="margin-left: 25px">Yes!
+          <ol>
+            <li>Install the mod like normal.</li>
+            <li>Click the "Open Game Data Folder" option on the mod page in launcher to open the mod's install location</li>
+            <li>Open the <code>data</code> folder, and check if you see a <code>custom_assets</code> folder inside
+              <ul>
+                <li>If you DO see a <code>custom_assets</code> folder, this is a newer mod:
+                  <ol>
+                    <li>Create a <code>texture_replacements</code> folder within the <code>custom_assets</code> folder (some mods may already have this folder)</li>
+                    <li>Create a <code>jak1</code> (or <code>jak2</code>) folder within the <code>texture_replacements</code> folder (some mods may already have this folder)</li>
+                    <li>Copy/paste the contents of the texture pack you want to use into the <code>data/custom_assets/texture_replacements/jak1</code> folder (or the <code>jak2</code> equivalent)</li>
+                  </ol>
+                </li>
+                <li>If you do NOT see <code>custom_assets</code> folder, this is an older mod:
+                  <ol>
+                    <li>Create a <code>texture_replacements</code> folder within the <code>data</code> folder (some mods may already have this folder)</li>
+                    <li>Copy/paste the contents of the texture pack you want to use into the <code>data/texture_replacements</code> folder</li>
+                  </ol>
+                </li>
+              </ul>
+            </li>
+            <li>Back on the mod page in the launcher, click the "Decompile" button, and it will rebuild the game using your texture pack</li>
+          </ol>
+        </p>
+      </details></p>
+
+      <p><details>
         <summary><b>Can I use multiple mods together in combination?</b></summary>
         <p style="margin-left: 25px">No, not easily, at least at the moment. Since each mod is a completely standalone copy of the jak-project, there's no easy way to guarantee changes are compatible with each other or an easy way to resolve conflicts.</p>
         <p style="margin-left: 25px">For example, how would you combine the FlutFlut Legacy and the Zoomer Legacy? You can't be simultaneously on FlutFlut and on the Zoomer.</p>
