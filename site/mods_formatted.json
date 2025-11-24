@@ -39,7 +39,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Speedrun-Practice/releases/download/v0.4.9/macos-intel-v0.4.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 109,
+            "windows": 110,
             "linux": 8,
             "macos": 3
           }
@@ -2428,7 +2428,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1190,
+            "windows": 1191,
             "linux": 48,
             "macos": 5
           }
@@ -5785,7 +5785,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2139,
+            "windows": 2140,
             "linux": 151,
             "macos": 67
           }
@@ -6368,7 +6368,7 @@
           },
           "assetDownloadCounts": {
             "windows": 928,
-            "linux": 89,
+            "linux": 90,
             "macos": 17
           }
         },
@@ -6434,7 +6434,7 @@
           },
           "assetDownloadCounts": {
             "windows": 418,
-            "linux": 38,
+            "linux": 39,
             "macos": 17
           }
         },
@@ -6670,7 +6670,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 622,
+            "windows": 623,
             "linux": 46,
             "macos": 14
           }
@@ -6814,5 +6814,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-11-24T16:25:13.068Z"
+  "lastUpdated": "2025-11-24T20:25:31.760Z"
 }
