@@ -1392,7 +1392,7 @@
           },
           "assetDownloadCounts": {
             "windows": 4,
-            "linux": 1,
+            "linux": 2,
             "macos": 1
           }
         },
@@ -2381,7 +2381,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 914,
+            "windows": 915,
             "linux": 0,
             "macos": 0
           }
@@ -2428,7 +2428,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1179,
+            "windows": 1186,
             "linux": 48,
             "macos": 5
           }
@@ -3673,7 +3673,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.7/macos-intel-v0.0.7.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 861,
+            "windows": 862,
             "linux": 51,
             "macos": 15
           }
@@ -4335,7 +4335,7 @@
             "macos": "https://github.com/CraiyDev/Better-Dark-Jak/releases/download/v0.0.2/macos-intel-v0.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 205,
+            "windows": 206,
             "linux": 21,
             "macos": 4
           }
@@ -4403,7 +4403,7 @@
             "macos": "https://github.com/EvelynTSMG/JakSpeeb/releases/download/v1.2.0/macos-intel-v1.2.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 127,
+            "windows": 128,
             "linux": 7,
             "macos": 5
           }
@@ -4537,7 +4537,7 @@
             "macos": "https://github.com/Nick0778/OG-Jak2-Defend-The-Portwall/releases/download/v1.1.0/macos-intel-v2.0.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 59,
+            "windows": 60,
             "linux": 6,
             "macos": 2
           }
@@ -6814,5 +6814,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-11-24T04:35:45.116Z"
+  "lastUpdated": "2025-11-24T08:30:53.282Z"
 }
