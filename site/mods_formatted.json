@@ -945,7 +945,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/releases/download/v0.2.5-mergetime1127.3/macos-intel-v0.2.5-mergetime1127.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 53,
+            "windows": 54,
             "linux": 5,
             "macos": 2
           }
@@ -2428,7 +2428,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1269,
+            "windows": 1274,
             "linux": 51,
             "macos": 5
           }
@@ -5785,7 +5785,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2162,
+            "windows": 2164,
             "linux": 151,
             "macos": 67
           }
@@ -6835,5 +6835,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-11-30T12:40:32.886Z"
+  "lastUpdated": "2025-11-30T16:24:58.380Z"
 }
