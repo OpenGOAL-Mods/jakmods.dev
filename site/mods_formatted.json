@@ -945,7 +945,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/releases/download/v0.2.5-mergetime1127.3/macos-intel-v0.2.5-mergetime1127.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 54,
+            "windows": 55,
             "linux": 6,
             "macos": 2
           }
@@ -2495,7 +2495,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1290,
+            "windows": 1291,
             "linux": 52,
             "macos": 5
           }
@@ -2920,7 +2920,7 @@
             "macos": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.0.7/macos-intel-v0.0.7-jak2.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 49,
+            "windows": 50,
             "linux": 5,
             "macos": 2
           }
@@ -6047,7 +6047,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 4,
+            "windows": 6,
             "linux": 3,
             "macos": 0
           }
@@ -6902,5 +6902,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-12-01T12:46:57.312Z"
+  "lastUpdated": "2025-12-01T16:31:40.886Z"
 }
