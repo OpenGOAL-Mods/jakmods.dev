@@ -946,7 +946,7 @@
           },
           "assetDownloadCounts": {
             "windows": 54,
-            "linux": 5,
+            "linux": 6,
             "macos": 2
           }
         },
@@ -2381,8 +2381,8 @@
             "macos": "https://github.com/EvelynTSMG/Jak1-Pogo/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 3,
-            "linux": 1,
+            "windows": 4,
+            "linux": 2,
             "macos": 1
           }
         },
@@ -2921,7 +2921,7 @@
           },
           "assetDownloadCounts": {
             "windows": 49,
-            "linux": 4,
+            "linux": 5,
             "macos": 2
           }
         },
@@ -3624,7 +3624,7 @@
           },
           "assetDownloadCounts": {
             "windows": 653,
-            "linux": 45,
+            "linux": 46,
             "macos": 14
           }
         },
@@ -3740,8 +3740,8 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.7/macos-intel-v0.0.7.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 871,
-            "linux": 51,
+            "windows": 873,
+            "linux": 52,
             "macos": 15
           }
         },
@@ -4449,7 +4449,7 @@
             "macos": "https://github.com/EvelynTSMG/JakSpeeb/releases/download/v1.2.0-fools/macos-intel-v1.2.0-fools.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 36,
+            "windows": 37,
             "linux": 6,
             "macos": 4
           }
@@ -6902,5 +6902,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-12-01T08:33:51.938Z"
+  "lastUpdated": "2025-12-01T12:46:57.312Z"
 }
