@@ -246,6 +246,20 @@ mods:
         cover_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/main/frickedup2.png"
         thumbnail_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/main/frickedup2.png"
 
+  pogo:
+    repo_owner: "EvelynTSMG"
+    repo_name: "Jak1-Pogo"
+    url: "https://github.com/EvelynTSMG/Jak1-Pogo"
+    ignore_versions:
+      - "<1.0.3"
+    display_name: "Pogo"
+    description: "Can you beat Jak 1 while constantly jumping? This mod will test that. Check out the mod settings!"
+    authors: ["EvelynTSMG"]
+    tags: ["challenge", "gameplay-mod"]
+    website_url: "https://github.com/EvelynTSMG/Jak1-Pogo/blob/main/README.md"
+    cover_art_url: "https://raw.githubusercontent.com/EvelynTSMG/Jak1-Pogo/refs/heads/main/banner.png"
+    thumbnail_art_url: "https://raw.githubusercontent.com/EvelynTSMG/Jak1-Pogo/refs/heads/main/thumbnail.png"
+
   # TODO: needs new release w/ updated schema
   # ruh-hot-rod:
   #   repo_owner: "rileyfort"
