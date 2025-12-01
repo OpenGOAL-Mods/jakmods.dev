@@ -492,7 +492,7 @@
           "assetDownloadCounts": {
             "windows": 164,
             "linux": 11,
-            "macos": 9
+            "macos": 10
           }
         },
         {
@@ -2195,7 +2195,7 @@
             "macos": "https://github.com/Hat-Kid/og-orange-demon/releases/download/v0.0.3/macos-intel-v0.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 113,
+            "windows": 114,
             "linux": 10,
             "macos": 7
           }
@@ -2350,6 +2350,52 @@
       },
       "externalLink": null
     },
+    "pogo": {
+      "displayName": "Pogo",
+      "description": "Can you beat Jak 1 while constantly jumping? This mod will test that. Check out the mod settings!",
+      "authors": [
+        "EvelynTSMG"
+      ],
+      "tags": [
+        "challenge",
+        "gameplay-mod"
+      ],
+      "websiteUrl": "https://github.com/EvelynTSMG/Jak1-Pogo/blob/main/README.md",
+      "supportedGames": [
+        "jak1"
+      ],
+      "versions": [
+        {
+          "version": "1.0.3",
+          "publishedDate": "2025-11-30T23:56:17Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/EvelynTSMG/Jak1-Pogo/releases/download/v1.0.3/windows-v1.0.3.zip",
+            "linux": "https://github.com/EvelynTSMG/Jak1-Pogo/releases/download/v1.0.3/linux-v1.0.3.tar.gz",
+            "macos": "https://github.com/EvelynTSMG/Jak1-Pogo/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 1,
+            "linux": 1,
+            "macos": 1
+          }
+        }
+      ],
+      "coverArtUrl": "https://raw.githubusercontent.com/EvelynTSMG/Jak1-Pogo/refs/heads/main/banner.png",
+      "thumbnailArtUrl": "https://raw.githubusercontent.com/EvelynTSMG/Jak1-Pogo/refs/heads/main/thumbnail.png",
+      "perGameConfig": {
+        "jak1": {
+          "releaseDate": "2025-11-30T23:56:17Z"
+        }
+      },
+      "externalLink": null
+    },
     "spec-ops": {
       "displayName": "Spec Ops Jak",
       "description": "Immediately after being rescued by Daxter, Jak is fitted with an all black Spec Ops outfit and a new weapon. The Blaster Mod has been replaced with a fully automatic suppressed XM Nova assault rifle that fires depleted light eco rounds. These light eco rounds will easily take down anything in your way.",
@@ -2381,7 +2427,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 917,
+            "windows": 918,
             "linux": 0,
             "macos": 0
           }
@@ -2428,7 +2474,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1280,
+            "windows": 1286,
             "linux": 52,
             "macos": 5
           }
@@ -3556,7 +3602,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Daxter2/releases/download/v1.0.0/macos-intel-v1.0.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 652,
+            "windows": 653,
             "linux": 45,
             "macos": 14
           }
@@ -4206,7 +4252,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Dark-Jak/releases/download/v0.5.0/macos-intel-v0.5.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 241,
+            "windows": 243,
             "linux": 25,
             "macos": 7
           }
@@ -6541,7 +6587,7 @@
             "macos": "https://github.com/slak1-OG-mods/jak1-sandpit-level/releases/download/v2.0.1-modbase-merge.4/macos-intel-v2.0.1-modbase-merge.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 349,
+            "windows": 350,
             "linux": 30,
             "macos": 10
           }
@@ -6691,7 +6737,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 661,
+            "windows": 662,
             "linux": 54,
             "macos": 14
           }
@@ -6835,5 +6881,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-11-30T20:23:38.813Z"
+  "lastUpdated": "2025-12-01T02:00:22.730Z"
 }
