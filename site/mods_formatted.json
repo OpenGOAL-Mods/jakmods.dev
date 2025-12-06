@@ -39,7 +39,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Speedrun-Practice/releases/download/v0.4.9/macos-intel-v0.4.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 116,
+            "windows": 117,
             "linux": 9,
             "macos": 3
           }
@@ -1182,7 +1182,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Zoomer-Legacy/releases/download/v0.1.4/macos-intel-v0.1.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 182,
+            "windows": 183,
             "linux": 18,
             "macos": 9
           }
@@ -2286,7 +2286,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Fricked/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 205,
+            "windows": 206,
             "linux": 16,
             "macos": 10
           }
@@ -2381,7 +2381,7 @@
             "macos": "https://github.com/EvelynTSMG/Jak1-Pogo/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 16,
+            "windows": 18,
             "linux": 3,
             "macos": 1
           }
@@ -2413,6 +2413,97 @@
       "perGameConfig": {
         "jak1": {
           "releaseDate": "2025-11-30T21:06:53Z"
+        }
+      },
+      "externalLink": null
+    },
+    "orbless": {
+      "displayName": "Orbless?",
+      "description": "Orbs are invisible - can you avoid (or collect) them all? Results shown after final boss",
+      "authors": [
+        "dallmeyer",
+        "SixRock",
+        "Kuitar"
+      ],
+      "tags": [
+        "challenge",
+        "gameplay-mod",
+        "speedrunning"
+      ],
+      "websiteUrl": "https://github.com/dallmeyer/OG-NoOrb/blob/main/README.md",
+      "supportedGames": [
+        "jak1"
+      ],
+      "versions": [
+        {
+          "version": "0.0.3",
+          "publishedDate": "2025-12-06T18:18:26Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/dallmeyer/OG-NoOrb/releases/download/v0.0.3/windows-v0.0.3.zip",
+            "linux": "https://github.com/dallmeyer/OG-NoOrb/releases/download/v0.0.3/linux-v0.0.3.tar.gz",
+            "macos": "https://github.com/dallmeyer/OG-NoOrb/releases/download/v0.0.3/macos-intel-v0.0.3.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
+          "version": "0.0.2",
+          "publishedDate": "2025-11-16T21:26:33Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/dallmeyer/OG-NoOrb/releases/download/v0.0.2/windows-v0.0.2.zip",
+            "linux": "https://github.com/dallmeyer/OG-NoOrb/releases/download/v0.0.2/linux-v0.0.2.tar.gz",
+            "macos": "https://github.com/dallmeyer/OG-NoOrb/releases/download/v0.0.2/macos-intel-v0.0.2.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
+          "version": "0.0.1",
+          "publishedDate": "2025-10-25T20:50:55Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/dallmeyer/OG-NoOrb/releases/download/v0.0.1/windows-v0.0.1.zip",
+            "linux": "https://github.com/dallmeyer/OG-NoOrb/releases/download/v0.0.1/linux-v0.0.1.tar.gz",
+            "macos": "https://github.com/dallmeyer/OG-NoOrb/releases/download/v0.0.1/macos-intel-v0.0.1.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 1,
+            "linux": 0,
+            "macos": 0
+          }
+        }
+      ],
+      "coverArtUrl": "https://raw.githubusercontent.com/dallmeyer/OG-NoOrb/refs/heads/main/orbless-bg.png",
+      "thumbnailArtUrl": "https://raw.githubusercontent.com/dallmeyer/OG-NoOrb/refs/heads/main/orbless-thumb.png",
+      "perGameConfig": {
+        "jak1": {
+          "releaseDate": "2025-10-25T20:50:55Z"
         }
       },
       "externalLink": null
@@ -2495,7 +2586,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1368,
+            "windows": 1375,
             "linux": 56,
             "macos": 5
           }
@@ -3741,7 +3832,7 @@
           },
           "assetDownloadCounts": {
             "windows": 883,
-            "linux": 53,
+            "linux": 55,
             "macos": 15
           }
         },
@@ -4402,8 +4493,8 @@
             "macos": "https://github.com/CraiyDev/Better-Dark-Jak/releases/download/v0.0.2/macos-intel-v0.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 239,
-            "linux": 22,
+            "windows": 241,
+            "linux": 25,
             "macos": 5
           }
         }
@@ -5145,7 +5236,7 @@
           },
           "assetDownloadCounts": {
             "windows": 430,
-            "linux": 22,
+            "linux": 23,
             "macos": 10
           }
         }
@@ -5852,7 +5943,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2185,
+            "windows": 2186,
             "linux": 154,
             "macos": 69
           }
@@ -6902,5 +6993,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-12-06T16:25:13.459Z"
+  "lastUpdated": "2025-12-06T20:07:35.095Z"
 }
