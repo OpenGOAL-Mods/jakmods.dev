@@ -1182,7 +1182,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Zoomer-Legacy/releases/download/v0.1.4/macos-intel-v0.1.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 186,
+            "windows": 187,
             "linux": 18,
             "macos": 9
           }
@@ -1274,7 +1274,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-SM64/releases/download/v0.2.8/macos-intel-v0.2.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 356,
+            "windows": 357,
             "linux": 24,
             "macos": 12
           }
@@ -2586,7 +2586,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1403,
+            "windows": 1405,
             "linux": 56,
             "macos": 5
           }
@@ -4364,7 +4364,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Dark-Jak/releases/download/v0.5.0/macos-intel-v0.5.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 248,
+            "windows": 249,
             "linux": 25,
             "macos": 7
           }
@@ -5943,7 +5943,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2195,
+            "windows": 2197,
             "linux": 155,
             "macos": 69
           }
@@ -6138,7 +6138,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 18,
+            "windows": 19,
             "linux": 7,
             "macos": 0
           }
@@ -6309,7 +6309,7 @@
             "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base/releases/download/v0.0.8-afoniddwr.2/macos-intel-v0.0.8-afoniddwr.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 260,
+            "windows": 261,
             "linux": 33,
             "macos": 7
           }
@@ -6480,7 +6480,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 803,
+            "windows": 804,
             "linux": 0,
             "macos": 0
           }
@@ -6546,7 +6546,7 @@
             "macos": "https://github.com/Cuttlefishthesage/LL-OpenGOAL-ModBase/releases/download/v4.3.4/macos-intel-v4.3.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 943,
+            "windows": 944,
             "linux": 92,
             "macos": 18
           }
@@ -6612,7 +6612,7 @@
             "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base-Glacier/releases/download/v1.0.9/macos-intel-v1.0.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 444,
+            "windows": 445,
             "linux": 42,
             "macos": 17
           }
@@ -6699,7 +6699,7 @@
             "macos": "https://github.com/slak1-OG-mods/jak1-sandpit-level/releases/download/v2.0.1-modbase-merge.4/macos-intel-v2.0.1-modbase-merge.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 363,
+            "windows": 364,
             "linux": 31,
             "macos": 10
           }
@@ -6849,7 +6849,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 715,
+            "windows": 716,
             "linux": 59,
             "macos": 14
           }
@@ -6915,7 +6915,7 @@
             "macos": "https://github.com/Clankape/OG-Mod-Base-Halloween/releases/download/v0.0.4/macos-intel-v0.0.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 517,
+            "windows": 518,
             "linux": 25,
             "macos": 13
           }
@@ -6993,5 +6993,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-12-08T08:33:25.475Z"
+  "lastUpdated": "2025-12-08T12:46:15.667Z"
 }
