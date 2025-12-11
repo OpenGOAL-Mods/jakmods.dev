@@ -490,7 +490,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Randomizer/releases/download/v0.6.4/macos-intel-v0.6.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 173,
+            "windows": 174,
             "linux": 11,
             "macos": 10
           }
@@ -1963,7 +1963,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 11,
+            "windows": 12,
             "linux": 0,
             "macos": 0
           }
@@ -2586,7 +2586,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1442,
+            "windows": 1445,
             "linux": 58,
             "macos": 5
           }
@@ -3714,7 +3714,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Daxter2/releases/download/v1.0.0/macos-intel-v1.0.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 666,
+            "windows": 667,
             "linux": 46,
             "macos": 14
           }
@@ -3831,7 +3831,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.7/macos-intel-v0.0.7.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 895,
+            "windows": 896,
             "linux": 57,
             "macos": 15
           }
@@ -4493,7 +4493,7 @@
             "macos": "https://github.com/CraiyDev/Better-Dark-Jak/releases/download/v0.0.2/macos-intel-v0.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 260,
+            "windows": 261,
             "linux": 27,
             "macos": 5
           }
@@ -4695,7 +4695,7 @@
             "macos": "https://github.com/Nick0778/OG-Jak2-Defend-The-Portwall/releases/download/v1.1.0/macos-intel-v2.0.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 70,
+            "windows": 71,
             "linux": 6,
             "macos": 2
           }
@@ -6309,7 +6309,7 @@
             "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base/releases/download/v0.0.8-afoniddwr.2/macos-intel-v0.0.8-afoniddwr.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 265,
+            "windows": 266,
             "linux": 33,
             "macos": 7
           }
@@ -6480,7 +6480,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 811,
+            "windows": 812,
             "linux": 0,
             "macos": 0
           }
@@ -6546,7 +6546,7 @@
             "macos": "https://github.com/Cuttlefishthesage/LL-OpenGOAL-ModBase/releases/download/v4.3.4/macos-intel-v4.3.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 949,
+            "windows": 951,
             "linux": 92,
             "macos": 18
           }
@@ -6612,7 +6612,7 @@
             "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base-Glacier/releases/download/v1.0.9/macos-intel-v1.0.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 460,
+            "windows": 461,
             "linux": 42,
             "macos": 17
           }
@@ -6699,7 +6699,7 @@
             "macos": "https://github.com/slak1-OG-mods/jak1-sandpit-level/releases/download/v2.0.1-modbase-merge.4/macos-intel-v2.0.1-modbase-merge.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 374,
+            "windows": 375,
             "linux": 31,
             "macos": 10
           }
@@ -6849,7 +6849,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 733,
+            "windows": 735,
             "linux": 59,
             "macos": 14
           }
@@ -6993,5 +6993,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-12-11T04:36:38.777Z"
+  "lastUpdated": "2025-12-11T08:32:02.897Z"
 }
