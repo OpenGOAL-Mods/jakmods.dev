@@ -513,7 +513,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Randomizer/releases/download/v0.6.4/macos-intel-v0.6.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 180,
+            "windows": 181,
             "linux": 11,
             "macos": 10
           }
@@ -836,7 +836,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-RCO/releases/download/v0.1.5/macos-intel-v0.1.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 147,
+            "windows": 148,
             "linux": 10,
             "macos": 11
           }
@@ -2631,7 +2631,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1519,
+            "windows": 1521,
             "linux": 64,
             "macos": 5
           }
@@ -5989,7 +5989,7 @@
           },
           "assetDownloadCounts": {
             "windows": 2242,
-            "linux": 161,
+            "linux": 162,
             "macos": 76
           }
         },
@@ -6591,9 +6591,9 @@
             "macos": "https://github.com/Cuttlefishthesage/LL-OpenGOAL-ModBase/releases/download/v4.3.4/macos-intel-v4.3.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 961,
+            "windows": 962,
             "linux": 92,
-            "macos": 22
+            "macos": 23
           }
         },
         {
@@ -6659,7 +6659,7 @@
           "assetDownloadCounts": {
             "windows": 472,
             "linux": 42,
-            "macos": 19
+            "macos": 20
           }
         },
         {
@@ -6896,7 +6896,7 @@
           "assetDownloadCounts": {
             "windows": 778,
             "linux": 60,
-            "macos": 17
+            "macos": 18
           }
         },
         {
@@ -7038,5 +7038,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-12-16T16:32:44.123Z"
+  "lastUpdated": "2025-12-16T20:26:41.309Z"
 }
