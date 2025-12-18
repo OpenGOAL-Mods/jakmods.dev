@@ -2426,7 +2426,7 @@
             "macos": "https://github.com/EvelynTSMG/Jak1-Pogo/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 40,
+            "windows": 41,
             "linux": 4,
             "macos": 2
           }
@@ -2631,7 +2631,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1545,
+            "windows": 1547,
             "linux": 65,
             "macos": 5
           }
@@ -5988,7 +5988,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2249,
+            "windows": 2250,
             "linux": 162,
             "macos": 77
           }
@@ -7038,5 +7038,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-12-18T08:32:08.068Z"
+  "lastUpdated": "2025-12-18T12:47:57.183Z"
 }
