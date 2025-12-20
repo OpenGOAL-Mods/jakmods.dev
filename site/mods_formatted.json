@@ -4748,7 +4748,7 @@
       "versions": [
         {
           "version": "0.0.1",
-          "publishedDate": "2025-12-20T09:59:40Z",
+          "publishedDate": "2025-12-20T11:54:08Z",
           "supportedGames": [
             "jak1"
           ],
@@ -4762,9 +4762,9 @@
             "macos": "https://github.com/gratefulforest/Cratetopia/releases/download/v0.0.1/macos-intel-v0.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 0,
-            "linux": 0,
-            "macos": 0
+            "windows": 2,
+            "linux": 1,
+            "macos": 1
           }
         }
       ],
@@ -5347,7 +5347,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Obama/releases/download/v0.0.1/macos-intel-v0.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 446,
+            "windows": 448,
             "linux": 25,
             "macos": 10
           }
@@ -6055,7 +6055,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2261,
+            "windows": 2263,
             "linux": 163,
             "macos": 78
           }
@@ -6811,7 +6811,7 @@
             "macos": "https://github.com/slak1-OG-mods/jak1-sandpit-level/releases/download/v2.0.1-modbase-merge.4/macos-intel-v2.0.1-modbase-merge.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 386,
+            "windows": 387,
             "linux": 31,
             "macos": 10
           }
@@ -6961,7 +6961,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 795,
+            "windows": 796,
             "linux": 62,
             "macos": 21
           }
@@ -7105,5 +7105,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-12-20T10:02:08.302Z"
+  "lastUpdated": "2025-12-20T12:41:01.197Z"
 }
