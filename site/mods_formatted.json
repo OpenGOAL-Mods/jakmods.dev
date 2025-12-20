@@ -3780,7 +3780,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Daxter2/releases/download/v1.0.0/macos-intel-v1.0.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 680,
+            "windows": 681,
             "linux": 47,
             "macos": 14
           }
@@ -4745,10 +4745,36 @@
       "supportedGames": [
         "jak1"
       ],
-      "versions": [],
+      "versions": [
+        {
+          "version": "0.0.1",
+          "publishedDate": "2025-12-20T09:59:40Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/gratefulforest/Cratetopia/releases/download/v0.0.1/windows-v0.0.1.zip",
+            "linux": "https://github.com/gratefulforest/Cratetopia/releases/download/v0.0.1/linux-v0.0.1.tar.gz",
+            "macos": "https://github.com/gratefulforest/Cratetopia/releases/download/v0.0.1/macos-intel-v0.0.1.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        }
+      ],
       "coverArtUrl": "https://raw.githubusercontent.com/gratefulforest/Cratetopia/refs/heads/main/background.png",
       "thumbnailArtUrl": "https://raw.githubusercontent.com/gratefulforest/Cratetopia/refs/heads/main/cover.png",
-      "perGameConfig": {},
+      "perGameConfig": {
+        "jak1": {
+          "releaseDate": "2025-12-20"
+        }
+      },
       "externalLink": null
     },
     "defend_port_wall": {
@@ -7079,5 +7105,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-12-20T09:43:48.274Z"
+  "lastUpdated": "2025-12-20T10:02:08.302Z"
 }
