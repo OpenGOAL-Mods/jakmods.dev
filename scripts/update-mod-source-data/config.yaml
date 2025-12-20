@@ -456,6 +456,19 @@ mods:
     cover_art_url: "https://raw.githubusercontent.com/Grateful-Forest/Platformia/main/background.png"
     thumbnail_art_url: "https://raw.githubusercontent.com/Grateful-Forest/Platformia/main/cover.png"
 
+  cratetopia:
+    repo_owner: "gratefulforest"
+    repo_name: "Cratetopia"
+    url: "https://github.com/gratefulforest/Cratetopia"
+    release_date_override: "2025-12-20"
+    display_name: "Cratetopia"
+    description: "Classic block game inside Jak and Daxter"
+    authors: ["Grateful Forest"]
+    tags: ["gameplay-mod", "challenge"]
+    website_url: "https://github.com/gratefulforest/Cratetopia/blob/main/README.md"
+    cover_art_url: "https://raw.githubusercontent.com/gratefulforest/Cratetopia/refs/heads/main/background.png"
+    thumbnail_art_url: "https://raw.githubusercontent.com/gratefulforest/Cratetopia/refs/heads/main/cover.png"
+
   defend_port_wall:
     repo_owner: "Nick0778"
     repo_name: "OG-Jak2-Defend-The-Portwall"
