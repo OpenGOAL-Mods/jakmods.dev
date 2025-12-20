@@ -1414,7 +1414,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Microtransactions/releases/download/v0.2.7/macos-intel-v0.2.7.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 17,
+            "windows": 18,
             "linux": 2,
             "macos": 1
           }
@@ -4731,6 +4731,26 @@
       },
       "externalLink": null
     },
+    "cratetopia": {
+      "displayName": "Cratetopia",
+      "description": "Classic block game inside Jak and Daxter",
+      "authors": [
+        "Grateful Forest"
+      ],
+      "tags": [
+        "gameplay-mod",
+        "challenge"
+      ],
+      "websiteUrl": "https://github.com/gratefulforest/Cratetopia/blob/main/README.md",
+      "supportedGames": [
+        "jak1"
+      ],
+      "versions": [],
+      "coverArtUrl": "https://raw.githubusercontent.com/gratefulforest/Cratetopia/refs/heads/main/background.png",
+      "thumbnailArtUrl": "https://raw.githubusercontent.com/gratefulforest/Cratetopia/refs/heads/main/cover.png",
+      "perGameConfig": {},
+      "externalLink": null
+    },
     "defend_port_wall": {
       "displayName": "Defend the Port Wall",
       "description": "Play the cut mission 'Defend the Port Wall'. Special install instructions: https://github.com/Nick0778/OG-Jak2-Defend-The-Portwall/blob/main/README.md",
@@ -7059,5 +7079,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-12-20T08:27:41.919Z"
+  "lastUpdated": "2025-12-20T09:43:48.274Z"
 }
