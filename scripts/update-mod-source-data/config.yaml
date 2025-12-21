@@ -286,6 +286,21 @@ mods:
   #   cover_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/main/hotrod.png"
   #   thumbnail_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/main/hotrod.png"
 
+  j1gchaos:
+    repo_owner: "this-guy-git"
+    repo_name: "JGChaos"
+    url: "https://github.com/this-guy-git/JGChaos"
+    release_date_overide: "2025-12-21"
+    ignore_versions:
+      - "<0.2.1"
+    display_name: "J1 Guy's Chaos"
+    description: "Experience Jak and Daxter like never before, with hilarious chaotic effects. A random effect picked every few seconds. Fun for speedruns."
+    authors: ["this guy"]
+    tags: ["gameplay-mod", "rng", "challenge", "speedrunning"]
+    website_url: "https://github.com/this-guy-git/JGChaos/blob/main/README.md"
+    cover_art_url: "https://raw.githubusercontent.com/this-guy-git/JGChaos/main/storeimages/j1gchaos-large.png"
+    thumbnail_art_url: "https://raw.githubusercontent.com/this-guy-git/JGChaos/main/storeimages/j1gchaos-small.png"
+
   spec-ops:
     repo_owner: "ruhphorte"
     repo_name: "spec-ops-jak"
