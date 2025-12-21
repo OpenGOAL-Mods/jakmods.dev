@@ -296,7 +296,7 @@ mods:
     display_name: "J1 Guy's Chaos"
     description: "Experience Jak and Daxter like never before, with hilarious chaotic effects. A random effect picked every few seconds. Fun for speedruns."
     authors: ["this guy"]
-    tags: ["gameplay-mod", "rng", "challenge", "speedrun", "speedrunning"]
+    tags: ["gameplay-mod", "rng", "challenge", "speedrunning"]
     website_url: "https://github.com/this-guy-git/JGChaos/blob/main/README.md"
     cover_art_url: "https://raw.githubusercontent.com/this-guy-git/JGChaos/main/storeimages/j1gchaos-large.png"
     thumbnail_art_url: "https://raw.githubusercontent.com/this-guy-git/JGChaos/main/storeimages/j1gchaos-small.png"
