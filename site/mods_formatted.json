@@ -2574,6 +2574,54 @@
       },
       "externalLink": null
     },
+    "j1gchaos": {
+      "displayName": "J1 Guy's Chaos",
+      "description": "Experience Jak and Daxter like never before, with hilarious chaotic effects. A random effect picked every few seconds. Fun for speedruns.",
+      "authors": [
+        "this guy"
+      ],
+      "tags": [
+        "gameplay-mod",
+        "rng",
+        "challenge",
+        "speedrunning"
+      ],
+      "websiteUrl": "https://github.com/this-guy-git/JGChaos/blob/main/README.md",
+      "supportedGames": [
+        "jak1"
+      ],
+      "versions": [
+        {
+          "version": "0.2.1",
+          "publishedDate": "2025-12-21T20:36:13Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/this-guy-git/JGChaos/releases/download/v0.2.1/windows-v0.2.1.zip",
+            "linux": "https://github.com/this-guy-git/JGChaos/releases/download/v0.2.1/linux-v0.2.1.tar.gz",
+            "macos": "https://github.com/this-guy-git/JGChaos/releases/download/v0.2.1/macos-intel-v0.2.1.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 2,
+            "linux": 1,
+            "macos": 1
+          }
+        }
+      ],
+      "coverArtUrl": "https://raw.githubusercontent.com/this-guy-git/JGChaos/main/storeimages/j1gchaos-large.png",
+      "thumbnailArtUrl": "https://raw.githubusercontent.com/this-guy-git/JGChaos/main/storeimages/j1gchaos-small.png",
+      "perGameConfig": {
+        "jak1": {
+          "releaseDate": "2025-12-21T20:36:13Z"
+        }
+      },
+      "externalLink": null
+    },
     "spec-ops": {
       "displayName": "Spec Ops Jak",
       "description": "Immediately after being rescued by Daxter, Jak is fitted with an all black Spec Ops outfit and a new weapon. The Blaster Mod has been replaced with a fully automatic suppressed XM Nova assault rifle that fires depleted light eco rounds. These light eco rounds will easily take down anything in your way.",
@@ -2652,7 +2700,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1605,
+            "windows": 1607,
             "linux": 68,
             "macos": 5
           }
@@ -4559,7 +4607,7 @@
             "macos": "https://github.com/CraiyDev/Better-Dark-Jak/releases/download/v0.0.2/macos-intel-v0.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 296,
+            "windows": 298,
             "linux": 27,
             "macos": 5
           }
@@ -4747,6 +4795,27 @@
       ],
       "versions": [
         {
+          "version": "0.0.2",
+          "publishedDate": "2025-12-21T22:24:08Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/gratefulforest/Cratetopia/releases/download/v0.0.2/windows-v0.0.2.zip",
+            "linux": "https://github.com/gratefulforest/Cratetopia/releases/download/v0.0.2/linux-v0.0.2.tar.gz",
+            "macos": "https://github.com/gratefulforest/Cratetopia/releases/download/v0.0.2/macos-intel-v0.0.2.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
           "version": "0.0.1",
           "publishedDate": "2025-12-21T12:49:04Z",
           "supportedGames": [
@@ -4762,7 +4831,7 @@
             "macos": "https://github.com/gratefulforest/Cratetopia/releases/download/v0.0.1/macos-intel-v0.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 0,
+            "windows": 2,
             "linux": 0,
             "macos": 0
           }
@@ -6055,7 +6124,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2266,
+            "windows": 2267,
             "linux": 163,
             "macos": 78
           }
@@ -6421,7 +6490,7 @@
             "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base/releases/download/v0.0.8-afoniddwr.2/macos-intel-v0.0.8-afoniddwr.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 278,
+            "windows": 279,
             "linux": 33,
             "macos": 8
           }
@@ -6592,7 +6661,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 827,
+            "windows": 828,
             "linux": 0,
             "macos": 0
           }
@@ -6658,7 +6727,7 @@
             "macos": "https://github.com/Cuttlefishthesage/LL-OpenGOAL-ModBase/releases/download/v4.3.4/macos-intel-v4.3.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 966,
+            "windows": 967,
             "linux": 92,
             "macos": 25
           }
@@ -6724,7 +6793,7 @@
             "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base-Glacier/releases/download/v1.0.9/macos-intel-v1.0.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 479,
+            "windows": 480,
             "linux": 42,
             "macos": 22
           }
@@ -6811,7 +6880,7 @@
             "macos": "https://github.com/slak1-OG-mods/jak1-sandpit-level/releases/download/v2.0.1-modbase-merge.4/macos-intel-v2.0.1-modbase-merge.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 387,
+            "windows": 388,
             "linux": 31,
             "macos": 11
           }
@@ -6961,7 +7030,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 800,
+            "windows": 801,
             "linux": 63,
             "macos": 21
           }
@@ -7105,5 +7174,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-12-21T20:23:32.808Z"
+  "lastUpdated": "2025-12-21T22:26:38.191Z"
 }
