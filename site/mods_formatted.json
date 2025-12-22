@@ -1297,7 +1297,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-SM64/releases/download/v0.2.8/macos-intel-v0.2.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 364,
+            "windows": 365,
             "linux": 24,
             "macos": 12
           }
@@ -2607,7 +2607,7 @@
             "macos": "https://github.com/this-guy-git/JGChaos/releases/download/v0.2.1/macos-intel-v0.2.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 6,
+            "windows": 7,
             "linux": 1,
             "macos": 1
           }
@@ -2700,7 +2700,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1612,
+            "windows": 1614,
             "linux": 68,
             "macos": 5
           }
@@ -7153,5 +7153,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-12-22T04:41:56.770Z"
+  "lastUpdated": "2025-12-22T08:33:20.023Z"
 }
