@@ -39,7 +39,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Speedrun-Practice/releases/download/v0.4.11/macos-intel-v0.4.11.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 30,
+            "windows": 31,
             "linux": 1,
             "macos": 1
           }
@@ -513,7 +513,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Randomizer/releases/download/v0.6.4/macos-intel-v0.6.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 194,
+            "windows": 195,
             "linux": 11,
             "macos": 11
           }
@@ -1205,7 +1205,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Zoomer-Legacy/releases/download/v0.1.4/macos-intel-v0.1.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 204,
+            "windows": 205,
             "linux": 19,
             "macos": 10
           }
@@ -2742,7 +2742,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1683,
+            "windows": 1690,
             "linux": 72,
             "macos": 5
           }
@@ -2763,7 +2763,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.7/macos-intel-v0.5.7.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 426,
+            "windows": 428,
             "linux": 17,
             "macos": 7
           }
@@ -3298,7 +3298,7 @@
           },
           "assetDownloadCounts": {
             "windows": 311,
-            "linux": 21,
+            "linux": 22,
             "macos": 6
           }
         },
@@ -3871,7 +3871,7 @@
           },
           "assetDownloadCounts": {
             "windows": 697,
-            "linux": 49,
+            "linux": 50,
             "macos": 14
           }
         },
@@ -4877,10 +4877,36 @@
       "supportedGames": [
         "jak1"
       ],
-      "versions": [],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "publishedDate": "2025-12-27T14:25:31Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/gratefulforest/Cratetopia/releases/download/v1.0.0/windows-v1.0.0.zip",
+            "linux": "https://github.com/gratefulforest/Cratetopia/releases/download/v1.0.0/linux-v1.0.0.tar.gz",
+            "macos": "https://github.com/gratefulforest/Cratetopia/releases/download/v1.0.0/macos-intel-v1.0.0.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 2,
+            "linux": 1,
+            "macos": 1
+          }
+        }
+      ],
       "coverArtUrl": "https://raw.githubusercontent.com/gratefulforest/Cratetopia/refs/heads/main/background.png",
       "thumbnailArtUrl": "https://raw.githubusercontent.com/gratefulforest/Cratetopia/refs/heads/main/cover.png",
-      "perGameConfig": {},
+      "perGameConfig": {
+        "jak1": {
+          "releaseDate": "2025-12-20"
+        }
+      },
       "externalLink": null
     },
     "defend_port_wall": {
@@ -5454,7 +5480,7 @@
           },
           "assetDownloadCounts": {
             "windows": 454,
-            "linux": 25,
+            "linux": 26,
             "macos": 10
           }
         }
@@ -6356,7 +6382,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 49,
+            "windows": 50,
             "linux": 9,
             "macos": 0
           }
@@ -7211,5 +7237,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-12-27T12:42:09.471Z"
+  "lastUpdated": "2025-12-27T16:27:20.473Z"
 }
