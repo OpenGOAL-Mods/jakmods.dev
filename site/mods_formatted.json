@@ -39,7 +39,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Speedrun-Practice/releases/download/v0.4.11/macos-intel-v0.4.11.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 29,
+            "windows": 30,
             "linux": 1,
             "macos": 1
           }
@@ -2742,7 +2742,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1678,
+            "windows": 1683,
             "linux": 72,
             "macos": 5
           }
@@ -2763,7 +2763,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.7/macos-intel-v0.5.7.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 424,
+            "windows": 426,
             "linux": 17,
             "macos": 7
           }
@@ -3987,7 +3987,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.14/macos-intel-v0.0.14.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1,
+            "windows": 2,
             "linux": 1,
             "macos": 1
           }
@@ -4877,36 +4877,10 @@
       "supportedGames": [
         "jak1"
       ],
-      "versions": [
-        {
-          "version": "1.0.0",
-          "publishedDate": "2025-12-26T11:03:09Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/gratefulforest/Cratetopia/releases/download/v1.0.0/windows-v1.0.0.zip",
-            "linux": "https://github.com/gratefulforest/Cratetopia/releases/download/v1.0.0/linux-v1.0.0.tar.gz",
-            "macos": "https://github.com/gratefulforest/Cratetopia/releases/download/v1.0.0/macos-intel-v1.0.0.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 10,
-            "linux": 1,
-            "macos": 1
-          }
-        }
-      ],
+      "versions": [],
       "coverArtUrl": "https://raw.githubusercontent.com/gratefulforest/Cratetopia/refs/heads/main/background.png",
       "thumbnailArtUrl": "https://raw.githubusercontent.com/gratefulforest/Cratetopia/refs/heads/main/cover.png",
-      "perGameConfig": {
-        "jak1": {
-          "releaseDate": "2025-12-20"
-        }
-      },
+      "perGameConfig": {},
       "externalLink": null
     },
     "defend_port_wall": {
@@ -6187,7 +6161,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2289,
+            "windows": 2290,
             "linux": 164,
             "macos": 78
           }
@@ -7237,5 +7211,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-12-27T08:28:51.552Z"
+  "lastUpdated": "2025-12-27T12:42:09.471Z"
 }
