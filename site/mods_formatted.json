@@ -39,7 +39,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Speedrun-Practice/releases/download/v0.4.12/macos-intel-v0.4.12.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 26,
+            "windows": 27,
             "linux": 2,
             "macos": 1
           }
@@ -2630,7 +2630,7 @@
             "macos": "https://github.com/this-guy-git/JGChaos/releases/download/v0.2.3/macos-intel-v0.2.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 74,
+            "windows": 75,
             "linux": 8,
             "macos": 3
           }
@@ -2765,7 +2765,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1942,
+            "windows": 1943,
             "linux": 87,
             "macos": 5
           }
@@ -4010,7 +4010,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.14/macos-intel-v0.0.14.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 53,
+            "windows": 55,
             "linux": 7,
             "macos": 1
           }
@@ -6210,7 +6210,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2349,
+            "windows": 2351,
             "linux": 180,
             "macos": 81
           }
@@ -7116,7 +7116,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 926,
+            "windows": 927,
             "linux": 75,
             "macos": 22
           }
@@ -7260,5 +7260,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-01-12T01:57:33.455Z"
+  "lastUpdated": "2026-01-12T04:53:00.444Z"
 }
