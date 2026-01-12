@@ -2174,7 +2174,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Patched/releases/download/v1.1.3/macos-intel-v1.1.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 329,
+            "windows": 330,
             "linux": 57,
             "macos": 11
           }
@@ -2765,7 +2765,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1943,
+            "windows": 1946,
             "linux": 87,
             "macos": 5
           }
@@ -4010,7 +4010,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.14/macos-intel-v0.0.14.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 55,
+            "windows": 56,
             "linux": 7,
             "macos": 1
           }
@@ -4142,7 +4142,7 @@
           },
           "assetDownloadCounts": {
             "windows": 304,
-            "linux": 30,
+            "linux": 31,
             "macos": 6
           }
         },
@@ -6210,8 +6210,8 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2351,
-            "linux": 180,
+            "windows": 2352,
+            "linux": 181,
             "macos": 81
           }
         },
@@ -7116,9 +7116,9 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 927,
-            "linux": 75,
-            "macos": 22
+            "windows": 929,
+            "linux": 76,
+            "macos": 23
           }
         },
         {
@@ -7260,5 +7260,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-01-12T04:53:00.444Z"
+  "lastUpdated": "2026-01-12T08:35:47.646Z"
 }
