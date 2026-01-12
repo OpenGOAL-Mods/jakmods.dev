@@ -39,7 +39,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Speedrun-Practice/releases/download/v0.4.12/macos-intel-v0.4.12.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 25,
+            "windows": 26,
             "linux": 2,
             "macos": 1
           }
@@ -991,7 +991,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/releases/download/v0.2.5-mergetime1127.3/macos-intel-v0.2.5-mergetime1127.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 99,
+            "windows": 100,
             "linux": 9,
             "macos": 8
           }
@@ -1437,7 +1437,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Microtransactions/releases/download/v0.2.7/macos-intel-v0.2.7.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 32,
+            "windows": 33,
             "linux": 3,
             "macos": 2
           }
@@ -2175,7 +2175,7 @@
           },
           "assetDownloadCounts": {
             "windows": 329,
-            "linux": 56,
+            "linux": 57,
             "macos": 11
           }
         },
@@ -2765,8 +2765,8 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1934,
-            "linux": 86,
+            "windows": 1942,
+            "linux": 87,
             "macos": 5
           }
         },
@@ -2912,7 +2912,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.1/macos-intel-v0.5.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 120,
+            "windows": 121,
             "linux": 10,
             "macos": 7
           }
@@ -3191,7 +3191,7 @@
           },
           "assetDownloadCounts": {
             "windows": 108,
-            "linux": 10,
+            "linux": 11,
             "macos": 2
           }
         },
@@ -4141,7 +4141,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.54/macos-intel-v0.0.54.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 303,
+            "windows": 304,
             "linux": 30,
             "macos": 6
           }
@@ -4917,7 +4917,7 @@
             "macos": "https://github.com/gratefulforest/Cratetopia/releases/download/v1.0.0/macos-intel-v1.0.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 94,
+            "windows": 95,
             "linux": 10,
             "macos": 1
           }
@@ -5503,7 +5503,7 @@
           },
           "assetDownloadCounts": {
             "windows": 475,
-            "linux": 31,
+            "linux": 32,
             "macos": 11
           }
         }
@@ -6747,7 +6747,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 847,
+            "windows": 848,
             "linux": 0,
             "macos": 0
           }
@@ -7116,7 +7116,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 925,
+            "windows": 926,
             "linux": 75,
             "macos": 22
           }
@@ -7260,5 +7260,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-01-11T20:25:15.689Z"
+  "lastUpdated": "2026-01-12T01:57:33.455Z"
 }
