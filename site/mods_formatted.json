@@ -2788,7 +2788,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1998,
+            "windows": 2000,
             "linux": 92,
             "macos": 6
           }
@@ -6836,7 +6836,7 @@
             "macos": "https://github.com/Cuttlefishthesage/LL-OpenGOAL-ModBase/releases/download/v4.3.4/macos-intel-v4.3.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 997,
+            "windows": 998,
             "linux": 99,
             "macos": 27
           }
@@ -7283,5 +7283,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-01-16T01:52:44.433Z"
+  "lastUpdated": "2026-01-16T04:41:50.556Z"
 }
