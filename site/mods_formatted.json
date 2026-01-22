@@ -2788,7 +2788,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2091,
+            "windows": 2093,
             "linux": 104,
             "macos": 10
           }
@@ -4737,8 +4737,8 @@
             "macos": "https://github.com/CraiyDev/Better-Dark-Jak/releases/download/v0.0.2/macos-intel-v0.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 402,
-            "linux": 42,
+            "windows": 403,
+            "linux": 44,
             "macos": 5
           }
         }
@@ -4986,7 +4986,7 @@
           },
           "assetDownloadCounts": {
             "windows": 106,
-            "linux": 6,
+            "linux": 7,
             "macos": 2
           }
         },
@@ -7283,5 +7283,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-01-22T01:56:27.199Z"
+  "lastUpdated": "2026-01-22T04:51:03.969Z"
 }
