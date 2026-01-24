@@ -39,7 +39,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Speedrun-Practice/releases/download/v0.4.13/macos-intel-v0.4.13.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 33,
+            "windows": 34,
             "linux": 3,
             "macos": 1
           }
@@ -2788,7 +2788,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2119,
+            "windows": 2120,
             "linux": 106,
             "macos": 10
           }
@@ -4033,7 +4033,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.14/macos-intel-v0.0.14.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 86,
+            "windows": 87,
             "linux": 9,
             "macos": 2
           }
@@ -4737,7 +4737,7 @@
             "macos": "https://github.com/CraiyDev/Better-Dark-Jak/releases/download/v0.0.2/macos-intel-v0.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 409,
+            "windows": 411,
             "linux": 44,
             "macos": 5
           }
@@ -6233,8 +6233,8 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2408,
-            "linux": 191,
+            "windows": 2409,
+            "linux": 192,
             "macos": 84
           }
         },
@@ -7140,7 +7140,7 @@
           },
           "assetDownloadCounts": {
             "windows": 992,
-            "linux": 85,
+            "linux": 86,
             "macos": 24
           }
         },
@@ -7206,7 +7206,7 @@
           },
           "assetDownloadCounts": {
             "windows": 536,
-            "linux": 26,
+            "linux": 27,
             "macos": 15
           }
         },
@@ -7283,5 +7283,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-01-24T04:37:29.835Z"
+  "lastUpdated": "2026-01-24T08:30:25.452Z"
 }
