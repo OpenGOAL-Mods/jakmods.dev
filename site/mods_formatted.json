@@ -39,7 +39,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Speedrun-Practice/releases/download/v0.4.13/macos-intel-v0.4.13.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 37,
+            "windows": 38,
             "linux": 5,
             "macos": 1
           }
@@ -1015,7 +1015,7 @@
           },
           "assetDownloadCounts": {
             "windows": 120,
-            "linux": 9,
+            "linux": 10,
             "macos": 8
           }
         },
@@ -2198,7 +2198,7 @@
           },
           "assetDownloadCounts": {
             "windows": 345,
-            "linux": 61,
+            "linux": 63,
             "macos": 11
           }
         },
@@ -2788,7 +2788,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2165,
+            "windows": 2169,
             "linux": 108,
             "macos": 10
           }
@@ -4033,7 +4033,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.14/macos-intel-v0.0.14.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 97,
+            "windows": 98,
             "linux": 11,
             "macos": 2
           }
@@ -4608,7 +4608,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Dark-Jak/releases/download/v0.5.0/macos-intel-v0.5.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 305,
+            "windows": 306,
             "linux": 30,
             "macos": 8
           }
@@ -6428,7 +6428,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 93,
+            "windows": 94,
             "linux": 17,
             "macos": 0
           }
@@ -7283,5 +7283,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-01-26T16:36:56.925Z"
+  "lastUpdated": "2026-01-26T20:30:33.368Z"
 }
