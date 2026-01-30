@@ -2788,7 +2788,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2228,
+            "windows": 2230,
             "linux": 110,
             "macos": 10
           }
@@ -4738,7 +4738,7 @@
           },
           "assetDownloadCounts": {
             "windows": 436,
-            "linux": 49,
+            "linux": 51,
             "macos": 5
           }
         }
@@ -6233,7 +6233,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2435,
+            "windows": 2436,
             "linux": 196,
             "macos": 84
           }
@@ -7283,5 +7283,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-01-30T05:09:37.247Z"
+  "lastUpdated": "2026-01-30T08:42:53.112Z"
 }
