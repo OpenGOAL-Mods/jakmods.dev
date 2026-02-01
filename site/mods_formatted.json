@@ -39,7 +39,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Speedrun-Practice/releases/download/v0.4.13/macos-intel-v0.4.13.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 49,
+            "windows": 50,
             "linux": 5,
             "macos": 1
           }
@@ -4609,7 +4609,7 @@
           },
           "assetDownloadCounts": {
             "windows": 315,
-            "linux": 32,
+            "linux": 33,
             "macos": 8
           }
         },
@@ -4738,7 +4738,7 @@
           },
           "assetDownloadCounts": {
             "windows": 446,
-            "linux": 52,
+            "linux": 53,
             "macos": 5
           }
         }
@@ -6836,7 +6836,7 @@
             "macos": "https://github.com/Cuttlefishthesage/LL-OpenGOAL-ModBase/releases/download/v4.3.4/macos-intel-v4.3.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1018,
+            "windows": 1019,
             "linux": 103,
             "macos": 27
           }
@@ -6989,7 +6989,7 @@
             "macos": "https://github.com/slak1-OG-mods/jak1-sandpit-level/releases/download/v2.0.1-modbase-merge.4/macos-intel-v2.0.1-modbase-merge.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 444,
+            "windows": 445,
             "linux": 40,
             "macos": 12
           }
@@ -7283,5 +7283,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-02-01T08:35:29.262Z"
+  "lastUpdated": "2026-02-01T12:53:52.301Z"
 }
