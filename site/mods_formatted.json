@@ -2710,6 +2710,53 @@
       },
       "externalLink": null
     },
+    "halflife": {
+      "displayName": "Gordon And Daxter",
+      "description": "An attempt at replicating Half-Life movement within GOAL.",
+      "authors": [
+        "MFO"
+      ],
+      "tags": [
+        "gameplay-mod",
+        "challenge",
+        "speedrunning"
+      ],
+      "websiteUrl": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/blob/main/README.md",
+      "supportedGames": [
+        "jak1"
+      ],
+      "versions": [
+        {
+          "version": "0.0.2",
+          "publishedDate": "2026-02-05T22:07:28Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.0.2/windows-v0.0.2.zip",
+            "linux": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.0.2/linux-v0.0.2.tar.gz",
+            "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.0.2/macos-intel-v0.0.2.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 2,
+            "linux": 1,
+            "macos": 1
+          }
+        }
+      ],
+      "coverArtUrl": "https://raw.githubusercontent.com/mfOliveira19/GordonAndDaxter-Mod/refs/heads/main/mod-background.png",
+      "thumbnailArtUrl": "https://raw.githubusercontent.com/mfOliveira19/GordonAndDaxter-Mod/refs/heads/main/mod-cover.png",
+      "perGameConfig": {
+        "jak1": {
+          "releaseDate": "2026-02-05T22:07:28Z"
+        }
+      },
+      "externalLink": null
+    },
     "spec-ops": {
       "displayName": "Spec Ops Jak",
       "description": "Immediately after being rescued by Daxter, Jak is fitted with an all black Spec Ops outfit and a new weapon. The Blaster Mod has been replaced with a fully automatic suppressed XM Nova assault rifle that fires depleted light eco rounds. These light eco rounds will easily take down anything in your way.",
@@ -2788,7 +2835,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2338,
+            "windows": 2339,
             "linux": 116,
             "macos": 10
           }
@@ -4164,7 +4211,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.54/macos-intel-v0.0.54.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 352,
+            "windows": 353,
             "linux": 37,
             "macos": 7
           }
@@ -5525,7 +5572,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Obama/releases/download/v0.0.1/macos-intel-v0.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 510,
+            "windows": 511,
             "linux": 40,
             "macos": 11
           }
@@ -6902,7 +6949,7 @@
             "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base-Glacier/releases/download/v1.0.9/macos-intel-v1.0.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 550,
+            "windows": 551,
             "linux": 56,
             "macos": 24
           }
@@ -7139,7 +7186,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1055,
+            "windows": 1056,
             "linux": 96,
             "macos": 27
           }
@@ -7283,5 +7330,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-02-05T20:36:21.313Z"
+  "lastUpdated": "2026-02-05T22:46:53.828Z"
 }
