@@ -300,6 +300,21 @@ mods:
     website_url: "https://github.com/this-guy-git/JGChaos/blob/main/README.md"
     cover_art_url: "https://raw.githubusercontent.com/this-guy-git/JGChaos/main/storeimages/j1gchaos-large.png"
     thumbnail_art_url: "https://raw.githubusercontent.com/this-guy-git/JGChaos/main/storeimages/j1gchaos-small.png"
+    
+  halflife:
+    repo_owner: "mfOliveira19"
+    repo_name: "GordonAndDaxter-Mod"
+    url: "https://github.com/mfOliveira19/GordonAndDaxter-Mod"
+    release_date_overide: "2026-02-05"
+    ignore_versions:
+      - "<0.0.2"
+    display_name: "Gordon And Daxter"
+    description: "An attempt at replicating Half-Life movement within GOAL."
+    authors: ["MFO"]
+    tags: ["gameplay-mod", "challenge", "speedrunning"]
+    website_url: "https://github.com/mfOliveira19/GordonAndDaxter-Mod/blob/main/README.md"
+    cover_art_url: "https://raw.githubusercontent.com/mfOliveira19/GordonAndDaxter-Mod/refs/heads/main/mod-background.png"
+    thumbnail_art_url: "https://raw.githubusercontent.com/mfOliveira19/GordonAndDaxter-Mod/refs/heads/main/mod-cover.png"
 
   spec-ops:
     repo_owner: "ruhphorte"
