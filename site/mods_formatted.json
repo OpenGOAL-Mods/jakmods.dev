@@ -1014,7 +1014,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/releases/download/v0.2.5-mergetime1127.3/macos-intel-v0.2.5-mergetime1127.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 131,
+            "windows": 132,
             "linux": 13,
             "macos": 8
           }
@@ -2742,8 +2742,8 @@
             "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.0.2/macos-intel-v0.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 37,
-            "linux": 4,
+            "windows": 47,
+            "linux": 5,
             "macos": 1
           }
         }
@@ -2835,7 +2835,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2351,
+            "windows": 2353,
             "linux": 116,
             "macos": 10
           }
@@ -3390,7 +3390,7 @@
             "macos": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.9/macos-intel-v2.1.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 353,
+            "windows": 354,
             "linux": 27,
             "macos": 6
           }
@@ -4785,7 +4785,7 @@
           },
           "assetDownloadCounts": {
             "windows": 463,
-            "linux": 58,
+            "linux": 59,
             "macos": 5
           }
         }
@@ -4987,7 +4987,7 @@
             "macos": "https://github.com/gratefulforest/Cratetopia/releases/download/v1.0.0/macos-intel-v1.0.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 143,
+            "windows": 144,
             "linux": 19,
             "macos": 2
           }
@@ -6281,7 +6281,7 @@
           },
           "assetDownloadCounts": {
             "windows": 2469,
-            "linux": 203,
+            "linux": 204,
             "macos": 84
           }
         },
@@ -7330,5 +7330,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-02-06T08:44:01.660Z"
+  "lastUpdated": "2026-02-06T13:03:31.237Z"
 }
