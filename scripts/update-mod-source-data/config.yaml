@@ -492,7 +492,7 @@ mods:
     url: "https://github.com/gratefulforest/Cratetopia"
     release_date_override: "2025-12-20"
     display_name: "Cratetopia"
-    description: "Classic block game inside Jak and Daxter. Note: Some people get crashes on level changes in the launcher, if so try Advanced -> Open Game Data Folder and click gk.exe directly. Please reach out on Discord if that fixes it."
+    description: "Classic block game inside Jak and Daxter."
     authors: ["Grateful Forest"]
     tags: ["gameplay-mod", "challenge"]
     website_url: "https://github.com/gratefulforest/Cratetopia/blob/main/README.md"
