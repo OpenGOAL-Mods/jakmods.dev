@@ -906,7 +906,7 @@
           },
           "assetDownloadCounts": {
             "windows": 177,
-            "linux": 13,
+            "linux": 14,
             "macos": 18
           }
         },
@@ -2643,6 +2643,51 @@
       },
       "externalLink": null
     },
+    "evebase": {
+      "displayName": "Eve's Vanilla Plus",
+      "description": "The Precursor Legacy you know and love, now with more quality of life features and fun easter eggs!",
+      "authors": [
+        "EvelynTSMG"
+      ],
+      "tags": [
+        "gameplay-mod"
+      ],
+      "websiteUrl": "https://github.com/EvelynTSMG/Jak-EveBase/blob/main/README.md",
+      "supportedGames": [
+        "jak1"
+      ],
+      "versions": [
+        {
+          "version": "0.1.0",
+          "publishedDate": "2026-02-13T11:20:08Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/EvelynTSMG/Jak-EveBase/releases/download/v0.1.0/windows-v0.1.0.zip",
+            "linux": "https://github.com/EvelynTSMG/Jak-EveBase/releases/download/v0.1.0/linux-v0.1.0.tar.gz",
+            "macos": "https://github.com/EvelynTSMG/Jak-EveBase/releases/download/v0.1.0/macos-intel-v0.1.0.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        }
+      ],
+      "coverArtUrl": "https://raw.githubusercontent.com/EvelynTSMG/Jak-EveBase/refs/heads/main/banner.png",
+      "thumbnailArtUrl": "https://raw.githubusercontent.com/EvelynTSMG/Jak-EveBase/refs/heads/main/thumb.png",
+      "perGameConfig": {
+        "jak1": {
+          "releaseDate": "2026-02-13T11:20:08Z"
+        }
+      },
+      "externalLink": null
+    },
     "j1gchaos": {
       "displayName": "J1 Guy's Chaos",
       "description": "Experience Jak and Daxter like never before, with hilarious chaotic effects. A random effect picked every few seconds. Fun for speedruns.",
@@ -2765,9 +2810,9 @@
             "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.0.7/macos-intel-v0.0.7.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 274,
-            "linux": 29,
-            "macos": 6
+            "windows": 278,
+            "linux": 30,
+            "macos": 7
           }
         },
         {
@@ -2963,7 +3008,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2456,
+            "windows": 2457,
             "linux": 132,
             "macos": 12
           }
@@ -4339,7 +4384,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.54/macos-intel-v0.0.54.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 384,
+            "windows": 387,
             "linux": 41,
             "macos": 9
           }
@@ -4912,7 +4957,7 @@
             "macos": "https://github.com/CraiyDev/Better-Dark-Jak/releases/download/v0.0.2/macos-intel-v0.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 514,
+            "windows": 515,
             "linux": 67,
             "macos": 5
           }
@@ -5721,7 +5766,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Obama/releases/download/v0.0.1/macos-intel-v0.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 544,
+            "windows": 545,
             "linux": 42,
             "macos": 12
           }
@@ -5767,7 +5812,7 @@
             "macos": "https://github.com/my-opengoal-mods/OG-warp-randomizer/releases/download/v0.0.16/macos-intel-v0.0.16.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 110,
+            "windows": 111,
             "linux": 10,
             "macos": 12
           }
@@ -7336,7 +7381,7 @@
           },
           "assetDownloadCounts": {
             "windows": 1110,
-            "linux": 107,
+            "linux": 108,
             "macos": 29
           }
         },
@@ -7479,5 +7524,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-02-13T16:51:38.349Z"
+  "lastUpdated": "2026-02-13T18:39:38.390Z"
 }
