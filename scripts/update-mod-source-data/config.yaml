@@ -274,6 +274,8 @@ mods:
     repo_owner: "EvelynTSMG"
     repo_name: "Jak-EveBase"
     url: "https://github.com/EvelynTSMG/Jak-EveBase"
+    ignore_versions:
+      - "0.1.1"
     display_name: "Eve's Vanilla Plus"
     description: "The Precursor Legacy you know and love, now with more quality of life features and fun easter eggs!"
     authors: ["EvelynTSMG"]
