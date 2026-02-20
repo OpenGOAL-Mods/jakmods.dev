@@ -582,7 +582,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Randomizer/releases/download/v0.6.4/macos-intel-v0.6.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 282,
+            "windows": 283,
             "linux": 25,
             "macos": 19
           }
@@ -2673,8 +2673,8 @@
             "macos": "https://github.com/EvelynTSMG/Jak-EveBase/releases/download/v0.1.2/macos-intel-v0.1.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 96,
-            "linux": 9,
+            "windows": 100,
+            "linux": 12,
             "macos": 2
           }
         },
@@ -2831,8 +2831,8 @@
             "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.0.9/macos-intel-v0.0.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 209,
-            "linux": 17,
+            "windows": 223,
+            "linux": 20,
             "macos": 2
           }
         },
@@ -3024,7 +3024,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 1010,
+            "windows": 1011,
             "linux": 0,
             "macos": 0
           }
@@ -3071,7 +3071,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2585,
+            "windows": 2588,
             "linux": 145,
             "macos": 13
           }
@@ -3627,7 +3627,7 @@
           },
           "assetDownloadCounts": {
             "windows": 404,
-            "linux": 33,
+            "linux": 34,
             "macos": 11
           }
         },
@@ -4199,7 +4199,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Daxter2/releases/download/v1.0.0/macos-intel-v1.0.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 834,
+            "windows": 836,
             "linux": 62,
             "macos": 18
           }
@@ -4447,7 +4447,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.54/macos-intel-v0.0.54.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 415,
+            "windows": 416,
             "linux": 48,
             "macos": 12
           }
@@ -5020,7 +5020,7 @@
             "macos": "https://github.com/CraiyDev/Better-Dark-Jak/releases/download/v0.0.2/macos-intel-v0.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 565,
+            "windows": 566,
             "linux": 77,
             "macos": 7
           }
@@ -5177,7 +5177,7 @@
             "macos": "https://github.com/gratefulforest/Platformia/releases/download/v0.0.1/macos-intel-v0.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 486,
+            "windows": 487,
             "linux": 41,
             "macos": 11
           }
@@ -5850,8 +5850,8 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Obama/releases/download/v0.0.1/macos-intel-v0.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 570,
-            "linux": 45,
+            "windows": 571,
+            "linux": 47,
             "macos": 13
           }
         }
@@ -7161,7 +7161,7 @@
             "macos": "https://github.com/Cuttlefishthesage/LL-OpenGOAL-ModBase/releases/download/v4.3.4/macos-intel-v4.3.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1065,
+            "windows": 1066,
             "linux": 115,
             "macos": 30
           }
@@ -7464,7 +7464,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1206,
+            "windows": 1210,
             "linux": 123,
             "macos": 33
           }
@@ -7608,5 +7608,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-02-20T02:12:04.756Z"
+  "lastUpdated": "2026-02-20T05:17:27.013Z"
 }
