@@ -582,7 +582,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Randomizer/releases/download/v0.6.4/macos-intel-v0.6.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 294,
+            "windows": 295,
             "linux": 26,
             "macos": 21
           }
@@ -2673,8 +2673,8 @@
             "macos": "https://github.com/EvelynTSMG/Jak-EveBase/releases/download/v0.1.2/macos-intel-v0.1.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 193,
-            "linux": 24,
+            "windows": 194,
+            "linux": 25,
             "macos": 2
           }
         },
@@ -2831,8 +2831,8 @@
             "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.0.11/macos-intel-v0.0.11.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 29,
-            "linux": 4,
+            "windows": 38,
+            "linux": 5,
             "macos": 1
           }
         },
@@ -3113,7 +3113,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2680,
+            "windows": 2681,
             "linux": 158,
             "macos": 13
           }
@@ -3538,7 +3538,7 @@
             "macos": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.0.7/macos-intel-v0.0.7-jak2.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 185,
+            "windows": 186,
             "linux": 19,
             "macos": 3
           }
@@ -4312,7 +4312,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Jak2-AugustBuild/releases/download/v0.1.0/macos-intel-v0.1.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 285,
+            "windows": 286,
             "linux": 22,
             "macos": 10
           }
@@ -5265,7 +5265,7 @@
             "macos": "https://github.com/gratefulforest/Cratetopia/releases/download/v2.0.1/macos-intel-v2.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 31,
+            "windows": 32,
             "linux": 5,
             "macos": 2
           }
@@ -7551,7 +7551,7 @@
             "macos": "https://github.com/Clankape/OG-Mod-Base-Halloween/releases/download/v0.0.4/macos-intel-v0.0.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 563,
+            "windows": 564,
             "linux": 36,
             "macos": 17
           }
@@ -7629,5 +7629,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-02-24T13:09:57.235Z"
+  "lastUpdated": "2026-02-24T17:07:41.949Z"
 }
