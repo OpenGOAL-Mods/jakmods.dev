@@ -1274,7 +1274,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Zoomer-Legacy/releases/download/v0.1.4/macos-intel-v0.1.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 296,
+            "windows": 297,
             "linux": 31,
             "macos": 14
           }
@@ -2673,8 +2673,8 @@
             "macos": "https://github.com/EvelynTSMG/Jak-EveBase/releases/download/v0.1.2/macos-intel-v0.1.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 217,
-            "linux": 28,
+            "windows": 219,
+            "linux": 29,
             "macos": 2
           }
         },
@@ -2831,7 +2831,7 @@
             "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.0.11/macos-intel-v0.0.11.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 129,
+            "windows": 131,
             "linux": 13,
             "macos": 2
           }
@@ -3113,7 +3113,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2698,
+            "windows": 2699,
             "linux": 159,
             "macos": 13
           }
@@ -4489,7 +4489,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.54/macos-intel-v0.0.54.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 435,
+            "windows": 436,
             "linux": 54,
             "macos": 12
           }
@@ -7485,7 +7485,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1291,
+            "windows": 1292,
             "linux": 134,
             "macos": 34
           }
@@ -7629,5 +7629,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-02-26T13:09:57.282Z"
+  "lastUpdated": "2026-02-26T17:01:06.261Z"
 }
