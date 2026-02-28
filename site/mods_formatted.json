@@ -561,7 +561,7 @@
         "gameplay-mod",
         "rng"
       ],
-      "websiteUrl": "https://github.com/OpenGOAL-Mods/OG-Randomizer/blob/main/README.md",
+      "websiteUrl": "https://www.github.com/OpenGOAL-Mods/OG-Randomizer",
       "supportedGames": [
         "jak1"
       ],
@@ -1037,7 +1037,7 @@
         "challenge",
         "gameplay-mod"
       ],
-      "websiteUrl": "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/blob/main/README.md",
+      "websiteUrl": "https://www.github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy",
       "supportedGames": [
         "jak1"
       ],
@@ -1274,7 +1274,7 @@
         "challenge",
         "gameplay-mod"
       ],
-      "websiteUrl": "https://github.com/OpenGOAL-Mods/OG-Zoomer-Legacy/blob/main/README.md",
+      "websiteUrl": "https://www.github.com/OpenGOAL-Mods/OG-Zoomer-Legacy",
       "supportedGames": [
         "jak1"
       ],
@@ -1387,7 +1387,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-SM64/releases/download/v0.2.8/macos-intel-v0.2.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 474,
+            "windows": 475,
             "linux": 36,
             "macos": 17
           }
@@ -2398,7 +2398,7 @@
         "challenge",
         "gameplay-mod"
       ],
-      "websiteUrl": "https://github.com/OpenGOAL-Mods/OG-Fricked/blob/main/README.md",
+      "websiteUrl": "https://www.github.com/OpenGOAL-Mods/OG-Fricked",
       "supportedGames": [
         "jak1",
         "jak2"
@@ -2495,7 +2495,7 @@
         "challenge",
         "gameplay-mod"
       ],
-      "websiteUrl": "https://github.com/EvelynTSMG/Jak1-Pogo/blob/main/README.md",
+      "websiteUrl": "https://www.github.com/EvelynTSMG/Jak1-Pogo",
       "supportedGames": [
         "jak1"
       ],
@@ -2565,7 +2565,7 @@
         "gameplay-mod",
         "speedrunning"
       ],
-      "websiteUrl": "https://github.com/dallmeyer/OG-NoOrb/blob/main/README.md",
+      "websiteUrl": "https://www.github.com/dallmeyer/OG-NoOrb",
       "supportedGames": [
         "jak1"
       ],
@@ -2695,7 +2695,7 @@
           },
           "assetDownloadCounts": {
             "windows": 230,
-            "linux": 31,
+            "linux": 33,
             "macos": 2
           }
         },
@@ -2852,7 +2852,7 @@
             "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.0.11/macos-intel-v0.0.11.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 179,
+            "windows": 184,
             "linux": 17,
             "macos": 2
           }
@@ -3134,7 +3134,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2730,
+            "windows": 2733,
             "linux": 159,
             "macos": 13
           }
@@ -3559,7 +3559,7 @@
             "macos": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.0.7/macos-intel-v0.0.7-jak2.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 194,
+            "windows": 195,
             "linux": 20,
             "macos": 3
           }
@@ -3668,7 +3668,7 @@
         "challenge",
         "gameplay-mod"
       ],
-      "websiteUrl": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/blob/main/README.md",
+      "websiteUrl": "https://www.github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn",
       "supportedGames": [
         "jak1"
       ],
@@ -4239,7 +4239,7 @@
         "speedrunning",
         "gameplay-mod"
       ],
-      "websiteUrl": "https://github.com/OpenGOAL-Mods/OG-Daxter2/blob/main/README.md",
+      "websiteUrl": "https://www.github.com/OpenGOAL-Mods/OG-Daxter2",
       "supportedGames": [
         "jak2",
         "jak3"
@@ -4312,7 +4312,7 @@
         "speedrunning",
         "gameplay-mod"
       ],
-      "websiteUrl": "https://github.com/OpenGOAL-Mods/OG-Jak2-AugustBuild/blob/main/README.md",
+      "websiteUrl": "https://www.github.com/OpenGOAL-Mods/OG-Jak2-AugustBuild",
       "supportedGames": [
         "jak2"
       ],
@@ -4334,7 +4334,7 @@
           },
           "assetDownloadCounts": {
             "windows": 287,
-            "linux": 22,
+            "linux": 23,
             "macos": 10
           }
         }
@@ -4358,7 +4358,7 @@
         "challenge",
         "gameplay-mod"
       ],
-      "websiteUrl": "https://github.com/RealOfficialKraken/updated-HeroModePlus/blob/main/README.md",
+      "websiteUrl": "https://www.github.com/RealOfficialKraken/updated-HeroModePlus",
       "supportedGames": [
         "jak2"
       ],
@@ -4933,7 +4933,7 @@
       "tags": [
         "gameplay-mod"
       ],
-      "websiteUrl": "https://github.com/OpenGOAL-Mods/OG-Dark-Jak/blob/main/README.md",
+      "websiteUrl": "https://www.github.com/OpenGOAL-Mods/OG-Dark-Jak",
       "supportedGames": [
         "jak2"
       ],
@@ -5109,7 +5109,7 @@
         "challenge",
         "gameplay-mod"
       ],
-      "websiteUrl": "https://github.com/EvelynTSMG/JakSpeeb/blob/main/README.md",
+      "websiteUrl": "https://www.github.com/EvelynTSMG/JakSpeeb",
       "supportedGames": [
         "jak1"
       ],
@@ -5286,7 +5286,7 @@
             "macos": "https://github.com/gratefulforest/Cratetopia/releases/download/v2.0.1/macos-intel-v2.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 39,
+            "windows": 40,
             "linux": 6,
             "macos": 2
           }
@@ -5398,7 +5398,7 @@
         "speedrunning",
         "gameplay-mod"
       ],
-      "websiteUrl": "https://github.com/OpenGOAL-Mods/OG-AccurateUnlockables/blob/main/README.md",
+      "websiteUrl": "https://www.github.com/OpenGOAL-Mods/OG-AccurateUnlockables",
       "supportedGames": [
         "jak2"
       ],
@@ -5871,7 +5871,7 @@
       "tags": [
         "gameplay-mod"
       ],
-      "websiteUrl": "https://jakmods.dev",
+      "websiteUrl": "https://www.github.com/OpenGOAL-Mods/OG-Obama",
       "supportedGames": [
         "jak1"
       ],
@@ -5917,7 +5917,7 @@
       "tags": [
         "gameplay-mod"
       ],
-      "websiteUrl": "https://github.com/my-opengoal-mods/OG-warp-randomizer/blob/main/README.md",
+      "websiteUrl": "https://www.github.com/my-opengoal-mods/OG-warp-randomizer",
       "supportedGames": [
         "jak1"
       ],
@@ -6280,7 +6280,7 @@
         "speedrunning",
         "gameplay-mod"
       ],
-      "websiteUrl": "https://github.com/OpenGOAL-Mods/OG-SC/blob/main/README.md",
+      "websiteUrl": "https://www.github.com/OpenGOAL-Mods/OG-SC",
       "supportedGames": [
         "jak1"
       ],
@@ -6600,7 +6600,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2721,
+            "windows": 2723,
             "linux": 241,
             "macos": 93
           }
@@ -6774,7 +6774,7 @@
         "challenge",
         "speedrunning"
       ],
-      "websiteUrl": "https://github.com/dallmeyer/jak-up/blob/main/README.md",
+      "websiteUrl": "https://www.github.com/dallmeyer/jak-up",
       "supportedGames": [
         "jak1"
       ],
@@ -6945,7 +6945,7 @@
       "tags": [
         "custom-level"
       ],
-      "websiteUrl": "https://github.com/Cuttlefishthesage/OG-Mod-Base/blob/main/README.md",
+      "websiteUrl": "https://www.github.com/Cuttlefishthesage/OG-Mod-Base",
       "supportedGames": [
         "jak1"
       ],
@@ -7116,7 +7116,7 @@
       "tags": [
         "custom-level"
       ],
-      "websiteUrl": "https://github.com/Cuttlefishthesage/Og-ModBase-Rockpool/blob/main/README.md",
+      "websiteUrl": "https://www.github.com/Cuttlefishthesage/Og-ModBase-Rockpool",
       "supportedGames": [
         "jak1"
       ],
@@ -7182,7 +7182,7 @@
       "tags": [
         "custom-level"
       ],
-      "websiteUrl": "https://github.com/Cuttlefishthesage/LL-OpenGOAL-ModBase/blob/main/README.md",
+      "websiteUrl": "https://www.github.com/Cuttlefishthesage/LL-OpenGOAL-ModBase",
       "supportedGames": [
         "jak1"
       ],
@@ -7248,7 +7248,7 @@
       "tags": [
         "custom-level"
       ],
-      "websiteUrl": "https://github.com/Cuttlefishthesage/OG-Mod-Base-Glacier/blob/main/README.md",
+      "websiteUrl": "https://www.github.com/Cuttlefishthesage/OG-Mod-Base-Glacier",
       "supportedGames": [
         "jak1"
       ],
@@ -7335,7 +7335,7 @@
       "tags": [
         "custom-level"
       ],
-      "websiteUrl": "https://github.com/slak1-OG-mods/jak1-sandpit-level/blob/modbase-merge/README.md",
+      "websiteUrl": "https://www.github.com/slak1-OG-mods/jak1-sandpit-level",
       "supportedGames": [
         "jak1"
       ],
@@ -7485,7 +7485,7 @@
       "tags": [
         "custom-level"
       ],
-      "websiteUrl": "https://github.com/Cuttlefishthesage/BrumeVillage/blob/main/README.md",
+      "websiteUrl": "https://www.github.com/Cuttlefishthesage/BrumeVillage",
       "supportedGames": [
         "jak1"
       ],
@@ -7506,7 +7506,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1307,
+            "windows": 1309,
             "linux": 134,
             "macos": 34
           }
@@ -7551,7 +7551,7 @@
       "tags": [
         "model-replacement"
       ],
-      "websiteUrl": "https://github.com/Clankape/OG-Mod-Base-Halloween/blob/main/README.md",
+      "websiteUrl": "https://www.github.com/Clankape/OG-Mod-Base-Halloween",
       "supportedGames": [
         "jak1"
       ],
@@ -7650,5 +7650,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-02-28T02:00:23.753Z"
+  "lastUpdated": "2026-02-28T04:06:28.637Z"
 }
