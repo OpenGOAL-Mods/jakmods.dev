@@ -110,13 +110,6 @@ for (const [modName, modInfo] of Object.entries(configFile["mods"])) {
         perGameConfig: {},
         externalLink: null
     };
-    if (!Object.keys(modInfo).includes("website_url")) {
-        // either its an external link and we can ignore it
-        // or we infer it from the repo_owner_name
-        if (!Object.keys(modInfo).includes("external_link")) {
-            modSourceInfo.websiteUrl = `https://www.github.com/${modInfo["repo_owner"]}/${modInfo["repo_name"]}`;
-        }
-    }
     if (Object.keys(modInfo).includes("cover_art_url")) {
         modSourceInfo.coverArtUrl = modInfo["cover_art_url"];
     }
