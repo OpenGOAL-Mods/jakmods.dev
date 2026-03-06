@@ -669,7 +669,7 @@ mods:
     tags: ["custom-level"]
     # website_url: "https://github.com/Cuttlefishthesage/LL-OpenGOAL-ModBase/blob/main/README.md"
     cover_art_url: "https://raw.githubusercontent.com/Cuttlefishthesage/LL-OpenGOAL-ModBase/refs/heads/master/overgrownthumbnail.png"
-    thumbnail_art_url: "https://raw.githubusercontent.com/Cuttlefishthesage/LL-OpenGOAL-ModBase/refs/heads/master/overgrownthumbnail.png"
+    thumbnail_art_url: "https://raw.githubusercontent.com/Cuttlefishthesage/LL-OpenGOAL-ModBase/refs/heads/master/OvergrownSmall.png"
 
   glacier:
     repo_owner: "Cuttlefishthesage"
@@ -711,7 +711,7 @@ mods:
     tags: ["custom-level"]
     # website_url: "https://github.com/Cuttlefishthesage/BrumeVillage/blob/main/README.md"
     cover_art_url: "https://raw.githubusercontent.com/Cuttlefishthesage/BrumeVillage/refs/heads/master/brumecover.png"
-    thumbnail_art_url: "https://raw.githubusercontent.com/Cuttlefishthesage/BrumeVillage/refs/heads/master/BrumeThumbnailFinal.png"
+    thumbnail_art_url: "https://raw.githubusercontent.com/Cuttlefishthesage/BrumeVillage/refs/heads/master/BrumeVillageSmall.png"
 
   #### MODEL REPLACEMENT MODS ####
 
