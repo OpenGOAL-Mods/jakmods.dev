@@ -2959,7 +2959,7 @@
           "assetDownloadCounts": {
             "windows": 107,
             "linux": 11,
-            "macos": 1
+            "macos": 2
           }
         },
         {
@@ -3021,7 +3021,7 @@
           },
           "assetDownloadCounts": {
             "windows": 378,
-            "linux": 38,
+            "linux": 39,
             "macos": 7
           }
         },
@@ -4632,7 +4632,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.54/macos-intel-v0.0.54.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 468,
+            "windows": 469,
             "linux": 59,
             "macos": 12
           }
@@ -5075,7 +5075,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Dark-Jak/releases/download/v0.5.0/macos-intel-v0.5.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 380,
+            "windows": 381,
             "linux": 44,
             "macos": 10
           }
@@ -5204,7 +5204,7 @@
             "macos": "https://github.com/CraiyDev/Better-Dark-Jak/releases/download/v0.0.2/macos-intel-v0.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 648,
+            "windows": 651,
             "linux": 99,
             "macos": 8
           }
@@ -6716,7 +6716,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2802,
+            "windows": 2804,
             "linux": 260,
             "macos": 95
           }
@@ -7758,5 +7758,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-03-10T08:46:10.346Z"
+  "lastUpdated": "2026-03-10T13:04:35.721Z"
 }
