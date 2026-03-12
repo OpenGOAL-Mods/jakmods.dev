@@ -2757,7 +2757,7 @@
             "macos": "https://github.com/EvelynTSMG/Jak-EveBase/releases/download/v0.1.2/macos-intel-v0.1.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 343,
+            "windows": 344,
             "linux": 58,
             "macos": 4
           }
@@ -6716,7 +6716,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2815,
+            "windows": 2816,
             "linux": 263,
             "macos": 95
           }
@@ -7080,7 +7080,7 @@
             "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base/releases/download/v0.0.8-afoniddwr.2/macos-intel-v0.0.8-afoniddwr.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 387,
+            "windows": 388,
             "linux": 50,
             "macos": 12
           }
@@ -7250,7 +7250,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 937,
+            "windows": 939,
             "linux": 0,
             "macos": 0
           }
@@ -7466,7 +7466,7 @@
             "macos": "https://github.com/slak1-OG-mods/jak1-sandpit-level/releases/download/v2.0.1-modbase-merge.4/macos-intel-v2.0.1-modbase-merge.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 530,
+            "windows": 531,
             "linux": 57,
             "macos": 16
           }
@@ -7615,7 +7615,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1435,
+            "windows": 1436,
             "linux": 144,
             "macos": 36
           }
@@ -7758,5 +7758,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-03-12T08:46:12.261Z"
+  "lastUpdated": "2026-03-12T13:04:50.508Z"
 }
