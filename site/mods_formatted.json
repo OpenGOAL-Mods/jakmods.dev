@@ -1125,7 +1125,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/releases/download/v0.2.5-mergetime1127.3/macos-intel-v0.2.5-mergetime1127.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 195,
+            "windows": 196,
             "linux": 23,
             "macos": 13
           }
@@ -2757,7 +2757,7 @@
             "macos": "https://github.com/EvelynTSMG/Jak-EveBase/releases/download/v0.1.2/macos-intel-v0.1.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 360,
+            "windows": 361,
             "linux": 61,
             "macos": 4
           }
@@ -4501,7 +4501,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.14/macos-intel-v0.0.14.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 255,
+            "windows": 256,
             "linux": 40,
             "macos": 7
           }
@@ -5204,7 +5204,7 @@
             "macos": "https://github.com/CraiyDev/Better-Dark-Jak/releases/download/v0.0.2/macos-intel-v0.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 676,
+            "windows": 677,
             "linux": 111,
             "macos": 8
           }
@@ -7758,5 +7758,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-03-15T12:56:28.032Z"
+  "lastUpdated": "2026-03-15T16:34:46.640Z"
 }
