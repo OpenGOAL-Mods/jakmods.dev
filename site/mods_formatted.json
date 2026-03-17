@@ -2826,7 +2826,7 @@
             "macos": "https://github.com/this-guy-git/JGChaos/releases/download/v0.2.3/macos-intel-v0.2.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 182,
+            "windows": 183,
             "linux": 16,
             "macos": 7
           }
@@ -2915,7 +2915,7 @@
             "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.1.0/macos-intel-v0.1.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 73,
+            "windows": 74,
             "linux": 6,
             "macos": 0
           }
@@ -3835,7 +3835,7 @@
             "macos": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.9/macos-intel-v2.1.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 442,
+            "windows": 443,
             "linux": 39,
             "macos": 11
           }
@@ -4653,7 +4653,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.54/macos-intel-v0.0.54.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 486,
+            "windows": 487,
             "linux": 59,
             "macos": 12
           }
@@ -6031,7 +6031,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Obama/releases/download/v0.0.1/macos-intel-v0.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 613,
+            "windows": 614,
             "linux": 52,
             "macos": 15
           }
@@ -6737,7 +6737,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2844,
+            "windows": 2845,
             "linux": 271,
             "macos": 95
           }
@@ -7779,5 +7779,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-03-17T05:22:18.579Z"
+  "lastUpdated": "2026-03-17T08:56:03.524Z"
 }
