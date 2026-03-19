@@ -2308,7 +2308,7 @@
           },
           "assetDownloadCounts": {
             "windows": 484,
-            "linux": 95,
+            "linux": 96,
             "macos": 16
           }
         },
@@ -2826,7 +2826,7 @@
             "macos": "https://github.com/this-guy-git/JGChaos/releases/download/v0.2.3/macos-intel-v0.2.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 184,
+            "windows": 185,
             "linux": 16,
             "macos": 7
           }
@@ -7508,7 +7508,7 @@
             "macos": "https://github.com/slak1-OG-mods/jak1-sandpit-level/releases/download/v2.0.1-modbase-merge.4/macos-intel-v2.0.1-modbase-merge.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 544,
+            "windows": 545,
             "linux": 60,
             "macos": 16
           }
@@ -7800,5 +7800,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-03-19T13:08:45.037Z"
+  "lastUpdated": "2026-03-19T17:01:04.292Z"
 }
