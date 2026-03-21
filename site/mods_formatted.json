@@ -2757,8 +2757,8 @@
             "macos": "https://github.com/EvelynTSMG/Jak-EveBase/releases/download/v0.1.2/macos-intel-v0.1.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 385,
-            "linux": 64,
+            "windows": 386,
+            "linux": 65,
             "macos": 4
           }
         },
@@ -7122,7 +7122,7 @@
             "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base/releases/download/v0.0.8-afoniddwr.2/macos-intel-v0.0.8-afoniddwr.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 397,
+            "windows": 398,
             "linux": 53,
             "macos": 12
           }
@@ -7292,7 +7292,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 949,
+            "windows": 950,
             "linux": 0,
             "macos": 0
           }
@@ -7357,7 +7357,7 @@
             "macos": "https://github.com/Cuttlefishthesage/LL-OpenGOAL-ModBase/releases/download/v4.3.4/macos-intel-v4.3.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1123,
+            "windows": 1124,
             "linux": 124,
             "macos": 31
           }
@@ -7422,7 +7422,7 @@
             "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base-Glacier/releases/download/v1.0.9/macos-intel-v1.0.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 680,
+            "windows": 681,
             "linux": 71,
             "macos": 28
           }
@@ -7508,7 +7508,7 @@
             "macos": "https://github.com/slak1-OG-mods/jak1-sandpit-level/releases/download/v2.0.1-modbase-merge.4/macos-intel-v2.0.1-modbase-merge.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 545,
+            "windows": 546,
             "linux": 60,
             "macos": 16
           }
@@ -7657,7 +7657,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1472,
+            "windows": 1473,
             "linux": 151,
             "macos": 36
           }
@@ -7800,5 +7800,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-03-21T12:54:09.484Z"
+  "lastUpdated": "2026-03-21T16:32:45.897Z"
 }
