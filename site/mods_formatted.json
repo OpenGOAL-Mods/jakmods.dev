@@ -3260,7 +3260,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2971,
+            "windows": 2972,
             "linux": 165,
             "macos": 14
           }
@@ -3643,7 +3643,7 @@
             "macos": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.1.1/macos-intel-v0.1.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 26,
+            "windows": 27,
             "linux": 1,
             "macos": 0
           }
@@ -4674,8 +4674,8 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.54/macos-intel-v0.0.54.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 491,
-            "linux": 59,
+            "windows": 492,
+            "linux": 60,
             "macos": 12
           }
         },
@@ -5246,7 +5246,7 @@
             "macos": "https://github.com/CraiyDev/Better-Dark-Jak/releases/download/v0.0.2/macos-intel-v0.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 685,
+            "windows": 686,
             "linux": 113,
             "macos": 8
           }
@@ -6758,7 +6758,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2864,
+            "windows": 2865,
             "linux": 276,
             "macos": 95
           }
@@ -7800,5 +7800,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-03-22T12:55:28.384Z"
+  "lastUpdated": "2026-03-22T16:34:33.449Z"
 }
