@@ -651,7 +651,7 @@
           },
           "assetDownloadCounts": {
             "windows": 316,
-            "linux": 31,
+            "linux": 32,
             "macos": 22
           }
         },
@@ -2757,8 +2757,8 @@
             "macos": "https://github.com/EvelynTSMG/Jak-EveBase/releases/download/v0.1.2/macos-intel-v0.1.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 417,
-            "linux": 73,
+            "windows": 418,
+            "linux": 74,
             "macos": 4
           }
         },
@@ -2915,7 +2915,7 @@
             "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.1.0/macos-intel-v0.1.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 152,
+            "windows": 157,
             "linux": 14,
             "macos": 0
           }
@@ -3260,7 +3260,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 3039,
+            "windows": 3043,
             "linux": 175,
             "macos": 14
           }
@@ -5246,7 +5246,7 @@
             "macos": "https://github.com/CraiyDev/Better-Dark-Jak/releases/download/v0.0.2/macos-intel-v0.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 706,
+            "windows": 707,
             "linux": 122,
             "macos": 8
           }
@@ -5403,7 +5403,7 @@
           },
           "assetDownloadCounts": {
             "windows": 498,
-            "linux": 47,
+            "linux": 48,
             "macos": 13
           }
         }
@@ -7800,5 +7800,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-03-29T02:36:43.703Z"
+  "lastUpdated": "2026-03-29T05:44:24.806Z"
 }
