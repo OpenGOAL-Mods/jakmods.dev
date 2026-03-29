@@ -2580,7 +2580,7 @@
             "macos": "https://github.com/EvelynTSMG/Jak1-Pogo/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 69,
+            "windows": 70,
             "linux": 10,
             "macos": 7
           }
@@ -2757,7 +2757,7 @@
             "macos": "https://github.com/EvelynTSMG/Jak-EveBase/releases/download/v0.1.2/macos-intel-v0.1.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 419,
+            "windows": 420,
             "linux": 75,
             "macos": 4
           }
@@ -3260,7 +3260,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 3044,
+            "windows": 3045,
             "linux": 175,
             "macos": 14
           }
@@ -3643,8 +3643,8 @@
             "macos": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.1.1/macos-intel-v0.1.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 72,
-            "linux": 3,
+            "windows": 73,
+            "linux": 4,
             "macos": 0
           }
         },
@@ -5246,7 +5246,7 @@
             "macos": "https://github.com/CraiyDev/Better-Dark-Jak/releases/download/v0.0.2/macos-intel-v0.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 707,
+            "windows": 708,
             "linux": 122,
             "macos": 8
           }
@@ -6459,7 +6459,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-SC/releases/download/v1.6.5/macos-intel-v1.6.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 149,
+            "windows": 150,
             "linux": 17,
             "macos": 12
           }
@@ -7800,5 +7800,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-03-29T08:43:00.259Z"
+  "lastUpdated": "2026-03-29T12:59:53.613Z"
 }
