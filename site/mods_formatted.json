@@ -2757,8 +2757,8 @@
             "macos": "https://github.com/EvelynTSMG/Jak-EveBase/releases/download/v0.1.2/macos-intel-v0.1.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 438,
-            "linux": 77,
+            "windows": 441,
+            "linux": 78,
             "macos": 4
           }
         },
@@ -3260,8 +3260,8 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 3071,
-            "linux": 178,
+            "windows": 3072,
+            "linux": 179,
             "macos": 14
           }
         },
@@ -5246,7 +5246,7 @@
             "macos": "https://github.com/CraiyDev/Better-Dark-Jak/releases/download/v0.0.2/macos-intel-v0.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 715,
+            "windows": 717,
             "linux": 124,
             "macos": 8
           }
@@ -7122,7 +7122,7 @@
             "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base/releases/download/v0.0.8-afoniddwr.2/macos-intel-v0.0.8-afoniddwr.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 410,
+            "windows": 411,
             "linux": 55,
             "macos": 12
           }
@@ -7292,7 +7292,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 957,
+            "windows": 958,
             "linux": 0,
             "macos": 0
           }
@@ -7357,7 +7357,7 @@
             "macos": "https://github.com/Cuttlefishthesage/LL-OpenGOAL-ModBase/releases/download/v4.3.4/macos-intel-v4.3.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1138,
+            "windows": 1139,
             "linux": 127,
             "macos": 31
           }
@@ -7508,7 +7508,7 @@
             "macos": "https://github.com/slak1-OG-mods/jak1-sandpit-level/releases/download/v2.0.1-modbase-merge.4/macos-intel-v2.0.1-modbase-merge.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 557,
+            "windows": 558,
             "linux": 63,
             "macos": 16
           }
@@ -7657,7 +7657,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1524,
+            "windows": 1525,
             "linux": 161,
             "macos": 38
           }
@@ -7800,5 +7800,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-03-31T02:33:16.376Z"
+  "lastUpdated": "2026-03-31T05:45:53.593Z"
 }
