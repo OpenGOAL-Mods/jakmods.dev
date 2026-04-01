@@ -4425,6 +4425,28 @@
       ],
       "versions": [
         {
+          "version": "1.1.0",
+          "publishedDate": "2026-04-01T09:23:39Z",
+          "supportedGames": [
+            "jak2",
+            "jak3"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/OpenGOAL-Mods/OG-Daxter2/releases/download/v1.1.0/windows-v1.1.0.zip",
+            "linux": "https://github.com/OpenGOAL-Mods/OG-Daxter2/releases/download/v1.1.0/linux-v1.1.0.tar.gz",
+            "macos": "https://github.com/OpenGOAL-Mods/OG-Daxter2/releases/download/v1.1.0/macos-intel-v1.1.0.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
           "version": "1.0.0",
           "publishedDate": "2025-01-02T01:56:54Z",
           "supportedGames": [
@@ -5628,7 +5650,7 @@
       "versions": [
         {
           "version": "0.1.0",
-          "publishedDate": "2026-04-01T08:11:26Z",
+          "publishedDate": "2026-04-01T09:51:43Z",
           "supportedGames": [
             "jak2",
             "jak3"
@@ -5665,7 +5687,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.0.23/macos-intel-v0.0.23.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 109,
+            "windows": 110,
             "linux": 15,
             "macos": 9
           }
@@ -7835,5 +7857,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-04-01T09:07:23.355Z"
+  "lastUpdated": "2026-04-01T09:52:51.847Z"
 }
