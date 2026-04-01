@@ -250,8 +250,6 @@ mods:
     repo_owner: "Zed-Mod-School"
     repo_name: "fricked3-testing"
     url: "https://github.com/Zed-Mod-School/fricked3-testing"
-    ignore_versions:
-      - "<1.0.0"
     display_name: "Fricked Up"
     description: "In beta, give feedback"
     authors: ["zed"]
