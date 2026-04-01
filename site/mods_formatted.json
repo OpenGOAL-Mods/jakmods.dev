@@ -1432,9 +1432,7 @@
       ],
       "websiteUrl": "https://github.com/OpenGOAL-Mods/OG-SM64/blob/main/README.md",
       "supportedGames": [
-        "jak1",
-        "jak3",
-        "jakx"
+        "jak1"
       ],
       "versions": [
         {
@@ -1462,9 +1460,7 @@
           "version": "0.1.3",
           "publishedDate": "2024-09-27T07:50:41Z",
           "supportedGames": [
-            "jak1",
-            "jak3",
-            "jakx"
+            "jak1"
           ],
           "settings": {
             "decompConfigOverride": "",
@@ -1528,12 +1524,6 @@
       "thumbnailArtUrl": "https://raw.githubusercontent.com/dallmeyer/opengoal-sm64/main/ModImage.png",
       "perGameConfig": {
         "jak1": {
-          "releaseDate": "2022-10-28"
-        },
-        "jak3": {
-          "releaseDate": "2022-10-28"
-        },
-        "jakx": {
           "releaseDate": "2022-10-28"
         }
       },
@@ -4397,8 +4387,8 @@
       "externalLink": null
     },
     "daxter-2": {
-      "displayName": "Daxter II",
-      "description": "Daxter finally gets his sequel!",
+      "displayName": "Daxter II / Daxter 3",
+      "description": "Daxter finally gets his sequel/threequel!",
       "authors": [
         "barg"
       ],
@@ -7800,5 +7790,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-04-01T05:56:23.014Z"
+  "lastUpdated": "2026-04-01T05:58:54.189Z"
 }
