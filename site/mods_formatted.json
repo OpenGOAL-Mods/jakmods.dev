@@ -2575,9 +2575,31 @@
         "gameplay-mod"
       ],
       "supportedGames": [
-        "jak1"
+        "jak3"
       ],
-      "versions": [],
+      "versions": [
+        {
+          "version": "0.0.1-cluade.0",
+          "publishedDate": "2026-04-01T20:33:58Z",
+          "supportedGames": [
+            "jak3"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/Zed-Mod-School/fricked3-testing/releases/download/v0.0.1-cluade.0/windows-v0.0.1-cluade.0.zip",
+            "linux": "https://github.com/Zed-Mod-School/fricked3-testing/releases/download/v0.0.1-cluade.0/linux-v0.0.1-cluade.0.tar.gz",
+            "macos": "https://github.com/Zed-Mod-School/fricked3-testing/releases/download/v0.0.1-cluade.0/macos-intel-v0.0.1-cluade.0.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        }
+      ],
       "perGameConfig": {
         "jak1": {
           "coverArtUrl": "https://raw.githubusercontent.com/dallmeyer/modimages/main/frickedup1.png",
@@ -2589,7 +2611,8 @@
         },
         "jak3": {
           "coverArtUrl": "https://raw.githubusercontent.com/Zed-Mod-School/fricked3-testing/a86e63ec950a3d11b27c884f3df5a694b8ed80b5/frickedup3.png",
-          "thumbnailArtUrl": "https://raw.githubusercontent.com/Zed-Mod-School/fricked3-testing/a86e63ec950a3d11b27c884f3df5a694b8ed80b5/frickedup3.png"
+          "thumbnailArtUrl": "https://raw.githubusercontent.com/Zed-Mod-School/fricked3-testing/a86e63ec950a3d11b27c884f3df5a694b8ed80b5/frickedup3.png",
+          "releaseDate": "2026-04-01"
         }
       },
       "externalLink": null
@@ -2801,7 +2824,7 @@
             "macos": "https://github.com/EvelynTSMG/Jak-EveBase/releases/download/v0.1.2/macos-intel-v0.1.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 459,
+            "windows": 460,
             "linux": 83,
             "macos": 4
           }
@@ -4472,7 +4495,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Daxter2/releases/download/v1.1.0/macos-intel-v1.1.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 8,
+            "windows": 9,
             "linux": 0,
             "macos": 0
           }
@@ -5696,7 +5719,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.1.2/macos-intel-v0.1.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 0,
+            "windows": 1,
             "linux": 0,
             "macos": 0
           }
@@ -6890,7 +6913,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2918,
+            "windows": 2920,
             "linux": 283,
             "macos": 99
           }
@@ -7424,7 +7447,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 961,
+            "windows": 962,
             "linux": 0,
             "macos": 0
           }
@@ -7640,7 +7663,7 @@
             "macos": "https://github.com/slak1-OG-mods/jak1-sandpit-level/releases/download/v2.0.1-modbase-merge.4/macos-intel-v2.0.1-modbase-merge.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 564,
+            "windows": 565,
             "linux": 63,
             "macos": 17
           }
@@ -7789,7 +7812,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1539,
+            "windows": 1540,
             "linux": 162,
             "macos": 39
           }
@@ -7932,5 +7955,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-04-01T20:03:53.381Z"
+  "lastUpdated": "2026-04-01T20:35:35.857Z"
 }
