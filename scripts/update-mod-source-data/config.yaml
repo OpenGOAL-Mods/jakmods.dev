@@ -395,8 +395,8 @@ mods:
     release_date_override: "2023-11-04"
     ignore_versions:
       - "<0.3.4"
-    display_name: "Daxter II"
-    description: "Daxter finally gets his sequel!"
+    display_name: "Daxter II / Daxter 3"
+    description: "Daxter finally gets his sequel/threequel!"
     authors: ["barg"]
     tags: ["speedrunning", "gameplay-mod"]
     # website_url: "https://github.com/OpenGOAL-Mods/OG-Daxter2/blob/main/README.md"
