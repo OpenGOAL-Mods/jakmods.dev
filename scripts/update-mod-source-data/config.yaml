@@ -570,8 +570,15 @@ mods:
     authors: ["barg", "ThaRixer", "bintendo42"]
     tags: ["speedrunning", "gameplay-mod"]
     website_url: "https://github.com/OpenGOAL-Mods/OG-ILs/blob/main/README.md"
-    cover_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-ILs/refs/heads/main/ils-background.png"
-    thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-ILs/refs/heads/main/ils-thumb.png"
+    per_game_config:
+      jak2:
+        release_date_override: "2025-03-15"
+        cover_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-ILs/refs/heads/main/ils-background.png"
+        thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-ILs/refs/heads/main/ils-thumb.png"
+      jak3:
+        release_date_override: "2026-04-01"
+        cover_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-ILs/refs/heads/main/ils-background.png"
+        thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/refs/heads/main/ModImages/jak3og_missions.png"
 
   obama:
     repo_owner: "OpenGOAL-Mods"
