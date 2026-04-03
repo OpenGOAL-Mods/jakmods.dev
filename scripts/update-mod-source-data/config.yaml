@@ -716,18 +716,6 @@ mods:
     cover_art_url: "https://raw.githubusercontent.com/Cuttlefishthesage/OG-Mod-Base-Glacier/refs/heads/main/GlacierThumbnailFinal.PNG"
     thumbnail_art_url: "https://raw.githubusercontent.com/Cuttlefishthesage/OG-Mod-Base-Glacier/refs/heads/main/GlacierThumbnailFinal.PNG"
 
-  sandpit:
-    repo_owner: "slak1-OG-mods"
-    repo_name: "jak1-sandpit-level"
-    url: "https://github.com/slak1-OG-mods/jak1-sandpit-level"
-    display_name: "Sandpit"
-    description: "Miners have vanished from a nearby excavation site, leaving behind their tools and Power Cells. Find the Power Cells before the lurkers do!"
-    authors: ["Slak"]
-    tags: ["custom-level"]
-    # website_url: "https://github.com/slak1-OG-mods/jak1-sandpit-level/blob/modbase-merge/README.md"
-    cover_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/refs/heads/main/SNPModImage.png"
-    thumbnail_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/refs/heads/main/SNPthumbnail.png"
-
   brume_village:
     repo_owner: "Cuttlefishthesage"
     repo_name: "BrumeVillage"
@@ -742,6 +730,31 @@ mods:
     # website_url: "https://github.com/Cuttlefishthesage/BrumeVillage/blob/main/README.md"
     cover_art_url: "https://raw.githubusercontent.com/Cuttlefishthesage/BrumeVillage/refs/heads/master/brumecover.png"
     thumbnail_art_url: "https://raw.githubusercontent.com/Cuttlefishthesage/BrumeVillage/refs/heads/master/BrumeVillageSmall.png"
+
+  eroded_coast:
+    repo_owner: "Cuttlefishthesage"
+    repo_name: "ErodedCoast"
+    url: "https://github.com/Cuttlefishthesage/ErodedCoast"
+    release_date_override: "2026-04-03"
+    display_name: "Eroded Coast"
+    description: "Welcome to the Eroded Coast! Located at the far end of Sentinel Beach, this new custom level features 6 powercells to find and 150 orbs to collect! Help restore power to the lighthouse before disaster strikes!"
+    authors: ["Cuttlefish"]
+    tags: ["custom-level"]
+    website_url: "https://www.youtube.com/watch?v=d2G5IZI7UQg"
+    cover_art_url: "https://raw.githubusercontent.com/Cuttlefishthesage/ErodedCoast/refs/heads/main/erodedthumbnailLauncher.png"
+    thumbnail_art_url: "https://raw.githubusercontent.com/Cuttlefishthesage/ErodedCoast/refs/heads/main/erodedthumbnaillauncher2.png"
+
+  sandpit:
+    repo_owner: "slak1-OG-mods"
+    repo_name: "jak1-sandpit-level"
+    url: "https://github.com/slak1-OG-mods/jak1-sandpit-level"
+    display_name: "Sandpit"
+    description: "Miners have vanished from a nearby excavation site, leaving behind their tools and Power Cells. Find the Power Cells before the lurkers do!"
+    authors: ["Slak"]
+    tags: ["custom-level"]
+    # website_url: "https://github.com/slak1-OG-mods/jak1-sandpit-level/blob/modbase-merge/README.md"
+    cover_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/refs/heads/main/SNPModImage.png"
+    thumbnail_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/refs/heads/main/SNPthumbnail.png"
 
   #### MODEL REPLACEMENT MODS ####
 
