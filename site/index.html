@@ -95,6 +95,8 @@
     document.getElementById("jak1ModList").appendChild(jak1ModList);
     let jak2ModList = initTable(true);
     document.getElementById("jak2ModList").appendChild(jak2ModList);
+    let jak3ModList = initTable(true);
+    document.getElementById("jak3ModList").appendChild(jak3ModList);
     // let jak1TexList = initTable(false);
     // document.getElementById("jak1TexList").appendChild(jak1TexList);
     // let jak2TexList = initTable(false);
@@ -121,6 +123,10 @@
           break;
         case "jak2":
           table = jak2ModList;
+          showTags = true;
+          break;
+        case "jak3":
+          table = jak3ModList;
           showTags = true;
           break;
       }
@@ -222,6 +228,8 @@
       <p><div id="jak1ModList"></div></p>
       <p><h3>Jak 2 Mods</h3></p>
       <p><div id="jak2ModList"></div></p>
+      <p><h3>Jak 3 Mods</h3></p>
+      <p><div id="jak3ModList"></div></p>
       <hr>
       <p>
         <center>
