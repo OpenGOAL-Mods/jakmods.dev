@@ -175,7 +175,68 @@
             </ol>
         </p>
         <hr> -->
-
+      
+        <p><h3>Legacy Mod Launcher FAQ</h3></p>
+  
+        <p><details>
+          <summary><b>My antivirus software is warning me about the launcher / mods! Is this a virus?</b></summary>
+          <p style="margin-left: 25px">No, the <a href="https://github.com/OpenGOAL-Unofficial-Mods/OpenGoal-ModLauncher-dev">mod launcher</a> and the <a href="https://github.com/open-goal/jak-project">jak-project</a> are both open source if you'd like to audit the codebase yourself. The mod launcher is a small Python program bundled into a Windows app for easy use.</p>
+          <p style="margin-left: 25px">Each mod is effectively a standalone OpenGOAL installation, and so you may need to allow <code>extractor.exe</code> and/or <code>gk.exe</code> within your antivirus program individually for each mod.</p>
+        </details></p>
+  
+        <p><details>
+          <summary><b>How do I update the launcher / mods?</b></summary>
+          <p style="margin-left: 25px">As long as you're running the "Launcher with autoupdater.exe" provided on the <a href="/download.html">download page</a>, the launcher will keep itself up-to-date.</p>
+          <p style="margin-left: 25px">For mods, whenever you try to launch a mod it will check if there is an update available. If so, it will automatically download and install it - you can peek at the terminal console window to track the progress.</p>
+        </details></p>
+  
+        <p><details>
+          <summary><b>Can I change the mod install location?</b></summary>
+          <p style="margin-left: 25px">No, at the moment the launcher doesn't support this. You can manually install mods elsewhere though - to find the github repo for any mod, see the <a href="https://github.com/OpenGOAL-Mods/OG-ModLauncher/blob/main/resources/jak1_mods.json#L16">mod list here</a>.</p>
+        </details></p>
+  
+        <p><details>
+          <summary><b>Is Steamdeck / Linux / Mac supported?</b></summary>
+          <p style="margin-left: 25px">No, at the moment the mod launcher is only supported on Windows.</p>
+        </details></p>
+  
+        <p><details>
+          <summary><b>Can I apply a texture pack to a mod?</b></summary>
+          <p style="margin-left: 25px">Yes!
+            <ol>
+              <li>Install the mod like normal, and close it once it launches</li>
+              <li>Click the "View Folder" button on the mod launcher to open the mod's install location</li>
+              <li>Open the <code>data</code> folder, and check if you see a <code>custom_assets</code> folder inside
+                <ul>
+                  <li>If you DO see a <code>custom_assets</code> folder, this is a newer mod:
+                    <ol>
+                      <li>Create a <code>texture_replacements</code> folder within the <code>custom_assets</code> folder (some mods may already have this folder)</li>
+                      <li>Create a <code>jak1</code> (or <code>jak2</code>) folder within the <code>texture_replacements</code> folder (some mods may already have this folder)</li>
+                      <li>Copy/paste the contents of the texture pack you want to use into the <code>data/custom_assets/texture_replacements/jak1</code> folder (or the <code>jak2</code> equivalent)</li>
+                    </ol>
+                  </li>
+                  <li>If you do NOT see <code>custom_assets</code> folder, this is an older mod:
+                    <ol>
+                      <li>Create a <code>texture_replacements</code> folder within the <code>data</code> folder (some mods may already have this folder)</li>
+                      <li>Copy/paste the contents of the texture pack you want to use into the <code>data/texture_replacements</code> folder</li>
+                    </ol>
+                  </li>
+                </ul>
+              </li>
+              <li>Back in the mod launcher, click the "Re-extract" button, and it will rebuild the game using your texture pack</li>
+            </ol>
+          </p>
+        </details></p>
+  
+        <p><details>
+          <summary><b>Can I use multiple mods together in combination?</b></summary>
+          <p style="margin-left: 25px">No, not easily, at least at the moment. Since each mod is a completely standalone copy of the jak-project, there's no easy way to guarantee changes are compatible with each other or an easy way to resolve conflicts.</p>
+          <p style="margin-left: 25px">For example, how would you combine the FlutFlut Legacy and the Zoomer Legacy? You can't be simultaneously on FlutFlut and on the Zoomer.</p>
+          <p style="margin-left: 25px">With that said, in theory someone could manually combine two or more mods (e.g. by using git to merge their codebases). This would then need to be added to the list as a standalone mod.</p>
+          <p style="margin-left: 25px">In the future, there is a possibility OpenGOAL will have a native modding API, and mods might exist more like patches than entire standalone codebases. If we reach that point, it will be much more feasible to seamlessly combine mods.</p>
+        </details></p>
+        <hr>
+      
         <p><h2>Other Mods/Utilities</h2></p>
         <p>In addition to the mods below which you can find in the mod launcher, here are some other mods/utilities that live outside of the mod launcher:
             <ul>
