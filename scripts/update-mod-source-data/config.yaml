@@ -246,28 +246,28 @@ mods:
         cover_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/main/frickedup2.png"
         thumbnail_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/main/frickedup2.png"
 
-  fricked-up-3:
-    repo_owner: "Zed-Mod-School"
-    repo_name: "fricked3-testing"
-    url: "https://github.com/Zed-Mod-School/fricked3-testing"
-    display_name: "Fricked Up"
-    description: "In beta, give feedback"
-    authors: ["zed"]
-    tags: ["rng", "challenge", "gameplay-mod"]
-    # website_url: "https://github.com/OpenGOAL-Mods/OG-Fricked/blob/main/README.md"
-    per_game_config:
-      jak1:
-        release_date_override: "2023-01-19"
-        cover_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/main/frickedup1.png"
-        thumbnail_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/main/frickedup1.png"
-      jak2:
-        release_date_override: "2023-11-09"
-        cover_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/main/frickedup2.png"
-        thumbnail_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/main/frickedup2.png"
-      jak3:
-        release_date_override: "2026-04-01"
-        cover_art_url: "https://raw.githubusercontent.com/Zed-Mod-School/fricked3-testing/a86e63ec950a3d11b27c884f3df5a694b8ed80b5/frickedup3.png"
-        thumbnail_art_url: "https://raw.githubusercontent.com/Zed-Mod-School/fricked3-testing/a86e63ec950a3d11b27c884f3df5a694b8ed80b5/frickedup3.png"
+  # fricked-up-3:
+  #   repo_owner: "Zed-Mod-School"
+  #   repo_name: "fricked3-testing"
+  #   url: "https://github.com/Zed-Mod-School/fricked3-testing"
+  #   display_name: "Fricked Up"
+  #   description: "In beta, give feedback"
+  #   authors: ["zed"]
+  #   tags: ["rng", "challenge", "gameplay-mod"]
+  #   # website_url: "https://github.com/OpenGOAL-Mods/OG-Fricked/blob/main/README.md"
+  #   per_game_config:
+  #     jak1:
+  #       release_date_override: "2023-01-19"
+  #       cover_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/main/frickedup1.png"
+  #       thumbnail_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/main/frickedup1.png"
+  #     jak2:
+  #       release_date_override: "2023-11-09"
+  #       cover_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/main/frickedup2.png"
+  #       thumbnail_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/main/frickedup2.png"
+  #     jak3:
+  #       release_date_override: "2026-04-01"
+  #       cover_art_url: "https://raw.githubusercontent.com/Zed-Mod-School/fricked3-testing/a86e63ec950a3d11b27c884f3df5a694b8ed80b5/frickedup3.png"
+  #       thumbnail_art_url: "https://raw.githubusercontent.com/Zed-Mod-School/fricked3-testing/a86e63ec950a3d11b27c884f3df5a694b8ed80b5/frickedup3.png"
 
   pogo:
     repo_owner: "EvelynTSMG"
