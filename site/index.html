@@ -81,7 +81,7 @@
         }
         for (let platform in version["assetDownloadCounts"]) {
           if (version["assetDownloadCounts"][platform]) {
-            downloads += version["assetDownloadCounts"][platform];
+            downloads += parseInt(version["assetDownloadCounts"][platform], 10);
           }
         }
       }
