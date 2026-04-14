@@ -411,6 +411,18 @@ mods:
     cover_art_url: "https://www.speedrun.com/static/game/j1lnnwz6/cover.png?v=47fd2cf"
     thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/JakChickenSmall.png"
 
+  sm64-1:
+    repo_owner: "OpenGOAL-Mods"
+    repo_name: "Super-Mario-Legacy"
+    url: "https://github.com/OpenGOAL-Mods/Super-Mario-Legacy/actions/runs/24374554225"
+    display_name: "Super Mario Legacy"
+    description: "Play Jak 1 as a Mario."
+    authors: ["zed"]
+    tags: ["challenge", "gameplay-mod"]
+    # website_url: "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/blob/main/README.md"
+    cover_art_url: "https://www.speedrun.com/static/game/j1lnnwz6/cover.png?v=47fd2cf"
+    thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/JakChickenSmall.png"
+
   daxter-2:
     repo_owner: "OpenGOAL-Mods"
     repo_name: "OG-Daxter2"
