@@ -3296,7 +3296,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 3323,
+            "windows": 3325,
             "linux": 213,
             "macos": 14
           }
@@ -7765,7 +7765,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1854,
+            "windows": 1855,
             "linux": 235,
             "macos": 48
           }
@@ -8165,5 +8165,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-04-14T02:19:48.115Z"
+  "lastUpdated": "2026-04-14T02:42:17.546Z"
 }
