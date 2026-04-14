@@ -95,7 +95,7 @@
           mod["tags"].sort().join(", "),
           [...new Set(platforms)].join(", "), // dedupe
           releaseDate,
-          "", // downloads,
+          downloads,
           mod["websiteUrl"], 
           game
         ]);
@@ -128,7 +128,7 @@
       // figure out which table it belongs in
       let table = null;
       let showTags = false;
-      switch (mod[7]) {
+      switch (mod[8]) {
         case "jak1":
           table = jak1ModList;
           showTags = true;
