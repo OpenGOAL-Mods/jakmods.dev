@@ -94,7 +94,7 @@
           mod["authors"].join(", "),
           mod["tags"].sort().join(", "),
           [...new Set(platforms)].join(", "), // dedupe
-          releaseDate,
+          releaseDate.substring(0,10),
           downloads,
           mod["websiteUrl"], 
           game
