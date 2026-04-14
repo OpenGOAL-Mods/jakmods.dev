@@ -19,7 +19,7 @@
     cell.innerHTML = "<b>Description</b>";
 
     cell = row.insertCell();
-    cell.style.width="15%";
+    cell.style.width="10%";
     cell.innerHTML = "<b>Contributors</b>";
     
     if (showTags) {
@@ -35,6 +35,10 @@
     cell = row.insertCell();
     cell.style.width="5%";
     cell.innerHTML = "<b>Released</b>";
+    
+    cell = row.insertCell();
+    cell.style.width="5%";
+    cell.innerHTML = "<b>Downloads</b>";
 
     cell = row.insertCell();
     cell.style.width="5%";
@@ -62,6 +66,8 @@
 
       // skip these
       if (mod["externalLink"]) {continue;}
+
+      let downloads = 0;
       
       // dedupe games
       let games = [...new Set(mod["supportedGames"])];
@@ -71,6 +77,11 @@
         for (let platform in version["assets"]) {
           if (version["assets"][platform]) {
             platforms.push(platform);
+          }
+        }
+        for (let platform in version["assetDownloadCounts"]) {
+          if (version["assetDownloadCounts"][platform]) {
+            downloads += version["assetDownloadCounts"][platform];
           }
         }
       }
@@ -84,6 +95,7 @@
           mod["tags"].sort().join(", "),
           [...new Set(platforms)].join(", "), // dedupe
           releaseDate,
+          downloads,
           mod["websiteUrl"], 
           game
         ]);
@@ -141,8 +153,9 @@
         }
         row.insertCell().innerHTML = mod[4];  // platforms
         row.insertCell().innerHTML = mod[5];  // release date
-        if (mod[6] && mod[6] != "") {
-          row.insertCell().innerHTML = "<a href=\"" + mod[6] + "\">Website</a>";  // website
+        row.insertCell().innerHTML = mod[6];  // downloads
+        if (mod[7] && mod[7] != "") {
+          row.insertCell().innerHTML = "<a href=\"" + mod[7] + "\">Website</a>";  // website
         } else {
           row.insertCell().innerHTML = "N/A";
         }
@@ -231,12 +244,12 @@
       <p><h3>Jak 3 Mods</h3></p>
       <p><div id="jak3ModList"></div></p>
       <hr>
-      <p>
+      <!-- <p>
         <center>
           Visitor Count<br>
           <img src="https://superseoplus.com/website-hit-counter/count/&style=style1&show=p&num=5&uid=uI"  title="Visitor Count" alt="Visitor Count" />
         </center>
-      </p>
+      </p> -->
     </div>
   </body>
 </html>
