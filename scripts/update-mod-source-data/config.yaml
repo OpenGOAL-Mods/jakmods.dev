@@ -416,7 +416,8 @@ mods:
     repo_name: "Super-Mario-Legacy"
     url: "https://github.com/OpenGOAL-Mods/Super-Mario-Legacy/actions/runs/24374554225"
     display_name: "Super Mario Legacy"
-    description: "Play Jak 1 as a Mario."
+    description: "Update coming Sunday night to fix most issues.Cant kill plant boss lava tube always burns you fish is broken and rats game is broken"
+    #description: "Play Jak 1 as a Mario."
     authors: ["zed"]
     tags: ["challenge", "gameplay-mod"]
     # website_url: "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/blob/main/README.md"
