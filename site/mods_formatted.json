@@ -2816,7 +2816,7 @@
             "macos": "https://github.com/EvelynTSMG/Jak-EveBase/releases/download/v0.1.2/macos-intel-v0.1.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 926,
+            "windows": 928,
             "linux": 182,
             "macos": 10
           }
@@ -4470,6 +4470,27 @@
       ],
       "versions": [
         {
+          "version": "0.0.11",
+          "publishedDate": "2026-04-19T20:24:22Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/OpenGOAL-Mods/Super-Mario-Legacy/releases/download/v0.0.11/windows-v0.0.11.zip",
+            "linux": "https://github.com/OpenGOAL-Mods/Super-Mario-Legacy/releases/download/v0.0.11/linux-v0.0.11.tar.gz",
+            "macos": null
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
           "version": "0.0.10",
           "publishedDate": "2026-04-19T20:04:19Z",
           "supportedGames": [
@@ -4485,7 +4506,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 0,
+            "windows": 1,
             "linux": 0,
             "macos": 0
           }
@@ -7963,7 +7984,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1961,
+            "windows": 1963,
             "linux": 261,
             "macos": 52
           }
@@ -8029,7 +8050,7 @@
             "macos": "https://github.com/Cuttlefishthesage/ErodedCoast/releases/download/v5.0.3/macos-intel-v5.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 487,
+            "windows": 491,
             "linux": 80,
             "macos": 11
           }
@@ -8363,5 +8384,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-04-19T20:06:55.611Z"
+  "lastUpdated": "2026-04-19T20:26:57.654Z"
 }
