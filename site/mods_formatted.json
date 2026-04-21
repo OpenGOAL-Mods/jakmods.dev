@@ -719,7 +719,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Randomizer/releases/download/v0.6.4/macos-intel-v0.6.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 373,
+            "windows": 374,
             "linux": 42,
             "macos": 22
           }
@@ -2816,7 +2816,7 @@
             "macos": "https://github.com/EvelynTSMG/Jak-EveBase/releases/download/v0.1.2/macos-intel-v0.1.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 940,
+            "windows": 941,
             "linux": 185,
             "macos": 11
           }
@@ -2974,7 +2974,7 @@
             "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.1.0/macos-intel-v0.1.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 720,
+            "windows": 721,
             "linux": 109,
             "macos": 1
           }
@@ -4485,7 +4485,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 3,
+            "windows": 6,
             "linux": 0,
             "macos": 0
           }
@@ -4957,6 +4957,94 @@
       "perGameConfig": {
         "jak2": {
           "releaseDate": "2023-11-07"
+        }
+      },
+      "externalLink": null
+    },
+    "heromode-plus-3": {
+      "displayName": "HeroMode+ | A Jak 3 Overhaul",
+      "description": "It's back, and bigger than ever! Featuring a whopping load of features such as custom missions & collectables, crazy weapon mods, random events, a leveling & skill system, a conclusive continuation of the story from Roguelike, and much MUCH more. Are you ready for the ultimate Jak 3 challenge?",
+      "authors": [
+        "Kraken"
+      ],
+      "tags": [
+        "challenge",
+        "gameplay-mod"
+      ],
+      "websiteUrl": "https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus/blob/main/README.md",
+      "supportedGames": [
+        "jak2"
+      ],
+      "versions": [
+        {
+          "version": "0.0.14",
+          "publishedDate": "2025-12-27T05:36:42Z",
+          "supportedGames": [
+            "jak2"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.14/windows-v0.0.14.zip",
+            "linux": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.14/linux-v0.0.14.tar.gz",
+            "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.14/macos-intel-v0.0.14.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 504,
+            "linux": 64,
+            "macos": 7
+          }
+        },
+        {
+          "version": "0.0.13",
+          "publishedDate": "2025-12-26T22:42:13Z",
+          "supportedGames": [
+            "jak2"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.13/windows-v0.0.13.zip",
+            "linux": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.13/linux-v0.0.13.tar.gz",
+            "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.13/macos-intel-v0.0.13.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 7,
+            "linux": 4,
+            "macos": 5
+          }
+        },
+        {
+          "version": "0.0.7",
+          "publishedDate": "2025-02-06T04:45:14Z",
+          "supportedGames": [
+            "jak2"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.7/windows-v0.0.7.zip",
+            "linux": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.7/linux-v0.0.7.tar.gz",
+            "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.7/macos-intel-v0.0.7.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 929,
+            "linux": 61,
+            "macos": 16
+          }
+        }
+      ],
+      "coverArtUrl": "https://raw.githubusercontent.com/RealOfficialKraken/pre-release--Jak3HMPlus/refs/heads/main/ModImage.png",
+      "thumbnailArtUrl": "https://raw.githubusercontent.com/RealOfficialKraken/pre-release--Jak3HMPlus/refs/heads/main/HeroModePlusIcon.png",
+      "perGameConfig": {
+        "jak2": {
+          "releaseDate": "2026-04-20"
         }
       },
       "externalLink": null
@@ -5565,7 +5653,7 @@
             "macos": "https://github.com/CraiyDev/Better-Dark-Jak/releases/download/v0.0.2/macos-intel-v0.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1229,
+            "windows": 1230,
             "linux": 232,
             "macos": 13
           }
@@ -5932,6 +6020,28 @@
         "jak3"
       ],
       "versions": [
+        {
+          "version": "0.1.9",
+          "publishedDate": "2026-04-21T06:42:53Z",
+          "supportedGames": [
+            "jak2",
+            "jak3"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.1.9/windows-v0.1.9.zip",
+            "linux": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.1.9/linux-v0.1.9.tar.gz",
+            "macos": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.1.9/macos-intel-v0.1.9.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
         {
           "version": "0.1.8",
           "publishedDate": "2026-04-20T05:52:53Z",
@@ -6534,7 +6644,7 @@
           "releaseDate": "2025-03-15"
         },
         "jak3": {
-          "coverArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-ILs/refs/heads/main/ils-background.png",
+          "coverArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-ILs/refs/heads/main/ils-background-3.png",
           "thumbnailArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/refs/heads/main/ModImages/jak3og_missions.png",
           "releaseDate": "2026-04-01"
         }
@@ -8093,7 +8203,7 @@
             "macos": "https://github.com/Cuttlefishthesage/ErodedCoast/releases/download/v5.0.3/macos-intel-v5.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 622,
+            "windows": 625,
             "linux": 95,
             "macos": 14
           }
@@ -8427,5 +8537,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-04-21T06:03:33.773Z"
+  "lastUpdated": "2026-04-21T06:50:45.762Z"
 }
