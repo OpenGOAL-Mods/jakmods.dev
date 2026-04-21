@@ -485,8 +485,8 @@ mods:
     authors: ["Kraken"]
     tags: ["challenge", "gameplay-mod"]
     website_url: "https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus/blob/main/README.md"
-    cover_art_url: "https://raw.githubusercontent.com/RealOfficialKraken/pre-release--Jak3HMPlus/refs/heads/main/ModImage.png",
-    thumbnail_art_url: "https://raw.githubusercontent.com/RealOfficialKraken/pre-release--Jak3HMPlus/refs/heads/main/HeroModePlusIcon.png",
+    cover_art_url: "https://raw.githubusercontent.com/RealOfficialKraken/pre-release--Jak3HMPlus/refs/heads/main/ModImage.png"
+    thumbnail_art_url: "https://raw.githubusercontent.com/RealOfficialKraken/pre-release--Jak3HMPlus/refs/heads/main/HeroModePlusIcon.png"
 
   roguelike-jak2:
     repo_owner: "RealOfficialKraken"
