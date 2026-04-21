@@ -1783,7 +1783,7 @@
             "macos": "https://github.com/dallmeyer/OG-OrbHunt/releases/download/v1.10.15/macos-intel-v1.10.15.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 162,
+            "windows": 163,
             "linux": 27,
             "macos": 10
           }
@@ -4862,7 +4862,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.14/macos-intel-v0.0.14.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 504,
+            "windows": 505,
             "linux": 64,
             "macos": 7
           }
@@ -4973,77 +4973,35 @@
       ],
       "websiteUrl": "https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus/blob/main/README.md",
       "supportedGames": [
-        "jak2"
+        "jak3"
       ],
       "versions": [
         {
-          "version": "0.0.14",
-          "publishedDate": "2025-12-27T05:36:42Z",
+          "version": "0.0.6",
+          "publishedDate": "2026-04-21T06:41:56Z",
           "supportedGames": [
-            "jak2"
+            "jak3"
           ],
           "settings": {
             "decompConfigOverride": "",
             "shareVanillaSaves": false
           },
           "assets": {
-            "windows": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.14/windows-v0.0.14.zip",
-            "linux": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.14/linux-v0.0.14.tar.gz",
-            "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.14/macos-intel-v0.0.14.tar.gz"
+            "windows": "https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus/releases/download/v0.0.6/windows-v0.0.6.zip",
+            "linux": "https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus/releases/download/v0.0.6/linux-v0.0.6.tar.gz",
+            "macos": "https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus/releases/download/v0.0.6/macos-intel-v0.0.6.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 504,
-            "linux": 64,
-            "macos": 7
-          }
-        },
-        {
-          "version": "0.0.13",
-          "publishedDate": "2025-12-26T22:42:13Z",
-          "supportedGames": [
-            "jak2"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.13/windows-v0.0.13.zip",
-            "linux": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.13/linux-v0.0.13.tar.gz",
-            "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.13/macos-intel-v0.0.13.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 7,
-            "linux": 4,
-            "macos": 5
-          }
-        },
-        {
-          "version": "0.0.7",
-          "publishedDate": "2025-02-06T04:45:14Z",
-          "supportedGames": [
-            "jak2"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.7/windows-v0.0.7.zip",
-            "linux": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.7/linux-v0.0.7.tar.gz",
-            "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.7/macos-intel-v0.0.7.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 929,
-            "linux": 61,
-            "macos": 16
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
           }
         }
       ],
       "coverArtUrl": "https://raw.githubusercontent.com/RealOfficialKraken/pre-release--Jak3HMPlus/refs/heads/main/ModImage.png",
       "thumbnailArtUrl": "https://raw.githubusercontent.com/RealOfficialKraken/pre-release--Jak3HMPlus/refs/heads/main/HeroModePlusIcon.png",
       "perGameConfig": {
-        "jak2": {
+        "jak3": {
           "releaseDate": "2026-04-20"
         }
       },
@@ -8537,5 +8495,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-04-21T06:50:45.762Z"
+  "lastUpdated": "2026-04-21T06:56:43.472Z"
 }
