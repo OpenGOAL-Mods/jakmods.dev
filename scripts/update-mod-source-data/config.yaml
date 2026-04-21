@@ -479,7 +479,7 @@ mods:
     url: "https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus"
     release_date_override: "2026-04-20"
     ignore_versions:
-      - "<0.0.6"
+      - "<0.0.7"
     display_name: "HeroMode+ | A Jak 3 Overhaul"
     description: "It's back, and bigger than ever! Featuring a whopping load of features such as custom missions & collectables, crazy weapon mods, random events, a leveling & skill system, a conclusive continuation of the story from Roguelike, and much MUCH more. Are you ready for the ultimate Jak 3 challenge?"
     authors: ["Kraken"]
