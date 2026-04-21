@@ -481,7 +481,8 @@ mods:
     ignore_versions:
       - "<0.0.7"
     display_name: "HeroMode+ | A Jak 3 Overhaul"
-    description: "It's back, and bigger than ever! Featuring a whopping load of features such as custom missions & collectables, crazy weapon mods, random events, a leveling & skill system, a conclusive continuation of the story from Roguelike, and much MUCH more. Are you ready for the ultimate Jak 3 challenge?"
+    description: "NOTE: There is a known issue with PAL isos that we are working to resolve. It's back, and bigger than ever! Featuring a whopping load of features such as custom missions & collectables, crazy weapon mods, random events, a leveling & skill system, a conclusive continuation of the story from Roguelike, and much MUCH more. Are you ready for the ultimate Jak 3 challenge?"
+    #description: "It's back, and bigger than ever! Featuring a whopping load of features such as custom missions & collectables, crazy weapon mods, random events, a leveling & skill system, a conclusive continuation of the story from Roguelike, and much MUCH more. Are you ready for the ultimate Jak 3 challenge?"
     authors: ["Kraken"]
     tags: ["challenge", "gameplay-mod"]
     website_url: "https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus/blob/main/README.md"
