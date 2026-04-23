@@ -418,7 +418,7 @@ mods:
     display_name: "Super Mario Legacy"
     #description: "Update coming Sunday night to fix most issues.Cant kill plant boss lava tube always burns you fish is broken and rats game is broken"
     description: "It's-a me! Mario swaps in for Jak across the whole game, bringing his full SM64 moveset, music, and voice lines with him. Powered by libsm64."
-    authors: ["zed"]
+    authors: ["zed", "MikeGamePro"]
     tags: ["challenge", "gameplay-mod"]
     # website_url: "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/blob/main/README.md"
     cover_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/Super-Mario-Legacy/refs/heads/main/sm64-background.png"
@@ -600,7 +600,7 @@ mods:
     repo_name: "OG-ILs"
     url: "https://github.com/OpenGOAL-Mods/OG-ILs"
     display_name: "Individual Mission Speedruns"
-    description: "Adds Individual Mission categories to the speedrun menu, with in-game timer! BETA"
+    description: "Adds Individual Mission categories to the speedrun menu, with in-game timer!"
     authors: ["barg", "ThaRixer", "bintendo42"]
     tags: ["speedrunning", "gameplay-mod"]
     website_url: "https://github.com/OpenGOAL-Mods/OG-ILs/blob/main/README.md"
