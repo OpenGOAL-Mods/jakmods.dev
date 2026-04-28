@@ -39,8 +39,8 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Speedrun-Practice/releases/download/v0.5.2/macos-intel-v0.5.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 53,
-            "linux": 4,
+            "windows": 55,
+            "linux": 6,
             "macos": 1
           }
         },
@@ -1042,9 +1042,9 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-RCO/releases/download/v0.3.0/macos-intel-v0.3.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 54,
-            "linux": 4,
-            "macos": 1
+            "windows": 55,
+            "linux": 5,
+            "macos": 2
           }
         },
         {
@@ -1430,7 +1430,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Zoomer-Legacy/releases/download/v0.1.4/macos-intel-v0.1.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 380,
+            "windows": 381,
             "linux": 52,
             "macos": 17
           }
@@ -1520,7 +1520,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-SM64/releases/download/v0.2.8/macos-intel-v0.2.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 574,
+            "windows": 576,
             "linux": 50,
             "macos": 18
           }
@@ -1612,10 +1612,141 @@
       "supportedGames": [
         "jak1"
       ],
-      "versions": [],
+      "versions": [
+        {
+          "version": "0.2.7",
+          "publishedDate": "2025-11-21T21:31:05Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/OpenGOAL-Mods/OG-Microtransactions/releases/download/v0.2.7/windows-v0.2.7.zip",
+            "linux": "https://github.com/OpenGOAL-Mods/OG-Microtransactions/releases/download/v0.2.7/linux-v0.2.7.tar.gz",
+            "macos": "https://github.com/OpenGOAL-Mods/OG-Microtransactions/releases/download/v0.2.7/macos-intel-v0.2.7.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 157,
+            "linux": 28,
+            "macos": 8
+          }
+        },
+        {
+          "version": "0.2.6",
+          "publishedDate": "2025-11-21T21:06:34Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/OpenGOAL-Mods/OG-Microtransactions/releases/download/v0.2.6/windows-v0.2.6.zip",
+            "linux": "https://github.com/OpenGOAL-Mods/OG-Microtransactions/releases/download/v0.2.6/linux-v0.2.6.tar.gz",
+            "macos": "https://github.com/OpenGOAL-Mods/OG-Microtransactions/releases/download/v0.2.6/macos-intel-v0.2.6.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 2,
+            "linux": 2,
+            "macos": 2
+          }
+        },
+        {
+          "version": "0.2.5",
+          "publishedDate": "2025-05-10T04:22:22Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/OpenGOAL-Mods/OG-Microtransactions/releases/download/v0.2.5/windows-v0.2.5.zip",
+            "linux": "https://github.com/OpenGOAL-Mods/OG-Microtransactions/releases/download/v0.2.5/linux-v0.2.5.tar.gz",
+            "macos": "https://github.com/OpenGOAL-Mods/OG-Microtransactions/releases/download/v0.2.5/macos-intel-v0.2.5.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 176,
+            "linux": 9,
+            "macos": 11
+          }
+        },
+        {
+          "version": "0.2.0",
+          "publishedDate": "2025-01-30T22:55:33Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/OpenGOAL-Mods/OG-Microtransactions/releases/download/v0.2.0/windows-v0.2.0.zip",
+            "linux": "https://github.com/OpenGOAL-Mods/OG-Microtransactions/releases/download/v0.2.0/linux-v0.2.0.tar.gz",
+            "macos": "https://github.com/OpenGOAL-Mods/OG-Microtransactions/releases/download/v0.2.0/macos-intel-v0.2.0.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 108,
+            "linux": 14,
+            "macos": 11
+          }
+        },
+        {
+          "version": "0.1.0",
+          "publishedDate": "2024-09-02T21:14:27Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/OpenGOAL-Mods/OG-Microtransactions/releases/download/v0.1.0/windows-v0.1.0.zip",
+            "linux": "https://github.com/OpenGOAL-Mods/OG-Microtransactions/releases/download/v0.1.0/linux-v0.1.0.tar.gz",
+            "macos": "https://github.com/OpenGOAL-Mods/OG-Microtransactions/releases/download/v0.1.0/macos-intel-v0.1.0.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 171,
+            "linux": 18,
+            "macos": 14
+          }
+        },
+        {
+          "version": "0.0.2",
+          "publishedDate": "2024-08-20T05:32:19Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/OpenGOAL-Mods/OG-Microtransactions/releases/download/v0.0.2/windows-v0.0.2.zip",
+            "linux": null,
+            "macos": null
+          },
+          "assetDownloadCounts": {
+            "windows": 33,
+            "linux": 0,
+            "macos": 0
+          }
+        }
+      ],
       "coverArtUrl": "https://raw.githubusercontent.com/himham-jak/Jak1-but-Microtransactions/microtransactions/ModImage.png",
       "thumbnailArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Microtransactions/refs/heads/main/MicrotransactionsSmall.png",
-      "perGameConfig": {},
+      "perGameConfig": {
+        "jak1": {
+          "releaseDate": "2022-08-28"
+        }
+      },
       "externalLink": null
     },
     "orb-hunt": {
@@ -1652,7 +1783,7 @@
             "macos": "https://github.com/dallmeyer/OG-OrbHunt/releases/download/v1.10.15/macos-intel-v1.10.15.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 184,
+            "windows": 186,
             "linux": 32,
             "macos": 10
           }
@@ -2218,10 +2349,78 @@
       "supportedGames": [
         "jak1"
       ],
-      "versions": [],
+      "versions": [
+        {
+          "version": "1.1.3",
+          "publishedDate": "2025-05-11T02:12:25Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/OpenGOAL-Mods/OG-Patched/releases/download/v1.1.3/windows-v1.1.3.zip",
+            "linux": "https://github.com/OpenGOAL-Mods/OG-Patched/releases/download/v1.1.3/linux-v1.1.3.tar.gz",
+            "macos": "https://github.com/OpenGOAL-Mods/OG-Patched/releases/download/v1.1.3/macos-intel-v1.1.3.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 812,
+            "linux": 155,
+            "macos": 23
+          }
+        },
+        {
+          "version": "1.1.2",
+          "publishedDate": "2024-09-01T19:56:27Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/OpenGOAL-Mods/OG-Patched/releases/download/v1.1.2/windows-v1.1.2.zip",
+            "linux": "https://github.com/OpenGOAL-Mods/OG-Patched/releases/download/v1.1.2/linux-v1.1.2.tar.gz",
+            "macos": "https://github.com/OpenGOAL-Mods/OG-Patched/releases/download/v1.1.2/macos-intel-v1.1.2.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 388,
+            "linux": 37,
+            "macos": 8
+          }
+        },
+        {
+          "version": "1.1.1",
+          "publishedDate": "2024-08-16T21:37:40Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/OpenGOAL-Mods/OG-Patched/releases/download/v1.1.1/windows-v1.1.1.zip",
+            "linux": null,
+            "macos": null
+          },
+          "assetDownloadCounts": {
+            "windows": 30,
+            "linux": 0,
+            "macos": 0
+          }
+        }
+      ],
       "coverArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Patched/main/ModImage.png",
       "thumbnailArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/PatchedSmall.png",
-      "perGameConfig": {},
+      "perGameConfig": {
+        "jak1": {
+          "releaseDate": "2024-04-01"
+        }
+      },
       "externalLink": null
     },
     "orange-demon": {
@@ -2617,9 +2816,9 @@
             "macos": "https://github.com/EvelynTSMG/Jak-EveBase/releases/download/v0.1.2/macos-intel-v0.1.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1015,
-            "linux": 204,
-            "macos": 13
+            "windows": 1017,
+            "linux": 205,
+            "macos": 14
           }
         },
         {
@@ -2775,8 +2974,8 @@
             "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.1.1/macos-intel-v0.1.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 11,
-            "linux": 2,
+            "windows": 16,
+            "linux": 5,
             "macos": 1
           }
         },
@@ -3075,12 +3274,38 @@
       ],
       "websiteUrl": "https://github.com/ruhphorte/spec-ops-jak/blob/main/README.md",
       "supportedGames": [
-        "jak1"
+        "jak2"
       ],
-      "versions": [],
+      "versions": [
+        {
+          "version": "0.0.3",
+          "publishedDate": "2024-08-16T23:25:43Z",
+          "supportedGames": [
+            "jak2"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/ruhphorte/spec-ops-jak/releases/download/v0.0.3/windows-v0.0.3.zip",
+            "linux": null,
+            "macos": null
+          },
+          "assetDownloadCounts": {
+            "windows": 1240,
+            "linux": 0,
+            "macos": 0
+          }
+        }
+      ],
       "coverArtUrl": "https://raw.githubusercontent.com/dallmeyer/modimages/main/spec-ops.JPG",
       "thumbnailArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/SpecOpsSmall.png",
-      "perGameConfig": {},
+      "perGameConfig": {
+        "jak2": {
+          "releaseDate": "2024-07-23"
+        }
+      },
       "externalLink": null
     },
     "archipelagoal": {
@@ -3115,9 +3340,9 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 3545,
+            "windows": 3551,
             "linux": 235,
-            "macos": 16
+            "macos": 17
           }
         },
         {
@@ -3262,7 +3487,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.1/macos-intel-v0.5.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 129,
+            "windows": 130,
             "linux": 11,
             "macos": 8
           }
@@ -3498,7 +3723,7 @@
             "macos": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.1.1/macos-intel-v0.1.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 293,
+            "windows": 297,
             "linux": 19,
             "macos": 0
           }
@@ -3694,10 +3919,561 @@
       "supportedGames": [
         "jak1"
       ],
-      "versions": [],
+      "versions": [
+        {
+          "version": "2.1.9",
+          "publishedDate": "2025-05-10T15:42:13Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.9/windows-v2.1.9.zip",
+            "linux": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.9/linux-v2.1.9.tar.gz",
+            "macos": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.9/macos-intel-v2.1.9.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 547,
+            "linux": 53,
+            "macos": 15
+          }
+        },
+        {
+          "version": "2.1.8",
+          "publishedDate": "2024-12-19T17:28:54Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.8/windows-v2.1.8.zip",
+            "linux": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.8/linux-v2.1.8.tar.gz",
+            "macos": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.8/macos-intel-v2.1.8.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 239,
+            "linux": 25,
+            "macos": 13
+          }
+        },
+        {
+          "version": "2.1.7",
+          "publishedDate": "2024-11-27T10:32:50Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.7/windows-v2.1.7.zip",
+            "linux": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.7/linux-v2.1.7.tar.gz",
+            "macos": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.7/macos-intel-v2.1.7.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 124,
+            "linux": 9,
+            "macos": 5
+          }
+        },
+        {
+          "version": "2.1.6",
+          "publishedDate": "2024-11-26T09:13:23Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.6/windows-v2.1.6.zip",
+            "linux": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.6/linux-v2.1.6.tar.gz",
+            "macos": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.6/macos-intel-v2.1.6.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 32,
+            "linux": 5,
+            "macos": 5
+          }
+        },
+        {
+          "version": "2.1.5",
+          "publishedDate": "2024-11-24T04:24:43Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.5/windows-v2.1.5.zip",
+            "linux": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.5/linux-v2.1.5.tar.gz",
+            "macos": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.5/macos-intel-v2.1.5.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 37,
+            "linux": 7,
+            "macos": 6
+          }
+        },
+        {
+          "version": "2.1.4",
+          "publishedDate": "2024-11-22T03:53:21Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.4/windows-v2.1.4.zip",
+            "linux": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.4/linux-v2.1.4.tar.gz",
+            "macos": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.4/macos-intel-v2.1.4.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 45,
+            "linux": 7,
+            "macos": 6
+          }
+        },
+        {
+          "version": "2.1.3",
+          "publishedDate": "2024-11-21T17:13:31Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.3/windows-v2.1.3.zip",
+            "linux": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.3/linux-v2.1.3.tar.gz",
+            "macos": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.3/macos-intel-v2.1.3.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 15,
+            "linux": 5,
+            "macos": 5
+          }
+        },
+        {
+          "version": "2.1.2",
+          "publishedDate": "2024-11-21T09:30:53Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.2/windows-v2.1.2.zip",
+            "linux": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.2/linux-v2.1.2.tar.gz",
+            "macos": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.2/macos-intel-v2.1.2.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 11,
+            "linux": 5,
+            "macos": 5
+          }
+        },
+        {
+          "version": "2.1.1",
+          "publishedDate": "2024-11-20T22:34:53Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.1/windows-v2.1.1.zip",
+            "linux": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.1/linux-v2.1.1.tar.gz",
+            "macos": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.1/macos-intel-v2.1.1.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 15,
+            "linux": 5,
+            "macos": 5
+          }
+        },
+        {
+          "version": "2.1.0",
+          "publishedDate": "2024-11-20T02:29:28Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.0/windows-v2.1.0.zip",
+            "linux": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.0/linux-v2.1.0.tar.gz",
+            "macos": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.0/macos-intel-v2.1.0.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 21,
+            "linux": 5,
+            "macos": 5
+          }
+        },
+        {
+          "version": "2.0.0",
+          "publishedDate": "2024-11-20T01:11:58Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.0.0/windows-v2.0.0.zip",
+            "linux": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.0.0/linux-v2.0.0.tar.gz",
+            "macos": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.0.0/macos-intel-v2.0.0.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 12,
+            "linux": 6,
+            "macos": 5
+          }
+        },
+        {
+          "version": "1.19.3",
+          "publishedDate": "2024-11-19T01:21:34Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v1.19.3/windows-v1.19.2-rewrite3-3subtest.1.zip",
+            "linux": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v1.19.3/linux-v1.19.2-rewrite3-3subtest.1.tar.gz",
+            "macos": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v1.19.3/macos-intel-v1.19.2-rewrite3-3subtest.1.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 20,
+            "linux": 7,
+            "macos": 5
+          }
+        },
+        {
+          "version": "1.19.2",
+          "publishedDate": "2024-11-17T15:15:04Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v1.19.2/windows-v1.19.2-rewrite3-3subtest.0.zip",
+            "linux": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v1.19.2/linux-v1.19.2-rewrite3-3subtest.0.tar.gz",
+            "macos": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v1.19.2/macos-intel-v1.19.2-rewrite3-3subtest.0.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 15,
+            "linux": 5,
+            "macos": 5
+          }
+        },
+        {
+          "version": "1.19.1",
+          "publishedDate": "2024-11-11T18:14:09Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v1.19.1/windows-v1.19.1-rewrite3.0.zip",
+            "linux": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v1.19.1/linux-v1.19.1-rewrite3.0.tar.gz",
+            "macos": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v1.19.1/macos-intel-v1.19.1-rewrite3.0.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 58,
+            "linux": 7,
+            "macos": 5
+          }
+        },
+        {
+          "version": "1.18.0",
+          "publishedDate": "2024-11-05T20:27:25Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v1.18.0/windows-v1.18.0.zip",
+            "linux": null,
+            "macos": null
+          },
+          "assetDownloadCounts": {
+            "windows": 10,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
+          "version": "1.17.3",
+          "publishedDate": "2024-11-05T20:21:33Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v1.17.3/windows-v1.17.3-rewrite3.0.zip",
+            "linux": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v1.17.3/linux-v1.17.3-rewrite3.0.tar.gz",
+            "macos": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v1.17.3/macos-intel-v1.17.3-rewrite3.0.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 7,
+            "linux": 5,
+            "macos": 5
+          }
+        },
+        {
+          "version": "1.17.2",
+          "publishedDate": "2024-11-05T01:56:18Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v1.17.2/windows-v1.17.2.zip",
+            "linux": null,
+            "macos": null
+          },
+          "assetDownloadCounts": {
+            "windows": 5,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
+          "version": "1.17.1",
+          "publishedDate": "2024-11-02T18:58:43Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v1.17.1/windows-v1.17.1.zip",
+            "linux": null,
+            "macos": null
+          },
+          "assetDownloadCounts": {
+            "windows": 20,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
+          "version": "1.17.0",
+          "publishedDate": "2024-10-28T03:11:00Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v1.17.0/windows-v1.17.0.zip",
+            "linux": null,
+            "macos": null
+          },
+          "assetDownloadCounts": {
+            "windows": 21,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
+          "version": "1.16.1",
+          "publishedDate": "2024-09-03T01:38:20Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v1.16.1/windows-v1.16.1.zip",
+            "linux": null,
+            "macos": null
+          },
+          "assetDownloadCounts": {
+            "windows": 142,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
+          "version": "1.16.0",
+          "publishedDate": "2024-08-31T00:47:03Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v1.16.0/windows-v1.16.0.zip",
+            "linux": null,
+            "macos": null
+          },
+          "assetDownloadCounts": {
+            "windows": 33,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
+          "version": "1.15.1",
+          "publishedDate": "2024-08-29T04:44:07Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v1.15.1/windows-v1.15.1.zip",
+            "linux": null,
+            "macos": null
+          },
+          "assetDownloadCounts": {
+            "windows": 9,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
+          "version": "1.15.0",
+          "publishedDate": "2024-08-29T02:39:18Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v1.15.0/windows-v1.15.0.zip",
+            "linux": null,
+            "macos": null
+          },
+          "assetDownloadCounts": {
+            "windows": 7,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
+          "version": "1.14.1",
+          "publishedDate": "2024-08-28T09:40:56Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v1.14.1/windows-v1.14.1.zip",
+            "linux": null,
+            "macos": null
+          },
+          "assetDownloadCounts": {
+            "windows": 9,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
+          "version": "1.13.2",
+          "publishedDate": "2024-08-22T00:34:58Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v1.13.2/windows-v1.13.2.zip",
+            "linux": null,
+            "macos": null
+          },
+          "assetDownloadCounts": {
+            "windows": 20,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
+          "version": "1.13.1",
+          "publishedDate": "2024-08-16T21:49:22Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v1.13.1/windows-v1.13.1.zip",
+            "linux": null,
+            "macos": null
+          },
+          "assetDownloadCounts": {
+            "windows": 32,
+            "linux": 0,
+            "macos": 0
+          }
+        }
+      ],
       "coverArtUrl": "https://www.speedrun.com/static/game/j1lnnwz6/cover.png?v=47fd2cf",
       "thumbnailArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/JakChickenSmall.png",
-      "perGameConfig": {},
+      "perGameConfig": {
+        "jak1": {
+          "releaseDate": "2023-10-21"
+        }
+      },
       "externalLink": null
     },
     "sm64-1": {
@@ -3731,8 +4507,8 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 56,
-            "linux": 8,
+            "windows": 69,
+            "linux": 11,
             "macos": 0
           }
         },
@@ -3753,7 +4529,7 @@
           },
           "assetDownloadCounts": {
             "windows": 51,
-            "linux": 7,
+            "linux": 9,
             "macos": 0
           }
         },
@@ -3857,7 +4633,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 47,
+            "windows": 48,
             "linux": 17,
             "macos": 0
           }
@@ -4072,8 +4848,8 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Daxter2/releases/download/v1.1.2/macos-intel-v1.1.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 241,
-            "linux": 30,
+            "windows": 246,
+            "linux": 31,
             "macos": 2
           }
         },
@@ -4236,12 +5012,122 @@
         "gameplay-mod"
       ],
       "supportedGames": [
-        "jak1"
+        "jak2"
       ],
-      "versions": [],
+      "versions": [
+        {
+          "version": "0.0.14",
+          "publishedDate": "2025-12-27T05:36:42Z",
+          "supportedGames": [
+            "jak2"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.14/windows-v0.0.14.zip",
+            "linux": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.14/linux-v0.0.14.tar.gz",
+            "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.14/macos-intel-v0.0.14.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 654,
+            "linux": 93,
+            "macos": 7
+          }
+        },
+        {
+          "version": "0.0.13",
+          "publishedDate": "2025-12-26T22:42:13Z",
+          "supportedGames": [
+            "jak2"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.13/windows-v0.0.13.zip",
+            "linux": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.13/linux-v0.0.13.tar.gz",
+            "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.13/macos-intel-v0.0.13.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 9,
+            "linux": 5,
+            "macos": 5
+          }
+        },
+        {
+          "version": "0.0.7",
+          "publishedDate": "2025-02-06T04:45:14Z",
+          "supportedGames": [
+            "jak2"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.7/windows-v0.0.7.zip",
+            "linux": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.7/linux-v0.0.7.tar.gz",
+            "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.7/macos-intel-v0.0.7.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 929,
+            "linux": 61,
+            "macos": 16
+          }
+        },
+        {
+          "version": "0.0.2",
+          "publishedDate": "2024-08-19T04:56:55Z",
+          "supportedGames": [
+            "jak2"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.2/windows-v0.0.2.zip",
+            "linux": null,
+            "macos": null
+          },
+          "assetDownloadCounts": {
+            "windows": 659,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
+          "version": "0.0.1",
+          "publishedDate": "2024-08-19T00:08:34Z",
+          "supportedGames": [
+            "jak2"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.1/windows-v0.0.1.zip",
+            "linux": null,
+            "macos": null
+          },
+          "assetDownloadCounts": {
+            "windows": 37,
+            "linux": 0,
+            "macos": 0
+          }
+        }
+      ],
       "coverArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/HeroModePlusLarge.png",
       "thumbnailArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/HeroModePlusSmall.png",
-      "perGameConfig": {},
+      "perGameConfig": {
+        "jak2": {
+          "releaseDate": "2023-11-07"
+        }
+      },
       "externalLink": null
     },
     "heromode-plus-3": {
@@ -4275,8 +5161,8 @@
             "macos": "https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus/releases/download/v0.0.39/macos-intel-v0.0.39.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 86,
-            "linux": 5,
+            "windows": 137,
+            "linux": 10,
             "macos": 0
           }
         },
@@ -4847,8 +5733,8 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.54/macos-intel-v0.0.54.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 788,
-            "linux": 108,
+            "windows": 792,
+            "linux": 109,
             "macos": 14
           }
         },
@@ -5290,8 +6176,8 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Dark-Jak/releases/download/v0.5.0/macos-intel-v0.5.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 520,
-            "linux": 71,
+            "windows": 521,
+            "linux": 72,
             "macos": 10
           }
         },
@@ -5419,8 +6305,8 @@
             "macos": "https://github.com/CraiyDev/Better-Dark-Jak/releases/download/v0.0.2/macos-intel-v0.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1293,
-            "linux": 248,
+            "windows": 1295,
+            "linux": 249,
             "macos": 13
           }
         }
@@ -5709,7 +6595,7 @@
           },
           "assetDownloadCounts": {
             "windows": 353,
-            "linux": 46,
+            "linux": 49,
             "macos": 4
           }
         },
@@ -5824,7 +6710,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.1.11/macos-intel-v0.1.11.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 5,
+            "windows": 10,
             "linux": 0,
             "macos": 0
           }
@@ -6512,8 +7398,8 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Obama/releases/download/v0.0.1/macos-intel-v0.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 721,
-            "linux": 68,
+            "windows": 723,
+            "linux": 69,
             "macos": 20
           }
         }
@@ -6557,7 +7443,7 @@
             "macos": "https://github.com/my-opengoal-mods/OG-warp-randomizer/releases/download/v0.0.16/macos-intel-v0.0.16.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 184,
+            "windows": 186,
             "linux": 18,
             "macos": 18
           }
@@ -7218,9 +8104,9 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 3337,
-            "linux": 387,
-            "macos": 118
+            "windows": 3338,
+            "linux": 388,
+            "macos": 122
           }
         },
         {
@@ -7241,7 +8127,7 @@
           "assetDownloadCounts": {
             "windows": 274,
             "linux": 20,
-            "macos": 46
+            "macos": 48
           }
         },
         {
@@ -7395,10 +8281,162 @@
       "supportedGames": [
         "jak1"
       ],
-      "versions": [],
+      "versions": [
+        {
+          "version": "1.1.3",
+          "publishedDate": "2025-11-30T01:01:52Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/dallmeyer/jak-up/releases/download/v1.1.3/windows-v1.1.3.zip",
+            "linux": "https://github.com/dallmeyer/jak-up/releases/download/v1.1.3/linux-v1.1.3.tar.gz",
+            "macos": null
+          },
+          "assetDownloadCounts": {
+            "windows": 343,
+            "linux": 51,
+            "macos": 0
+          }
+        },
+        {
+          "version": "1.1.2",
+          "publishedDate": "2025-05-10T18:16:18Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/dallmeyer/jak-up/releases/download/v1.1.2/windows-v1.1.2.zip",
+            "linux": "https://github.com/dallmeyer/jak-up/releases/download/v1.1.2/linux-v1.1.2.tar.gz",
+            "macos": null
+          },
+          "assetDownloadCounts": {
+            "windows": 357,
+            "linux": 23,
+            "macos": 0
+          }
+        },
+        {
+          "version": "1.1.1",
+          "publishedDate": "2025-02-14T04:06:12Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/dallmeyer/jak-up/releases/download/v1.1.1/windows-v1.1.1.zip",
+            "linux": "https://github.com/dallmeyer/jak-up/releases/download/v1.1.1/linux-v1.1.1.tar.gz",
+            "macos": null
+          },
+          "assetDownloadCounts": {
+            "windows": 208,
+            "linux": 19,
+            "macos": 0
+          }
+        },
+        {
+          "version": "1.1.0",
+          "publishedDate": "2025-02-09T04:34:00Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/dallmeyer/jak-up/releases/download/v1.1.0/windows-v1.1.0.zip",
+            "linux": "https://github.com/dallmeyer/jak-up/releases/download/v1.1.0/linux-v1.1.0.tar.gz",
+            "macos": null
+          },
+          "assetDownloadCounts": {
+            "windows": 30,
+            "linux": 7,
+            "macos": 0
+          }
+        },
+        {
+          "version": "1.0.3",
+          "publishedDate": "2025-02-07T18:52:01Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/dallmeyer/jak-up/releases/download/v1.0.3/windows-v1.0.3.zip",
+            "linux": "https://github.com/dallmeyer/jak-up/releases/download/v1.0.3/linux-v1.0.3.tar.gz",
+            "macos": null
+          },
+          "assetDownloadCounts": {
+            "windows": 31,
+            "linux": 8,
+            "macos": 0
+          }
+        },
+        {
+          "version": "1.0.2",
+          "publishedDate": "2025-02-07T17:26:31Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/dallmeyer/jak-up/releases/download/v1.0.2/windows-v1.0.2.zip",
+            "linux": "https://github.com/dallmeyer/jak-up/releases/download/v1.0.2/linux-v1.0.2.tar.gz",
+            "macos": null
+          },
+          "assetDownloadCounts": {
+            "windows": 16,
+            "linux": 8,
+            "macos": 0
+          }
+        },
+        {
+          "version": "0.2.1",
+          "publishedDate": "2024-08-16T18:23:25Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/dallmeyer/jak-up/releases/download/v0.2.1/windows-v0.2.1.zip",
+            "linux": null,
+            "macos": null
+          },
+          "assetDownloadCounts": {
+            "windows": 406,
+            "linux": 0,
+            "macos": 0
+          }
+        }
+      ],
       "coverArtUrl": "https://raw.githubusercontent.com/dallmeyer/modimages/main/jakup.jpeg",
       "thumbnailArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/JakUpSmall.png",
-      "perGameConfig": {},
+      "perGameConfig": {
+        "jak1": {
+          "releaseDate": "2023-08-10"
+        }
+      },
       "externalLink": null
     },
     "river-to-water": {
@@ -7648,10 +8686,57 @@
       "supportedGames": [
         "jak1"
       ],
-      "versions": [],
+      "versions": [
+        {
+          "version": "4.3.4",
+          "publishedDate": "2024-09-28T21:41:25Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/Cuttlefishthesage/LL-OpenGOAL-ModBase/releases/download/v4.3.4/windows-v4.3.4.zip",
+            "linux": "https://github.com/Cuttlefishthesage/LL-OpenGOAL-ModBase/releases/download/v4.3.4/linux-v4.3.4.tar.gz",
+            "macos": "https://github.com/Cuttlefishthesage/LL-OpenGOAL-ModBase/releases/download/v4.3.4/macos-intel-v4.3.4.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 1304,
+            "linux": 181,
+            "macos": 38
+          }
+        },
+        {
+          "version": "4.3.3",
+          "publishedDate": "2024-09-28T18:35:39Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/Cuttlefishthesage/LL-OpenGOAL-ModBase/releases/download/v4.3.3/windows-v4.3.3.zip",
+            "linux": "https://github.com/Cuttlefishthesage/LL-OpenGOAL-ModBase/releases/download/v4.3.3/linux-v4.3.3.tar.gz",
+            "macos": "https://github.com/Cuttlefishthesage/LL-OpenGOAL-ModBase/releases/download/v4.3.3/macos-intel-v4.3.3.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 33,
+            "linux": 17,
+            "macos": 9
+          }
+        }
+      ],
       "coverArtUrl": "https://raw.githubusercontent.com/Cuttlefishthesage/LL-OpenGOAL-ModBase/refs/heads/master/overgrownthumbnail.png",
       "thumbnailArtUrl": "https://raw.githubusercontent.com/Cuttlefishthesage/LL-OpenGOAL-ModBase/refs/heads/master/OvergrownSmall.png",
-      "perGameConfig": {},
+      "perGameConfig": {
+        "jak1": {
+          "releaseDate": "2024-09-26"
+        }
+      },
       "externalLink": null
     },
     "glacier": {
@@ -7683,9 +8768,9 @@
             "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base-Glacier/releases/download/v1.0.9/macos-intel-v1.0.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 889,
+            "windows": 890,
             "linux": 117,
-            "macos": 39
+            "macos": 40
           }
         },
         {
@@ -7769,9 +8854,9 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2165,
-            "linux": 292,
-            "macos": 61
+            "windows": 2171,
+            "linux": 295,
+            "macos": 63
           }
         },
         {
@@ -7835,9 +8920,9 @@
             "macos": "https://github.com/Cuttlefishthesage/ErodedCoast/releases/download/v5.0.3/macos-intel-v5.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 911,
-            "linux": 145,
-            "macos": 28
+            "windows": 919,
+            "linux": 146,
+            "macos": 30
           }
         },
         {
@@ -7858,7 +8943,7 @@
           "assetDownloadCounts": {
             "windows": 53,
             "linux": 5,
-            "macos": 0
+            "macos": 1
           }
         },
         {
@@ -8169,5 +9254,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-04-27T17:25:00.867Z"
+  "lastUpdated": "2026-04-28T00:51:58.228Z"
 }
