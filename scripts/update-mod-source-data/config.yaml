@@ -287,7 +287,7 @@ mods:
     url: "https://github.com/dallmeyer/OG-NoOrb"
     display_name: "Orbless?"
     description: "Orbs are invisible - can you avoid (or collect) them all? Results shown after final boss"
-    authors: ["barg034", "SixRock", "Kuitar"]
+    authors: ["barg", "SixRock", "Kuitar"]
     tags: ["challenge", "gameplay-mod", "speedrunning"]
     # website_url: "https://github.com/dallmeyer/OG-NoOrb/blob/main/README.md"
     cover_art_url: "https://raw.githubusercontent.com/dallmeyer/OG-NoOrb/refs/heads/main/orbless-bg.png"
