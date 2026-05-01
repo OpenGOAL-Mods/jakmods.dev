@@ -390,7 +390,7 @@ mods:
     release_date_override: "2025-09-20"
     display_name: "ArchipelaGOAL II (ALPHA)"
     description: "Jak 2 Archipelago Randomizer - Alpha Release"
-    authors: ["narra, markus"]
+    authors: ["narra", "markus"]
     tags: ["rng", "challenge", "gameplay-mod"]
     website_url: "https://github.com/ArchipelaGOAL/Archipelago/blob/main/worlds/jakanddaxter/docs/setup_en.md"
     cover_art_url: "https://raw.githubusercontent.com/ArchipelaGOAL/ArchipelaGOAL/main/thumbnails/background.gif"
