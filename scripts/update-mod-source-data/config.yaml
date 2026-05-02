@@ -445,6 +445,17 @@ mods:
         cover_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Daxter2/refs/heads/main/dax3.png"
         thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Daxter2/refs/heads/main/dax3.png"
 
+  jak-the-mercenary:
+    repo_owner: "myogmods"
+    repo_name: "Jak-the-Mercenary"
+    url: "https://github.com/myogmods/Jak-the-Mercenary"
+    display_name: "Jak The Mercenary"
+    description: "Inspired by \"The Mercenaries\" from Resident Evil 4, Jak has been assigned to destroy enemies for sport and aim for the highest score!"
+    authors: ["atrueboss"]
+    tags: ["gameplay-mod", "challenge"]
+    cover_art_url: "https://raw.githubusercontent.com/myogmods/Jak-the-Mercenary/refs/heads/main/custom_assets/jak2/launcher%20images/jak-the-mercenary-cover.png"
+    thumbnail_art_url: "https://raw.githubusercontent.com/myogmods/Jak-the-Mercenary/refs/heads/main/custom_assets/jak2/launcher%20images/jak-the-mercenary-thumbnail.png"
+
   jak2-august:
     repo_owner: "OpenGOAL-Mods"
     repo_name: "OG-Jak2-AugustBuild"
