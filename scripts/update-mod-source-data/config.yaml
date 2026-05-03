@@ -561,7 +561,7 @@ mods:
     url: "https://github.com/Grateful-Forest/Platformia"
     release_date_override: "2024-10-09"
     display_name: "Platformia"
-    description: "Contents: Platforms (99.9%), Particles (0.1%). May contain traces of Jak II checkpoints."
+    description: "A giant fractal adventure made from thousands of moving platforms."
     authors: ["Grateful Forest"]
     tags: ["gameplay-mod", "custom-level", "challenge"]
     website_url: "https://github.com/Grateful-Forest/Platformia/blob/main/README.md"
@@ -574,7 +574,7 @@ mods:
     url: "https://github.com/gratefulforest/Cratetopia"
     release_date_override: "2025-12-20"
     display_name: "Cratetopia"
-    description: "Classic block game inside Jak and Daxter."
+    description: "Jak and Daxter's classic puzzle spin-off game."
     authors: ["Grateful Forest"]
     tags: ["gameplay-mod", "challenge"]
     website_url: "https://github.com/gratefulforest/Cratetopia/blob/main/README.md"
