@@ -40,7 +40,7 @@
           },
           "assetDownloadCounts": {
             "windows": 78,
-            "linux": 6,
+            "linux": 7,
             "macos": 1
           }
         },
@@ -1741,7 +1741,7 @@
         }
       ],
       "coverArtUrl": "https://raw.githubusercontent.com/himham-jak/Jak1-but-Microtransactions/microtransactions/ModImage.png",
-      "thumbnailArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Microtransactions/refs/heads/main/MicrotransactionsSmall.png",
+      "thumbnailArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/MicrotransactionsSmall.png",
       "perGameConfig": {
         "jak1": {
           "releaseDate": "2022-08-28"
@@ -4508,7 +4508,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 51,
+            "windows": 52,
             "linux": 8,
             "macos": 0
           }
@@ -5007,7 +5007,7 @@
       ],
       "perGameConfig": {
         "jak2": {
-          "coverArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Daxter2/main/daxter2.png",
+          "coverArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Daxter2/main/daxter2bg.png",
           "thumbnailArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Daxter2/refs/heads/main/dax2thumb.png",
           "releaseDate": "2023-11-04"
         },
@@ -5050,7 +5050,7 @@
           },
           "assetDownloadCounts": {
             "windows": 23,
-            "linux": 6,
+            "linux": 8,
             "macos": 0
           }
         }
@@ -5270,7 +5270,7 @@
             "macos": "https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus/releases/download/v0.0.48/macos-intel-v0.0.48.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 390,
+            "windows": 392,
             "linux": 38,
             "macos": 1
           }
@@ -6011,7 +6011,7 @@
           },
           "assetDownloadCounts": {
             "windows": 838,
-            "linux": 117,
+            "linux": 118,
             "macos": 14
           }
         },
@@ -6582,7 +6582,7 @@
             "macos": "https://github.com/CraiyDev/Better-Dark-Jak/releases/download/v0.0.2/macos-intel-v0.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1341,
+            "windows": 1342,
             "linux": 269,
             "macos": 13
           }
@@ -6708,7 +6708,7 @@
     },
     "platformia": {
       "displayName": "Platformia",
-      "description": "Contents: Platforms (99.9%), Particles (0.1%). May contain traces of Jak II checkpoints.",
+      "description": "A giant fractal adventure made from thousands of moving platforms.",
       "authors": [
         "Grateful Forest"
       ],
@@ -6755,7 +6755,7 @@
     },
     "cratetopia": {
       "displayName": "Cratetopia",
-      "description": "Classic block game inside Jak and Daxter.",
+      "description": "Jak and Daxter's classic puzzle spin-off game.",
       "authors": [
         "Grateful Forest"
       ],
@@ -8381,7 +8381,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.3.5/macos-intel-v0.3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 3393,
+            "windows": 3394,
             "linux": 395,
             "macos": 123
           }
@@ -9008,7 +9008,7 @@
         }
       ],
       "coverArtUrl": "https://raw.githubusercontent.com/Cuttlefishthesage/LL-OpenGOAL-ModBase/refs/heads/master/overgrownthumbnail.png",
-      "thumbnailArtUrl": "https://raw.githubusercontent.com/Cuttlefishthesage/LL-OpenGOAL-ModBase/refs/heads/master/OvergrownSmall.png",
+      "thumbnailArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/OvergrownSmall.png",
       "perGameConfig": {
         "jak1": {
           "releaseDate": "2024-09-26"
@@ -9131,7 +9131,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2234,
+            "windows": 2236,
             "linux": 297,
             "macos": 64
           }
@@ -9159,7 +9159,7 @@
         }
       ],
       "coverArtUrl": "https://raw.githubusercontent.com/Cuttlefishthesage/BrumeVillage/refs/heads/master/brumecover.png",
-      "thumbnailArtUrl": "https://raw.githubusercontent.com/Cuttlefishthesage/BrumeVillage/refs/heads/master/BrumeVillageSmall.png",
+      "thumbnailArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/BrumeVillageSmall.png",
       "perGameConfig": {
         "jak1": {
           "releaseDate": "2025-08-20"
@@ -9531,5 +9531,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-05-03T17:26:03.908Z"
+  "lastUpdated": "2026-05-03T17:47:09.002Z"
 }
