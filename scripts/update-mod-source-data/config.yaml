@@ -175,10 +175,13 @@ mods:
         release_date_override: "2023-01-05"
         cover_art_url: "https://raw.githubusercontent.com/dallmeyer/OG-OrbHunt/main/ModImage.png"
         thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/OrbHuntSmall.png"
+        display_name: "Orb Hunt"
       jak2:
         release_date_override: "2024-07-01"
         cover_art_url: "https://raw.githubusercontent.com/dallmeyer/OG-OrbHunt/main/ModImage2.png"
         thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/OrbHunt2Small.png"
+        display_name: "Orb Hunt II"
+        description: "Precursor Orb Scavenger Hunt, Round 2"
 
   bugged:
     repo_owner: "OpenGOAL-Mods"
@@ -431,7 +434,7 @@ mods:
     ignore_versions:
       - "<0.3.4"
     display_name: "Daxter II / Daxter 3"
-    description: "Daxter finally gets his sequel/threequel!"
+    description: "Daxter finally gets his sequel!"
     authors: ["barg"]
     tags: ["speedrunning", "gameplay-mod"]
     # website_url: "https://github.com/OpenGOAL-Mods/OG-Daxter2/blob/main/README.md"
@@ -440,10 +443,13 @@ mods:
         release_date_override: "2023-11-04"
         cover_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Daxter2/main/daxter2bg.png"
         thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Daxter2/refs/heads/main/dax2thumb.png"
+        display_name: "Daxter II"
       jak3:
         release_date_override: "2026-04-01"
         cover_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Daxter2/refs/heads/main/dax3.png"
         thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Daxter2/refs/heads/main/dax3.png"
+        display_name: "Daxter 3"
+        description: "Daxter's trilogy is finally complete!"
 
   jak-the-mercenary:
     repo_owner: "myogmods"
