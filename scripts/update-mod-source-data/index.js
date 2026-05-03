@@ -126,6 +126,12 @@ for (const [modName, modInfo] of Object.entries(configFile["mods"])) {
             if (Object.keys(perGameConfig).includes("thumbnail_art_url")) {
                 modSourceInfo.perGameConfig[game].thumbnailArtUrl = perGameConfig["thumbnail_art_url"];
             }
+            if (Object.keys(perGameConfig).includes("display_name")) {
+                modSourceInfo.perGameConfig[game].displayName = perGameConfig["display_name"];
+            }
+            if (Object.keys(perGameConfig).includes("description")) {
+                modSourceInfo.perGameConfig[game].description = perGameConfig["description"];
+            }
         }
     }
 
