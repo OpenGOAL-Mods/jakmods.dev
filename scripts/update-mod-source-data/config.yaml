@@ -157,7 +157,7 @@ mods:
     tags: ["gameplay-mod", "challenge"]
     website_url: "https://github.com/OpenGOAL-Mods/OG-Microtransactions/blob/main/README.md"
     cover_art_url: "https://raw.githubusercontent.com/himham-jak/Jak1-but-Microtransactions/microtransactions/ModImage.png"
-    thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Microtransactions/refs/heads/main/MicrotransactionsSmall.png"
+    thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/MicrotransactionsSmall.png"
 
   orb-hunt:
     repo_owner: "dallmeyer"
@@ -744,7 +744,7 @@ mods:
     tags: ["custom-level"]
     # website_url: "https://github.com/Cuttlefishthesage/LL-OpenGOAL-ModBase/blob/main/README.md"
     cover_art_url: "https://raw.githubusercontent.com/Cuttlefishthesage/LL-OpenGOAL-ModBase/refs/heads/master/overgrownthumbnail.png"
-    thumbnail_art_url: "https://raw.githubusercontent.com/Cuttlefishthesage/LL-OpenGOAL-ModBase/refs/heads/master/OvergrownSmall.png"
+    thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/OvergrownSmall.png"
 
   glacier:
     repo_owner: "Cuttlefishthesage"
@@ -774,7 +774,7 @@ mods:
     tags: ["custom-level"]
     # website_url: "https://github.com/Cuttlefishthesage/BrumeVillage/blob/main/README.md"
     cover_art_url: "https://raw.githubusercontent.com/Cuttlefishthesage/BrumeVillage/refs/heads/master/brumecover.png"
-    thumbnail_art_url: "https://raw.githubusercontent.com/Cuttlefishthesage/BrumeVillage/refs/heads/master/BrumeVillageSmall.png"
+    thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/BrumeVillageSmall.png"
 
   eroded_coast:
     repo_owner: "Cuttlefishthesage"
