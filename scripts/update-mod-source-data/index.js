@@ -302,7 +302,7 @@ for (const [modName, modInfo] of Object.entries(configFile["mods"])) {
                             exitWithError(`(Attempt ${attempts}) Hit non-200 status code when fetching metadata file for mod release version ${modName}:${cleaned_release_tag}`);
                         } else {
                             // log warning but retry
-                            console.warn(`(Attempt ${attempts}) Hit non-200 status code when fetching metadata file for mod release version ${modName}:${cleaned_release_tag}\n${metadataResp}`);
+                            console.warn(`(Attempt ${attempts}) Hit non-200 status code when fetching metadata file for mod release version ${modName}:${cleaned_release_tag}\n${metadataResp.status} ${metadataResp.body}`);
                         }
                     }
                 }
