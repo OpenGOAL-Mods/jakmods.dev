@@ -2,7 +2,7 @@ name: Update Mod Source
 
 on:
   schedule:
-    - cron: "0 */4 * * *" # every 4 hours, at minute 0 - https://crontab.guru/every-4-hours
+    - cron: "*/30 * * * *" # every 30 minutes - https://crontab.guru/every-30-minutes
   workflow_dispatch: {}
 
 # Allow one concurrent deployment
@@ -45,3 +45,11 @@ jobs:
           message: "source: Updated mod source data"
           push: true
           default_author: github_actions
+
+      - name: Wait for push to propagate
+        run: sleep 30
+
+  deploy:
+    name: "Deploy Website"
+    needs: update-mod-source
+    uses: ./.github/workflows/deploy-gh-pages.yaml
