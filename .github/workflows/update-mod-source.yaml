@@ -32,6 +32,8 @@ jobs:
           cache-dependency-path: scripts/update-mod-source-data/package-lock.json
 
       - name: Potentially Update Mod Source
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           cd scripts/update-mod-source-data
           npm ci
