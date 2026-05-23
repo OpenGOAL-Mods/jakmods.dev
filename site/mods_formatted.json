@@ -39,7 +39,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Speedrun-Practice/releases/download/v0.5.2/macos-intel-v0.5.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 158,
+            "windows": 159,
             "linux": 18,
             "macos": 1
           }
@@ -719,7 +719,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Randomizer/releases/download/v0.6.4/macos-intel-v0.6.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 446,
+            "windows": 447,
             "linux": 50,
             "macos": 24
           }
@@ -2819,7 +2819,7 @@
             "macos": "https://github.com/EvelynTSMG/Jak-EveBase/releases/download/v0.1.2/macos-intel-v0.1.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1183,
+            "windows": 1184,
             "linux": 240,
             "macos": 18
           }
@@ -3364,7 +3364,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 4019,
+            "windows": 4021,
             "linux": 276,
             "macos": 18
           }
@@ -4957,7 +4957,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Daxter2/releases/download/v1.1.2/macos-intel-v1.1.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 430,
+            "windows": 431,
             "linux": 62,
             "macos": 2
           }
@@ -5209,7 +5209,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.14/macos-intel-v0.0.14.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 960,
+            "windows": 962,
             "linux": 135,
             "macos": 8
           }
@@ -5339,7 +5339,7 @@
             "macos": "https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus/releases/download/v0.0.48/macos-intel-v0.0.48.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1014,
+            "windows": 1015,
             "linux": 102,
             "macos": 2
           }
@@ -8473,7 +8473,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 3581,
+            "windows": 3582,
             "linux": 437,
             "macos": 0
           }
@@ -8667,7 +8667,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 429,
+            "windows": 430,
             "linux": 60,
             "macos": 0
           }
@@ -9137,7 +9137,7 @@
             "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base-Glacier/releases/download/v1.0.9/macos-intel-v1.0.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 975,
+            "windows": 977,
             "linux": 129,
             "macos": 44
           }
@@ -9623,5 +9623,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-05-23T14:42:50.546Z"
+  "lastUpdated": "2026-05-23T16:06:27.471Z"
 }
