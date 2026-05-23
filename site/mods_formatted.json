@@ -2978,7 +2978,7 @@
           },
           "assetDownloadCounts": {
             "windows": 66,
-            "linux": 9,
+            "linux": 10,
             "macos": 0
           }
         },
@@ -4958,7 +4958,7 @@
           },
           "assetDownloadCounts": {
             "windows": 432,
-            "linux": 62,
+            "linux": 64,
             "macos": 2
           }
         },
@@ -5209,7 +5209,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.14/macos-intel-v0.0.14.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 963,
+            "windows": 964,
             "linux": 136,
             "macos": 8
           }
@@ -5339,7 +5339,7 @@
             "macos": "https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus/releases/download/v0.0.48/macos-intel-v0.0.48.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1017,
+            "windows": 1019,
             "linux": 103,
             "macos": 2
           }
@@ -6079,7 +6079,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.54/macos-intel-v0.0.54.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 989,
+            "windows": 990,
             "linux": 143,
             "macos": 14
           }
@@ -8667,7 +8667,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 430,
+            "windows": 431,
             "linux": 60,
             "macos": 0
           }
@@ -9623,5 +9623,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-05-23T20:27:35.366Z"
+  "lastUpdated": "2026-05-23T21:30:08.922Z"
 }
