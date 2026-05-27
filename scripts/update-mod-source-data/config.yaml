@@ -113,6 +113,19 @@ mods:
     cover_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Zoomer-Legacy/main/ModImage.png"
     thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/ZoomerSmall.png"
 
+  jetboard-legacy:
+    repo_owner: "Hat-Kid"
+    repo_name: "og-j1-board"
+    url: "https://github.com/Hat-Kid/og-j1-board"
+    release_date_override: "2026-05-27"
+    display_name: "Jak and Daxter: The JET-Board Legacy"
+    description: "Jak 1, but you have the jetboard!"
+    authors: ["Hat-Kid"]
+    tags: ["gameplay-mod", "speedrunning"]
+    website_url: "https://github.com/Hat-Kid/og-j1-board/blob/main/README.md"
+    cover_art_url: "https://raw.githubusercontent.com/Hat-Kid/og-j1-board/refs/heads/main/bg.png"
+    thumbnail_art_url: "https://raw.githubusercontent.com/Hat-Kid/og-j1-board/refs/heads/main/thumb.png"
+
   super-mario-64:
     repo_owner: "OpenGOAL-Mods"
     repo_name: "OG-SM64"
