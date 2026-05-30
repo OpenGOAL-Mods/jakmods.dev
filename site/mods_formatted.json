@@ -39,7 +39,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Speedrun-Practice/releases/download/v0.5.2/macos-intel-v0.5.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 176,
+            "windows": 177,
             "linux": 20,
             "macos": 2
           }
@@ -1518,7 +1518,7 @@
             "macos": "https://github.com/Hat-Kid/og-j1-board/releases/download/v0.0.4/macos-intel-v0.0.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 72,
+            "windows": 76,
             "linux": 16,
             "macos": 1
           }
@@ -3086,7 +3086,7 @@
             "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.1/macos-intel-v1.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 0,
+            "windows": 1,
             "linux": 0,
             "macos": 0
           }
@@ -3107,7 +3107,7 @@
             "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.0/macos-intel-v1.0.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 163,
+            "windows": 164,
             "linux": 22,
             "macos": 1
           }
@@ -3494,7 +3494,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 4136,
+            "windows": 4137,
             "linux": 280,
             "macos": 19
           }
@@ -3878,7 +3878,7 @@
             "macos": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.1.1/macos-intel-v0.1.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 484,
+            "windows": 485,
             "linux": 32,
             "macos": 1
           }
@@ -5294,7 +5294,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Jak2-AugustBuild/releases/download/v0.1.0/macos-intel-v0.1.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 348,
+            "windows": 349,
             "linux": 30,
             "macos": 13
           }
@@ -5339,7 +5339,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.14/macos-intel-v0.0.14.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1015,
+            "windows": 1016,
             "linux": 143,
             "macos": 10
           }
@@ -5469,7 +5469,7 @@
             "macos": "https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus/releases/download/v0.0.48/macos-intel-v0.0.48.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1119,
+            "windows": 1120,
             "linux": 114,
             "macos": 5
           }
@@ -6209,7 +6209,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.54/macos-intel-v0.0.54.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1039,
+            "windows": 1040,
             "linux": 146,
             "macos": 16
           }
@@ -8603,7 +8603,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 3647,
+            "windows": 3648,
             "linux": 451,
             "macos": 0
           }
@@ -9355,7 +9355,7 @@
           "assetDownloadCounts": {
             "windows": 2487,
             "linux": 349,
-            "macos": 75
+            "macos": 76
           }
         },
         {
@@ -9753,5 +9753,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-05-30T16:35:42.573Z"
+  "lastUpdated": "2026-05-30T18:06:26.148Z"
 }
