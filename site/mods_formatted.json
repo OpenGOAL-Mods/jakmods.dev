@@ -1518,8 +1518,8 @@
             "macos": "https://github.com/Hat-Kid/og-j1-board/releases/download/v0.0.4/macos-intel-v0.0.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 112,
-            "linux": 22,
+            "windows": 121,
+            "linux": 23,
             "macos": 1
           }
         },
@@ -5227,7 +5227,7 @@
             "macos": "https://github.com/myogmods/Jak-the-Mercenary/releases/download/v0.0.4/macos-intel-v0.0.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 143,
+            "windows": 144,
             "linux": 16,
             "macos": 1
           }
@@ -5339,7 +5339,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.14/macos-intel-v0.0.14.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1025,
+            "windows": 1026,
             "linux": 144,
             "macos": 10
           }
@@ -5469,7 +5469,7 @@
             "macos": "https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus/releases/download/v0.0.48/macos-intel-v0.0.48.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1132,
+            "windows": 1133,
             "linux": 116,
             "macos": 5
           }
@@ -7049,7 +7049,7 @@
             "macos": "https://github.com/Nick0778/OG-Jak2-Defend-The-Portwall/releases/download/v1.1.0/macos-intel-v2.0.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 439,
+            "windows": 440,
             "linux": 53,
             "macos": 6
           }
@@ -9753,5 +9753,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-05-31T14:20:21.908Z"
+  "lastUpdated": "2026-05-31T15:52:30.603Z"
 }
