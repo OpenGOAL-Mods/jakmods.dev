@@ -39,7 +39,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Speedrun-Practice/releases/download/v0.5.2/macos-intel-v0.5.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 190,
+            "windows": 192,
             "linux": 23,
             "macos": 2
           }
@@ -1518,7 +1518,7 @@
             "macos": "https://github.com/Hat-Kid/og-j1-board/releases/download/v0.0.5/macos-intel-v0.0.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 187,
+            "windows": 191,
             "linux": 15,
             "macos": 6
           }
@@ -3107,7 +3107,7 @@
             "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.2/macos-intel-v1.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 61,
+            "windows": 63,
             "linux": 8,
             "macos": 1
           }
@@ -3536,8 +3536,8 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 4262,
-            "linux": 290,
+            "windows": 4263,
+            "linux": 291,
             "macos": 19
           }
         },
@@ -4133,7 +4133,7 @@
             "macos": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.9/macos-intel-v2.1.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 638,
+            "windows": 639,
             "linux": 74,
             "macos": 21
           }
@@ -4704,7 +4704,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 289,
+            "windows": 290,
             "linux": 57,
             "macos": 0
           }
@@ -5129,7 +5129,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Daxter2/releases/download/v1.1.2/macos-intel-v1.1.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 496,
+            "windows": 500,
             "linux": 80,
             "macos": 3
           }
@@ -5511,7 +5511,7 @@
             "macos": "https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus/releases/download/v0.0.48/macos-intel-v0.0.48.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1216,
+            "windows": 1218,
             "linux": 123,
             "macos": 6
           }
@@ -6695,7 +6695,7 @@
           },
           "assetDownloadCounts": {
             "windows": 594,
-            "linux": 88,
+            "linux": 90,
             "macos": 14
           }
         },
@@ -6890,7 +6890,7 @@
             "macos": "https://github.com/EvelynTSMG/JakSpeeb/releases/download/v1.2.0/macos-intel-v1.2.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 208,
+            "windows": 209,
             "linux": 22,
             "macos": 14
           }
@@ -7984,7 +7984,7 @@
             "macos": "https://github.com/my-opengoal-mods/OG-warp-randomizer/releases/download/v0.0.16/macos-intel-v0.0.16.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 211,
+            "windows": 212,
             "linux": 21,
             "macos": 23
           }
@@ -8645,7 +8645,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 3704,
+            "windows": 3705,
             "linux": 463,
             "macos": 0
           }
@@ -9395,7 +9395,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2536,
+            "windows": 2538,
             "linux": 356,
             "macos": 77
           }
@@ -9461,7 +9461,7 @@
             "macos": "https://github.com/Cuttlefishthesage/ErodedCoast/releases/download/v5.0.3/macos-intel-v5.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1302,
+            "windows": 1303,
             "linux": 205,
             "macos": 40
           }
@@ -9795,5 +9795,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-06-06T11:38:42.802Z"
+  "lastUpdated": "2026-06-06T15:24:19.781Z"
 }
