@@ -64,7 +64,7 @@
           "assetDownloadCounts": {
             "windows": 65,
             "linux": 9,
-            "macos": 5
+            "macos": 6
           }
         },
         {
@@ -1217,7 +1217,7 @@
           "assetDownloadCounts": {
             "windows": 172,
             "linux": 12,
-            "macos": 11
+            "macos": 12
           }
         },
         {
@@ -1518,7 +1518,7 @@
             "macos": "https://github.com/Hat-Kid/og-j1-board/releases/download/v0.0.5/macos-intel-v0.0.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 293,
+            "windows": 294,
             "linux": 29,
             "macos": 7
           }
@@ -1803,7 +1803,7 @@
           "assetDownloadCounts": {
             "windows": 177,
             "linux": 10,
-            "macos": 15
+            "macos": 16
           }
         },
         {
@@ -2501,7 +2501,7 @@
           "assetDownloadCounts": {
             "windows": 1043,
             "linux": 181,
-            "macos": 29
+            "macos": 30
           }
         },
         {
@@ -2680,7 +2680,7 @@
           "assetDownloadCounts": {
             "windows": 367,
             "linux": 40,
-            "macos": 29
+            "macos": 30
           }
         },
         {
@@ -3536,7 +3536,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 4372,
+            "windows": 4373,
             "linux": 302,
             "macos": 23
           }
@@ -5338,7 +5338,7 @@
           "assetDownloadCounts": {
             "windows": 351,
             "linux": 32,
-            "macos": 14
+            "macos": 15
           }
         }
       ],
@@ -5381,9 +5381,9 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.14/macos-intel-v0.0.14.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1106,
-            "linux": 158,
-            "macos": 13
+            "windows": 1107,
+            "linux": 159,
+            "macos": 14
           }
         },
         {
@@ -5513,7 +5513,7 @@
           "assetDownloadCounts": {
             "windows": 1283,
             "linux": 137,
-            "macos": 6
+            "macos": 7
           }
         },
         {
@@ -6251,7 +6251,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.54/macos-intel-v0.0.54.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1101,
+            "windows": 1102,
             "linux": 158,
             "macos": 18
           }
@@ -6696,7 +6696,7 @@
           "assetDownloadCounts": {
             "windows": 603,
             "linux": 93,
-            "macos": 14
+            "macos": 15
           }
         },
         {
@@ -7159,7 +7159,7 @@
           "assetDownloadCounts": {
             "windows": 157,
             "linux": 12,
-            "macos": 14
+            "macos": 15
           }
         }
       ],
@@ -9795,5 +9795,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-06-13T11:20:39.859Z"
+  "lastUpdated": "2026-06-13T13:07:43.868Z"
 }
