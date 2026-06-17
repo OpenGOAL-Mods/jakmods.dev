@@ -2499,7 +2499,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Patched/releases/download/v1.1.3/macos-intel-v1.1.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1056,
+            "windows": 1057,
             "linux": 184,
             "macos": 30
           }
@@ -2949,7 +2949,7 @@
             "macos": "https://github.com/EvelynTSMG/Jak-EveBase/releases/download/v0.1.2/macos-intel-v0.1.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1308,
+            "windows": 1309,
             "linux": 257,
             "macos": 22
           }
@@ -3129,7 +3129,7 @@
           },
           "assetDownloadCounts": {
             "windows": 167,
-            "linux": 18,
+            "linux": 19,
             "macos": 5
           }
         },
@@ -3557,7 +3557,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 4431,
+            "windows": 4432,
             "linux": 311,
             "macos": 23
           }
@@ -3941,7 +3941,7 @@
             "macos": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.1.1/macos-intel-v0.1.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 569,
+            "windows": 570,
             "linux": 36,
             "macos": 1
           }
@@ -5150,7 +5150,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Daxter2/releases/download/v1.1.2/macos-intel-v1.1.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 534,
+            "windows": 536,
             "linux": 88,
             "macos": 3
           }
@@ -5402,7 +5402,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.14/macos-intel-v0.0.14.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1123,
+            "windows": 1124,
             "linux": 161,
             "macos": 15
           }
@@ -5532,7 +5532,7 @@
             "macos": "https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus/releases/download/v0.0.48/macos-intel-v0.0.48.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1316,
+            "windows": 1317,
             "linux": 141,
             "macos": 9
           }
@@ -6272,7 +6272,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.54/macos-intel-v0.0.54.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1120,
+            "windows": 1121,
             "linux": 162,
             "macos": 18
           }
@@ -6844,7 +6844,7 @@
             "macos": "https://github.com/CraiyDev/Better-Dark-Jak/releases/download/v0.0.2/macos-intel-v0.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1667,
+            "windows": 1668,
             "linux": 313,
             "macos": 20
           }
@@ -6911,7 +6911,7 @@
             "macos": "https://github.com/EvelynTSMG/JakSpeeb/releases/download/v1.2.0/macos-intel-v1.2.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 215,
+            "windows": 216,
             "linux": 22,
             "macos": 15
           }
@@ -9265,7 +9265,7 @@
             "macos": "https://github.com/Cuttlefishthesage/LL-OpenGOAL-ModBase/releases/download/v4.3.4/macos-intel-v4.3.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1448,
+            "windows": 1449,
             "linux": 208,
             "macos": 52
           }
@@ -9482,7 +9482,7 @@
             "macos": "https://github.com/Cuttlefishthesage/ErodedCoast/releases/download/v5.0.3/macos-intel-v5.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1379,
+            "windows": 1380,
             "linux": 211,
             "macos": 40
           }
@@ -9816,5 +9816,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-06-17T05:28:08.374Z"
+  "lastUpdated": "2026-06-17T10:17:24.772Z"
 }
