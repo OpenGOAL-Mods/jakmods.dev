@@ -3018,7 +3018,7 @@
             "macos": "https://github.com/this-guy-git/JGChaos/releases/download/v0.3.0/macos-intel-v0.3.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 5,
+            "windows": 6,
             "linux": 2,
             "macos": 1
           }
@@ -3475,6 +3475,52 @@
       "perGameConfig": {
         "jak1": {
           "releaseDate": "2026-02-05T22:07:28Z"
+        }
+      },
+      "externalLink": null
+    },
+    "yosemite": {
+      "displayName": "Yosemite",
+      "description": "Special build that will play the cut Yosemite level! YOU MUST PROVIDE THE YOS.DGO FILE, CLICK MOD NAME FOR INSTRUCTIONS ^",
+      "authors": [
+        "barg",
+        "LuminarLight"
+      ],
+      "tags": [
+        "gameplay-mod"
+      ],
+      "websiteUrl": "https://github.com/OpenGOAL-Mods/OG-Yosemite/blob/main/README.md",
+      "supportedGames": [
+        "jak1"
+      ],
+      "versions": [
+        {
+          "version": "0.0.1",
+          "publishedDate": "2026-06-17T23:32:06Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/OpenGOAL-Mods/OG-Yosemite/releases/download/v0.0.1/windows-v0.0.1.zip",
+            "linux": "https://github.com/OpenGOAL-Mods/OG-Yosemite/releases/download/v0.0.1/linux-v0.0.1.tar.gz",
+            "macos": "https://github.com/OpenGOAL-Mods/OG-Yosemite/releases/download/v0.0.1/macos-intel-v0.0.1.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        }
+      ],
+      "coverArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Yosemite/refs/heads/main/yos.png",
+      "thumbnailArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Yosemite/refs/heads/main/septpreview.png",
+      "perGameConfig": {
+        "jak1": {
+          "releaseDate": "2026-06-17T23:32:06Z"
         }
       },
       "externalLink": null
@@ -4120,6 +4166,55 @@
       "perGameConfig": {
         "jak2": {
           "releaseDate": "2025-09-20"
+        }
+      },
+      "externalLink": null
+    },
+    "archipelagoal-3": {
+      "displayName": "ArchipelaGOAL 3 (ALPHA)",
+      "description": "Jak 3 Archipelago Randomizer - Alpha Release",
+      "authors": [
+        "B;ale645",
+        "narra",
+        "markus"
+      ],
+      "tags": [
+        "rng",
+        "challenge",
+        "gameplay-mod"
+      ],
+      "websiteUrl": "https://github.com/Blake645/ArchipelaGOAL-3/blob/main/README.md",
+      "supportedGames": [
+        "jak3"
+      ],
+      "versions": [
+        {
+          "version": "0.0.1-jak3.0",
+          "publishedDate": "2026-06-17T22:44:36Z",
+          "supportedGames": [
+            "jak3"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/Blake645/ArchipelaGOAL-3/releases/download/v0.0.1-jak3.0/windows-v0.0.1-jak3.0.zip",
+            "linux": "https://github.com/Blake645/ArchipelaGOAL-3/releases/download/v0.0.1-jak3.0/linux-v0.0.1-jak3.0.tar.gz",
+            "macos": "https://github.com/Blake645/ArchipelaGOAL-3/releases/download/v0.0.1-jak3.0/macos-intel-v0.0.1-jak3.0.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 1,
+            "linux": 0,
+            "macos": 0
+          }
+        }
+      ],
+      "coverArtUrl": "https://raw.githubusercontent.com/ArchipelaGOAL/ArchipelaGOAL/main/thumbnails/background.gif",
+      "thumbnailArtUrl": "https://raw.githubusercontent.com/ArchipelaGOAL/ArchipelaGOAL/main/thumbnails/thumbnail.png",
+      "perGameConfig": {
+        "jak3": {
+          "releaseDate": "2026-06-17"
         }
       },
       "externalLink": null
@@ -5402,7 +5497,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.14/macos-intel-v0.0.14.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1127,
+            "windows": 1128,
             "linux": 161,
             "macos": 15
           }
@@ -6844,7 +6939,7 @@
             "macos": "https://github.com/CraiyDev/Better-Dark-Jak/releases/download/v0.0.2/macos-intel-v0.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1669,
+            "windows": 1670,
             "linux": 314,
             "macos": 20
           }
@@ -9416,7 +9511,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2637,
+            "windows": 2638,
             "linux": 374,
             "macos": 78
           }
@@ -9816,5 +9911,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-06-17T22:22:22.962Z"
+  "lastUpdated": "2026-06-17T23:33:51.524Z"
 }
