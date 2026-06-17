@@ -368,6 +368,18 @@ mods:
     website_url: "https://github.com/mfOliveira19/GordonAndDaxter-Mod/blob/main/README.md"
     cover_art_url: "https://raw.githubusercontent.com/mfOliveira19/GordonAndDaxter-Mod/refs/heads/main/mod-background.png"
     thumbnail_art_url: "https://raw.githubusercontent.com/mfOliveira19/GordonAndDaxter-Mod/refs/heads/main/mod-cover.png"
+  
+  yosemite:
+    repo_owner: "OpenGOAL-Mods"
+    repo_name: "OG-Yosemite"
+    url: "https://github.com/OpenGOAL-Mods/OG-Yosemite"
+    display_name: "Yosemite"
+    description: "Special build that will play the cut Yosemite level! YOU MUST PROVIDE THE YOS.DGO FILE, CLICK MOD NAME FOR INSTRUCTIONS ^"
+    authors: ["barg", "LuminarLight"]
+    tags: ["gameplay-mod"]
+    website_url: "https://github.com/OpenGOAL-Mods/OG-Yosemite/blob/main/README.md"
+    cover_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Yosemite/refs/heads/main/yos.png"
+    thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Yosemite/refs/heads/main/septpreview.png"
 
   spec-ops:
     repo_owner: "ruhphorte"
@@ -409,6 +421,19 @@ mods:
     authors: ["narra", "markus"]
     tags: ["rng", "challenge", "gameplay-mod"]
     website_url: "https://github.com/ArchipelaGOAL/Archipelago/blob/main/worlds/jakanddaxter/docs/setup_en.md"
+    cover_art_url: "https://raw.githubusercontent.com/ArchipelaGOAL/ArchipelaGOAL/main/thumbnails/background.gif"
+    thumbnail_art_url: "https://raw.githubusercontent.com/ArchipelaGOAL/ArchipelaGOAL/main/thumbnails/thumbnail.png"
+  
+  archipelagoal-3:
+    repo_owner: "Blake645"
+    repo_name: "ArchipelaGOAL-3"
+    url: "https://github.com/Blake645/ArchipelaGOAL-3"
+    release_date_override: "2026-06-17"
+    display_name: "ArchipelaGOAL 3 (ALPHA)"
+    description: "Jak 3 Archipelago Randomizer - Alpha Release"
+    authors: ["B;ale645", "narra", "markus"]
+    tags: ["rng", "challenge", "gameplay-mod"]
+    website_url: "https://github.com/Blake645/ArchipelaGOAL-3/blob/main/README.md"
     cover_art_url: "https://raw.githubusercontent.com/ArchipelaGOAL/ArchipelaGOAL/main/thumbnails/background.gif"
     thumbnail_art_url: "https://raw.githubusercontent.com/ArchipelaGOAL/ArchipelaGOAL/main/thumbnails/thumbnail.png"
 
