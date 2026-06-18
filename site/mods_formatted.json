@@ -39,7 +39,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Speedrun-Practice/releases/download/v0.5.2/macos-intel-v0.5.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 218,
+            "windows": 219,
             "linux": 23,
             "macos": 2
           }
@@ -1518,7 +1518,7 @@
             "macos": "https://github.com/Hat-Kid/og-j1-board/releases/download/v0.0.5/macos-intel-v0.0.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 352,
+            "windows": 353,
             "linux": 34,
             "macos": 7
           }
@@ -3128,7 +3128,7 @@
             "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.2/macos-intel-v1.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 178,
+            "windows": 181,
             "linux": 19,
             "macos": 5
           }
@@ -3481,7 +3481,7 @@
     },
     "yosemite": {
       "displayName": "Yosemite",
-      "description": "Special build that will play the cut Yosemite level! YOU MUST PROVIDE THE YOS.DGO FILE, CLICK MOD NAME FOR INSTRUCTIONS ^",
+      "description": "Special build that will play the cut Yosemite level! BEFORE INSTALLING: Click mod name^^ for instructions on where to paste the YOS.DGO file",
       "authors": [
         "barg",
         "LuminarLight"
@@ -3510,7 +3510,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Yosemite/releases/download/v0.0.3/macos-intel-v0.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 6,
+            "windows": 11,
             "linux": 0,
             "macos": 0
           }
@@ -3645,7 +3645,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 4440,
+            "windows": 4441,
             "linux": 316,
             "macos": 23
           }
@@ -4246,7 +4246,7 @@
             "macos": "https://github.com/Blake645/ArchipelaGOAL-3/releases/download/v0.0.1-jak3.0/macos-intel-v0.0.1-jak3.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 6,
+            "windows": 7,
             "linux": 0,
             "macos": 0
           }
@@ -4862,7 +4862,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 345,
+            "windows": 347,
             "linux": 61,
             "macos": 0
           }
@@ -5288,7 +5288,7 @@
           },
           "assetDownloadCounts": {
             "windows": 537,
-            "linux": 88,
+            "linux": 89,
             "macos": 3
           }
         },
@@ -6981,7 +6981,7 @@
             "macos": "https://github.com/CraiyDev/Better-Dark-Jak/releases/download/v0.0.2/macos-intel-v0.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1672,
+            "windows": 1673,
             "linux": 314,
             "macos": 20
           }
@@ -8997,7 +8997,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 488,
+            "windows": 489,
             "linux": 69,
             "macos": 0
           }
@@ -9953,5 +9953,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-06-18T04:56:33.078Z"
+  "lastUpdated": "2026-06-18T08:11:16.325Z"
 }
