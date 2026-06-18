@@ -374,7 +374,7 @@ mods:
     repo_name: "OG-Yosemite"
     url: "https://github.com/OpenGOAL-Mods/OG-Yosemite"
     display_name: "Yosemite"
-    description: "Special build that will play the cut Yosemite level! YOU MUST PROVIDE THE YOS.DGO FILE, CLICK MOD NAME FOR INSTRUCTIONS ^"
+    description: "Special build that will play the cut Yosemite level! BEFORE INSTALLING: Click mod name^^ for instructions on where to paste the YOS.DGO file"
     authors: ["barg", "LuminarLight"]
     tags: ["gameplay-mod"]
     website_url: "https://github.com/OpenGOAL-Mods/OG-Yosemite/blob/main/README.md"
