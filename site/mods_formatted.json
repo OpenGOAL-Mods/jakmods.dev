@@ -2949,7 +2949,7 @@
             "macos": "https://github.com/EvelynTSMG/Jak-EveBase/releases/download/v0.1.2/macos-intel-v0.1.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1332,
+            "windows": 1333,
             "linux": 263,
             "macos": 22
           }
@@ -3128,7 +3128,7 @@
             "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.4/macos-intel-v1.0.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 0,
+            "windows": 1,
             "linux": 0,
             "macos": 0
           }
@@ -3687,8 +3687,8 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 4559,
-            "linux": 327,
+            "windows": 4560,
+            "linux": 328,
             "macos": 24
           }
         },
@@ -4288,7 +4288,7 @@
             "macos": "https://github.com/Blake645/ArchipelaGOAL-3/releases/download/v0.0.1-jak3.2/macos-intel-v0.0.1-jak3.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 5,
+            "windows": 7,
             "linux": 0,
             "macos": 0
           }
@@ -5753,7 +5753,7 @@
             "macos": "https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus/releases/download/v0.0.48/macos-intel-v0.0.48.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1376,
+            "windows": 1377,
             "linux": 148,
             "macos": 10
           }
@@ -9703,7 +9703,7 @@
             "macos": "https://github.com/Cuttlefishthesage/ErodedCoast/releases/download/v5.0.3/macos-intel-v5.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1438,
+            "windows": 1439,
             "linux": 220,
             "macos": 41
           }
@@ -10037,5 +10037,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-06-24T20:20:14.001Z"
+  "lastUpdated": "2026-06-24T21:55:51.262Z"
 }
