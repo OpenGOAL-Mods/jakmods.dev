@@ -1518,7 +1518,7 @@
             "macos": "https://github.com/Hat-Kid/og-j1-board/releases/download/v0.0.5/macos-intel-v0.0.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 408,
+            "windows": 410,
             "linux": 45,
             "macos": 8
           }
@@ -3687,7 +3687,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 4563,
+            "windows": 4564,
             "linux": 329,
             "macos": 24
           }
@@ -5753,7 +5753,7 @@
             "macos": "https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus/releases/download/v0.0.48/macos-intel-v0.0.48.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1378,
+            "windows": 1380,
             "linux": 148,
             "macos": 10
           }
@@ -6493,7 +6493,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.54/macos-intel-v0.0.54.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1146,
+            "windows": 1149,
             "linux": 166,
             "macos": 18
           }
@@ -9081,7 +9081,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 503,
+            "windows": 504,
             "linux": 70,
             "macos": 0
           }
@@ -9637,7 +9637,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2701,
+            "windows": 2702,
             "linux": 393,
             "macos": 78
           }
@@ -9703,7 +9703,7 @@
             "macos": "https://github.com/Cuttlefishthesage/ErodedCoast/releases/download/v5.0.3/macos-intel-v5.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1443,
+            "windows": 1444,
             "linux": 220,
             "macos": 41
           }
@@ -10037,5 +10037,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-06-25T06:14:52.479Z"
+  "lastUpdated": "2026-06-25T09:55:21.760Z"
 }
