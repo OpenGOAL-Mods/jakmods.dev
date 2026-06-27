@@ -3552,7 +3552,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Yosemite/releases/download/v0.0.3/macos-intel-v0.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 120,
+            "windows": 122,
             "linux": 9,
             "macos": 2
           }
@@ -3687,7 +3687,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 4595,
+            "windows": 4598,
             "linux": 330,
             "macos": 24
           }
@@ -4288,7 +4288,7 @@
             "macos": "https://github.com/Blake645/ArchipelaGOAL-3/releases/download/v0.0.1-jak3.2/macos-intel-v0.0.1-jak3.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 13,
+            "windows": 14,
             "linux": 1,
             "macos": 0
           }
@@ -5623,7 +5623,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.17/macos-intel-v0.0.17.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1,
+            "windows": 3,
             "linux": 0,
             "macos": 0
           }
@@ -5774,7 +5774,7 @@
             "macos": "https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus/releases/download/v0.0.48/macos-intel-v0.0.48.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1390,
+            "windows": 1391,
             "linux": 149,
             "macos": 10
           }
@@ -7354,7 +7354,7 @@
             "macos": "https://github.com/Nick0778/OG-Jak2-Defend-The-Portwall/releases/download/v1.1.0/macos-intel-v2.0.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 473,
+            "windows": 474,
             "linux": 54,
             "macos": 7
           }
@@ -10058,5 +10058,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-06-27T12:16:28.390Z"
+  "lastUpdated": "2026-06-27T14:15:55.586Z"
 }
