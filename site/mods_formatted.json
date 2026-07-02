@@ -3663,7 +3663,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 1389,
+            "windows": 1390,
             "linux": 0,
             "macos": 0
           }
@@ -5576,7 +5576,7 @@
             "macos": "https://github.com/myogmods/Jak-the-Mercenary/releases/download/v0.0.4/macos-intel-v0.0.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 209,
+            "windows": 210,
             "linux": 26,
             "macos": 3
           }
@@ -5839,7 +5839,7 @@
             "macos": "https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus/releases/download/v1.0.2/macos-intel-v1.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 87,
+            "windows": 88,
             "linux": 13,
             "macos": 0
           }
@@ -7214,7 +7214,7 @@
             "macos": "https://github.com/CraiyDev/Better-Dark-Jak/releases/download/v0.0.2/macos-intel-v0.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1737,
+            "windows": 1740,
             "linux": 326,
             "macos": 23
           }
@@ -9036,7 +9036,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 3922,
+            "windows": 3924,
             "linux": 503,
             "macos": 0
           }
@@ -9786,7 +9786,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2742,
+            "windows": 2743,
             "linux": 400,
             "macos": 78
           }
@@ -10186,5 +10186,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-07-01T22:49:31.942Z"
+  "lastUpdated": "2026-07-02T00:15:08.919Z"
 }
