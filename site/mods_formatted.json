@@ -1541,7 +1541,7 @@
             "macos": "https://github.com/Hat-Kid/og-j1-board/releases/download/v0.0.5/macos-intel-v0.0.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 503,
+            "windows": 504,
             "linux": 58,
             "macos": 9
           }
@@ -2972,7 +2972,7 @@
             "macos": "https://github.com/EvelynTSMG/Jak-EveBase/releases/download/v0.1.2/macos-intel-v0.1.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1369,
+            "windows": 1370,
             "linux": 269,
             "macos": 22
           }
@@ -9036,7 +9036,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 3954,
+            "windows": 3955,
             "linux": 505,
             "macos": 0
           }
@@ -9700,7 +9700,7 @@
             "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base-Glacier/releases/download/v1.0.9/macos-intel-v1.0.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1089,
+            "windows": 1090,
             "linux": 143,
             "macos": 50
           }
@@ -9786,7 +9786,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2769,
+            "windows": 2770,
             "linux": 402,
             "macos": 78
           }
@@ -10186,5 +10186,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-07-04T07:25:11.609Z"
+  "lastUpdated": "2026-07-04T09:38:44.121Z"
 }
