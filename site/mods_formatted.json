@@ -1217,7 +1217,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/releases/download/v0.2.5-mergetime1127.3/macos-intel-v0.2.5-mergetime1127.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 355,
+            "windows": 356,
             "linux": 46,
             "macos": 16
           }
@@ -1541,7 +1541,7 @@
             "macos": "https://github.com/Hat-Kid/og-j1-board/releases/download/v0.0.6/macos-intel-v0.0.6.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 34,
+            "windows": 35,
             "linux": 6,
             "macos": 0
           }
@@ -3172,7 +3172,7 @@
             "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.4/macos-intel-v1.0.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 136,
+            "windows": 140,
             "linux": 22,
             "macos": 0
           }
@@ -3193,7 +3193,7 @@
             "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 75,
+            "windows": 76,
             "linux": 11,
             "macos": 0
           }
@@ -4461,7 +4461,7 @@
             "macos": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.9/macos-intel-v2.1.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 701,
+            "windows": 702,
             "linux": 81,
             "macos": 22
           }
@@ -5709,7 +5709,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v0.0.17/macos-intel-v0.0.17.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 115,
+            "windows": 116,
             "linux": 14,
             "macos": 0
           }
@@ -10207,5 +10207,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-07-07T11:15:38.074Z"
+  "lastUpdated": "2026-07-07T13:38:45.300Z"
 }
