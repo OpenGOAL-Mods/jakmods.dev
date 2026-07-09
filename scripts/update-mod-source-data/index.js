@@ -452,8 +452,8 @@ if (configFile["texture_packs"]) {
 
 if (!lintMode) {
     // Check if the resulting file is different from the existing one (minus lastUpdated)
-    if (fs.existsSync("../../site/mods.json")) {
-        let existingModSourceData = JSON.parse(fs.readFileSync("../../site/mods.json"));
+    if (fs.existsSync("../../static/mods.json")) {
+        let existingModSourceData = JSON.parse(fs.readFileSync("../../static/mods.json"));
         delete existingModSourceData["lastUpdated"];
         // if it is, copy it over,
         if (JSON.stringify(existingModSourceData) === JSON.stringify(modSourceData)) {
@@ -461,13 +461,13 @@ if (!lintMode) {
         } else { // if not, do nothing!
             modSourceData.lastUpdated = (new Date()).toISOString();
             // Save the json file out
-            fs.writeFileSync("../../site/mods.json", JSON.stringify(modSourceData));
-            fs.writeFileSync("../../site/mods_formatted.json", JSON.stringify(modSourceData, null, 2));
+            fs.writeFileSync("../../static/mods.json", JSON.stringify(modSourceData));
+            fs.writeFileSync("../../static/mods_formatted.json", JSON.stringify(modSourceData, null, 2));
         }
     } else {
         modSourceData.lastUpdated = (new Date()).toISOString();
         // Save the json file out
-        fs.writeFileSync("../../site/mods.json", JSON.stringify(modSourceData));
-        fs.writeFileSync("../../site/mods_formatted.json", JSON.stringify(modSourceData, null, 2));
+        fs.writeFileSync("../../static/mods.json", JSON.stringify(modSourceData));
+        fs.writeFileSync("../../static/mods_formatted.json", JSON.stringify(modSourceData, null, 2));
     }
 }

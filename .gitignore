@@ -1,1 +1,32 @@
-*.psd
+# Dependencies
+node_modules/
+
+# Production
+/build
+
+# Generated files
+.docusaurus
+.cache-loader
+
+# Generated Documentation
+documentation/source-docs/**/*.mdx
+!documentation/source-docs/source-docs/index.mdx
+
+# Misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+jak-project/
+
+/jak1-*.json
+/jak2-*.json
+.pnp*
+.yarn/
+package-lock.json

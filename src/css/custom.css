@@ -1,0 +1,68 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #0079ca;
+  --ifm-color-primary-dark: #005296;
+  --ifm-color-primary-darker: #002958;
+  --ifm-color-primary-darkest: #121c2c;
+  --ifm-color-primary-light: #29d5b0;
+  --ifm-color-primary-lighter: #32d8b4;
+  --ifm-color-primary-lightest: #4fddbf;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+.container {
+  /* margin: 100px; */
+  max-width: 80%;
+}
+
+.container-home {
+  margin: 0 auto;
+  max-width: var(--ifm-container-width);
+  padding: 0 var(--ifm-spacing-horizontal);
+  width: 100%;
+}
+
+/* .col--3 {
+  --ifm-col-width: calc(3 / 12 * 100%);
+} */
+
+/* .col--7 {
+  --ifm-col-width: calc(7 / 12 * 100%);
+} */
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #0079ca;
+  --ifm-color-primary-dark: #005296;
+  --ifm-color-primary-darker: #002958;
+  --ifm-color-primary-darkest: #121c2c;
+  --ifm-color-primary-light: #29d5b0;
+  --ifm-color-primary-lighter: #32d8b4;
+  --ifm-color-primary-lightest: #4fddbf;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+.bugged_parent {
+  text-align: center;
+}
+
+.bugged_child1 {
+  display: inline-block;
+  padding: 1rem 1rem;
+  vertical-align: top;
+  width: 50%;
+}
+
+.bugged_child2 {
+  display: inline-block;
+  padding: 1rem 1rem;
+  vertical-align: top;
+  width: 50%;
+}

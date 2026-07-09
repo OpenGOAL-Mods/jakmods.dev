@@ -52,4 +52,4 @@ jobs:
   deploy:
     name: "Deploy Website"
     needs: update-mod-source
-    uses: ./.github/workflows/deploy-gh-pages.yaml
+    uses: ./.github/workflows/deploy.yml
