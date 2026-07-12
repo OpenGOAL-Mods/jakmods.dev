@@ -2545,7 +2545,7 @@
           "assetDownloadCounts": {
             "windows": 1136,
             "linux": 194,
-            "macos": 30
+            "macos": 31
           }
         },
         {
@@ -3173,8 +3173,8 @@
           },
           "assetDownloadCounts": {
             "windows": 216,
-            "linux": 33,
-            "macos": 0
+            "linux": 34,
+            "macos": 1
           }
         },
         {
@@ -3731,8 +3731,8 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 4802,
-            "linux": 355,
+            "windows": 4804,
+            "linux": 356,
             "macos": 25
           }
         },
@@ -4116,7 +4116,7 @@
           },
           "assetDownloadCounts": {
             "windows": 677,
-            "linux": 42,
+            "linux": 43,
             "macos": 1
           }
         },
@@ -4333,7 +4333,7 @@
           },
           "assetDownloadCounts": {
             "windows": 31,
-            "linux": 4,
+            "linux": 5,
             "macos": 0
           }
         },
@@ -5033,7 +5033,7 @@
           },
           "assetDownloadCounts": {
             "windows": 453,
-            "linux": 90,
+            "linux": 91,
             "macos": 0
           }
         },
@@ -6597,7 +6597,7 @@
           "assetDownloadCounts": {
             "windows": 16,
             "linux": 6,
-            "macos": 3
+            "macos": 4
           }
         },
         {
@@ -9120,7 +9120,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 4020,
+            "windows": 4021,
             "linux": 517,
             "macos": 0
           }
@@ -9315,7 +9315,7 @@
           },
           "assetDownloadCounts": {
             "windows": 542,
-            "linux": 73,
+            "linux": 74,
             "macos": 0
           }
         },
@@ -9720,7 +9720,7 @@
           },
           "assetDownloadCounts": {
             "windows": 1520,
-            "linux": 224,
+            "linux": 225,
             "macos": 52
           }
         },
@@ -10270,5 +10270,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-07-12T07:33:14.039Z"
+  "lastUpdated": "2026-07-12T09:58:48.674Z"
 }
