@@ -39,7 +39,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Speedrun-Practice/releases/download/v0.5.3/macos-intel-v0.5.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 36,
+            "windows": 37,
             "linux": 2,
             "macos": 0
           }
@@ -2993,7 +2993,7 @@
             "macos": "https://github.com/EvelynTSMG/Jak-EveBase/releases/download/v0.1.2/macos-intel-v0.1.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1409,
+            "windows": 1410,
             "linux": 277,
             "macos": 22
           }
@@ -3732,7 +3732,7 @@
           },
           "assetDownloadCounts": {
             "windows": 4815,
-            "linux": 356,
+            "linux": 357,
             "macos": 25
           }
         },
@@ -4115,7 +4115,7 @@
             "macos": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.1.1/macos-intel-v0.1.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 679,
+            "windows": 680,
             "linux": 43,
             "macos": 1
           }
@@ -5032,7 +5032,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 454,
+            "windows": 455,
             "linux": 91,
             "macos": 0
           }
@@ -6219,7 +6219,7 @@
           "assetDownloadCounts": {
             "windows": 39,
             "linux": 6,
-            "macos": 2
+            "macos": 3
           }
         },
         {
@@ -9120,8 +9120,8 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 4030,
-            "linux": 518,
+            "windows": 4031,
+            "linux": 519,
             "macos": 0
           }
         },
@@ -9871,7 +9871,7 @@
           },
           "assetDownloadCounts": {
             "windows": 2826,
-            "linux": 414,
+            "linux": 415,
             "macos": 79
           }
         },
@@ -10270,5 +10270,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-07-12T23:00:51.548Z"
+  "lastUpdated": "2026-07-13T00:06:22.937Z"
 }
