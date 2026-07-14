@@ -1541,7 +1541,7 @@
             "macos": "https://github.com/Hat-Kid/og-j1-board/releases/download/v0.0.6/macos-intel-v0.0.6.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 123,
+            "windows": 124,
             "linux": 17,
             "macos": 1
           }
@@ -3731,8 +3731,8 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 4835,
-            "linux": 361,
+            "windows": 4837,
+            "linux": 362,
             "macos": 25
           }
         },
@@ -5709,7 +5709,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v1.0.1/macos-intel-v1.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 79,
+            "windows": 80,
             "linux": 4,
             "macos": 0
           }
@@ -6727,7 +6727,7 @@
           },
           "assetDownloadCounts": {
             "windows": 1226,
-            "linux": 178,
+            "linux": 179,
             "macos": 18
           }
         },
@@ -10270,5 +10270,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-07-14T10:19:31.487Z"
+  "lastUpdated": "2026-07-14T11:57:47.215Z"
 }
