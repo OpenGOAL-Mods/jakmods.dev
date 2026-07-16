@@ -2543,7 +2543,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Patched/releases/download/v1.1.3/macos-intel-v1.1.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1151,
+            "windows": 1152,
             "linux": 199,
             "macos": 31
           }
@@ -3172,7 +3172,7 @@
             "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.5/macos-intel-v1.0.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 16,
+            "windows": 17,
             "linux": 4,
             "macos": 1
           }
@@ -3617,7 +3617,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Yosemite/releases/download/v0.0.3/macos-intel-v0.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 272,
+            "windows": 274,
             "linux": 20,
             "macos": 4
           }
@@ -5751,7 +5751,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v1.0.1/macos-intel-v1.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 102,
+            "windows": 104,
             "linux": 5,
             "macos": 0
           }
@@ -7340,7 +7340,7 @@
             "macos": "https://github.com/CraiyDev/Better-Dark-Jak/releases/download/v0.0.2/macos-intel-v0.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1792,
+            "windows": 1793,
             "linux": 334,
             "macos": 25
           }
@@ -9163,7 +9163,7 @@
           },
           "assetDownloadCounts": {
             "windows": 4059,
-            "linux": 521,
+            "linux": 522,
             "macos": 0
           }
         },
@@ -9526,8 +9526,8 @@
             "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base/releases/download/v0.0.8-afoniddwr.2/macos-intel-v0.0.8-afoniddwr.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 698,
-            "linux": 95,
+            "windows": 699,
+            "linux": 96,
             "macos": 28
           }
         },
@@ -9762,8 +9762,8 @@
           },
           "assetDownloadCounts": {
             "windows": 1529,
-            "linux": 227,
-            "macos": 53
+            "linux": 228,
+            "macos": 54
           }
         },
         {
@@ -9827,7 +9827,7 @@
           },
           "assetDownloadCounts": {
             "windows": 1124,
-            "linux": 151,
+            "linux": 152,
             "macos": 51
           }
         },
@@ -9913,8 +9913,8 @@
           },
           "assetDownloadCounts": {
             "windows": 2851,
-            "linux": 418,
-            "macos": 82
+            "linux": 419,
+            "macos": 83
           }
         },
         {
@@ -9979,8 +9979,8 @@
           },
           "assetDownloadCounts": {
             "windows": 1561,
-            "linux": 241,
-            "macos": 45
+            "linux": 242,
+            "macos": 46
           }
         },
         {
@@ -10086,7 +10086,7 @@
           },
           "assetDownloadCounts": {
             "windows": 864,
-            "linux": 115,
+            "linux": 116,
             "macos": 32
           }
         },
@@ -10312,5 +10312,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-07-16T18:10:27.809Z"
+  "lastUpdated": "2026-07-16T19:44:04.485Z"
 }
