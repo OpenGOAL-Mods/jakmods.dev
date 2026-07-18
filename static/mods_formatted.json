@@ -39,7 +39,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Speedrun-Practice/releases/download/v0.5.3/macos-intel-v0.5.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 52,
+            "windows": 53,
             "linux": 4,
             "macos": 0
           }
@@ -1541,7 +1541,7 @@
             "macos": "https://github.com/Hat-Kid/og-j1-board/releases/download/v0.0.6/macos-intel-v0.0.6.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 166,
+            "windows": 167,
             "linux": 24,
             "macos": 3
           }
@@ -3172,8 +3172,8 @@
             "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.6/macos-intel-v1.0.6.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 26,
-            "linux": 1,
+            "windows": 28,
+            "linux": 2,
             "macos": 0
           }
         },
@@ -5074,8 +5074,8 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 477,
-            "linux": 101,
+            "windows": 478,
+            "linux": 102,
             "macos": 0
           }
         },
@@ -5500,7 +5500,7 @@
           },
           "assetDownloadCounts": {
             "windows": 641,
-            "linux": 107,
+            "linux": 108,
             "macos": 4
           }
         },
@@ -5986,7 +5986,7 @@
             "macos": "https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus/releases/download/v1.0.2/macos-intel-v1.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 359,
+            "windows": 360,
             "linux": 39,
             "macos": 2
           }
@@ -9183,7 +9183,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 4079,
+            "windows": 4080,
             "linux": 530,
             "macos": 0
           }
@@ -10333,5 +10333,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-07-18T22:26:27.517Z"
+  "lastUpdated": "2026-07-18T23:30:44.202Z"
 }
