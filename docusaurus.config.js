@@ -75,6 +75,10 @@ const config = {
     ],
   ],
 
+  stylesheets: [
+    "https://fonts.googleapis.com/icon?family=Material+Icons"
+  ],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -93,7 +97,8 @@ const config = {
           {to: 'docs/category/mod-lists', label: 'Mod Lists', position: 'left'},
           {to: 'docs/faq', label: 'FAQ', position: 'left'},
           {to: 'docs/legacy', label: 'Legacy Mod Launcher', position: 'left'},
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Blog', position: 'left', className: 'navbar__item__force'},
+          {to: '/docs/about', label: 'About Us', position: 'left', className: 'navbar__item__force'},
           {
             href: 'https://opengoal.dev',
             label: 'OpenGOAL',

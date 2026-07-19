@@ -1,6 +1,7 @@
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
+import InstallDesktopIcon from '@mui/icons-material/InstallDesktop';
 
 // const FeatureList = [
 //   {
@@ -73,7 +74,7 @@ export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
       <div className="container-home">
-        <p><a name="install"></a><h1>Installation</h1></p>
+        <p><a name="install"></a><h1>Installation <InstallDesktopIcon/></h1></p>
           <ol>
             <li>Install the <a href="https://opengoal.dev">OpenGOAL launcher</a></li>
             <li>Click this button to copy our Mod List URL to clipboard: <button onClick={copyUrlToClipboard}>Click to copy!</button></li>

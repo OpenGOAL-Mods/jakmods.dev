@@ -17,6 +17,11 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
+.navbar__item__force {
+  display: block;
+  position: inherit;
+}
+
 .container {
   /* margin: 100px; */
   max-width: 80%;
