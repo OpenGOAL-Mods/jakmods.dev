@@ -1218,7 +1218,7 @@
           },
           "assetDownloadCounts": {
             "windows": 369,
-            "linux": 49,
+            "linux": 50,
             "macos": 16
           }
         },
@@ -1542,7 +1542,7 @@
           },
           "assetDownloadCounts": {
             "windows": 178,
-            "linux": 25,
+            "linux": 26,
             "macos": 3
           }
         },
@@ -3172,7 +3172,7 @@
             "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.6/macos-intel-v1.0.6.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 47,
+            "windows": 48,
             "linux": 2,
             "macos": 0
           }
@@ -3773,7 +3773,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 4925,
+            "windows": 4927,
             "linux": 374,
             "macos": 26
           }
@@ -5819,7 +5819,7 @@
           },
           "assetDownloadCounts": {
             "windows": 133,
-            "linux": 6,
+            "linux": 7,
             "macos": 1
           }
         },
@@ -6032,7 +6032,7 @@
             "macos": "https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus/releases/download/v1.0.2/macos-intel-v1.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 368,
+            "windows": 369,
             "linux": 40,
             "macos": 2
           }
@@ -7564,7 +7564,7 @@
           },
           "assetDownloadCounts": {
             "windows": 571,
-            "linux": 62,
+            "linux": 63,
             "macos": 18
           }
         }
@@ -9980,7 +9980,7 @@
           },
           "assetDownloadCounts": {
             "windows": 2873,
-            "linux": 426,
+            "linux": 427,
             "macos": 84
           }
         },
@@ -10379,5 +10379,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-07-19T19:47:46.688Z"
+  "lastUpdated": "2026-07-19T20:58:46.641Z"
 }
