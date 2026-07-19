@@ -2632,7 +2632,7 @@
             "macos": "https://github.com/Hat-Kid/og-orange-demon/releases/download/v0.0.3/macos-intel-v0.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 257,
+            "windows": 258,
             "linux": 37,
             "macos": 14
           }
@@ -3062,7 +3062,7 @@
             "macos": "https://github.com/this-guy-git/JGChaos/releases/download/v0.3.0/macos-intel-v0.3.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 39,
+            "windows": 40,
             "linux": 9,
             "macos": 4
           }
@@ -5500,27 +5500,6 @@
           "assetDownloadCounts": {
             "windows": 0,
             "linux": 0,
-            "macos": 0
-          }
-        },
-        {
-          "version": "1.0.1",
-          "publishedDate": "2026-07-19T15:47:52Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/trippjoe/OG-No-Blue-No-Collect/releases/download/v1.0.1/windows-v1.0.1.zip",
-            "linux": "https://github.com/trippjoe/OG-No-Blue-No-Collect/releases/download/v1.0.1/linux-v1.0.1.tar.gz",
-            "macos": "https://github.com/trippjoe/OG-No-Blue-No-Collect/releases/download/v1.0.1/macos-intel-v1.0.1.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 0,
-            "linux": 0,
             "macos": 1
           }
         }
@@ -5529,7 +5508,7 @@
       "thumbnailArtUrl": "https://raw.githubusercontent.com/trippjoe/OG-No-Blue-No-Collect/refs/heads/main/thumbnail.webp",
       "perGameConfig": {
         "jak1": {
-          "releaseDate": "2026-07-19T15:47:52Z"
+          "releaseDate": "2026-07-19T16:55:52Z"
         }
       },
       "externalLink": null
@@ -9250,7 +9229,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 4084,
+            "windows": 4086,
             "linux": 531,
             "macos": 0
           }
@@ -10000,7 +9979,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2870,
+            "windows": 2872,
             "linux": 426,
             "macos": 84
           }
@@ -10400,5 +10379,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-07-19T17:05:23.882Z"
+  "lastUpdated": "2026-07-19T18:31:13.809Z"
 }
