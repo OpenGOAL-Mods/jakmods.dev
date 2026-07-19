@@ -455,15 +455,26 @@ mods:
   sm64-1:
     repo_owner: "OpenGOAL-Mods"
     repo_name: "Super-Mario-Legacy"
-    url: "https://github.com/OpenGOAL-Mods/Super-Mario-Legacy/actions/runs/24374554225"
+    url: "https://github.com/OpenGOAL-Mods/Super-Mario-Legacy"
     display_name: "Super Mario Legacy"
-    #description: "Update coming Sunday night to fix most issues.Cant kill plant boss lava tube always burns you fish is broken and rats game is broken"
     description: "It's-a me! Mario swaps in for Jak across the whole game, bringing his full SM64 moveset, music, and voice lines with him. Powered by libsm64."
     authors: ["zed", "MikeGamePro"]
     tags: ["challenge", "gameplay-mod"]
     # website_url: "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/blob/main/README.md"
     cover_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/Super-Mario-Legacy/refs/heads/main/sm64-background.png"
     thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/Super-Mario-Legacy/refs/heads/main/sm64-thumb.png"
+
+  no-blue:
+    repo_owner: "trippjoe"
+    repo_name: "OG-No-Blue-No-Collect"
+    url: "https://github.com/trippjoe/OG-No-Blue-No-Collect"
+    display_name: "No Blue, No Collect"
+    description: "Power Cells, Scout Flies, and Precursor Orbs can only be collected while Blue Eco is active"
+    authors: ["tripp"]
+    tags: ["challenge", "gameplay-mod", "speedrunning"]
+    # website_url: "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/blob/main/README.md"
+    cover_art_url: "https://raw.githubusercontent.com/trippjoe/OG-No-Blue-No-Collect/refs/heads/main/thumbnail.webp"
+    thumbnail_art_url: "https://raw.githubusercontent.com/trippjoe/OG-No-Blue-No-Collect/refs/heads/main/thumbnail.webp"
 
   daxter-2:
     repo_owner: "OpenGOAL-Mods"
