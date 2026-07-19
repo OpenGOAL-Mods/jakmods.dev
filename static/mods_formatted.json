@@ -3773,7 +3773,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 4912,
+            "windows": 4913,
             "linux": 373,
             "macos": 26
           }
@@ -3794,7 +3794,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.7/macos-intel-v0.5.7.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 461,
+            "windows": 462,
             "linux": 22,
             "macos": 13
           }
@@ -6789,7 +6789,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.54/macos-intel-v0.0.54.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1246,
+            "windows": 1247,
             "linux": 180,
             "macos": 18
           }
@@ -7361,7 +7361,7 @@
             "macos": "https://github.com/CraiyDev/Better-Dark-Jak/releases/download/v0.0.2/macos-intel-v0.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1805,
+            "windows": 1806,
             "linux": 334,
             "macos": 25
           }
@@ -9547,7 +9547,7 @@
             "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base/releases/download/v0.0.8-afoniddwr.2/macos-intel-v0.0.8-afoniddwr.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 704,
+            "windows": 705,
             "linux": 97,
             "macos": 28
           }
@@ -10333,5 +10333,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-07-19T10:58:07.921Z"
+  "lastUpdated": "2026-07-19T12:05:24.750Z"
 }
