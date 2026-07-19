@@ -3773,7 +3773,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 4921,
+            "windows": 4922,
             "linux": 374,
             "macos": 26
           }
@@ -5463,6 +5463,52 @@
       "perGameConfig": {
         "jak1": {
           "releaseDate": "2026-04-14T02:42:14Z"
+        }
+      },
+      "externalLink": null
+    },
+    "no-blue": {
+      "displayName": "No Blue, No Collect",
+      "description": "Power Cells, Scout Flies, and Precursor Orbs can only be collected while Blue Eco is active",
+      "authors": [
+        "tripp"
+      ],
+      "tags": [
+        "challenge",
+        "gameplay-mod",
+        "speedrunning"
+      ],
+      "supportedGames": [
+        "jak1"
+      ],
+      "versions": [
+        {
+          "version": "1.0.1",
+          "publishedDate": "2026-07-19T15:47:52Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/trippjoe/OG-No-Blue-No-Collect/releases/download/v1.0.1/windows-v1.0.1.zip",
+            "linux": "https://github.com/trippjoe/OG-No-Blue-No-Collect/releases/download/v1.0.1/linux-v1.0.1.tar.gz",
+            "macos": "https://github.com/trippjoe/OG-No-Blue-No-Collect/releases/download/v1.0.1/macos-intel-v1.0.1.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        }
+      ],
+      "coverArtUrl": "https://raw.githubusercontent.com/trippjoe/OG-No-Blue-No-Collect/refs/heads/main/thumbnail.webp",
+      "thumbnailArtUrl": "https://raw.githubusercontent.com/trippjoe/OG-No-Blue-No-Collect/refs/heads/main/thumbnail.webp",
+      "perGameConfig": {
+        "jak1": {
+          "releaseDate": "2026-07-19T15:47:52Z"
         }
       },
       "externalLink": null
@@ -10333,5 +10379,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-07-19T15:32:56.904Z"
+  "lastUpdated": "2026-07-19T15:51:41.632Z"
 }
