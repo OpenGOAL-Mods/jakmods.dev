@@ -41,7 +41,7 @@
           "assetDownloadCounts": {
             "windows": 57,
             "linux": 4,
-            "macos": 0
+            "macos": 1
           }
         },
         {
@@ -2545,7 +2545,7 @@
           "assetDownloadCounts": {
             "windows": 1162,
             "linux": 200,
-            "macos": 31
+            "macos": 32
           }
         },
         {
@@ -3172,9 +3172,9 @@
             "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.6/macos-intel-v1.0.6.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 54,
+            "windows": 56,
             "linux": 5,
-            "macos": 0
+            "macos": 1
           }
         },
         {
@@ -3298,7 +3298,7 @@
             "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.0/macos-intel-v1.0.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 169,
+            "windows": 170,
             "linux": 22,
             "macos": 1
           }
@@ -3638,7 +3638,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Yosemite/releases/download/v0.0.3/macos-intel-v0.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 277,
+            "windows": 278,
             "linux": 20,
             "macos": 4
           }
@@ -3775,7 +3775,7 @@
           "assetDownloadCounts": {
             "windows": 4940,
             "linux": 381,
-            "macos": 26
+            "macos": 27
           }
         },
         {
@@ -4505,7 +4505,7 @@
           "assetDownloadCounts": {
             "windows": 719,
             "linux": 87,
-            "macos": 22
+            "macos": 23
           }
         },
         {
@@ -5483,6 +5483,27 @@
       ],
       "versions": [
         {
+          "version": "1.1.0",
+          "publishedDate": "2026-07-20T19:38:28Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/trippjoe/OG-No-Blue-No-Collect/releases/download/v1.1.0/windows-v1.1.0.zip",
+            "linux": "https://github.com/trippjoe/OG-No-Blue-No-Collect/releases/download/v1.1.0/linux-v1.1.0.tar.gz",
+            "macos": "https://github.com/trippjoe/OG-No-Blue-No-Collect/releases/download/v1.1.0/macos-intel-v1.1.0.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
           "version": "1.0.2",
           "publishedDate": "2026-07-19T16:55:52Z",
           "supportedGames": [
@@ -6032,7 +6053,7 @@
             "macos": "https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus/releases/download/v1.0.2/macos-intel-v1.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 378,
+            "windows": 379,
             "linux": 40,
             "macos": 2
           }
@@ -7609,9 +7630,9 @@
             "macos": "https://github.com/gratefulforest/Cratetopia/releases/download/v2.0.1/macos-intel-v2.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 215,
+            "windows": 216,
             "linux": 26,
-            "macos": 6
+            "macos": 7
           }
         },
         {
@@ -7791,7 +7812,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.1.13/macos-intel-v0.1.13.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 75,
+            "windows": 77,
             "linux": 10,
             "macos": 6
           }
@@ -9595,7 +9616,7 @@
           "assetDownloadCounts": {
             "windows": 705,
             "linux": 97,
-            "macos": 28
+            "macos": 29
           }
         },
         {
@@ -9830,7 +9851,7 @@
           "assetDownloadCounts": {
             "windows": 1535,
             "linux": 233,
-            "macos": 54
+            "macos": 55
           }
         },
         {
@@ -9894,8 +9915,8 @@
           },
           "assetDownloadCounts": {
             "windows": 1130,
-            "linux": 154,
-            "macos": 52
+            "linux": 155,
+            "macos": 53
           }
         },
         {
@@ -10047,7 +10068,7 @@
           "assetDownloadCounts": {
             "windows": 1577,
             "linux": 247,
-            "macos": 47
+            "macos": 48
           }
         },
         {
@@ -10379,5 +10400,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-07-20T18:11:00.240Z"
+  "lastUpdated": "2026-07-20T19:42:15.996Z"
 }
