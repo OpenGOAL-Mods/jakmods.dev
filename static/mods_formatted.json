@@ -5685,7 +5685,7 @@
             "macos": "https://github.com/myogmods/Jak-the-Mercenary/releases/download/v0.0.5/macos-intel-v0.0.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 13,
+            "windows": 14,
             "linux": 0,
             "macos": 0
           }
@@ -6454,7 +6454,7 @@
           "assetDownloadCounts": {
             "windows": 199,
             "linux": 20,
-            "macos": 3
+            "macos": 4
           }
         },
         {
@@ -7407,7 +7407,7 @@
             "macos": "https://github.com/CraiyDev/Better-Dark-Jak/releases/download/v0.0.2/macos-intel-v0.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1806,
+            "windows": 1807,
             "linux": 334,
             "macos": 25
           }
@@ -10301,7 +10301,7 @@
             "macos": "https://github.com/Clankape/OG-Mod-Base-Halloween/releases/download/v0.0.4/macos-intel-v0.0.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 661,
+            "windows": 662,
             "linux": 51,
             "macos": 23
           }
@@ -10379,5 +10379,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-07-20T08:26:28.882Z"
+  "lastUpdated": "2026-07-20T11:25:09.985Z"
 }
