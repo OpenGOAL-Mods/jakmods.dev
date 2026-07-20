@@ -3638,7 +3638,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Yosemite/releases/download/v0.0.3/macos-intel-v0.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 278,
+            "windows": 281,
             "linux": 20,
             "macos": 4
           }
@@ -3726,7 +3726,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 1422,
+            "windows": 1423,
             "linux": 0,
             "macos": 0
           }
@@ -3773,7 +3773,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 4940,
+            "windows": 4942,
             "linux": 381,
             "macos": 27
           }
@@ -5498,9 +5498,9 @@
             "macos": "https://github.com/trippjoe/OG-No-Blue-No-Collect/releases/download/v1.1.0/macos-intel-v1.1.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 0,
+            "windows": 2,
             "linux": 0,
-            "macos": 0
+            "macos": 1
           }
         },
         {
@@ -7584,7 +7584,7 @@
             "macos": "https://github.com/gratefulforest/Platformia/releases/download/v0.0.1/macos-intel-v0.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 571,
+            "windows": 572,
             "linux": 63,
             "macos": 18
           }
@@ -9614,7 +9614,7 @@
             "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base/releases/download/v0.0.8-afoniddwr.2/macos-intel-v0.0.8-afoniddwr.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 705,
+            "windows": 706,
             "linux": 97,
             "macos": 29
           }
@@ -10400,5 +10400,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-07-20T19:42:15.996Z"
+  "lastUpdated": "2026-07-20T20:08:46.838Z"
 }
