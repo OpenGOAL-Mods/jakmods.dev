@@ -2543,7 +2543,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Patched/releases/download/v1.1.3/macos-intel-v1.1.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1174,
+            "windows": 1175,
             "linux": 203,
             "macos": 32
           }
@@ -5074,7 +5074,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 501,
+            "windows": 502,
             "linux": 106,
             "macos": 0
           }
@@ -5902,7 +5902,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v1.0.1/macos-intel-v1.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 158,
+            "windows": 159,
             "linux": 9,
             "macos": 1
           }
@@ -6116,7 +6116,7 @@
             "macos": "https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus/releases/download/v1.0.2/macos-intel-v1.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 403,
+            "windows": 404,
             "linux": 48,
             "macos": 3
           }
@@ -6601,7 +6601,7 @@
           "assetDownloadCounts": {
             "windows": 112,
             "linux": 19,
-            "macos": 3
+            "macos": 4
           }
         },
         {
@@ -9314,7 +9314,7 @@
           },
           "assetDownloadCounts": {
             "windows": 4112,
-            "linux": 542,
+            "linux": 543,
             "macos": 0
           }
         },
@@ -10063,7 +10063,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2905,
+            "windows": 2906,
             "linux": 436,
             "macos": 85
           }
@@ -10129,7 +10129,7 @@
             "macos": "https://github.com/Cuttlefishthesage/ErodedCoast/releases/download/v5.0.3/macos-intel-v5.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1594,
+            "windows": 1596,
             "linux": 251,
             "macos": 48
           }
@@ -10463,5 +10463,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-07-24T07:36:29.017Z"
+  "lastUpdated": "2026-07-24T10:25:29.145Z"
 }
