@@ -40,7 +40,7 @@
           },
           "assetDownloadCounts": {
             "windows": 68,
-            "linux": 4,
+            "linux": 5,
             "macos": 1
           }
         },
@@ -742,7 +742,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Randomizer/releases/download/v0.6.4/macos-intel-v0.6.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 540,
+            "windows": 541,
             "linux": 66,
             "macos": 31
           }
@@ -3773,7 +3773,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 5002,
+            "windows": 5003,
             "linux": 388,
             "macos": 28
           }
@@ -10063,7 +10063,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2912,
+            "windows": 2913,
             "linux": 439,
             "macos": 85
           }
@@ -10463,5 +10463,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-07-25T08:33:04.488Z"
+  "lastUpdated": "2026-07-25T10:38:42.313Z"
 }
