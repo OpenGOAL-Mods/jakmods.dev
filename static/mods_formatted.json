@@ -3775,7 +3775,7 @@
           "assetDownloadCounts": {
             "windows": 5002,
             "linux": 388,
-            "macos": 27
+            "macos": 28
           }
         },
         {
@@ -5630,7 +5630,7 @@
           },
           "assetDownloadCounts": {
             "windows": 669,
-            "linux": 110,
+            "linux": 111,
             "macos": 4
           }
         },
@@ -7491,7 +7491,7 @@
             "macos": "https://github.com/CraiyDev/Better-Dark-Jak/releases/download/v0.0.2/macos-intel-v0.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1828,
+            "windows": 1829,
             "linux": 337,
             "macos": 25
           }
@@ -8608,7 +8608,7 @@
           },
           "assetDownloadCounts": {
             "windows": 842,
-            "linux": 91,
+            "linux": 92,
             "macos": 25
           }
         }
@@ -9313,7 +9313,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 4116,
+            "windows": 4117,
             "linux": 544,
             "macos": 0
           }
@@ -9507,7 +9507,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 567,
+            "windows": 568,
             "linux": 78,
             "macos": 0
           }
@@ -9977,7 +9977,7 @@
             "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base-Glacier/releases/download/v1.0.9/macos-intel-v1.0.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1141,
+            "windows": 1142,
             "linux": 159,
             "macos": 54
           }
@@ -10064,7 +10064,7 @@
           },
           "assetDownloadCounts": {
             "windows": 2912,
-            "linux": 438,
+            "linux": 439,
             "macos": 85
           }
         },
@@ -10463,5 +10463,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-07-25T06:24:25.371Z"
+  "lastUpdated": "2026-07-25T08:33:04.488Z"
 }
