@@ -724,6 +724,17 @@ mods:
     cover_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-SC/refs/heads/main/jadsc-bg.png"
     thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-SC/refs/heads/main/jadsc-thumb.png"
 
+  complicated:
+    repo_owner: "MikeGamePro"
+    repo_name: "OG-Complicated"
+    url: "https://github.com/MikeGamePro/OG-Complicated"
+    display_name: "A Complicated Mod"
+    description: "A complicated mod with rules."
+    authors: ["MikeGamePro"]
+    tags: ["gameplay-mod", "challenge", "speedrunning", "rng"]
+    cover_art_url: "https://github.com/MikeGamePro/OG-Complicated/blob/main/cover.jpg?raw=true"
+    thumbnail_art_url: "https://github.com/MikeGamePro/OG-Complicated/blob/main/cover.jpg?raw=true"
+
   #### CUSTOM LEVEL MODS ####
 
   forgotten-lands:
