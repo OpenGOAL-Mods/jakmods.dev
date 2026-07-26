@@ -3172,7 +3172,7 @@
             "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.6/macos-intel-v1.0.6.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 98,
+            "windows": 99,
             "linux": 11,
             "macos": 1
           }
@@ -6919,7 +6919,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.54/macos-intel-v0.0.54.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1265,
+            "windows": 1266,
             "linux": 182,
             "macos": 18
           }
@@ -9319,8 +9319,8 @@
           }
         }
       ],
-      "coverArtUrl": "https://github.com/MikeGamePro/OG-Complicated/blob/main/cover.jpg?raw=true",
-      "thumbnailArtUrl": "https://github.com/MikeGamePro/OG-Complicated/blob/main/cover.jpg?raw=true",
+      "coverArtUrl": "https://github.com/MikeGamePro/OG-Complicated/blob/main/cover.png?raw=true",
+      "thumbnailArtUrl": "https://github.com/MikeGamePro/OG-Complicated/blob/main/thumbnail.png?raw=true",
       "perGameConfig": {
         "jak1": {
           "releaseDate": "2026-07-20T21:32:22Z"
@@ -10110,7 +10110,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2914,
+            "windows": 2915,
             "linux": 440,
             "macos": 85
           }
@@ -10176,7 +10176,7 @@
             "macos": "https://github.com/Cuttlefishthesage/ErodedCoast/releases/download/v5.0.3/macos-intel-v5.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1598,
+            "windows": 1600,
             "linux": 252,
             "macos": 48
           }
@@ -10510,5 +10510,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-07-26T03:27:24.860Z"
+  "lastUpdated": "2026-07-26T04:12:05.157Z"
 }
