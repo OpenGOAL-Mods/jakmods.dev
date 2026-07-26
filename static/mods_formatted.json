@@ -39,7 +39,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Speedrun-Practice/releases/download/v0.5.3/macos-intel-v0.5.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 72,
+            "windows": 73,
             "linux": 6,
             "macos": 1
           }
@@ -3172,7 +3172,7 @@
             "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.6/macos-intel-v1.0.6.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 99,
+            "windows": 100,
             "linux": 11,
             "macos": 1
           }
@@ -3773,8 +3773,8 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 5014,
-            "linux": 391,
+            "windows": 5015,
+            "linux": 392,
             "macos": 28
           }
         },
@@ -4157,7 +4157,7 @@
             "macos": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.1.1/macos-intel-v0.1.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 723,
+            "windows": 724,
             "linux": 50,
             "macos": 2
           }
@@ -6919,7 +6919,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.54/macos-intel-v0.0.54.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1266,
+            "windows": 1268,
             "linux": 182,
             "macos": 18
           }
@@ -7875,7 +7875,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.1.13/macos-intel-v0.1.13.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 83,
+            "windows": 85,
             "linux": 10,
             "macos": 6
           }
@@ -9288,15 +9288,57 @@
         "MikeGamePro"
       ],
       "tags": [
-        "gameplay-mod",
         "challenge",
         "speedrunning",
-        "rng"
+        "rng",
+        "gameplay-mod"
       ],
       "supportedGames": [
         "jak1"
       ],
       "versions": [
+        {
+          "version": "0.0.4",
+          "publishedDate": "2026-07-26T06:48:50Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.4/windows-v0.0.4.zip",
+            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.4/linux-v0.0.4.tar.gz",
+            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.4/macos-intel-v0.0.4.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
+          "version": "0.0.3",
+          "publishedDate": "2026-07-26T06:36:35Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.3/windows-v0.0.3.zip",
+            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.3/linux-v0.0.3.tar.gz",
+            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.3/macos-intel-v0.0.3.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
         {
           "version": "0.0.2",
           "publishedDate": "2026-07-26T05:15:19Z",
@@ -9313,7 +9355,7 @@
             "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.2/macos-intel-v0.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1,
+            "windows": 4,
             "linux": 1,
             "macos": 1
           }
@@ -10531,5 +10573,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-07-26T06:23:21.240Z"
+  "lastUpdated": "2026-07-26T08:59:06.723Z"
 }
