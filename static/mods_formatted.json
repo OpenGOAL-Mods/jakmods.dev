@@ -3774,7 +3774,7 @@
           },
           "assetDownloadCounts": {
             "windows": 5014,
-            "linux": 390,
+            "linux": 391,
             "macos": 28
           }
         },
@@ -5075,7 +5075,7 @@
           },
           "assetDownloadCounts": {
             "windows": 512,
-            "linux": 107,
+            "linux": 108,
             "macos": 0
           }
         },
@@ -9283,7 +9283,7 @@
     },
     "complicated": {
       "displayName": "A Complicated Mod",
-      "description": "A complicated mod with rules.",
+      "description": "A complicated mod with rules. Make sure to play in speedrunner mode.",
       "authors": [
         "MikeGamePro"
       ],
@@ -9297,6 +9297,27 @@
         "jak1"
       ],
       "versions": [
+        {
+          "version": "0.0.2",
+          "publishedDate": "2026-07-26T05:15:19Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.2/windows-v0.0.2.zip",
+            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.2/linux-v0.0.2.tar.gz",
+            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.2/macos-intel-v0.0.2.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 1,
+            "linux": 1,
+            "macos": 1
+          }
+        },
         {
           "version": "0.0.1",
           "publishedDate": "2026-07-20T21:32:22Z",
@@ -10176,7 +10197,7 @@
             "macos": "https://github.com/Cuttlefishthesage/ErodedCoast/releases/download/v5.0.3/macos-intel-v5.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1600,
+            "windows": 1601,
             "linux": 252,
             "macos": 48
           }
@@ -10510,5 +10531,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-07-26T05:12:23.842Z"
+  "lastUpdated": "2026-07-26T06:05:47.195Z"
 }
