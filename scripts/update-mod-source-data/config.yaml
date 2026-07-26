@@ -732,8 +732,8 @@ mods:
     description: "A complicated mod with rules."
     authors: ["MikeGamePro"]
     tags: ["gameplay-mod", "challenge", "speedrunning", "rng"]
-    cover_art_url: "https://github.com/MikeGamePro/OG-Complicated/blob/main/cover.jpg?raw=true"
-    thumbnail_art_url: "https://github.com/MikeGamePro/OG-Complicated/blob/main/cover.jpg?raw=true"
+    cover_art_url: "https://github.com/MikeGamePro/OG-Complicated/blob/main/cover.png?raw=true"
+    thumbnail_art_url: "https://github.com/MikeGamePro/OG-Complicated/blob/main/thumbnail.png?raw=true"
 
   #### CUSTOM LEVEL MODS ####
 
