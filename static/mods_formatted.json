@@ -3639,7 +3639,7 @@
           },
           "assetDownloadCounts": {
             "windows": 294,
-            "linux": 20,
+            "linux": 22,
             "macos": 4
           }
         },
@@ -3773,7 +3773,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 5032,
+            "windows": 5034,
             "linux": 394,
             "macos": 28
           }
@@ -4524,7 +4524,7 @@
             "macos": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.9/macos-intel-v2.1.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 729,
+            "windows": 730,
             "linux": 89,
             "macos": 23
           }
@@ -5923,7 +5923,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v1.0.1/macos-intel-v1.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 177,
+            "windows": 179,
             "linux": 13,
             "macos": 1
           }
@@ -6137,7 +6137,7 @@
             "macos": "https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus/releases/download/v1.0.2/macos-intel-v1.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 436,
+            "windows": 440,
             "linux": 53,
             "macos": 3
           }
@@ -6940,7 +6940,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.54/macos-intel-v0.0.54.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1271,
+            "windows": 1272,
             "linux": 182,
             "macos": 18
           }
@@ -9304,7 +9304,7 @@
     },
     "complicated": {
       "displayName": "A Complicated Mod",
-      "description": "A complicated mod with rules. Make sure to play in speedrunner mode.",
+      "description": "Race against a timer to complete the game with a random set of rules and complications. Each run is different!",
       "authors": [
         "MikeGamePro"
       ],
@@ -9318,6 +9318,48 @@
         "jak1"
       ],
       "versions": [
+        {
+          "version": "0.0.9",
+          "publishedDate": "2026-07-27T06:45:58Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.9/windows-v0.0.9.zip",
+            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.9/linux-v0.0.9.tar.gz",
+            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.9/macos-intel-v0.0.9.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
+          "version": "0.0.8",
+          "publishedDate": "2026-07-27T06:23:01Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.8/windows-v0.0.8.zip",
+            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.8/linux-v0.0.8.tar.gz",
+            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.8/macos-intel-v0.0.8.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
         {
           "version": "0.0.7",
           "publishedDate": "2026-07-27T03:15:15Z",
@@ -9334,7 +9376,7 @@
             "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.7/macos-intel-v0.0.7.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 0,
+            "windows": 3,
             "linux": 0,
             "macos": 0
           }
@@ -9355,7 +9397,7 @@
             "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.6/macos-intel-v0.0.6.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 0,
+            "windows": 1,
             "linux": 0,
             "macos": 0
           }
@@ -9507,8 +9549,8 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 4130,
-            "linux": 546,
+            "windows": 4131,
+            "linux": 547,
             "macos": 0
           }
         },
@@ -9872,7 +9914,7 @@
           },
           "assetDownloadCounts": {
             "windows": 714,
-            "linux": 100,
+            "linux": 101,
             "macos": 29
           }
         },
@@ -10107,7 +10149,7 @@
           },
           "assetDownloadCounts": {
             "windows": 1550,
-            "linux": 236,
+            "linux": 237,
             "macos": 56
           }
         },
@@ -10172,7 +10214,7 @@
           },
           "assetDownloadCounts": {
             "windows": 1146,
-            "linux": 159,
+            "linux": 160,
             "macos": 54
           }
         },
@@ -10257,8 +10299,8 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2922,
-            "linux": 442,
+            "windows": 2923,
+            "linux": 443,
             "macos": 85
           }
         },
@@ -10324,7 +10366,7 @@
           },
           "assetDownloadCounts": {
             "windows": 1606,
-            "linux": 252,
+            "linux": 253,
             "macos": 48
           }
         },
@@ -10431,7 +10473,7 @@
           },
           "assetDownloadCounts": {
             "windows": 879,
-            "linux": 121,
+            "linux": 122,
             "macos": 32
           }
         },
@@ -10657,5 +10699,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-07-27T04:24:27.979Z"
+  "lastUpdated": "2026-07-27T08:04:16.947Z"
 }
