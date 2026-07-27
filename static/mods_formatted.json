@@ -9334,7 +9334,7 @@
             "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.9/macos-intel-v0.0.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2,
+            "windows": 3,
             "linux": 0,
             "macos": 0
           }
@@ -9513,6 +9513,51 @@
       "perGameConfig": {
         "jak1": {
           "releaseDate": "2026-07-20T21:32:22Z"
+        }
+      },
+      "externalLink": null
+    },
+    "lifedrain": {
+      "displayName": "Lifedrain",
+      "description": "Jak has become addicted to green eco. You cannot help him. But you can still play through the usual adventure!",
+      "authors": [
+        "EvelynTSMG"
+      ],
+      "tags": [
+        "challenge",
+        "gameplay-mod"
+      ],
+      "supportedGames": [
+        "jak1"
+      ],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "publishedDate": "2026-07-27T09:27:29Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/EvelynTSMG/Jak1-LifeDrain/releases/download/v1.0.0/windows-v1.0.0.zip",
+            "linux": "https://github.com/EvelynTSMG/Jak1-LifeDrain/releases/download/v1.0.0/linux-v1.0.0.tar.gz",
+            "macos": "https://github.com/EvelynTSMG/Jak1-LifeDrain/releases/download/v1.0.0/macos-intel-v1.0.0.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        }
+      ],
+      "coverArtUrl": "https://raw.githubusercontent.com/EvelynTSMG/Jak1-LifeDrain/refs/heads/main/banner.png",
+      "thumbnailArtUrl": "https://raw.githubusercontent.com/EvelynTSMG/Jak1-LifeDrain/refs/heads/main/thumb.png",
+      "perGameConfig": {
+        "jak1": {
+          "releaseDate": "2026-07-27T09:27:29Z"
         }
       },
       "externalLink": null
@@ -10699,5 +10744,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-07-27T17:04:05.989Z"
+  "lastUpdated": "2026-07-27T17:13:06.669Z"
 }
