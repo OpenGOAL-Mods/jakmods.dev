@@ -735,6 +735,17 @@ mods:
     cover_art_url: "https://raw.githubusercontent.com/MikeGamePro/OG-Complicated/refs/heads/main/cover.png"
     thumbnail_art_url: "https://raw.githubusercontent.com/MikeGamePro/OG-Complicated/refs/heads/main/thumbnail.png"
 
+  lifedrain:
+    repo_owner: "EvelynTSMG"
+    repo_name: "Jak1-LifeDrain"
+    url: "https://github.com/EvelynTSMG/Jak1-LifeDrain"
+    display_name: "Lifedrain"
+    description: "Jak has become addicted to green eco. You cannot help him. But you can still play through the usual adventure!"
+    authors: ["EvelynTSMG"]
+    tags: ["challenge", "gameplay-mod"]
+    cover_art_url: "https://raw.githubusercontent.com/EvelynTSMG/Jak1-LifeDrain/refs/heads/main/banner.png"
+    thumbnail_art_url: "https://raw.githubusercontent.com/EvelynTSMG/Jak1-LifeDrain/refs/heads/main/thumb.png"
+
   #### CUSTOM LEVEL MODS ####
 
   forgotten-lands:
