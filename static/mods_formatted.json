@@ -39,7 +39,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Speedrun-Practice/releases/download/v0.5.3/macos-intel-v0.5.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 73,
+            "windows": 75,
             "linux": 6,
             "macos": 1
           }
@@ -1541,7 +1541,7 @@
             "macos": "https://github.com/Hat-Kid/og-j1-board/releases/download/v0.0.6/macos-intel-v0.0.6.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 233,
+            "windows": 234,
             "linux": 31,
             "macos": 3
           }
@@ -3172,7 +3172,7 @@
             "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.6/macos-intel-v1.0.6.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 108,
+            "windows": 109,
             "linux": 14,
             "macos": 1
           }
@@ -4374,7 +4374,7 @@
             "macos": "https://github.com/Blake645/ArchipelaGOAL-3/releases/download/v0.2.0-jak3.5/macos-intel-v0.2.0-jak3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2,
+            "windows": 3,
             "linux": 0,
             "macos": 0
           }
@@ -5095,7 +5095,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 512,
+            "windows": 513,
             "linux": 109,
             "macos": 0
           }
@@ -7896,7 +7896,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.1.13/macos-intel-v0.1.13.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 86,
+            "windows": 91,
             "linux": 11,
             "macos": 6
           }
@@ -9334,7 +9334,7 @@
             "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.9/macos-intel-v0.0.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 6,
+            "windows": 8,
             "linux": 0,
             "macos": 0
           }
@@ -9547,7 +9547,7 @@
             "macos": "https://github.com/EvelynTSMG/Jak1-LifeDrain/releases/download/v1.0.0/macos-intel-v1.0.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2,
+            "windows": 3,
             "linux": 0,
             "macos": 0
           }
@@ -10744,5 +10744,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-07-27T20:39:26.288Z"
+  "lastUpdated": "2026-07-27T22:12:51.910Z"
 }
