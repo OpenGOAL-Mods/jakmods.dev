@@ -1,0 +1,130 @@
+---
+slug: 2026-05-19-invuln-timeout-bug
+title: same-attack-invulnerable-timeout clock drift bug
+authors: [barg]
+tags: []
+---
+
+In the 2025 Jak 3 No Out of Bounds speedrun route, players would need to perform a glitch to get invulnerability by getting their health down to 1 hit left, and then spin kicking and shooting on the exact same frame as they touch a source of damage, like a torch. This particular setup "confuses the game" and leaves Jak alive but with certain flags set that grant him invulnerability.
+
+To get Jak's health down to 1 hit, players would often stand on the torch and take several hits. But they started to notice something weird - the cooldown time in between taking damage from the torch would sometimes be longer than the normal 2 seconds. After encountering the issue several times, theUsual figured out a particular sequence of actions in the speedrun route that would cause the cooldown time to increase (the Temple climb and 2 restart missions to break into Temple), though it wasn't clear exactly what was happening.
+
+Eventally I realized this was something I had also seen happen to Blahpy in Jak 2, on the hot plates in the Palace Cables level. But I still wasn't sure what exactly triggered the bug in either game.
+
+{/* truncate */}
+
+<ReactPlayer
+  controls
+  src={"https://www.youtube.com/watch?v=WD2MLj8ccfg"}
+  width="640px"
+  height="360px"
+/>
+
+
+### Investigation
+
+First I wanted to understand how the 2 second cooldown between Jak taking damage works. After some poking around I realized that pretty much all attacks to Jak go through `target-attacked`, which for many cases makes a call to `target-log-attack`, where I noticed a suspiciously named value: `(-> *TARGET-bank* same-attack-invulnerable-timeout)`.
+
+```opengoal
+(defbehavior target-log-attack target ((arg0 attack-info) (arg1 symbol)) 
+  ...
+  (let ((a3-0 (the-as object (-> self attack-info-old)))) 
+    (dotimes (a2-2 8) 
+      (let ((v1-9 (-> self attack-info-old a2-2))) 
+        (when (= (-> arg0 id) (-> v1-9 id)) 
+          (if (not (time-elapsed? (-> v1-9 attack-time) (-> *TARGET-bank* same-attack-invulnerable-timeout))) 
+              (return #f) 
+              ) 
+```
+
+Let's break this down - `target` (Jak) has an `attack-info-old` array of length 8, which we loop through and check if the old attack has the same `id` as the new attack we're processing. If there's a match, then we check if a certain amount of time `same-attack-invulnerable-timeout` has passed since the old attack's `attack-time` - if not, we're still in the cooldown window, so we return `#f` and the attack does nothing to Jak.
+
+The `same-attack-invulnerable-timeout` is never changed anywhere in the code, it's always `(seconds 2)`, so how could we end up getting longer cooldown windows? I started with my favorite brute force approach when I'm confused about the code / state of the game - printing a bunch of info to the console to verify my assumptions and hopefully find a lead.
+
+Right before the line in question, I printed the value of `(-> v1-9 attack-time)`, as well as `(current-time)` which is what the `time-elapsed?` macro compares against. I should mention that these fields are `time-frame`s, which are really just integers counting the number of ticks (300 ticks / second) since some starting time, so they get printed as integers.
+
+Under normal circumstances while standing on a torch, it would print `time-frame` values within 600 ticks of each other, which makes sense:
+
+```
+~~~~> 327745 (-> v1-9 attack-time) vs 327750 (current-time)
+~~~~> 327745 (-> v1-9 attack-time) vs 327755 (current-time)
+~~~~> 327745 (-> v1-9 attack-time) vs 327760 (current-time)
+```
+
+But after following the setup that theUsual pointed out, we would see something very strange - the `attack-time` was in the future, relative to `(current-time)`:
+
+```
+~~~~> 328750 (-> v1-9 attack-time) VS 328527 (current-time)
+~~~~> 328750 (-> v1-9 attack-time) VS 328532 (current-time)
+~~~~> 328750 (-> v1-9 attack-time) VS 328537 (current-time)
+```
+
+Well, this fits with the extra long cooldowns, but why is it happening?
+
+### Clocks
+
+The game actually keeps track of several different clocks simultaneously, and on a given frame it may or may not tick each clock forward, and by varying rates, depending on the state of the clock and state of the game. 
+
+```opengoal
+(deftype display (basic)
+   ...
+   (clock                 clock          22)
+   (session-clock         clock          :overlay-at (-> clock 0))
+   (game-clock            clock          :overlay-at (-> clock 1))
+   (base-clock            clock          :overlay-at (-> clock 2))
+   (real-clock            clock          :overlay-at (-> clock 3))
+   (frame-clock           clock          :overlay-at (-> clock 4))
+   (real-frame-clock      clock          :overlay-at (-> clock 5))
+   (target-clock          clock          :overlay-at (-> clock 6))
+   (entity-clock          clock          :overlay-at (-> clock 7))
+   (part-clock            clock          :overlay-at (-> clock 8))
+   (bg-clock              clock          :overlay-at (-> clock 9))
+   (camera-clock          clock          :overlay-at (-> clock 10))
+   (total-game-clock      clock          :overlay-at (-> clock 11))
+```
+
+For example, the `target-clock` is not ticked ahead whenever the player pauses the game, whereas `real-clock` will keep ticking like normal while paused. Or while using Light Jak Flash Freeze, the rates for `entity-clock` will be reduced so that time moves more slowly for actors other than Jak.
+
+So let's go back to the `same-attack-invulnerable-timeout` logic. We're checking the `attack-time` we pulled out of the `attack-info-old` array - where/how does that `attack-time` get set? It happens as part of this `compute-intersect-info` method that we call once we've confirmed an attack should count:
+
+```opengoal
+(defmethod compute-intersect-info ((this attack-info) (arg0 object) (arg1 process-drawable) (arg2 process) (arg3 touching-shapes-entry))
+  ...
+  (when (not (logtest? (-> this mask) (attack-mask attack-time))) 
+    (set! (-> this attack-time) (-> *display* base-clock frame-counter)) 
+```
+
+We can see `attack-time` is set from the `base-clock`, so let's see if what we're comparing against is also based on the same clock. 
+
+`time-elapsed?` is checking `(current-time)` AKA `(-> PP clock frame-counter)`. `PP` here is the current process, at the time when this code is executed - in this case it will be `target` since we're in the `target-log-attack` behavior which belongs to `target`. Since `target` will be spawned from the `*target-pool*`, it will have the `target-clock` as its clock:
+
+```opengoal
+(defun set-display ((arg0 display))
+  ...
+  (set! (-> *target-pool* clock) (-> arg0 target-clock))
+```
+
+So we're comparing `time-frame`s from two different clocks, which starts to lose meaning if one of these clocks is/was paused or is/was running at a different rate than the other. 
+
+During various "slow down" effects, the `target-clock` runs at a reduced rate compared to the `base-clock`. So every restart mission, every Light Jak Freeze, every Dark Jak special attack, etc causes the `target-clock` to run slower and fall behind the `base-clock`. 
+
+Once this has happened one or more times, any `attack-time` will be set based on `base-clock`, with a value seconds ahead of `target-clock`. Then in the `same-attack-invulnerable-timeout` logic, we'll compare our process's clock (`target-clock`) vs the `attack-time`, and because of the clock drift, the cooldown will end up being seconds longer than intended! 
+
+Most annoying of all is that these clocks won't get reset by starting a new game or going back to the main menu, the only option is to reset your console / close and reopen OpenGOAL.
+
+### The Fix
+
+This is another fairly straightforward fix - we just need to use the same clock on both sides of the comparison. We decided to use the `base-clock` in this case, so we just modified the `same-attack-invulnerable-timeout` logic a bit:
+
+```diff
+-(if (not (time-elapsed? (-> v1-9 attack-time) (the-as time-frame (-> *TARGET-bank* same-attack-invulnerable-timeout))))
++;; og:preserve-this fix clock drift bug which can lead to longer invuln timeouts (use base-clock instead of target-clock)
++(if (not (>= (- (-> *display* base-clock frame-counter) (-> v1-9 attack-time)) (the-as time-frame (-> *TARGET-bank* same-attack-invulnerable-timeout))))
+  (return #f)
+```
+
+Since this bug was just an annoyance and didn't have any benefits, it was non-controversial to get this merged into the vanilla `jak-project`. Other bugs however, such as the invulnerability glitch mentioned earlier, or Citadel Skip in Jak 1, won't be a detriment to casual gameplay and do have value in the speedruns, so you probably won't see them getting fixed. Unless you play the Patched mod 😜
+
+### References
+
+- [PR #3978](https://github.com/open-goal/jak-project/pull/3978)

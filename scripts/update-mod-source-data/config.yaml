@@ -64,7 +64,7 @@ mods:
     description: "Warp to a random checkpoint on various triggers (cells, flies, orbs, eco, death)."
     authors: ["zed", "MikeGamePro", "barg"]
     tags: ["speedrunning", "challenge", "gameplay-mod", "rng"]
-    website_url: "https://github.com/OpenGOAL-Mods/OG-Randomizer/blob/main/README.md"
+    # website_url: "https://github.com/OpenGOAL-Mods/OG-Randomizer/blob/main/README.md"
     cover_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Randomizer/main/ModImage.png"
     thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/RandomizerSmall.png"
 
@@ -94,7 +94,7 @@ mods:
     description: "Play the whole game on FlutFlut."
     authors: ["zed", "barg"]
     tags: ["speedrunning", "challenge", "gameplay-mod"]
-    website_url: "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/blob/main/README.md"
+    # website_url: "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/blob/main/README.md"
     cover_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/main/flutflutlegacy.png"
     thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/FlutFlutSmall.png"
 
@@ -109,9 +109,22 @@ mods:
     description: "Play the whole game on the Zoomer, with various changes to better explore the entire game."
     authors: ["zed", "barg"]
     tags: ["speedrunning", "challenge", "gameplay-mod"]
-    website_url: "https://github.com/OpenGOAL-Mods/OG-Zoomer-Legacy/blob/main/README.md"
+    # website_url: "https://github.com/OpenGOAL-Mods/OG-Zoomer-Legacy/blob/main/README.md"
     cover_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Zoomer-Legacy/main/ModImage.png"
     thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/ZoomerSmall.png"
+
+  jetboard-legacy:
+    repo_owner: "Hat-Kid"
+    repo_name: "og-j1-board"
+    url: "https://github.com/Hat-Kid/og-j1-board"
+    release_date_override: "2026-05-27"
+    display_name: "Jak and Daxter: The JET-Board Legacy"
+    description: "Jak 1, but you have the jetboard!"
+    authors: ["Hat-Kid"]
+    tags: ["gameplay-mod", "speedrunning"]
+    website_url: "https://github.com/Hat-Kid/og-j1-board/blob/main/README.md"
+    cover_art_url: "https://raw.githubusercontent.com/Hat-Kid/og-j1-board/refs/heads/main/bg.png"
+    thumbnail_art_url: "https://raw.githubusercontent.com/Hat-Kid/og-j1-board/refs/heads/main/thumb.png"
 
   super-mario-64:
     repo_owner: "OpenGOAL-Mods"
@@ -157,7 +170,7 @@ mods:
     tags: ["gameplay-mod", "challenge"]
     website_url: "https://github.com/OpenGOAL-Mods/OG-Microtransactions/blob/main/README.md"
     cover_art_url: "https://raw.githubusercontent.com/himham-jak/Jak1-but-Microtransactions/microtransactions/ModImage.png"
-    thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Microtransactions/refs/heads/main/MicrotransactionsSmall.png"
+    thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/MicrotransactionsSmall.png"
 
   orb-hunt:
     repo_owner: "dallmeyer"
@@ -175,10 +188,13 @@ mods:
         release_date_override: "2023-01-05"
         cover_art_url: "https://raw.githubusercontent.com/dallmeyer/OG-OrbHunt/main/ModImage.png"
         thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/OrbHuntSmall.png"
+        display_name: "Orb Hunt"
       jak2:
         release_date_override: "2024-07-01"
         cover_art_url: "https://raw.githubusercontent.com/dallmeyer/OG-OrbHunt/main/ModImage2.png"
         thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/OrbHunt2Small.png"
+        display_name: "Orb Hunt II"
+        description: "Precursor Orb Scavenger Hunt, Round 2"
 
   bugged:
     repo_owner: "OpenGOAL-Mods"
@@ -235,7 +251,7 @@ mods:
     description: "PAUSERS"
     authors: ["zed"]
     tags: ["rng", "challenge", "gameplay-mod"]
-    website_url: "https://github.com/OpenGOAL-Mods/OG-Fricked/blob/main/README.md"
+    # website_url: "https://github.com/OpenGOAL-Mods/OG-Fricked/blob/main/README.md"
     per_game_config:
       jak1:
         release_date_override: "2023-01-19"
@@ -246,6 +262,29 @@ mods:
         cover_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/main/frickedup2.png"
         thumbnail_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/main/frickedup2.png"
 
+  # fricked-up-3:
+  #   repo_owner: "Zed-Mod-School"
+  #   repo_name: "fricked3-testing"
+  #   url: "https://github.com/Zed-Mod-School/fricked3-testing"
+  #   display_name: "Fricked Up"
+  #   description: "In beta, give feedback"
+  #   authors: ["zed"]
+  #   tags: ["rng", "challenge", "gameplay-mod"]
+  #   # website_url: "https://github.com/OpenGOAL-Mods/OG-Fricked/blob/main/README.md"
+  #   per_game_config:
+  #     jak1:
+  #       release_date_override: "2023-01-19"
+  #       cover_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/main/frickedup1.png"
+  #       thumbnail_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/main/frickedup1.png"
+  #     jak2:
+  #       release_date_override: "2023-11-09"
+  #       cover_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/main/frickedup2.png"
+  #       thumbnail_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/main/frickedup2.png"
+  #     jak3:
+  #       release_date_override: "2026-04-01"
+  #       cover_art_url: "https://raw.githubusercontent.com/Zed-Mod-School/fricked3-testing/a86e63ec950a3d11b27c884f3df5a694b8ed80b5/frickedup3.png"
+  #       thumbnail_art_url: "https://raw.githubusercontent.com/Zed-Mod-School/fricked3-testing/a86e63ec950a3d11b27c884f3df5a694b8ed80b5/frickedup3.png"
+
   pogo:
     repo_owner: "EvelynTSMG"
     repo_name: "Jak1-Pogo"
@@ -254,7 +293,7 @@ mods:
     description: "Can you beat Jak 1 while constantly jumping? This mod will test that. Check out the mod settings!"
     authors: ["EvelynTSMG"]
     tags: ["challenge", "gameplay-mod"]
-    website_url: "https://github.com/EvelynTSMG/Jak1-Pogo/blob/main/README.md"
+    # website_url: "https://github.com/EvelynTSMG/Jak1-Pogo/blob/main/README.md"
     cover_art_url: "https://raw.githubusercontent.com/EvelynTSMG/Jak1-Pogo/refs/heads/main/banner.png"
     thumbnail_art_url: "https://raw.githubusercontent.com/EvelynTSMG/Jak1-Pogo/refs/heads/main/thumbnail.png"
 
@@ -264,9 +303,9 @@ mods:
     url: "https://github.com/dallmeyer/OG-NoOrb"
     display_name: "Orbless?"
     description: "Orbs are invisible - can you avoid (or collect) them all? Results shown after final boss"
-    authors: ["barg034", "SixRock", "Kuitar"]
+    authors: ["barg", "SixRock", "Kuitar"]
     tags: ["challenge", "gameplay-mod", "speedrunning"]
-    website_url: "https://github.com/dallmeyer/OG-NoOrb/blob/main/README.md"
+    # website_url: "https://github.com/dallmeyer/OG-NoOrb/blob/main/README.md"
     cover_art_url: "https://raw.githubusercontent.com/dallmeyer/OG-NoOrb/refs/heads/main/orbless-bg.png"
     thumbnail_art_url: "https://raw.githubusercontent.com/dallmeyer/OG-NoOrb/refs/heads/main/orbless-thumb.png"
 
@@ -329,6 +368,18 @@ mods:
     website_url: "https://github.com/mfOliveira19/GordonAndDaxter-Mod/blob/main/README.md"
     cover_art_url: "https://raw.githubusercontent.com/mfOliveira19/GordonAndDaxter-Mod/refs/heads/main/mod-background.png"
     thumbnail_art_url: "https://raw.githubusercontent.com/mfOliveira19/GordonAndDaxter-Mod/refs/heads/main/mod-cover.png"
+  
+  yosemite:
+    repo_owner: "OpenGOAL-Mods"
+    repo_name: "OG-Yosemite"
+    url: "https://github.com/OpenGOAL-Mods/OG-Yosemite"
+    display_name: "Yosemite"
+    description: "Special build that will play the cut Yosemite level! BEFORE INSTALLING: Click mod name^^ for instructions on where to paste the YOS.DGO file"
+    authors: ["barg", "LuminarLight"]
+    tags: ["gameplay-mod"]
+    website_url: "https://github.com/OpenGOAL-Mods/OG-Yosemite/blob/main/README.md"
+    cover_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Yosemite/refs/heads/main/yos.png"
+    thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Yosemite/refs/heads/main/septpreview.png"
 
   spec-ops:
     repo_owner: "ruhphorte"
@@ -367,9 +418,22 @@ mods:
     release_date_override: "2025-09-20"
     display_name: "ArchipelaGOAL II (ALPHA)"
     description: "Jak 2 Archipelago Randomizer - Alpha Release"
-    authors: ["narra, markus"]
+    authors: ["narra", "markus"]
     tags: ["rng", "challenge", "gameplay-mod"]
     website_url: "https://github.com/ArchipelaGOAL/Archipelago/blob/main/worlds/jakanddaxter/docs/setup_en.md"
+    cover_art_url: "https://raw.githubusercontent.com/ArchipelaGOAL/ArchipelaGOAL/main/thumbnails/background.gif"
+    thumbnail_art_url: "https://raw.githubusercontent.com/ArchipelaGOAL/ArchipelaGOAL/main/thumbnails/thumbnail.png"
+  
+  archipelagoal-3:
+    repo_owner: "Blake645"
+    repo_name: "ArchipelaGOAL-3"
+    url: "https://github.com/Blake645/ArchipelaGOAL-3"
+    release_date_override: "2026-06-17"
+    display_name: "ArchipelaGOAL 3 (ALPHA)"
+    description: "Jak 3 Archipelago Randomizer - Alpha Release"
+    authors: ["Blake645", "narra", "markus"]
+    tags: ["rng", "challenge", "gameplay-mod"]
+    website_url: "https://github.com/Blake645/ArchipelaGOAL-3/blob/main/README.md"
     cover_art_url: "https://raw.githubusercontent.com/ArchipelaGOAL/ArchipelaGOAL/main/thumbnails/background.gif"
     thumbnail_art_url: "https://raw.githubusercontent.com/ArchipelaGOAL/ArchipelaGOAL/main/thumbnails/thumbnail.png"
 
@@ -384,24 +448,68 @@ mods:
     description: "Adds over 18 levels and 900+ collectibles to the game and new powerups and adventures! Note: currently it is disguised as a fart mod. It is not."
     authors: ["zed"]
     tags: ["challenge", "gameplay-mod"]
-    website_url: "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/blob/main/README.md"
+    # website_url: "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/blob/main/README.md"
     cover_art_url: "https://www.speedrun.com/static/game/j1lnnwz6/cover.png?v=47fd2cf"
     thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/JakChickenSmall.png"
+
+  sm64-1:
+    repo_owner: "OpenGOAL-Mods"
+    repo_name: "Super-Mario-Legacy"
+    url: "https://github.com/OpenGOAL-Mods/Super-Mario-Legacy"
+    display_name: "Super Mario Legacy"
+    description: "It's-a me! Mario swaps in for Jak across the whole game, bringing his full SM64 moveset, music, and voice lines with him. Powered by libsm64."
+    authors: ["zed", "MikeGamePro"]
+    tags: ["challenge", "gameplay-mod"]
+    # website_url: "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/blob/main/README.md"
+    cover_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/Super-Mario-Legacy/refs/heads/main/sm64-background.png"
+    thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/Super-Mario-Legacy/refs/heads/main/sm64-thumb.png"
+
+  no-blue:
+    repo_owner: "trippjoe"
+    repo_name: "OG-No-Blue-No-Collect"
+    url: "https://github.com/trippjoe/OG-No-Blue-No-Collect"
+    display_name: "No Blue, No Collect"
+    description: "Power Cells, Scout Flies, and Precursor Orbs can only be collected while Blue Eco is active"
+    authors: ["tripp"]
+    tags: ["challenge", "gameplay-mod", "speedrunning"]
+    # website_url: "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/blob/main/README.md"
+    cover_art_url: "https://raw.githubusercontent.com/trippjoe/OG-No-Blue-No-Collect/refs/heads/main/thumbnail.webp"
+    thumbnail_art_url: "https://raw.githubusercontent.com/trippjoe/OG-No-Blue-No-Collect/refs/heads/main/thumbnail.webp"
 
   daxter-2:
     repo_owner: "OpenGOAL-Mods"
     repo_name: "OG-Daxter2"
     url: "https://github.com/OpenGOAL-Mods/OG-Daxter2"
-    release_date_override: "2023-11-04"
     ignore_versions:
       - "<0.3.4"
-    display_name: "Daxter II"
+    display_name: "Daxter II / Daxter 3"
     description: "Daxter finally gets his sequel!"
     authors: ["barg"]
     tags: ["speedrunning", "gameplay-mod"]
-    website_url: "https://github.com/OpenGOAL-Mods/OG-Daxter2/blob/main/README.md"
-    cover_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Daxter2/main/daxter2.png"
-    thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Daxter2/main/daxter2.png"
+    # website_url: "https://github.com/OpenGOAL-Mods/OG-Daxter2/blob/main/README.md"
+    per_game_config:
+      jak2:
+        release_date_override: "2023-11-04"
+        cover_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Daxter2/main/daxter2bg.png"
+        thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Daxter2/refs/heads/main/dax2thumb.png"
+        display_name: "Daxter II"
+      jak3:
+        release_date_override: "2026-04-01"
+        cover_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Daxter2/refs/heads/main/dax3.png"
+        thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Daxter2/refs/heads/main/dax3.png"
+        display_name: "Daxter 3"
+        description: "Daxter's trilogy is finally complete!"
+
+  jak-the-mercenary:
+    repo_owner: "myogmods"
+    repo_name: "Jak-the-Mercenary"
+    url: "https://github.com/myogmods/Jak-the-Mercenary"
+    display_name: "Jak The Mercenary"
+    description: "Inspired by \"The Mercenaries\" from Resident Evil 4, Jak has been assigned to destroy enemies for sport and aim for the highest score!"
+    authors: ["atrueboss"]
+    tags: ["gameplay-mod", "challenge"]
+    cover_art_url: "https://raw.githubusercontent.com/myogmods/Jak-the-Mercenary/refs/heads/main/custom_assets/jak2/launcher%20images/jak-the-mercenary-cover.png"
+    thumbnail_art_url: "https://raw.githubusercontent.com/myogmods/Jak-the-Mercenary/refs/heads/main/custom_assets/jak2/launcher%20images/jak-the-mercenary-thumbnail.png"
 
   jak2-august:
     repo_owner: "OpenGOAL-Mods"
@@ -412,7 +520,7 @@ mods:
     description: "Mimics the Jak II August 2003 Review build which allows for consite skip"
     authors: ["barg", "zed"]
     tags: ["speedrunning", "gameplay-mod"]
-    website_url: "https://github.com/OpenGOAL-Mods/OG-Jak2-AugustBuild/blob/main/README.md"
+    # website_url: "https://github.com/OpenGOAL-Mods/OG-Jak2-AugustBuild/blob/main/README.md"
     cover_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Jak2-AugustBuild/main/ModImage.png"
     thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/Jak2AugustSmall.png"
 
@@ -427,9 +535,24 @@ mods:
     description: "Overhauls Jak II's difficulty, but with a twist! Adds weapon mods, custom modifiers, hero mode changes, and various other things to find! Are you up for the challenge?"
     authors: ["Kraken"]
     tags: ["challenge", "gameplay-mod"]
-    website_url: "https://github.com/RealOfficialKraken/updated-HeroModePlus/blob/main/README.md"
+    # website_url: "https://github.com/RealOfficialKraken/updated-HeroModePlus/blob/main/README.md"
     cover_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/HeroModePlusLarge.png"
     thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/HeroModePlusSmall.png"
+    
+  heromode-plus-3:
+    repo_owner: "RealOfficialKraken"
+    repo_name: "pre-release--Jak3HMPlus"
+    url: "https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus"
+    release_date_override: "2026-04-20"
+    ignore_versions:
+      - "<0.0.7"
+    display_name: "HeroMode+ | A Jak 3 Overhaul"
+    description: "It's back, and bigger than ever! Featuring a whopping load of features such as custom missions & collectables, crazy weapon mods, random events, a leveling & skill system, a conclusive continuation of the story from Roguelike, and much MUCH more. Are you ready for the ultimate Jak 3 challenge?"
+    authors: ["Kraken"]
+    tags: ["challenge", "gameplay-mod"]
+    website_url: "https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus/blob/main/README.md"
+    cover_art_url: "https://raw.githubusercontent.com/RealOfficialKraken/pre-release--Jak3HMPlus/refs/heads/main/ModImage.png"
+    thumbnail_art_url: "https://raw.githubusercontent.com/RealOfficialKraken/pre-release--Jak3HMPlus/refs/heads/main/HeroModePlusIcon.png"
 
   roguelike-jak2:
     repo_owner: "RealOfficialKraken"
@@ -457,7 +580,7 @@ mods:
     description: "Infinite Dark Jak, plus you can rolljump, use guns, vehicles, jetboard, etc. Hold L2 to use Dark Bomb/Dark Blast, or to undo Dark Giant. Reboot in debug mode to unlock everything at the start."
     authors: ["barg"]
     tags: ["gameplay-mod"]
-    website_url: "https://github.com/OpenGOAL-Mods/OG-Dark-Jak/blob/main/README.md"
+    # website_url: "https://github.com/OpenGOAL-Mods/OG-Dark-Jak/blob/main/README.md"
     cover_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/main/darkjak.webp"
     thumbnail_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/main/darkjak.webp"
     
@@ -483,7 +606,7 @@ mods:
     description: "Nyoom! :3"
     authors: ["EvelynTSMG"]
     tags: ["speedrunning", "challenge", "gameplay-mod"]
-    website_url: "https://github.com/EvelynTSMG/JakSpeeb/blob/main/README.md"
+    # website_url: "https://github.com/EvelynTSMG/JakSpeeb/blob/main/README.md"
     cover_art_url: "https://raw.githubusercontent.com/EvelynTSMG/JakSpeeb/refs/heads/main/_background.png"
     thumbnail_art_url: "https://raw.githubusercontent.com/EvelynTSMG/JakSpeeb/refs/heads/main/_thumbnail.png"
 
@@ -493,7 +616,7 @@ mods:
     url: "https://github.com/Grateful-Forest/Platformia"
     release_date_override: "2024-10-09"
     display_name: "Platformia"
-    description: "Contents: Platforms (99.9%), Particles (0.1%). May contain traces of Jak II checkpoints."
+    description: "A giant fractal adventure made from thousands of moving platforms."
     authors: ["Grateful Forest"]
     tags: ["gameplay-mod", "custom-level", "challenge"]
     website_url: "https://github.com/Grateful-Forest/Platformia/blob/main/README.md"
@@ -506,7 +629,7 @@ mods:
     url: "https://github.com/gratefulforest/Cratetopia"
     release_date_override: "2025-12-20"
     display_name: "Cratetopia"
-    description: "Classic block game inside Jak and Daxter."
+    description: "Jak and Daxter's classic puzzle spin-off game."
     authors: ["Grateful Forest"]
     tags: ["gameplay-mod", "challenge"]
     website_url: "https://github.com/gratefulforest/Cratetopia/blob/main/README.md"
@@ -534,7 +657,7 @@ mods:
     description: "Speedrun mod that doesn't unlock things you skip past."
     authors: ["Dexz"]
     tags: ["speedrunning", "gameplay-mod"]
-    website_url: "https://github.com/OpenGOAL-Mods/OG-AccurateUnlockables/blob/main/README.md"
+    # website_url: "https://github.com/OpenGOAL-Mods/OG-AccurateUnlockables/blob/main/README.md"
     cover_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-AccurateUnlockables/refs/heads/main/assets/cover_art.png"
     thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-AccurateUnlockables/refs/heads/main/assets/thumbnail.png"
 
@@ -543,12 +666,19 @@ mods:
     repo_name: "OG-ILs"
     url: "https://github.com/OpenGOAL-Mods/OG-ILs"
     display_name: "Individual Mission Speedruns"
-    description: "Adds Individual Mission categories to the speedrun menu, with in-game timer! BETA"
+    description: "Adds Individual Mission categories to the speedrun menu, with in-game timer!"
     authors: ["barg", "ThaRixer", "bintendo42"]
     tags: ["speedrunning", "gameplay-mod"]
     website_url: "https://github.com/OpenGOAL-Mods/OG-ILs/blob/main/README.md"
-    cover_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-ILs/refs/heads/main/ils-background.png"
-    thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-ILs/refs/heads/main/ils-thumb.png"
+    per_game_config:
+      jak2:
+        release_date_override: "2025-03-15"
+        cover_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-ILs/refs/heads/main/ils-background.png"
+        thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-ILs/refs/heads/main/ils-thumb.png"
+      jak3:
+        release_date_override: "2026-04-01"
+        cover_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-ILs/refs/heads/main/ils-background-3.png"
+        thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/refs/heads/main/ModImages/jak3og_missions.png"
 
   obama:
     repo_owner: "OpenGOAL-Mods"
@@ -561,7 +691,7 @@ mods:
     description: "Obama finds himself in a strange new world. Help him escape from Jak and Daxter and return to Michelle!"
     authors: ["bintendo42", "barg"]
     tags: ["gameplay-mod"]
-    website_url: "https://jakmods.dev"
+    # website_url: "https://jakmods.dev"
     cover_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Obama/main/background.png"
     thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Obama/main/thumbnail.png"
 
@@ -576,7 +706,7 @@ mods:
     description: "Find your way around the world of jak and daxter in new randomized layouts!"
     authors: ["zed","MikeGamePro"]
     tags: ["gameplay-mod"]
-    website_url: "https://github.com/my-opengoal-mods/OG-warp-randomizer/blob/main/README.md"
+    # website_url: "https://github.com/my-opengoal-mods/OG-warp-randomizer/blob/main/README.md"
     cover_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/refs/heads/main/warp-rando.png"
     thumbnail_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/refs/heads/main/warp-rando.png"
 
@@ -590,9 +720,20 @@ mods:
     description: "Make the connections."
     authors: ["OutrageousJosh", "barg"]
     tags: ["challenge", "speedrunning", "gameplay-mod"]
-    website_url: "https://github.com/OpenGOAL-Mods/OG-SC/blob/main/README.md"
+    # website_url: "https://github.com/OpenGOAL-Mods/OG-SC/blob/main/README.md"
     cover_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-SC/refs/heads/main/jadsc-bg.png"
     thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-SC/refs/heads/main/jadsc-thumb.png"
+
+  complicated:
+    repo_owner: "MikeGamePro"
+    repo_name: "OG-Complicated"
+    url: "https://github.com/MikeGamePro/OG-Complicated"
+    display_name: "A Complicated Mod"
+    description: "Race against a timer to complete the game with a random set of rules and complications. Each run is different!"
+    authors: ["MikeGamePro"]
+    tags: ["challenge", "speedrunning", "rng", "gameplay-mod"]
+    cover_art_url: "https://raw.githubusercontent.com/MikeGamePro/OG-Complicated/refs/heads/main/cover.png"
+    thumbnail_art_url: "https://raw.githubusercontent.com/MikeGamePro/OG-Complicated/refs/heads/main/thumbnail.png"
 
   #### CUSTOM LEVEL MODS ####
 
@@ -622,7 +763,7 @@ mods:
     description: "Only Up in Jak 1. WARNING: the custom levels take up ~500MB, and will take a few minutes to install."
     authors: ["barg"]
     tags: ["custom-level", "gameplay-mod", "challenge", "speedrunning"]
-    website_url: "https://github.com/dallmeyer/jak-up/blob/main/README.md"
+    # website_url: "https://github.com/dallmeyer/jak-up/blob/main/README.md"
     cover_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/main/jakup.jpeg"
     thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/JakUpSmall.png"
 
@@ -637,7 +778,7 @@ mods:
     description: "Custom level River to Water (Afon i ddwr) of a winding mountain path with powercells, scoutflies and orbs guarded by lurkers! Visit via the warpgate once you complete the game or just use debug mode to visit early!"
     authors: ["Cuttlefish"]
     tags: ["custom-level"]
-    website_url: "https://github.com/Cuttlefishthesage/OG-Mod-Base/blob/main/README.md"
+    # website_url: "https://github.com/Cuttlefishthesage/OG-Mod-Base/blob/main/README.md"
     cover_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/main/cuttlefish-river-to-water.png"
     thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/RiverWaterSmall.png"
 
@@ -652,7 +793,7 @@ mods:
     description: "A sunny beach side trip with cliffs to scale, powercells to find and lurkers to fight! Be careful not to swim out too far...  Access via the warpgate in debug or a full save game!"
     authors: ["Cuttlefish"]
     tags: ["custom-level"]
-    website_url: "https://github.com/Cuttlefishthesage/Og-ModBase-Rockpool/blob/main/README.md"
+    # website_url: "https://github.com/Cuttlefishthesage/Og-ModBase-Rockpool/blob/main/README.md"
     cover_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/main/rockpool.png"
     thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/RockpoolSmall.png"
 
@@ -667,9 +808,9 @@ mods:
     description: "6 powercells to find in this winding ancient forest! From scaling giant trees, to navigating mazes of nettles! Rumour has it, the muses brother lives out here too..."
     authors: ["Cuttlefish"]
     tags: ["custom-level"]
-    website_url: "https://github.com/Cuttlefishthesage/LL-OpenGOAL-ModBase/blob/main/README.md"
+    # website_url: "https://github.com/Cuttlefishthesage/LL-OpenGOAL-ModBase/blob/main/README.md"
     cover_art_url: "https://raw.githubusercontent.com/Cuttlefishthesage/LL-OpenGOAL-ModBase/refs/heads/master/overgrownthumbnail.png"
-    thumbnail_art_url: "https://raw.githubusercontent.com/Cuttlefishthesage/LL-OpenGOAL-ModBase/refs/heads/master/overgrownthumbnail.png"
+    thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/OvergrownSmall.png"
 
   glacier:
     repo_owner: "Cuttlefishthesage"
@@ -682,21 +823,9 @@ mods:
     description: "The lurkers are harvesting vast quantities of dark eco from these rocky glaciers. You must stop their terrible plans and destroy their pumps! Featuring 101 orbs and 7 power cells to find and discover!"
     authors: ["Cuttlefish"]
     tags: ["custom-level"]
-    website_url: "https://github.com/Cuttlefishthesage/OG-Mod-Base-Glacier/blob/main/README.md"
+    # website_url: "https://github.com/Cuttlefishthesage/OG-Mod-Base-Glacier/blob/main/README.md"
     cover_art_url: "https://raw.githubusercontent.com/Cuttlefishthesage/OG-Mod-Base-Glacier/refs/heads/main/GlacierThumbnailFinal.PNG"
     thumbnail_art_url: "https://raw.githubusercontent.com/Cuttlefishthesage/OG-Mod-Base-Glacier/refs/heads/main/GlacierThumbnailFinal.PNG"
-
-  sandpit:
-    repo_owner: "slak1-OG-mods"
-    repo_name: "jak1-sandpit-level"
-    url: "https://github.com/slak1-OG-mods/jak1-sandpit-level"
-    display_name: "Sandpit"
-    description: "Miners have vanished from a nearby excavation site, leaving behind their tools and Power Cells. Find the Power Cells before the lurkers do!"
-    authors: ["Slak"]
-    tags: ["custom-level"]
-    website_url: "https://github.com/slak1-OG-mods/jak1-sandpit-level/blob/modbase-merge/README.md"
-    cover_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/refs/heads/main/SNPModImage.png"
-    thumbnail_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/refs/heads/main/SNPthumbnail.png"
 
   brume_village:
     repo_owner: "Cuttlefishthesage"
@@ -709,9 +838,34 @@ mods:
     description: "Welcome to Brume Village, home of the Yellow Sage!  The village is currently out of power, and nobody is brave enough to venture into the caves to switch the power back on. Should you be up to the task, this new hub world allows you to visit three brand new interconnected levels with a total of 24 powercells to collect! Start a new save file to enter Brume!"
     authors: ["Cuttlefish"]
     tags: ["custom-level"]
-    website_url: "https://github.com/Cuttlefishthesage/BrumeVillage/blob/main/README.md"
+    # website_url: "https://github.com/Cuttlefishthesage/BrumeVillage/blob/main/README.md"
     cover_art_url: "https://raw.githubusercontent.com/Cuttlefishthesage/BrumeVillage/refs/heads/master/brumecover.png"
-    thumbnail_art_url: "https://raw.githubusercontent.com/Cuttlefishthesage/BrumeVillage/refs/heads/master/BrumeThumbnailFinal.png"
+    thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/BrumeVillageSmall.png"
+
+  eroded_coast:
+    repo_owner: "Cuttlefishthesage"
+    repo_name: "ErodedCoast"
+    url: "https://github.com/Cuttlefishthesage/ErodedCoast"
+    release_date_override: "2026-04-03"
+    display_name: "Eroded Coast"
+    description: "Welcome to the Eroded Coast! Located at the far end of Sentinel Beach, this new custom level features 6 powercells to find and 150 orbs to collect! Help restore power to the lighthouse before disaster strikes!"
+    authors: ["Cuttlefish"]
+    tags: ["custom-level"]
+    website_url: "https://www.youtube.com/watch?v=d2G5IZI7UQg"
+    cover_art_url: "https://raw.githubusercontent.com/Cuttlefishthesage/ErodedCoast/refs/heads/main/erodedthumbnailLauncher.png"
+    thumbnail_art_url: "https://raw.githubusercontent.com/Cuttlefishthesage/ErodedCoast/refs/heads/main/erodedthumbnaillauncher2.png"
+
+  sandpit:
+    repo_owner: "slak1-OG-mods"
+    repo_name: "jak1-sandpit-level"
+    url: "https://github.com/slak1-OG-mods/jak1-sandpit-level"
+    display_name: "Sandpit"
+    description: "Miners have vanished from a nearby excavation site, leaving behind their tools and Power Cells. Find the Power Cells before the lurkers do!"
+    authors: ["Slak"]
+    tags: ["custom-level"]
+    # website_url: "https://github.com/slak1-OG-mods/jak1-sandpit-level/blob/modbase-merge/README.md"
+    cover_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/refs/heads/main/SNPModImage.png"
+    thumbnail_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/refs/heads/main/SNPthumbnail.png"
 
   #### MODEL REPLACEMENT MODS ####
 
@@ -756,7 +910,7 @@ mods:
     description: "Jak & Daxter - The Halloween Legacy"
     authors: ["Clankape"]
     tags: ["model-replacement"]
-    website_url: "https://github.com/Clankape/OG-Mod-Base-Halloween/blob/main/README.md"
+    # website_url: "https://github.com/Clankape/OG-Mod-Base-Halloween/blob/main/README.md"
     cover_art_url: "https://raw.githubusercontent.com/Clankape/OG-Mod-Base-Halloween/main/Background.png"
     thumbnail_art_url: "https://raw.githubusercontent.com/Clankape/OG-Mod-Base-Halloween/main/thumbnail.png"
 

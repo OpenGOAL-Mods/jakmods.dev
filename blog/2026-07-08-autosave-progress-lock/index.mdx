@@ -1,0 +1,193 @@
+---
+slug: 2026-07-08-autosave-progress-lock
+title: Pause menu hardlock?
+authors: [barg]
+tags: []
+---
+
+Today I looked into an uncommon bug where Jak 1 can completely freeze up on an empty pause menu screen. Zed mentioned to me that he had looked into this before, and determined it was related to conflicting autosave and pause menu popups.
+
+{/* truncate */}
+
+### Reproducing the issue
+
+I was actually asked about this occurring in the Speedrun Practice Mod when pause buffering the top of Citadel power cell. Under the right circumstances, in the pause menu when you press Circle to switch to the Options page, it will transition out of the power cell page, but never actually transition into the Options page. You can't unpause or go back in the menu - the game appears completely frozen!
+
+So what's the exact setup that we need to reproduce? First we need a fresh save file with no previous autosaves, so that the next autosave triggers the popup explaining autosave and the memory card icon.
+
+Then we need a way to trigger both the pause menu and the autosave popup simultaneously. Normally if you try to pause when the autosave popup is about to come up, it will force a transition from the power cell page to the autosave one.
+
+On certain power cells, we can use a pause buffer (pressing Start and L2/R2 on the same frame) before collecting the cell - this allows us to get credit for collecting the cell, but opens the pause menu before the power cell animation can start.
+
+Importantly in this scenario, despite not playing the power cell animation, the autosave process is still kicked off. And if we do this on a power cell and trigger the first autosave on this file, we'll be met with the frozen screen.
+
+### Hardlock or softlock?
+
+For most crashes that happen on PS2, when reproduced in OpenGOAL, the program will fully crash, and if we attach either the GOAL or a C++ debugger we can catch an exception being thrown.
+
+In the case of this autosave/pause menu freeze however, OpenGOAL stays open, and no exceptions are thrown - so is the game actually frozen?
+
+We can actually attach the REPL to the game running in debug mode, and even during the freeze the game will be responsive to code that we run via the REPL. So the game IS still running, it's just stuck in some sort of loop where it can't move on and doesn't respond to any inputs.
+
+### Debugging the issue
+
+I started by looking at the state of the `progress` (pause menu) process while the game was frozen:
+
+```opengoal
+gc> (ppointer->process *progress-process*)
+2124612        #x206b44              0.0000        #<progress progress suspended :state progress-normal :flags r   :stack 112/256 :heap 6608/6608 @ #x206b44>
+```
+
+We can see it's in the `progress-normal` state, so I poked around there, trying to see how it transitions between pages while in that state. I found this bit of code:
+
+```opengoal
+(when (and (not (handle->process (-> *game-info* auto-save-proc)))
+           (or (-> self force-transition) (-> self in-transition))
+           (>= (-> self transition-offset)
+               (if (and (zero? (-> self level-transition))
+                        (nonzero? (-> self next-display-state))
+                        (!= (-> self next-display-state) 1)
+                        (!= (-> self next-display-state) 2))
+                  512
+                  256)))
+  (if (>= (the-as int (-> self next-display-state)) 0) (enter! self (-> self next-display-state) 0) (pop! self))
+```
+
+And looking at the `enter!` method we can see this is where the `display-state` (page) of the menu is updated:
+
+```opengoal
+(defmethod enter! ((this progress) (screen progress-screen) (option int))
+  (when (!= (-> this display-state) screen)
+    (set! (-> *progress-state* yes-no-choice) #f)
+    (set! (-> this selected-option) #f)
+    (set! (-> this option-index) option)
+    (set! (-> this last-option-index-change) (-> *display* real-frame-counter))
+    (set! (-> this display-state) screen)
+```
+
+We can use the REPL again to see the value of `display-state` and `next-display-state` in the `progress` process during the freeze:
+
+```opengoal
+gc> (-> (the progress (ppointer->process *progress-process*)) display-state)
+0        #x0              0.0000        0
+
+gc> (-> (the progress (ppointer->process *progress-process*)) next-display-state)
+3        #x3              0.0000        #<invalid object #x3>
+```
+
+And checking this against the `progress-screen` enum, these values makes sense given where the freeze occurs:
+
+```opengoal
+(defenum progress-screen
+  :type int64
+  (invalid -1)
+  (fuel-cell 0)
+  (money 1)
+  (buzzer 2)
+  (settings 3)
+```
+
+So for some reason, we're never making that `enter!` call to switch over to the `settings` page. I used the REPL to check the conditions in the `when` block required to make it to the `enter!` call, and found only one was failing:
+
+```opengoal
+gc> (not (handle->process (-> *game-info* auto-save-proc)))
+1375524        #x14fd24              0.0000        #f
+
+gc>  (handle->process (-> *game-info* auto-save-proc))
+2142564        #x20b164              0.0000        #<auto-save auto-save suspended :state done :flags r   :stack 96/512 :heap 1088/1088 @ #x20b164>
+```
+
+So as expected, this is definitely autosave related. Now we need to figure out why the `auto-save` process is getting stuck in the `done` state.
+
+```opengoal
+(defstate done (auto-save)
+  :virtual #t
+  :code
+    (behavior ()
+      ...
+          (when (= (-> *game-info* auto-save-count) 1)
+           (set! (-> self event-hook) (-> (method-of-object self error) event))
+           (set! (-> self state-time) (-> *display* real-frame-counter))
+           (while (< (- (-> *display* real-frame-counter) (-> self state-time)) (seconds 0.2))
+             (if (not (progress-allowed?)) (set! (-> self state-time) (-> *display* real-frame-counter)))
+             (suspend))
+           ;; Don't display the auto-save warning prompt if speedrunning
+           (when (= (-> *pc-settings* speedrunner-mode?) #f)
+             (activate-progress *dproc* (progress-screen auto-save))))))))
+```
+
+So normally here the `auto-save` process (if it's our first time and we're not in speedrun mode) tries to activate `progress` and show the autosave/memory card warning page. It has a `while` loop which only runs if it's been less than 0.2s since the last time `state-time` was updated (when it reached `done` state).
+
+This loop exists primarly to check `progress-allowed?` - if we're not allowed to open the progress menu right now (e.g. maybe we're in a cutscene), the `auto-save`'s `state-time` is updated to the current time, and we `suspend` until the next frame, where we run these checks again.
+
+```opengoal
+(defun progress-allowed? ()
+  (not (or (-> *setting-control* current talking)
+           (-> *setting-control* current movie)
+           (movie?)
+           (handle->process (-> *game-info* pov-camera-handle))
+           (handle->process (-> *game-info* other-camera-handle))
+           (< (-> *display* base-frame-counter) (-> *game-info* letterbox-time))
+           (< (-> *display* base-frame-counter) (-> *game-info* blackout-time))
+           (!= (-> *setting-control* current bg-a) 0.0)
+           (!= (-> *setting-control* current bg-a-force) 0.0)
+           (not (-> *setting-control* current allow-progress))
+           (or (and (handle->process (-> *game-info* auto-save-proc))
+                    (not (send-event (handle->process (-> *game-info* auto-save-proc)) 'progress-allowed?)))
+               (not *target*)
+               (= *cheat-mode* 'camera)))))
+```
+
+Again, we can go back to the REPL during the freeze and figure out what's failing here:
+
+```opengoal
+gc> (-> *setting-control* current movie)
+1921416        #x1d5188              0.0000        240177
+
+gc> (movie?)
+1375532        #x14fd2c              0.0000        #t
+
+gc> (handle->process (-> *game-info* other-camera-handle))
+2507652        #x264384              0.0000        #<othercam othercam suspended :state othercam-running :flags     :stack 112/256 :heap 480/480 @ #x264384>
+```
+
+Because the power cell animation was queued up to be played after touching the cell, the game actually considers us in a cutscene, causing `progress-allowed?` to return `#f`.
+
+Now we can see the full picture - because we were able to trigger the autosave and bring up the pause menu simultaneously, each process is stuck waiting on conditions that will never happen! The `auto-save` can't proceed because `progress-allowed?` is false due to the pending cutscene. But the pending cutscene can't play out (unblocking `progress-allowed?`) because we're stuck in the pause menu - and that's because `progress` won't transition while there's an active `auto-save` process.
+
+Funny enough, using the GOAL debugger we can `(:break)` during the freeze to force a breakpoint in the code, wait a bit, and then `(:cont)` to resume from the breakpoint, and we'll artificially satisfy the `state-time` check, and un-freeze the game!
+
+<ReactPlayer
+  controls
+  src={"https://www.youtube.com/watch?v=4eZlQbRq6l8"}
+  className="blog-video"
+  width="640px"
+  height="360px"
+/>&nbsp;
+
+### The fix
+
+The "proper" fix for this would probably be to prevent cells from being picked up in the pause buffer scenario, but changing that would be a bit invasive and too much divergence from original behavior (it would also break some speedrun strategies).
+
+Since the issue is not something casual players are likely to run into, we can just focus on fixing this for speedrunners. As we saw earlier, there's already some code added in OpenGOAL that prevents the autosave popup from being activated if we're in speedrun mode. We can simply move the check up a bit earlier, and avoid reaching the code checking `state-time` and `progress-allowed?`:
+
+```diff
+-    (when (= (-> *game-info* auto-save-count) 1)
++    ;; og:preserve-this Don't display the first auto-save warning prompt if speedrunning
++    (when (and (= (-> *game-info* auto-save-count) 1) (not (-> *pc-settings* speedrunner-mode?)))
+      (set! (-> self event-hook) (-> (method-of-object self error) event))
+      (set! (-> self state-time) (-> *display* real-frame-counter))
+      (while (< (- (-> *display* real-frame-counter) (-> self state-time)) (seconds 0.2))
+        (if (not (progress-allowed?)) (set! (-> self state-time) (-> *display* real-frame-counter)))
+        (suspend))
+-      ;; Don't display the auto-save warning prompt if speedrunning
+-      (when (= (-> *pc-settings* speedrunner-mode?) #f)
+-        (activate-progress *dproc* (progress-screen auto-save))))))))
++      (activate-progress *dproc* (progress-screen auto-save)))))))
+```
+
+Now the `auto-save` process will finish executing and be deactivated successfully - unblocking the `progress` code and allowing us to call `enter!` and access the Options page!
+
+### References
+
+- [PR #4340 (the fix for speedrun mode)](https://github.com/open-goal/jak-project/pull/4340)

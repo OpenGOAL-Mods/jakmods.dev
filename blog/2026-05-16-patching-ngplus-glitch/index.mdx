@@ -1,0 +1,127 @@
+---
+slug: 2026-05-16-patching-ngplus-glitch
+title: Patching "NG+ Glitch"
+authors: [barg]
+tags: []
+---
+
+Years ago, the Jak 1 speedrun community came up with an NG+ category where you start the game with all of the Power Cells except for the ones in Citadel. There was a bug players would run into while running this category where under certain conditions, if you picked up some collectables (e.g. Precursor Orbs) and then (without saving) loaded a save file, those collectables would still be missing from the level, though you wouldn't have gotten credit for picking them up. It's actually part of the reason you'll see console speedrunners load a dummy save in Sandover before they start a new run back in Geyser, to ensure levels get fully unloaded and the glitch is avoided.
+
+{/* truncate */}
+
+I was made aware of this glitch in OpenGOAL after we added Individual Level and Hub 2/3 100% speedrun options to the speedrunner menu. For example, players running Hub 2 100% would hit the Blue Sage warp gate button, skip the cutscene, and then run off into Precursor Basin. If they reset the run from there, they would spawn back at the end of Fire Canyon and while entering Rock Village the warp gate cutscene would start playing early, because the button was still pressed from the previous run. Similarly, any orbs or flies collected in Rock Village in the previous run would be missing after resetting with this same setup.
+
+### `entity`s and `perm` data
+
+To understand how this glitch happens, we need to cover some fundamentals about how the game keeps track of all these things.
+
+All of the things in the game world that you interact with (lets call them "actors") are spawned as different types of `process-drawable`s, and the majority of them are backed by an `entity`. I like to think of an `entity` as the "idea" of an actor, and the `process-drawable` as the physical representation of the actor. Each `entity` also has a variety of `perm` data - this data is used for things like remembering a button has been pushed, or that Plant Boss has been killed, or that you've collected 3 out of 4 Orbs from a crate.
+
+The game tracks this `perm` data in a couple places. The global `*game-info*` object has a `perm-list` which functions as a sort of snapshot of all `perm` data for the current game. Separate from this, the game has up to 2 `level`s loaded into memory, and each `level` holds onto a list of `entity`s along with their `perm` data. This data is directly reflected in how the `entity`s are spawned (or not spawned) as `process-drawable`s in-game, with the actor's state being determined by the `entity` `perm` data.
+
+Whenever a `level` is birthed (i.e. was already loaded, and is being made visible), the game will copy any relevant `perm` data from `*game-info*` over to the corresponding `entity` `perm` data in the `level`:
+
+```opengoal
+(defmethod birth ((this level))
+  "Birth a level to make it alive! It must be loaded."
+  ...
+  (copy-perms-to-level! *game-info* this)
+```
+
+Whenever a `level` is deactivated (i.e. made invisible, but still loaded in memory), the game will copy all of the `entity` `perm` data for that level into the `*game-info*` `perm-list`:
+
+```opengoal
+(defmethod deactivate ((this level))
+  "Kill the level. This won't remove it from memory."
+  ...
+  (copy-perms-from-level! *game-info* this)
+```
+
+Whenever you save the game, it will first copy `perm` data from active levels over to `*game-info*`'s `perm-list`. Then it will write the `perm-list` data into the save file:
+
+```opengoal
+(defmethod save-game! ((this game-info) (arg0 game-save) (arg1 string))
+  "Update the game-save to have the info from the current game state"
+  ...
+  (dotimes (s3-0 (-> *level* length))
+    (let ((a1-1 (-> *level* level s3-0))) (if (= (-> a1-1 status) 'active) (copy-perms-from-level! this a1-1))))
+  ...
+  (let ((v1-60 (&+ v1-59 32))
+        (s4-2 (-> (the-as (pointer int32) (-> this perm-list)) 0)))
+    (let ((a0-39 (the-as game-save-tag (&+ v1-60 0))))
+      (set! (-> a0-39 elt-type) (game-save-elt perm-list))
+      (set! (-> a0-39 elt-count) s4-2)
+      (set! (-> a0-39 elt-size) (the-as uint 16)))
+    (let ((s3-4 (&+ v1-60 16)))
+      (dotimes (s2-2 s4-2)
+        (mem-copy! (the-as pointer (the-as game-save-tag (&+ s3-4 (* s2-2 16))))
+                    (the-as pointer (-> this perm-list data s2-2))
+                    16))
+```
+
+Whenever you start a new game or load a save file, first the `initialize!` method will run and make sure to reset `*game-info*`'s `perm-list` to length zero, effectively clearing it out:
+
+```opengoal
+(defmethod initialize! ((this game-info) (cause symbol) (save-to-load game-save) (continue-point-override string))
+  ...
+  (set! (-> this perm-list length) 0)
+```
+
+Then if loading a file, it will read the `perm` data from the file and load it into `*game-info*`'s `perm-list`:
+
+```opengoal
+(defmethod load-game! ((this game-info) (save game-save))
+  "Copy save data from a game-save to a game-info"
+  ...
+  (let ((data (the-as game-save-tag (-> save tag))))
+    (while (< (the-as int data) (the-as int (&-> save tag 0 user-int8 (-> save length))))
+      (case (-> data elt-type)
+        ...
+        (((game-save-elt perm-list))
+         (let ((s3-2 (min (-> data elt-count) (-> this perm-list allocated-length))))
+           (set! (-> this perm-list length) s3-2)
+           (dotimes (s2-0 s3-2)
+             (mem-copy! (the-as pointer (-> this perm-list data s2-0)) (&+ (&+ (the-as pointer data) 16) (* s2-0 16)) 16))))
+```
+
+(And then any levels being birthed will get `perm-list` data from `*game-info*` copied into their `entity` `perm` data)
+
+### So what's wrong?
+
+At first glance it seems like the data is passed between `level`s ↔️ `*game-info*` ↔️ `game-save` in a sensible way, so what's the issue? 
+
+Well, let's say you collect an Orb `money-2844` in `village2`, and then you walk into Precursor Basin such that `village2` is deactivated but still loaded in memory. If you load a save, or reset a speedrun to a checkpoint that has `village2` loaded, what happens?
+
+- `village2` is still currently loaded, and has `perm` data for `money-2844` tracking that you collected it
+- `initialize!` runs and clears out `*game-info*`'s `perm-list`
+- if loading a save, `*game-info*`'s `perm-list` is populated from the save file (let's assume the save file has no perm data about `money-2844`)
+- all relevant levels are loaded and birthed (`village2` becomes visible)
+  - as part of this, `*game-info*`'s `perm-list` is copied over to `village2`'s `entity` `perm` data
+  - BUT `*game-info*` has no `perm` data on `money-2844`, so whatever `perm` data `village2` had is left untouched!
+
+There's an assumption baked in somewhere here that either a level being birthed will have no meaningful `perm` data, or that it can always be fully reset by copying over `perm` data from `*game-info*`. Either way you look at it, the end result is that you can end up with incorrect stale `perm` data in your level. So Orbs remain collected, buttons remain pushed - you can even cheat at Yakows by putting all but 1 in the pen, loading a save to trigger the glitch, and then you just need to put the 1 remaining Yakow in the pen to get the Cell reward.
+
+### The Fix
+
+So how do we fix the bug? This one's actually pretty simple - since `perm` data is written to `*game-info*` when a `level` is deactivated, and copied back into the `level` when it's birthed, we don't really need to hold onto any `perm` data in the `level` once it's been deactivated. This is true regardless of whether we birth the level by walking back over towards the `level`, loading a save, or resetting a speedrun.
+
+Lucky for us, there is a debug function `reset-actors` that does pretty much exactly what we want - it clears out any modified `perm` data from the active levels. We can copy some of its code into the `deactivate` function, after we've copied the `perm` data over to `*game-info*`:
+
+```opengoal
+(defmethod deactivate ((this level))
+  "Kill the level. This won't remove it from memory."
+  ...
+  (copy-perms-from-level! *game-info* this)
+  ;; og:preserve-this fully clear entity perm status in the level itself (based on reset-actors)
+  ;;  it should be copied back out of game-info on birth to prevent "NG+ glitch"
+  (let ((lev-ents (-> this entity)))
+    (dotimes (idx (-> lev-ents length))
+      (let ((ent (-> lev-ents data idx entity)))
+        (update-perm! (-> ent extra perm) 'game (the-as entity-perm-status 1919)))))
+```
+
+And voila, no more NG+ Glitch!
+
+### References
+
+- [PR #3690](https://github.com/open-goal/jak-project/pull/3690)

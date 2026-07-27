@@ -1,0 +1,165 @@
+---
+slug: 2026-05-15-my-first-mod
+title: Barg's First OpenGOAL "Mod"
+authors: [barg]
+tags: []
+---
+
+When I first learned about the OpenGOAL project, I was immediately excited for a couple reasons - I loved the Jak games growing up, and as a software engineer, I was curious to see the source code behind a video game engine. As a kid, I made some Flash games, Pokemon mods, custom Guitar Hero discs, etc, so I guess I was always kind of interested in building/modding games. And as I learned more about OpenGOAL, and more about the unique development of Jak 1, my fascination continued to grow.
+
+{/* truncate */}
+
+I did some brief research about Lisp programming syntax (I had one college course where we wrote some Scheme, so I was loosely familiar), and then started reading through [Pull Requests on the `jak-project` GitHub](https://github.com/open-goal/jak-project/pulls), trying to find smaller code changes that I could follow along with. Eventually I found a [GitHub issue listing off various ideas and improvements for Jak 1](https://github.com/open-goal/jak-project/issues/386), and looked for something that sounded approachable, something I could attempt to complete and use to get my feet wet with OpenGOAL.
+
+There was one bullet point that caught my attention as a possible candidate:
+> Camera invert toggle (for the weirdos).
+
+### Understanding controller inputs
+
+Back in 2021/2022, I hadn't played Jak much in recent years, so I remember the camera controls tripping me up when I started playing regularly through OpenGOAL. Adding settings to toggle inverted camera seemed like something I might want for myself, so I decided I would try to add support for it (for the record, I have since learned the errors of my ways, and now play with default camera controls).
+
+I browsed through all kinds of code, rather blindly at first, trying to understand how controller inputs were read. I saw `cpad-pressed?` and `cpad-hold?` throughout the code, and digging deeper I found where the game was reading individual button values, like `(-> *cpad-list* 0 square)`. After awhile it clicked that `leftx`, `lefty`, `rightx`, and `righty` referred to the X and Y values for the two analog sticks (in particular, I kept seeing `rightx`/`righty` referenced in camera code).
+
+99% of the time, these analog stick values were being evaluated using the `analog-input` function, for example:
+
+```opengoal
+(analog-input (the-as int (-> *cpad-list* cpads 0 leftx)) 128.0 48.0 110.0 -1.0)
+```
+
+With some experimentation I figured out that multiplying the result of `analog-input` by `-1` would invert the direction the camera moved.
+
+### Extending PC settings
+
+In the PC port we've added a variety of settings that didn't exist in the original game - things like display resolution, aspect ratio, MSAA, cutscene skips, etc. Naturally, this is where it made sense to add settings to toggle inverted camera controls as well. Typically boolean (on/off) settings like this are represented as `symbol`s (either `#t` or `#f`).
+
+Now the Jak games are a bit special, in that camera controls are already inverted compared to the defaults in most modern games - except for first person horizontal controls! At first I had only 2 settings, for vertical and horizontal camera inversion, but later I extended this to 4 settings so that players could configure first and third person controls independently:
+
+```opengoal
+(deftype pc-settings (basic)
+   ...
+   (first-camera-h-inverted?    symbol) ;; first-person horizontal camera inverted
+   (first-camera-v-inverted?    symbol) ;; first-person vertical camera inverted
+   (third-camera-h-inverted?    symbol) ;; third-person horizontal camera inverted
+   (third-camera-v-inverted?    symbol) ;; third-person vertical camera inverted
+```
+
+There are a few other bits of code to update when introducing new settings (resetting settings, reading from file, writing to file, etc), but they're not very interesting so I'll skip over them here. You can check my PRs [below](#references) or search the codebase for one of the setting field names (e.g. `first-camera-h-inverted?`) if you're curious.
+
+The other bit of work relating to adding new settings is hooking them up to options in the pause menu, known internally as the `progress` menu. I've written about this process before in the [Checkpoint Randomizer modding example](https://opengoal.dev/docs/developing/modding_examples/checkpoint_randomizer/#randomizer-options-in-pause-menu), so I won't rehash it here.
+
+### Modifying vanilla code
+
+Since the decompiler is always evolving and improving, occasionally we will re-decompile all or some of the GOAL source code. So whenever we make edits to OpenGOAL code, we try to edit the vanilla code as little as possible, or leave special comments as markers indicating that the code was changed in the PC port. This way if the code is decompiled again, our edits are either unaffected, or we can detect that markers were removed and go back and restore the PC port edits. For example, we adjusted some HUD sprite positioning for wider aspect ratios:
+
+```opengoal
+;; og:preserve-this Positioning of first person hud sprites
+(when (or (-> *pc-settings* use-vis?) (= s5-0 2))
+    (spawn (-> this particles s5-0 part) *null-vector*)))
+```
+
+Originally I added some code directly in the `analog-input` function to check the PC settings and decide whether to multiply by `-1` and invert the controls, but the downside to this approach was that by the time we're in `analog-input`, we no longer have context as to whether we're evaluating the inputs for left/right or for up/down. Since we now have 4 separate PC settings for camera inversion, I would need to make some changes upstream of the `analog-input` function itself to support this properly.
+
+The solution I landed on was to create 4 macros that wrapped the `analog-input` call:
+
+```opengoal
+(defmacro analog-input-horizontal-first (in offset center-val max-val out-range)
+  "Same as analog-input but respects First-Person Horizontal camera control setting."
+  `(#if PC_PORT ;; first-person horizontal is NOT inverted in original game
+    (* (if (-> *pc-settings* first-camera-h-inverted?) -1.0 1.0) (analog-input ,in ,offset ,center-val ,max-val ,out-range))
+    (analog-input ,in ,offset ,center-val ,max-val ,out-range)))
+
+(defmacro analog-input-vertical-first (in offset center-val max-val out-range)
+  "Same as analog-input but respects First-Person Vertical camera control setting."
+  `(#if PC_PORT ;; first-person vertical is already inverted in original game
+    (* (if (-> *pc-settings* first-camera-v-inverted?) 1.0 -1.0) (analog-input ,in ,offset ,center-val ,max-val ,out-range))
+    (analog-input ,in ,offset ,center-val ,max-val ,out-range)))
+
+(defmacro analog-input-horizontal-third (in offset center-val max-val out-range)
+  "Same as analog-input but respects Third-Person Horizontal camera control setting."
+  `(#if PC_PORT ;; third-person horizontal is already inverted in original game
+    (* (if (-> *pc-settings* third-camera-h-inverted?) 1.0 -1.0) (analog-input ,in ,offset ,center-val ,max-val ,out-range))
+    (analog-input ,in ,offset ,center-val ,max-val ,out-range)))
+
+(defmacro analog-input-vertical-third (in offset center-val max-val out-range)
+  "Same as analog-input but respects Third-Person Vertical camera control setting."
+  `(#if PC_PORT ;; third-person vertical is already inverted in original game
+    (* (if (-> *pc-settings* third-camera-v-inverted?) 1.0 -1.0) (analog-input ,in ,offset ,center-val ,max-val ,out-range))
+    (analog-input ,in ,offset ,center-val ,max-val ,out-range)))
+```
+
+From here, I just needed to replace the various camera-related `analog-input` calls throughout the codebase with the appropriate macro, based on the particular type of camera (first vs third person) and which controller input was being read (`rightx` vs `righty`, i.e. horizontal vs vertical).
+
+For example, `cam-eye` which is the first person camera used when you press triangle to use your goggles:
+
+```opengoal
+;; main first-person camera
+(defstate cam-eye (camera-slave)
+  ...
+  :code
+    (behavior ()
+      ...
+      (let ((f30-0 (analog-input-horizontal-first ;; og:preserve-this changed for pc port
+                      (the-as int (+ (-> *cpad-list* cpads 0 rightx) -256 (-> *cpad-list* cpads 0 leftx)))
+                      (the-as float 0.0)
+                      (the-as float 48.0)
+                      (the-as float 110.0)
+                      (the-as float -1.0)))
+            (f0-0 (analog-input-vertical-first ;; og:preserve-this changed for pc port
+                    (the-as int (+ (-> *cpad-list* cpads 0 righty) -256 (-> *cpad-list* cpads 0 lefty)))
+                    (the-as float 0.0)
+                    (the-as float 48.0)
+                    (the-as float 110.0)
+                    (the-as float -1.0))))
+```
+
+And a more unique example, `cam-string-joystick`, the main third person camera used during 99% of gameplay:
+
+```opengoal
+(defun cam-dist-analog-input ((arg0 int) (arg1 float))
+  (let ((f0-0 0.0))
+    (cond
+      ((< arg0 28) (set! f0-0 (- (fmin arg1 (* 0.083333336 (- 28.0 (the float arg0)) arg1)))))
+      ((< 160 arg0) (set! f0-0 (fmin arg1 (* 0.0125 (+ -160.0 (the float arg0)) arg1)))))
+    ;; changed for pc port, only used for Third-Person Vertical camera
+    (#if PC_PORT (* (if (-> *pc-settings* third-camera-v-inverted?) 1.0 -1.0) f0-0) f0-0)))
+
+;; main third-person camera
+(defbehavior cam-string-joystick camera-slave ()
+  (logand! (-> self options) -257)
+  (let ((f28-0 (cam-dist-analog-input (the-as int (-> *cpad-list* cpads 0 righty)) (the-as float 0.05)))
+    ...
+    (let ((f0-29 (analog-input-horizontal-third ;; changed for pc port
+                   (the-as int (-> *cpad-list* cpads 0 rightx))
+                   (the-as float 128.0)
+                   (the-as float 32.0)
+                   (the-as float 110.0)
+                   (* 21845.334 (seconds-per-frame))))
+```
+
+The original code for `cam-string-joystick` uses `cam-dist-analog-input` in place of the regular `analog-input` for vertical camera controls, but since this is the only place `cam-dist-analog-input` is used, we can get away with only checking our `third-camera-v-inverted?` setting here.
+
+There were a few additional camera functions where I swapped out `analog-input`, but the changes were quite similar to the above. These included things like `cam-free-floating` for the debug freecam, and `cam-periscope` used for the FJ mirrors and Misty cannon.
+
+### Contributing to `jak-project`
+
+I want to briefly call out that I didn't get all these changes right on the first try 😅. I recall nervously opening a PR with my initial changes, and waiting around to see what would happen next.
+
+The next day I got some good feedback from a couple of the main developers, water111 and dass. They gave me a quick breakdown of some compiler behavior I was misunderstanding, and we had some back and forth about how to improve my changes. A couple commits later and my changes were merged in!
+
+I circled back with another cleanup PR a week or so later after talking more with dass. We changed some language in the pause menu (Inverted vs Flipped), added a "Restore Default" option, and added some sound effects.
+
+I bring this all up because I really think the best way to get started is just to dive in and try something, even if you make mistakes along the way. The developers/community are really supportive and want to teach OpenGOAL to others who demonstrate that they are passionate about it.
+
+### Looking back
+
+When someone in the Discord asks how best to get started with OpenGOAL development/modding, I often bring this up as an example - it was small in scope, but still gave me an opportunity to explore the codebase. I got to see how controller inputs are processed and used for in-game logic, I got to work with PC settings and the pause menu, and (maybe most importantly) it forced me to just generally get familiar with the OpenGOAL development loop.
+
+I still consider this my first OpenGOAL mod, even though the changes ended up in vanilla `jak-project`. Getting to write some new code, and then seeing my changes work in-game, it was a really exciting moment for me. Shortly after this I found out about Mike & Zed's [Checkpoint Randomizer](https://opengoal.dev/docs/developing/modding_examples/checkpoint_randomizer), and was able to connect with them and start contributing to the mod. To this day, that feeling of seeing my code changes reflected in-game is what keeps me interested in working on OpenGOAL.
+
+I actually got to port these camera inversion changes over to Jak 3 recently, which was a nice little full-circle moment 😊
+
+### References
+
+- [PR #1355 (main changes)](https://github.com/open-goal/jak-project/pull/1355)
+- [PR #1361 (clean up)](https://github.com/open-goal/jak-project/pull/1361)
+- [PR #4171 (Jak 3 changes)](https://github.com/open-goal/jak-project/pull/4171)

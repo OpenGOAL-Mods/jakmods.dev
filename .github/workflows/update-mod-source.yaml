@@ -2,7 +2,7 @@ name: Update Mod Source
 
 on:
   schedule:
-    - cron: "0 */4 * * *" # every 4 hours, at minute 0 - https://crontab.guru/every-4-hours
+    - cron: "*/30 * * * *" # every 30 minutes - https://crontab.guru/every-30-minutes
   workflow_dispatch: {}
 
 # Allow one concurrent deployment
@@ -32,14 +32,24 @@ jobs:
           cache-dependency-path: scripts/update-mod-source-data/package-lock.json
 
       - name: Potentially Update Mod Source
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           cd scripts/update-mod-source-data
           npm ci
           npm run update
           
       - name: Commit Version Bump
-        uses: EndBug/add-and-commit@v9
+        uses: EndBug/add-and-commit@v10
         with:
           message: "source: Updated mod source data"
           push: true
           default_author: github_actions
+
+      - name: Wait for push to propagate
+        run: sleep 30
+
+  deploy:
+    name: "Deploy Website"
+    needs: update-mod-source
+    uses: ./.github/workflows/deploy.yml

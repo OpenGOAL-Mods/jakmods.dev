@@ -110,13 +110,6 @@ for (const [modName, modInfo] of Object.entries(configFile["mods"])) {
         perGameConfig: {},
         externalLink: null
     };
-    if (!Object.keys(modInfo).includes("website_url")) {
-        // either its an external link and we can ignore it
-        // or we infer it from the repo_owner_name
-        if (!Object.keys(modInfo).includes("external_link")) {
-            modSourceInfo.websiteUrl = `https://www.github.com/${modInfo["repo_owner"]}/${modInfo["repo_name"]}`;
-        }
-    }
     if (Object.keys(modInfo).includes("cover_art_url")) {
         modSourceInfo.coverArtUrl = modInfo["cover_art_url"];
     }
@@ -132,6 +125,12 @@ for (const [modName, modInfo] of Object.entries(configFile["mods"])) {
             }
             if (Object.keys(perGameConfig).includes("thumbnail_art_url")) {
                 modSourceInfo.perGameConfig[game].thumbnailArtUrl = perGameConfig["thumbnail_art_url"];
+            }
+            if (Object.keys(perGameConfig).includes("display_name")) {
+                modSourceInfo.perGameConfig[game].displayName = perGameConfig["display_name"];
+            }
+            if (Object.keys(perGameConfig).includes("description")) {
+                modSourceInfo.perGameConfig[game].description = perGameConfig["description"];
             }
         }
     }
@@ -303,7 +302,7 @@ for (const [modName, modInfo] of Object.entries(configFile["mods"])) {
                             exitWithError(`(Attempt ${attempts}) Hit non-200 status code when fetching metadata file for mod release version ${modName}:${cleaned_release_tag}`);
                         } else {
                             // log warning but retry
-                            console.warn(`(Attempt ${attempts}) Hit non-200 status code when fetching metadatafile for mod release version ${modName}:${cleaned_release_tag}`);
+                            console.warn(`(Attempt ${attempts}) Hit non-200 status code when fetching metadata file for mod release version ${modName}:${cleaned_release_tag}\n${metadataResp.status} ${metadataResp.body}`);
                         }
                     }
                 }
@@ -453,8 +452,8 @@ if (configFile["texture_packs"]) {
 
 if (!lintMode) {
     // Check if the resulting file is different from the existing one (minus lastUpdated)
-    if (fs.existsSync("../../site/mods.json")) {
-        let existingModSourceData = JSON.parse(fs.readFileSync("../../site/mods.json"));
+    if (fs.existsSync("../../static/mods.json")) {
+        let existingModSourceData = JSON.parse(fs.readFileSync("../../static/mods.json"));
         delete existingModSourceData["lastUpdated"];
         // if it is, copy it over,
         if (JSON.stringify(existingModSourceData) === JSON.stringify(modSourceData)) {
@@ -462,13 +461,13 @@ if (!lintMode) {
         } else { // if not, do nothing!
             modSourceData.lastUpdated = (new Date()).toISOString();
             // Save the json file out
-            fs.writeFileSync("../../site/mods.json", JSON.stringify(modSourceData));
-            fs.writeFileSync("../../site/mods_formatted.json", JSON.stringify(modSourceData, null, 2));
+            fs.writeFileSync("../../static/mods.json", JSON.stringify(modSourceData));
+            fs.writeFileSync("../../static/mods_formatted.json", JSON.stringify(modSourceData, null, 2));
         }
     } else {
         modSourceData.lastUpdated = (new Date()).toISOString();
         // Save the json file out
-        fs.writeFileSync("../../site/mods.json", JSON.stringify(modSourceData));
-        fs.writeFileSync("../../site/mods_formatted.json", JSON.stringify(modSourceData, null, 2));
+        fs.writeFileSync("../../static/mods.json", JSON.stringify(modSourceData));
+        fs.writeFileSync("../../static/mods_formatted.json", JSON.stringify(modSourceData, null, 2));
     }
 }

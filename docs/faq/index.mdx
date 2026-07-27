@@ -1,0 +1,91 @@
+---
+sidebar_position: 1
+---
+
+# Frequently Asked Questions
+
+For general questions about OpenGOAL, please see the official [OpenGOAL FAQ](https://opengoal.dev/docs/faq)
+ 
+### Using Mods in the vanilla OpenGOAL Launcher
+
+<details>
+<summary>Is Steamdeck / Linux / Mac supported?</summary>
+
+It depends. At the time of writing this, the OpenGOAL launcher itself is supported on Windows, Linux, and Intel-based MacOS, and may work on the Steamdeck in Desktop Mode. You can find more info [here](https://opengoal.dev/docs/usage/installation).
+
+With that said, each mod bundles its own releases, and may only have releases available for certain platforms. Please check the [Mod Lists](/docs/category/mod-lists) to see which platforms are available for each mod.
+</details>
+
+<details>
+<summary>Can I apply a texture pack to a mod?</summary>
+
+Yes, though it's a bit manual at the moment, see below instructions. We're working to make this more seamless via the launcher in the future.
+
+1. Install the mod like normal
+2. Click the "Open Game Data Folder" option on the mod page in launcher to open the mod's install location
+3. Open the `data` folder, and check if you see a `custom_assets` folder inside
+    - If you DO see a `custom_assets` folder, this is a newer mod:
+        1. Go into the <code>custom_assets/&lt;game&gt;</code> folder (where <code>&lt;game&gt;</code> is `jak1`, `jak2`, or `jak3`)
+        2. Create a `texture_replacements` folder within the <code>custom_assets/&lt;game&gt;</code> folder (some mods may already have this folder)
+        3. Copy/paste the contents of the texture pack you want to use into the <code>data/custom_assets/&lt;game&gt;/texture_replacements</code> folder
+    - If you do NOT see `custom_assets` folder, this is an older mod:
+        1. Create a `texture_replacements` folder within the `data` folder (some mods may already have this folder)
+        2. Copy/paste the contents of the texture pack you want to use into the `data/texture_replacements` folder
+4. Back on the mod page in the launcher, click the "Decompile" button, and it will rebuild the game using your texture pack
+</details>
+
+<details>
+<summary>Can I use multiple mods together in combination?</summary>
+
+No, not easily, at least at the moment. Since each mod is a completely standalone copy of the jak-project, there's no easy way to guarantee changes are compatible with each other or an easy way to resolve conflicts.
+
+For example, how would you combine the FlutFlut Legacy and the Zoomer Legacy? You can't be simultaneously on FlutFlut and on the Zoomer.
+
+With that said, in theory someone could manually combine two or more mods (e.g. by using git to merge their codebases). This would then need to be added to the list as a standalone mod.
+
+In the future, there is a possibility OpenGOAL will have a native modding API, and mods might exist more like patches than entire standalone codebases. If we reach that point, it will be much more feasible to seamlessly combine mods.
+</details>
+   
+### Mod Creation
+
+<details>
+<summary>I want to try making OpenGOAL mods, do you have any documentation or guides to help get me started?</summary>
+
+Yes - see the below links! In particular, Zed's videos are a great starting point as they show the development process in real-time. You're also welcome to [join our Discord server](https://discord.gg/k5PKHta6d8) and ask for help there!
+
+- [OpenGOAL language documentation](https://opengoal.dev/docs/reference)
+- Source Code documentation for [Jak 1](https://opengoal.dev/docs/category/jak-1) / [Jak 2](https://opengoal.dev/docs/category/jak-2)
+- [Modding guides and devlogs (YouTube playlist)](https://www.youtube.com/playlist?list=PLgmHXU3d2jJBpD18G-2pjkO5U1GnWCKLD)
+- [OpenGOAL ModBase - Getting Started tutorial](https://www.youtube.com/watch?v=3QiqmEA6Wc8)
+- [Texture Packs how-to](https://opengoal.dev/docs/developing/texture_packs)
+- [Custom Levels how-to](https://opengoal.dev/docs/category/custom-levels)
+- [Modding example blogs](https://opengoal.dev/docs/category/modding-examples)
+- [JakMods blogs](/blog)
+- [The Forgotten Lands blog](/blog/2023-11-21-tfl)
+
+Additionally, if you are curious and want to peek at the source code for any of the existing mods in the mod launcher, you can find each mod's Github repo listed in our mod launcher config file [here](https://github.com/OpenGOAL-Mods/jakmods.dev/blob/main/scripts/update-mod-source-data/config.yaml).
+</details>
+
+<details>
+<summary>I made a texture pack / custom level / mod, how can I get it listed in the mod launcher?</summary>
+
+The mod launcher expects to download mods as a Github release bundle of the ['jak-project'](https://github.com/open-goal/jak-project), so in short: you'll need to get your creation hosted on a Github repository and create a release in the expected format.
+
+We recommend making a fork of our [OG-Mod-Base project](https://github.com/OpenGOAL-Mods/OG-Mod-Base), as this comes with an easy workflow for creating release bundles. You can follow this video for using the ModBase and creating a release for your mod:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3QiqmEA6Wc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+At this point, your mod should be bundled and ready for us to add! Just reach out to <u>barg034</u> or <u>zedb0t</u> on Discord with the name, description, and thumbnail image - we'll work with you to get it added to the mod list.
+
+Whenever you'd like to publish updates to your mod, simply push those changes to your Github repo, and kick off a new Cut Mod Release action. Our mod list periodically refreshes and will pick up your new release so it shows up in the launcher.
+</details>
+
+<details>
+<summary>Is it possible to do XYZ in a mod?</summary>
+
+Generally speaking, since OpenGOAL provides the source code for the game, the theoretical possibilities are endless.
+
+What's realistically possible is a limitation of how much time and effort people are willing to put in.
+
+If you're interested in trying to build something yourself, feel free to [join our Discord server](https://discord.gg/k5PKHta6d8) and we might be able to help guide you.
+</details>
