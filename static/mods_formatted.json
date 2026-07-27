@@ -1217,7 +1217,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/releases/download/v0.2.5-mergetime1127.3/macos-intel-v0.2.5-mergetime1127.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 373,
+            "windows": 374,
             "linux": 50,
             "macos": 16
           }
@@ -1453,7 +1453,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Zoomer-Legacy/releases/download/v0.1.4/macos-intel-v0.1.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 473,
+            "windows": 474,
             "linux": 80,
             "macos": 23
           }
@@ -1541,7 +1541,7 @@
             "macos": "https://github.com/Hat-Kid/og-j1-board/releases/download/v0.0.6/macos-intel-v0.0.6.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 230,
+            "windows": 232,
             "linux": 30,
             "macos": 3
           }
@@ -3638,7 +3638,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Yosemite/releases/download/v0.0.3/macos-intel-v0.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 294,
+            "windows": 295,
             "linux": 22,
             "macos": 4
           }
@@ -3773,7 +3773,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 5034,
+            "windows": 5035,
             "linux": 394,
             "macos": 28
           }
@@ -5790,7 +5790,7 @@
             "macos": "https://github.com/myogmods/Jak-the-Mercenary/releases/download/v0.0.5/macos-intel-v0.0.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 25,
+            "windows": 26,
             "linux": 3,
             "macos": 0
           }
@@ -5923,7 +5923,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v1.0.1/macos-intel-v1.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 179,
+            "windows": 181,
             "linux": 13,
             "macos": 1
           }
@@ -6137,7 +6137,7 @@
             "macos": "https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus/releases/download/v1.0.2/macos-intel-v1.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 440,
+            "windows": 441,
             "linux": 53,
             "macos": 3
           }
@@ -9376,8 +9376,8 @@
             "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.7/macos-intel-v0.0.7.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 3,
-            "linux": 0,
+            "windows": 4,
+            "linux": 1,
             "macos": 0
           }
         },
@@ -9517,6 +9517,51 @@
       },
       "externalLink": null
     },
+    "lifedrain": {
+      "displayName": "Lifedrain",
+      "description": "Jak has become addicted to green eco. You cannot help him. But you can still play through the usual adventure!",
+      "authors": [
+        "EvelynTSMG"
+      ],
+      "tags": [
+        "challenge",
+        "gameplay-mod"
+      ],
+      "supportedGames": [
+        "jak1"
+      ],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "publishedDate": "2026-07-27T09:27:29Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/EvelynTSMG/Jak1-LifeDrain/releases/download/v1.0.0/windows-v1.0.0.zip",
+            "linux": "https://github.com/EvelynTSMG/Jak1-LifeDrain/releases/download/v1.0.0/linux-v1.0.0.tar.gz",
+            "macos": "https://github.com/EvelynTSMG/Jak1-LifeDrain/releases/download/v1.0.0/macos-intel-v1.0.0.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        }
+      ],
+      "coverArtUrl": "https://raw.githubusercontent.com/EvelynTSMG/Jak1-LifeDrain/refs/heads/main/banner.png",
+      "thumbnailArtUrl": "https://raw.githubusercontent.com/EvelynTSMG/Jak1-LifeDrain/refs/heads/main/thumb.png",
+      "perGameConfig": {
+        "jak1": {
+          "releaseDate": "2026-07-27T09:27:29Z"
+        }
+      },
+      "externalLink": null
+    },
     "forgotten-lands": {
       "displayName": "The Forgotten Lands",
       "description": "Experience a new story and levels. Start a new game and beat Geyser Rock to access the custom levels.",
@@ -9549,7 +9594,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 4131,
+            "windows": 4133,
             "linux": 547,
             "macos": 0
           }
@@ -10299,7 +10344,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2923,
+            "windows": 2924,
             "linux": 443,
             "macos": 85
           }
@@ -10699,5 +10744,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-07-27T08:04:16.947Z"
+  "lastUpdated": "2026-07-27T12:30:34.844Z"
 }
