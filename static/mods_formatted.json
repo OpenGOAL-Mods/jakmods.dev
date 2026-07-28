@@ -4374,7 +4374,7 @@
             "macos": "https://github.com/Blake645/ArchipelaGOAL-3/releases/download/v0.2.0-jak3.5/macos-intel-v0.2.0-jak3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 5,
+            "windows": 7,
             "linux": 0,
             "macos": 0
           }
@@ -9334,7 +9334,7 @@
             "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.10/macos-intel-v0.0.10.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 0,
+            "windows": 1,
             "linux": 0,
             "macos": 0
           }
@@ -9568,7 +9568,7 @@
             "macos": "https://github.com/EvelynTSMG/Jak1-LifeDrain/releases/download/v1.0.0/macos-intel-v1.0.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 3,
+            "windows": 4,
             "linux": 1,
             "macos": 0
           }
@@ -10365,7 +10365,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2929,
+            "windows": 2930,
             "linux": 446,
             "macos": 85
           }
@@ -10765,5 +10765,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-07-28T05:54:21.776Z"
+  "lastUpdated": "2026-07-28T08:44:05.865Z"
 }
