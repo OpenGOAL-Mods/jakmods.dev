@@ -629,7 +629,7 @@ mods:
     url: "https://github.com/gratefulforest/Cratetopia"
     release_date_override: "2025-12-20"
     display_name: "Cratetopia"
-    description: "Jak and Daxter's classic puzzle spin-off game."
+    description: "A fully themed Jak puzzle game spin-off with 4 modes + leaderboards!"
     authors: ["Grateful Forest"]
     tags: ["gameplay-mod", "challenge"]
     website_url: "https://github.com/gratefulforest/Cratetopia/blob/main/README.md"
