@@ -3726,7 +3726,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 1434,
+            "windows": 1435,
             "linux": 0,
             "macos": 0
           }
@@ -4374,7 +4374,7 @@
             "macos": "https://github.com/Blake645/ArchipelaGOAL-3/releases/download/v0.2.0-jak3.5/macos-intel-v0.2.0-jak3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 47,
+            "windows": 48,
             "linux": 3,
             "macos": 0
           }
@@ -4524,7 +4524,7 @@
             "macos": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.9/macos-intel-v2.1.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 739,
+            "windows": 740,
             "linux": 93,
             "macos": 23
           }
@@ -5923,7 +5923,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v1.0.1/macos-intel-v1.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 230,
+            "windows": 231,
             "linux": 20,
             "macos": 1
           }
@@ -6137,8 +6137,8 @@
             "macos": "https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus/releases/download/v1.0.2/macos-intel-v1.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 494,
-            "linux": 64,
+            "windows": 495,
+            "linux": 65,
             "macos": 4
           }
         },
@@ -7383,7 +7383,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Dark-Jak/releases/download/v0.5.0/macos-intel-v0.5.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 676,
+            "windows": 677,
             "linux": 103,
             "macos": 16
           }
@@ -7698,6 +7698,27 @@
         "jak1"
       ],
       "versions": [
+        {
+          "version": "3.0.0",
+          "publishedDate": "2026-08-03T03:46:07Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/gratefulforest/Cratetopia/releases/download/v3.0.0/windows-v3.0.0.zip",
+            "linux": "https://github.com/gratefulforest/Cratetopia/releases/download/v3.0.0/linux-v3.0.0.tar.gz",
+            "macos": "https://github.com/gratefulforest/Cratetopia/releases/download/v3.0.0/macos-intel-v3.0.0.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 1,
+            "linux": 0,
+            "macos": 0
+          }
+        },
         {
           "version": "2.0.1",
           "publishedDate": "2026-02-18T13:00:13Z",
@@ -10403,7 +10424,7 @@
             "macos": "https://github.com/Cuttlefishthesage/LL-OpenGOAL-ModBase/releases/download/v4.3.4/macos-intel-v4.3.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1566,
+            "windows": 1567,
             "linux": 239,
             "macos": 56
           }
@@ -10468,7 +10489,7 @@
             "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base-Glacier/releases/download/v1.0.9/macos-intel-v1.0.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1163,
+            "windows": 1164,
             "linux": 164,
             "macos": 54
           }
@@ -10954,5 +10975,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-03T03:30:57.735Z"
+  "lastUpdated": "2026-08-03T04:36:06.693Z"
 }
