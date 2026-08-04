@@ -1541,7 +1541,7 @@
             "macos": "https://github.com/Hat-Kid/og-j1-board/releases/download/v0.0.6/macos-intel-v0.0.6.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 275,
+            "windows": 276,
             "linux": 36,
             "macos": 4
           }
@@ -1803,7 +1803,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Microtransactions/releases/download/v0.2.7/macos-intel-v0.2.7.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 235,
+            "windows": 236,
             "linux": 46,
             "macos": 12
           }
@@ -3063,7 +3063,7 @@
           },
           "assetDownloadCounts": {
             "windows": 53,
-            "linux": 10,
+            "linux": 11,
             "macos": 4
           }
         },
@@ -5923,7 +5923,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v1.0.1/macos-intel-v1.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 236,
+            "windows": 237,
             "linux": 21,
             "macos": 1
           }
@@ -6137,7 +6137,7 @@
             "macos": "https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus/releases/download/v1.0.2/macos-intel-v1.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 503,
+            "windows": 504,
             "linux": 67,
             "macos": 4
           }
@@ -7699,6 +7699,27 @@
       ],
       "versions": [
         {
+          "version": "3.0.0",
+          "publishedDate": "2026-08-04T06:34:06Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/gratefulforest/Cratetopia/releases/download/v3.0.0/windows-v3.0.0.zip",
+            "linux": "https://github.com/gratefulforest/Cratetopia/releases/download/v3.0.0/linux-v3.0.0.tar.gz",
+            "macos": "https://github.com/gratefulforest/Cratetopia/releases/download/v3.0.0/macos-intel-v3.0.0.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 2,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
           "version": "2.0.1",
           "publishedDate": "2026-02-18T13:00:13Z",
           "supportedGames": [
@@ -7714,7 +7735,7 @@
             "macos": "https://github.com/gratefulforest/Cratetopia/releases/download/v2.0.1/macos-intel-v2.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 220,
+            "windows": 222,
             "linux": 26,
             "macos": 8
           }
@@ -9318,6 +9339,27 @@
         "jak1"
       ],
       "versions": [
+        {
+          "version": "0.0.24",
+          "publishedDate": "2026-08-04T10:50:21Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.24/windows-v0.0.24.zip",
+            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.24/linux-v0.0.24.tar.gz",
+            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.24/macos-intel-v0.0.24.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
         {
           "version": "0.0.23",
           "publishedDate": "2026-08-04T06:20:58Z",
@@ -10996,5 +11038,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-04T10:45:38.146Z"
+  "lastUpdated": "2026-08-04T13:06:24.570Z"
 }
