@@ -742,7 +742,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Randomizer/releases/download/v0.6.4/macos-intel-v0.6.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 560,
+            "windows": 561,
             "linux": 67,
             "macos": 31
           }
@@ -9340,6 +9340,27 @@
       ],
       "versions": [
         {
+          "version": "0.0.25",
+          "publishedDate": "2026-08-05T10:01:35Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.25/windows-v0.0.25.zip",
+            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.25/linux-v0.0.25.tar.gz",
+            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.25/macos-intel-v0.0.25.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
           "version": "0.0.24",
           "publishedDate": "2026-08-04T10:50:21Z",
           "supportedGames": [
@@ -9355,7 +9376,7 @@
             "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.24/macos-intel-v0.0.24.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 13,
+            "windows": 14,
             "linux": 0,
             "macos": 0
           }
@@ -10659,7 +10680,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.1/macos-intel-v1.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 666,
+            "windows": 667,
             "linux": 38,
             "macos": 26
           }
@@ -11038,5 +11059,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-05T09:40:36.970Z"
+  "lastUpdated": "2026-08-05T12:04:30.594Z"
 }
