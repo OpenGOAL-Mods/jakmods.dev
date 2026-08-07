@@ -3773,7 +3773,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 5199,
+            "windows": 5200,
             "linux": 406,
             "macos": 28
           }
@@ -4524,7 +4524,7 @@
             "macos": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.9/macos-intel-v2.1.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 746,
+            "windows": 747,
             "linux": 93,
             "macos": 23
           }
@@ -5095,7 +5095,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 537,
+            "windows": 538,
             "linux": 123,
             "macos": 0
           }
@@ -5923,7 +5923,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v1.0.1/macos-intel-v1.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 255,
+            "windows": 256,
             "linux": 23,
             "macos": 1
           }
@@ -6137,7 +6137,7 @@
             "macos": "https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus/releases/download/v1.0.2/macos-intel-v1.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 529,
+            "windows": 530,
             "linux": 71,
             "macos": 6
           }
@@ -7714,7 +7714,7 @@
             "macos": "https://github.com/gratefulforest/Cratetopia/releases/download/v3.0.0/macos-intel-v3.0.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 11,
+            "windows": 12,
             "linux": 1,
             "macos": 0
           }
@@ -9340,6 +9340,27 @@
       ],
       "versions": [
         {
+          "version": "0.0.29",
+          "publishedDate": "2026-08-07T09:53:08Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.29/windows-v0.0.29.zip",
+            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.29/linux-v0.0.29.tar.gz",
+            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.29/macos-intel-v0.0.29.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
           "version": "0.0.28",
           "publishedDate": "2026-08-06T12:41:41Z",
           "supportedGames": [
@@ -9951,7 +9972,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 4203,
+            "windows": 4205,
             "linux": 564,
             "macos": 0
           }
@@ -10098,7 +10119,7 @@
             "macos": "https://github.com/Kuitar5/the-forgotten-lands/releases/download/v0.2.2/macos-intel-v0.1.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 63,
+            "windows": 64,
             "linux": 6,
             "macos": 10
           }
@@ -10550,7 +10571,7 @@
             "macos": "https://github.com/Cuttlefishthesage/LL-OpenGOAL-ModBase/releases/download/v4.3.4/macos-intel-v4.3.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1579,
+            "windows": 1580,
             "linux": 240,
             "macos": 56
           }
@@ -11101,5 +11122,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-07T08:37:09.380Z"
+  "lastUpdated": "2026-08-07T10:06:27.116Z"
 }
