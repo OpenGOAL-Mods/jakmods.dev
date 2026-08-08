@@ -3062,7 +3062,7 @@
             "macos": "https://github.com/this-guy-git/JGChaos/releases/download/v0.3.0/macos-intel-v0.3.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 57,
+            "windows": 58,
             "linux": 11,
             "macos": 4
           }
@@ -3773,7 +3773,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 5218,
+            "windows": 5220,
             "linux": 407,
             "macos": 28
           }
@@ -6159,7 +6159,7 @@
           },
           "assetDownloadCounts": {
             "windows": 539,
-            "linux": 73,
+            "linux": 74,
             "macos": 6
           }
         },
@@ -9361,6 +9361,27 @@
       ],
       "versions": [
         {
+          "version": "0.0.30",
+          "publishedDate": "2026-08-08T12:24:12Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.30/windows-v0.0.30.zip",
+            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.30/linux-v0.0.30.tar.gz",
+            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.30/macos-intel-v0.0.30.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
           "version": "0.0.29",
           "publishedDate": "2026-08-07T09:53:08Z",
           "supportedGames": [
@@ -11143,5 +11164,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-08T11:57:20.966Z"
+  "lastUpdated": "2026-08-08T13:01:33.709Z"
 }
