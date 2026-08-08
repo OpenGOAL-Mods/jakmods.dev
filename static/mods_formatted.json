@@ -41,7 +41,7 @@
           "assetDownloadCounts": {
             "windows": 105,
             "linux": 8,
-            "macos": 3
+            "macos": 4
           }
         },
         {
@@ -1542,7 +1542,7 @@
           },
           "assetDownloadCounts": {
             "windows": 312,
-            "linux": 43,
+            "linux": 44,
             "macos": 5
           }
         },
@@ -4374,7 +4374,7 @@
             "macos": "https://github.com/Blake645/ArchipelaGOAL-3/releases/download/v1.1.0-jak3.0/macos-intel-v0.2.1-jak3.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 8,
+            "windows": 10,
             "linux": 1,
             "macos": 0
           }
@@ -4545,7 +4545,7 @@
             "macos": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.9/macos-intel-v2.1.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 752,
+            "windows": 753,
             "linux": 93,
             "macos": 23
           }
@@ -5117,7 +5117,7 @@
           },
           "assetDownloadCounts": {
             "windows": 544,
-            "linux": 123,
+            "linux": 124,
             "macos": 0
           }
         },
@@ -7533,7 +7533,7 @@
             "macos": "https://github.com/CraiyDev/Better-Dark-Jak/releases/download/v0.0.2/macos-intel-v0.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1870,
+            "windows": 1871,
             "linux": 344,
             "macos": 25
           }
@@ -10614,7 +10614,7 @@
           },
           "assetDownloadCounts": {
             "windows": 1582,
-            "linux": 240,
+            "linux": 241,
             "macos": 56
           }
         },
@@ -10765,7 +10765,7 @@
           },
           "assetDownloadCounts": {
             "windows": 2997,
-            "linux": 450,
+            "linux": 451,
             "macos": 85
           }
         },
@@ -10831,7 +10831,7 @@
           },
           "assetDownloadCounts": {
             "windows": 1660,
-            "linux": 262,
+            "linux": 264,
             "macos": 48
           }
         },
@@ -11164,5 +11164,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-08T22:35:40.466Z"
+  "lastUpdated": "2026-08-08T23:36:02.179Z"
 }
