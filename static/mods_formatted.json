@@ -3773,7 +3773,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 5225,
+            "windows": 5227,
             "linux": 408,
             "macos": 28
           }
@@ -6961,7 +6961,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.54/macos-intel-v0.0.54.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1309,
+            "windows": 1310,
             "linux": 188,
             "macos": 18
           }
@@ -9376,7 +9376,7 @@
             "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.30/macos-intel-v0.0.30.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 6,
+            "windows": 7,
             "linux": 1,
             "macos": 0
           }
@@ -11164,5 +11164,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-08T18:45:26.715Z"
+  "lastUpdated": "2026-08-08T19:35:21.819Z"
 }
