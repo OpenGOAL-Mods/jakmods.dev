@@ -6158,7 +6158,7 @@
             "macos": "https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus/releases/download/v1.0.2/macos-intel-v1.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 549,
+            "windows": 550,
             "linux": 75,
             "macos": 6
           }
@@ -7735,7 +7735,7 @@
             "macos": "https://github.com/gratefulforest/Cratetopia/releases/download/v3.0.0/macos-intel-v3.0.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 14,
+            "windows": 15,
             "linux": 1,
             "macos": 0
           }
@@ -11185,5 +11185,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-09T11:34:38.987Z"
+  "lastUpdated": "2026-08-09T13:03:16.510Z"
 }
