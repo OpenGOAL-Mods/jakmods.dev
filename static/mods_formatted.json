@@ -22,6 +22,29 @@
       ],
       "versions": [
         {
+          "version": "0.5.5",
+          "publishedDate": "2026-08-09T19:04:26Z",
+          "supportedGames": [
+            "jak1",
+            "jak2",
+            "jak3"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/OpenGOAL-Mods/OG-Speedrun-Practice/releases/download/v0.5.5/windows-v0.5.5.zip",
+            "linux": "https://github.com/OpenGOAL-Mods/OG-Speedrun-Practice/releases/download/v0.5.5/linux-v0.5.5.tar.gz",
+            "macos": "https://github.com/OpenGOAL-Mods/OG-Speedrun-Practice/releases/download/v0.5.5/macos-intel-v0.5.5.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
           "version": "0.5.3",
           "publishedDate": "2026-06-30T21:37:03Z",
           "supportedGames": [
@@ -2993,7 +3016,7 @@
             "macos": "https://github.com/EvelynTSMG/Jak-EveBase/releases/download/v0.1.2/macos-intel-v0.1.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1518,
+            "windows": 1519,
             "linux": 300,
             "macos": 22
           }
@@ -3172,7 +3195,7 @@
             "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.6/macos-intel-v1.0.6.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 193,
+            "windows": 194,
             "linux": 29,
             "macos": 1
           }
@@ -3773,7 +3796,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 5247,
+            "windows": 5248,
             "linux": 408,
             "macos": 28
           }
@@ -4374,7 +4397,7 @@
             "macos": "https://github.com/Blake645/ArchipelaGOAL-3/releases/download/v1.1.0-jak3.0/macos-intel-v0.2.1-jak3.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 14,
+            "windows": 15,
             "linux": 1,
             "macos": 0
           }
@@ -5116,7 +5139,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 548,
+            "windows": 549,
             "linux": 124,
             "macos": 0
           }
@@ -5671,7 +5694,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Daxter2/releases/download/v1.1.2/macos-intel-v1.1.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 711,
+            "windows": 712,
             "linux": 117,
             "macos": 4
           }
@@ -5944,7 +5967,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v1.0.1/macos-intel-v1.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 281,
+            "windows": 282,
             "linux": 25,
             "macos": 1
           }
@@ -6961,7 +6984,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.54/macos-intel-v0.0.54.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1312,
+            "windows": 1317,
             "linux": 188,
             "macos": 18
           }
@@ -6982,7 +7005,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.52/macos-intel-v0.0.52.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 133,
+            "windows": 134,
             "linux": 14,
             "macos": 8
           }
@@ -10035,7 +10058,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 4216,
+            "windows": 4217,
             "linux": 568,
             "macos": 0
           }
@@ -11185,5 +11208,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-09T18:50:19.749Z"
+  "lastUpdated": "2026-08-09T19:38:51.482Z"
 }
