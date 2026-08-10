@@ -40,7 +40,7 @@
           },
           "assetDownloadCounts": {
             "windows": 2,
-            "linux": 1,
+            "linux": 2,
             "macos": 0
           }
         },
@@ -3016,7 +3016,7 @@
             "macos": "https://github.com/EvelynTSMG/Jak-EveBase/releases/download/v0.1.2/macos-intel-v0.1.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1522,
+            "windows": 1523,
             "linux": 301,
             "macos": 22
           }
@@ -4180,7 +4180,7 @@
             "macos": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.1.1/macos-intel-v0.1.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 772,
+            "windows": 773,
             "linux": 53,
             "macos": 2
           }
@@ -5139,7 +5139,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 552,
+            "windows": 553,
             "linux": 126,
             "macos": 0
           }
@@ -10079,7 +10079,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 4223,
+            "windows": 4224,
             "linux": 571,
             "macos": 0
           }
@@ -10829,7 +10829,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 3005,
+            "windows": 3006,
             "linux": 457,
             "macos": 85
           }
@@ -11229,5 +11229,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-10T19:35:20.246Z"
+  "lastUpdated": "2026-08-10T20:51:57.365Z"
 }
