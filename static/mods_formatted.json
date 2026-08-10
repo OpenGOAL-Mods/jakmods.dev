@@ -3195,7 +3195,7 @@
             "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.6/macos-intel-v1.0.6.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 196,
+            "windows": 197,
             "linux": 30,
             "macos": 1
           }
@@ -3258,7 +3258,7 @@
             "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 91,
+            "windows": 92,
             "linux": 12,
             "macos": 0
           }
@@ -3798,7 +3798,7 @@
           "assetDownloadCounts": {
             "windows": 5261,
             "linux": 412,
-            "macos": 28
+            "macos": 29
           }
         },
         {
@@ -5694,7 +5694,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Daxter2/releases/download/v1.1.2/macos-intel-v1.1.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 712,
+            "windows": 713,
             "linux": 117,
             "macos": 4
           }
@@ -9384,6 +9384,27 @@
       ],
       "versions": [
         {
+          "version": "0.0.32",
+          "publishedDate": "2026-08-10T12:46:25Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.32/windows-v0.0.32.zip",
+            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.32/linux-v0.0.32.tar.gz",
+            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.32/macos-intel-v0.0.32.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
           "version": "0.0.31",
           "publishedDate": "2026-08-09T08:46:28Z",
           "supportedGames": [
@@ -10058,7 +10079,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 4220,
+            "windows": 4221,
             "linux": 571,
             "macos": 0
           }
@@ -10808,7 +10829,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 3002,
+            "windows": 3004,
             "linux": 455,
             "macos": 85
           }
@@ -11208,5 +11229,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-10T12:11:44.481Z"
+  "lastUpdated": "2026-08-10T13:58:25.624Z"
 }
