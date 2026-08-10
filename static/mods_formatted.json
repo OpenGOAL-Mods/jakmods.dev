@@ -1565,7 +1565,7 @@
           },
           "assetDownloadCounts": {
             "windows": 322,
-            "linux": 45,
+            "linux": 46,
             "macos": 6
           }
         },
@@ -3085,7 +3085,7 @@
             "macos": "https://github.com/this-guy-git/JGChaos/releases/download/v0.3.0/macos-intel-v0.3.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 58,
+            "windows": 59,
             "linux": 12,
             "macos": 5
           }
@@ -3195,7 +3195,7 @@
             "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.6/macos-intel-v1.0.6.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 198,
+            "windows": 199,
             "linux": 30,
             "macos": 1
           }
@@ -5834,7 +5834,7 @@
             "macos": "https://github.com/myogmods/Jak-the-Mercenary/releases/download/v0.0.5/macos-intel-v0.0.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 38,
+            "windows": 39,
             "linux": 6,
             "macos": 0
           }
@@ -6984,7 +6984,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.54/macos-intel-v0.0.54.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1320,
+            "windows": 1322,
             "linux": 188,
             "macos": 18
           }
@@ -11229,5 +11229,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-10T15:09:19.496Z"
+  "lastUpdated": "2026-08-10T16:26:00.589Z"
 }
