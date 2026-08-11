@@ -39,7 +39,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Speedrun-Practice/releases/download/v0.5.5/macos-intel-v0.5.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 4,
+            "windows": 5,
             "linux": 2,
             "macos": 0
           }
@@ -3017,7 +3017,7 @@
           },
           "assetDownloadCounts": {
             "windows": 1523,
-            "linux": 301,
+            "linux": 302,
             "macos": 22
           }
         },
@@ -3796,7 +3796,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 5273,
+            "windows": 5274,
             "linux": 412,
             "macos": 30
           }
@@ -10080,7 +10080,7 @@
           },
           "assetDownloadCounts": {
             "windows": 4225,
-            "linux": 572,
+            "linux": 573,
             "macos": 0
           }
         },
@@ -10679,7 +10679,7 @@
           },
           "assetDownloadCounts": {
             "windows": 1584,
-            "linux": 242,
+            "linux": 243,
             "macos": 56
           }
         },
@@ -10830,7 +10830,7 @@
           },
           "assetDownloadCounts": {
             "windows": 3012,
-            "linux": 457,
+            "linux": 458,
             "macos": 85
           }
         },
@@ -10896,7 +10896,7 @@
           },
           "assetDownloadCounts": {
             "windows": 1669,
-            "linux": 267,
+            "linux": 268,
             "macos": 48
           }
         },
@@ -11229,5 +11229,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-11T08:32:36.957Z"
+  "lastUpdated": "2026-08-11T10:05:31.389Z"
 }
