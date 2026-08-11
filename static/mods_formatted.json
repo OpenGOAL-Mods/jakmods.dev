@@ -4568,7 +4568,7 @@
             "macos": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.9/macos-intel-v2.1.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 755,
+            "windows": 756,
             "linux": 93,
             "macos": 23
           }
@@ -10918,7 +10918,7 @@
           "assetDownloadCounts": {
             "windows": 1669,
             "linux": 268,
-            "macos": 48
+            "macos": 49
           }
         },
         {
@@ -11250,5 +11250,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-11T17:31:22.984Z"
+  "lastUpdated": "2026-08-11T18:30:36.664Z"
 }
