@@ -1240,7 +1240,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/releases/download/v0.2.5-mergetime1127.3/macos-intel-v0.2.5-mergetime1127.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 385,
+            "windows": 386,
             "linux": 50,
             "macos": 16
           }
@@ -1980,7 +1980,7 @@
             "macos": "https://github.com/dallmeyer/OG-OrbHunt/releases/download/v1.10.15/macos-intel-v1.10.15.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 388,
+            "windows": 389,
             "linux": 48,
             "macos": 13
           }
@@ -3661,7 +3661,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Yosemite/releases/download/v0.0.3/macos-intel-v0.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 330,
+            "windows": 331,
             "linux": 23,
             "macos": 4
           }
@@ -10315,7 +10315,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 600,
+            "windows": 602,
             "linux": 83,
             "macos": 0
           }
@@ -11271,5 +11271,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-12T14:38:38.762Z"
+  "lastUpdated": "2026-08-12T16:03:56.687Z"
 }
