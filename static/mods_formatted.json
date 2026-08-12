@@ -4397,7 +4397,7 @@
             "macos": "https://github.com/Blake645/ArchipelaGOAL-3/releases/download/v1.1.0-jak3.0/macos-intel-v0.2.1-jak3.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 32,
+            "windows": 33,
             "linux": 1,
             "macos": 0
           }
@@ -5140,7 +5140,7 @@
           },
           "assetDownloadCounts": {
             "windows": 560,
-            "linux": 129,
+            "linux": 130,
             "macos": 0
           }
         },
@@ -6181,7 +6181,7 @@
             "macos": "https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus/releases/download/v1.0.2/macos-intel-v1.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 570,
+            "windows": 571,
             "linux": 77,
             "macos": 6
           }
@@ -7556,7 +7556,7 @@
             "macos": "https://github.com/CraiyDev/Better-Dark-Jak/releases/download/v0.0.2/macos-intel-v0.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1884,
+            "windows": 1885,
             "linux": 345,
             "macos": 25
           }
@@ -10121,7 +10121,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 4232,
+            "windows": 4233,
             "linux": 576,
             "macos": 0
           }
@@ -10721,7 +10721,7 @@
           },
           "assetDownloadCounts": {
             "windows": 1585,
-            "linux": 245,
+            "linux": 246,
             "macos": 56
           }
         },
@@ -10871,7 +10871,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 3017,
+            "windows": 3018,
             "linux": 462,
             "macos": 85
           }
@@ -11271,5 +11271,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-12T06:04:54.638Z"
+  "lastUpdated": "2026-08-12T07:45:43.252Z"
 }
