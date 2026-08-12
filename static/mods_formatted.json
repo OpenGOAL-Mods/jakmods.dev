@@ -39,7 +39,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Speedrun-Practice/releases/download/v0.5.5/macos-intel-v0.5.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 15,
+            "windows": 16,
             "linux": 3,
             "macos": 0
           }
@@ -1564,7 +1564,7 @@
             "macos": "https://github.com/Hat-Kid/og-j1-board/releases/download/v0.0.6/macos-intel-v0.0.6.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 333,
+            "windows": 334,
             "linux": 48,
             "macos": 6
           }
@@ -2566,7 +2566,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Patched/releases/download/v1.1.3/macos-intel-v1.1.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1222,
+            "windows": 1223,
             "linux": 213,
             "macos": 32
           }
@@ -4397,7 +4397,7 @@
             "macos": "https://github.com/Blake645/ArchipelaGOAL-3/releases/download/v1.1.0-jak3.0/macos-intel-v0.2.1-jak3.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 31,
+            "windows": 32,
             "linux": 1,
             "macos": 0
           }
@@ -6181,7 +6181,7 @@
             "macos": "https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus/releases/download/v1.0.2/macos-intel-v1.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 568,
+            "windows": 570,
             "linux": 77,
             "macos": 6
           }
@@ -6984,7 +6984,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.54/macos-intel-v0.0.54.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1326,
+            "windows": 1329,
             "linux": 191,
             "macos": 18
           }
@@ -7556,7 +7556,7 @@
             "macos": "https://github.com/CraiyDev/Better-Dark-Jak/releases/download/v0.0.2/macos-intel-v0.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1883,
+            "windows": 1884,
             "linux": 345,
             "macos": 25
           }
@@ -9399,7 +9399,7 @@
             "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.35/macos-intel-v0.0.35.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2,
+            "windows": 3,
             "linux": 1,
             "macos": 0
           }
@@ -11271,5 +11271,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-12T04:24:32.530Z"
+  "lastUpdated": "2026-08-12T06:04:54.638Z"
 }
