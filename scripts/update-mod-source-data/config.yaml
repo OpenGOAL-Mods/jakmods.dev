@@ -476,6 +476,18 @@ mods:
     cover_art_url: "https://raw.githubusercontent.com/trippjoe/OG-No-Blue-No-Collect/refs/heads/main/thumbnail.webp"
     thumbnail_art_url: "https://raw.githubusercontent.com/trippjoe/OG-No-Blue-No-Collect/refs/heads/main/thumbnail.webp"
 
+  fishing:
+    repo_owner: "RealOfficialKraken"
+    repo_name: "Jak1-Fish"
+    url: "https://github.com/RealOfficialKraken/Jak1-Fish"
+    display_name: "The Fishing Legacy"
+    description: "What if you could beat Jak and Daxter by fishing? It was bound to be done at some point."
+    authors: ["Kraken"]
+    tags: ["gameplay-mod"]
+    # website_url: "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/blob/main/README.md"
+    cover_art_url: "https://raw.githubusercontent.com/RealOfficialKraken/Jak1-Fish/main/mod-image.png"
+    thumbnail_art_url: "https://raw.githubusercontent.com/RealOfficialKraken/Jak1-Fish/main/mod-icon.png"
+
   daxter-2:
     repo_owner: "OpenGOAL-Mods"
     repo_name: "OG-Daxter2"
