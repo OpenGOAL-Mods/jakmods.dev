@@ -2566,7 +2566,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Patched/releases/download/v1.1.3/macos-intel-v1.1.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1224,
+            "windows": 1225,
             "linux": 213,
             "macos": 32
           }
@@ -4397,7 +4397,7 @@
             "macos": "https://github.com/Blake645/ArchipelaGOAL-3/releases/download/v1.1.0-jak3.0/macos-intel-v0.2.1-jak3.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 35,
+            "windows": 36,
             "linux": 1,
             "macos": 0
           }
@@ -5691,7 +5691,7 @@
             "macos": "https://github.com/RealOfficialKraken/Jak1-Fish/releases/download/v1.1.3/macos-intel-v1.1.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 12,
+            "windows": 13,
             "linux": 1,
             "macos": 0
           }
@@ -6414,8 +6414,8 @@
             "macos": "https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus/releases/download/v1.0.2/macos-intel-v1.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 577,
-            "linux": 77,
+            "windows": 579,
+            "linux": 78,
             "macos": 6
           }
         },
@@ -7991,7 +7991,7 @@
             "macos": "https://github.com/gratefulforest/Cratetopia/releases/download/v3.0.0/macos-intel-v3.0.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 20,
+            "windows": 21,
             "linux": 3,
             "macos": 0
           }
@@ -11167,7 +11167,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 3023,
+            "windows": 3024,
             "linux": 462,
             "macos": 85
           }
@@ -11567,5 +11567,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-13T06:58:27.182Z"
+  "lastUpdated": "2026-08-13T08:39:38.347Z"
 }
