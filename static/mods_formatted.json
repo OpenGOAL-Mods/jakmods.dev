@@ -8120,7 +8120,7 @@
             "macos": "https://github.com/Nick0778/OG-Jak2-Defend-The-Portwall/releases/download/v1.1.0/macos-intel-v2.0.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 527,
+            "windows": 528,
             "linux": 57,
             "macos": 7
           }
@@ -11230,7 +11230,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 3036,
+            "windows": 3037,
             "linux": 462,
             "macos": 85
           }
@@ -11630,5 +11630,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-14T22:54:28.942Z"
+  "lastUpdated": "2026-08-14T23:28:16.002Z"
 }
