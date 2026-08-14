@@ -3749,7 +3749,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 1446,
+            "windows": 1447,
             "linux": 0,
             "macos": 0
           }
@@ -6242,7 +6242,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v1.0.1/macos-intel-v1.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 307,
+            "windows": 308,
             "linux": 30,
             "macos": 1
           }
@@ -10480,7 +10480,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 4245,
+            "windows": 4246,
             "linux": 578,
             "macos": 0
           }
@@ -11630,5 +11630,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-14T22:30:16.749Z"
+  "lastUpdated": "2026-08-14T22:54:28.942Z"
 }
