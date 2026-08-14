@@ -39,7 +39,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Speedrun-Practice/releases/download/v0.5.5/macos-intel-v0.5.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 20,
+            "windows": 21,
             "linux": 3,
             "macos": 0
           }
@@ -765,7 +765,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Randomizer/releases/download/v0.6.4/macos-intel-v0.6.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 573,
+            "windows": 574,
             "linux": 69,
             "macos": 31
           }
@@ -1564,7 +1564,7 @@
             "macos": "https://github.com/Hat-Kid/og-j1-board/releases/download/v0.0.6/macos-intel-v0.0.6.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 342,
+            "windows": 344,
             "linux": 49,
             "macos": 6
           }
@@ -2566,7 +2566,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Patched/releases/download/v1.1.3/macos-intel-v1.1.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1228,
+            "windows": 1229,
             "linux": 214,
             "macos": 32
           }
@@ -3661,7 +3661,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Yosemite/releases/download/v0.0.3/macos-intel-v0.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 336,
+            "windows": 337,
             "linux": 24,
             "macos": 4
           }
@@ -3796,7 +3796,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 5303,
+            "windows": 5305,
             "linux": 420,
             "macos": 30
           }
@@ -4568,7 +4568,7 @@
             "macos": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.9/macos-intel-v2.1.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 759,
+            "windows": 760,
             "linux": 94,
             "macos": 23
           }
@@ -5691,7 +5691,7 @@
             "macos": "https://github.com/RealOfficialKraken/Jak1-Fish/releases/download/v1.1.5/macos-intel-v1.1.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 4,
+            "windows": 10,
             "linux": 0,
             "macos": 0
           }
@@ -6197,7 +6197,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Jak2-AugustBuild/releases/download/v0.1.0/macos-intel-v0.1.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 365,
+            "windows": 366,
             "linux": 32,
             "macos": 16
           }
@@ -6456,7 +6456,7 @@
             "macos": "https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus/releases/download/v1.0.2/macos-intel-v1.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 583,
+            "windows": 585,
             "linux": 79,
             "macos": 6
           }
@@ -8033,7 +8033,7 @@
             "macos": "https://github.com/gratefulforest/Cratetopia/releases/download/v3.0.0/macos-intel-v3.0.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 21,
+            "windows": 22,
             "linux": 4,
             "macos": 0
           }
@@ -9659,6 +9659,27 @@
       ],
       "versions": [
         {
+          "version": "0.0.40",
+          "publishedDate": "2026-08-14T02:21:39Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.40/windows-v0.0.40.zip",
+            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.40/linux-v0.0.40.tar.gz",
+            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.40/macos-intel-v0.0.40.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
           "version": "0.0.39",
           "publishedDate": "2026-08-13T01:42:58Z",
           "supportedGames": [
@@ -9674,7 +9695,7 @@
             "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.39/macos-intel-v0.0.39.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 7,
+            "windows": 8,
             "linux": 0,
             "macos": 0
           }
@@ -10459,7 +10480,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 4241,
+            "windows": 4242,
             "linux": 576,
             "macos": 0
           }
@@ -10653,7 +10674,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 603,
+            "windows": 604,
             "linux": 83,
             "macos": 0
           }
@@ -10823,7 +10844,7 @@
             "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base/releases/download/v0.0.8-afoniddwr.2/macos-intel-v0.0.8-afoniddwr.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 741,
+            "windows": 742,
             "linux": 103,
             "macos": 29
           }
@@ -10993,7 +11014,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 1298,
+            "windows": 1299,
             "linux": 0,
             "macos": 0
           }
@@ -11058,7 +11079,7 @@
             "macos": "https://github.com/Cuttlefishthesage/LL-OpenGOAL-ModBase/releases/download/v4.3.4/macos-intel-v4.3.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1586,
+            "windows": 1587,
             "linux": 246,
             "macos": 56
           }
@@ -11123,7 +11144,7 @@
             "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base-Glacier/releases/download/v1.0.9/macos-intel-v1.0.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1182,
+            "windows": 1183,
             "linux": 170,
             "macos": 54
           }
@@ -11209,7 +11230,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 3030,
+            "windows": 3031,
             "linux": 462,
             "macos": 85
           }
@@ -11275,7 +11296,7 @@
             "macos": "https://github.com/Cuttlefishthesage/ErodedCoast/releases/download/v5.0.3/macos-intel-v5.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1676,
+            "windows": 1677,
             "linux": 270,
             "macos": 49
           }
@@ -11382,7 +11403,7 @@
             "macos": "https://github.com/slak1-OG-mods/jak1-sandpit-level/releases/download/v2.0.1-modbase-merge.4/macos-intel-v2.0.1-modbase-merge.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 901,
+            "windows": 902,
             "linux": 124,
             "macos": 32
           }
@@ -11609,5 +11630,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-14T00:09:12.284Z"
+  "lastUpdated": "2026-08-14T03:08:29.664Z"
 }
