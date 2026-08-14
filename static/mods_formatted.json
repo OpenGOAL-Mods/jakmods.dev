@@ -3016,7 +3016,7 @@
             "macos": "https://github.com/EvelynTSMG/Jak-EveBase/releases/download/v0.1.2/macos-intel-v0.1.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1533,
+            "windows": 1534,
             "linux": 305,
             "macos": 22
           }
@@ -5691,7 +5691,7 @@
             "macos": "https://github.com/RealOfficialKraken/Jak1-Fish/releases/download/v1.1.5/macos-intel-v1.1.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 12,
+            "windows": 13,
             "linux": 2,
             "macos": 0
           }
@@ -6243,7 +6243,7 @@
           },
           "assetDownloadCounts": {
             "windows": 300,
-            "linux": 29,
+            "linux": 30,
             "macos": 1
           }
         },
@@ -6456,7 +6456,7 @@
             "macos": "https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus/releases/download/v1.0.2/macos-intel-v1.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 586,
+            "windows": 587,
             "linux": 81,
             "macos": 6
           }
@@ -7702,7 +7702,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Dark-Jak/releases/download/v0.5.0/macos-intel-v0.5.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 688,
+            "windows": 689,
             "linux": 106,
             "macos": 16
           }
@@ -7987,7 +7987,7 @@
             "macos": "https://github.com/gratefulforest/Platformia/releases/download/v0.0.1/macos-intel-v0.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 580,
+            "windows": 581,
             "linux": 64,
             "macos": 18
           }
@@ -10481,7 +10481,7 @@
           },
           "assetDownloadCounts": {
             "windows": 4244,
-            "linux": 576,
+            "linux": 577,
             "macos": 0
           }
         },
@@ -11630,5 +11630,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-14T09:37:31.999Z"
+  "lastUpdated": "2026-08-14T11:02:26.075Z"
 }
