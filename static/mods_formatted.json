@@ -765,7 +765,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Randomizer/releases/download/v0.6.4/macos-intel-v0.6.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 574,
+            "windows": 575,
             "linux": 69,
             "macos": 31
           }
@@ -3796,7 +3796,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 5305,
+            "windows": 5306,
             "linux": 421,
             "macos": 30
           }
@@ -5692,7 +5692,7 @@
           },
           "assetDownloadCounts": {
             "windows": 12,
-            "linux": 1,
+            "linux": 2,
             "macos": 0
           }
         },
@@ -6242,7 +6242,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v1.0.1/macos-intel-v1.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 299,
+            "windows": 300,
             "linux": 29,
             "macos": 1
           }
@@ -7702,7 +7702,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Dark-Jak/releases/download/v0.5.0/macos-intel-v0.5.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 687,
+            "windows": 688,
             "linux": 106,
             "macos": 16
           }
@@ -10480,7 +10480,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 4243,
+            "windows": 4244,
             "linux": 576,
             "macos": 0
           }
@@ -10674,7 +10674,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 604,
+            "windows": 605,
             "linux": 83,
             "macos": 0
           }
@@ -11630,5 +11630,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-14T06:56:25.192Z"
+  "lastUpdated": "2026-08-14T08:21:13.952Z"
 }
