@@ -3016,8 +3016,8 @@
             "macos": "https://github.com/EvelynTSMG/Jak-EveBase/releases/download/v0.1.2/macos-intel-v0.1.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1536,
-            "linux": 305,
+            "windows": 1537,
+            "linux": 306,
             "macos": 22
           }
         },
@@ -3797,7 +3797,7 @@
           },
           "assetDownloadCounts": {
             "windows": 5329,
-            "linux": 421,
+            "linux": 422,
             "macos": 31
           }
         },
@@ -5139,7 +5139,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 566,
+            "windows": 567,
             "linux": 132,
             "macos": 0
           }
@@ -5691,7 +5691,7 @@
             "macos": "https://github.com/RealOfficialKraken/Jak1-Fish/releases/download/v1.1.7/macos-intel-v1.1.7.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 5,
+            "windows": 6,
             "linux": 0,
             "macos": 0
           }
@@ -10738,7 +10738,7 @@
           },
           "assetDownloadCounts": {
             "windows": 606,
-            "linux": 83,
+            "linux": 84,
             "macos": 0
           }
         },
@@ -11693,5 +11693,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-15T07:36:15.260Z"
+  "lastUpdated": "2026-08-15T08:36:18.257Z"
 }
