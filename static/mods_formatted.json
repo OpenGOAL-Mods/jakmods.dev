@@ -765,7 +765,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Randomizer/releases/download/v0.6.4/macos-intel-v0.6.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 577,
+            "windows": 578,
             "linux": 69,
             "macos": 31
           }
@@ -1980,7 +1980,7 @@
             "macos": "https://github.com/dallmeyer/OG-OrbHunt/releases/download/v1.10.15/macos-intel-v1.10.15.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 391,
+            "windows": 392,
             "linux": 49,
             "macos": 13
           }
@@ -3195,7 +3195,7 @@
             "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.6/macos-intel-v1.0.6.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 223,
+            "windows": 224,
             "linux": 37,
             "macos": 1
           }
@@ -11714,5 +11714,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-15T14:53:26.668Z"
+  "lastUpdated": "2026-08-15T15:27:06.661Z"
 }
