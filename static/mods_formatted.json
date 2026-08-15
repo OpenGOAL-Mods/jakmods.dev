@@ -3085,7 +3085,7 @@
             "macos": "https://github.com/this-guy-git/JGChaos/releases/download/v0.3.0/macos-intel-v0.3.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 63,
+            "windows": 64,
             "linux": 12,
             "macos": 5
           }
@@ -3796,7 +3796,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 5327,
+            "windows": 5328,
             "linux": 421,
             "macos": 31
           }
@@ -5675,6 +5675,27 @@
         "jak1"
       ],
       "versions": [
+        {
+          "version": "1.1.7",
+          "publishedDate": "2026-08-15T02:05:06Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/RealOfficialKraken/Jak1-Fish/releases/download/v1.1.7/windows-v1.1.7.zip",
+            "linux": "https://github.com/RealOfficialKraken/Jak1-Fish/releases/download/v1.1.7/linux-v1.1.7.tar.gz",
+            "macos": "https://github.com/RealOfficialKraken/Jak1-Fish/releases/download/v1.1.7/macos-intel-v1.1.7.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
         {
           "version": "1.1.6",
           "publishedDate": "2026-08-15T00:43:40Z",
@@ -9716,7 +9737,7 @@
             "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.40/macos-intel-v0.0.40.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2,
+            "windows": 3,
             "linux": 0,
             "macos": 1
           }
@@ -10886,7 +10907,7 @@
             "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base/releases/download/v0.0.8-afoniddwr.2/macos-intel-v0.0.8-afoniddwr.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 743,
+            "windows": 744,
             "linux": 103,
             "macos": 29
           }
@@ -11338,7 +11359,7 @@
             "macos": "https://github.com/Cuttlefishthesage/ErodedCoast/releases/download/v5.0.3/macos-intel-v5.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1681,
+            "windows": 1682,
             "linux": 271,
             "macos": 49
           }
@@ -11672,5 +11693,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-15T01:35:56.229Z"
+  "lastUpdated": "2026-08-15T02:56:33.808Z"
 }
