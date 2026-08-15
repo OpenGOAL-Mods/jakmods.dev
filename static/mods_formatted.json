@@ -765,7 +765,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Randomizer/releases/download/v0.6.4/macos-intel-v0.6.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 578,
+            "windows": 579,
             "linux": 69,
             "macos": 31
           }
@@ -1564,7 +1564,7 @@
             "macos": "https://github.com/Hat-Kid/og-j1-board/releases/download/v0.0.6/macos-intel-v0.0.6.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 351,
+            "windows": 352,
             "linux": 50,
             "macos": 6
           }
@@ -3796,7 +3796,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 5338,
+            "windows": 5340,
             "linux": 422,
             "macos": 31
           }
@@ -5139,7 +5139,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 567,
+            "windows": 569,
             "linux": 132,
             "macos": 0
           }
@@ -5675,6 +5675,27 @@
         "jak1"
       ],
       "versions": [
+        {
+          "version": "1.1.8",
+          "publishedDate": "2026-08-15T18:35:34Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/RealOfficialKraken/Jak1-Fish/releases/download/v1.1.8/windows-v1.1.8.zip",
+            "linux": "https://github.com/RealOfficialKraken/Jak1-Fish/releases/download/v1.1.8/linux-v1.1.8.tar.gz",
+            "macos": "https://github.com/RealOfficialKraken/Jak1-Fish/releases/download/v1.1.8/macos-intel-v1.1.8.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
         {
           "version": "1.1.7",
           "publishedDate": "2026-08-15T02:05:06Z",
@@ -8162,7 +8183,7 @@
             "macos": "https://github.com/Nick0778/OG-Jak2-Defend-The-Portwall/releases/download/v1.1.0/macos-intel-v2.0.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 528,
+            "windows": 529,
             "linux": 57,
             "macos": 7
           }
@@ -8183,7 +8204,7 @@
             "macos": "https://github.com/Nick0778/OG-Jak2-Defend-The-Portwall/releases/download/v1.0.0/macos-intel-v1.0.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 433,
+            "windows": 434,
             "linux": 20,
             "macos": 6
           }
@@ -10564,7 +10585,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 4249,
+            "windows": 4250,
             "linux": 578,
             "macos": 0
           }
@@ -11314,7 +11335,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 3042,
+            "windows": 3043,
             "linux": 464,
             "macos": 85
           }
@@ -11714,5 +11735,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-15T17:49:33.323Z"
+  "lastUpdated": "2026-08-15T18:37:05.762Z"
 }
