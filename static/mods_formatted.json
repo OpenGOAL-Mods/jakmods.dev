@@ -3796,7 +3796,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 5334,
+            "windows": 5335,
             "linux": 422,
             "macos": 31
           }
@@ -9055,7 +9055,7 @@
             "macos": "https://github.com/my-opengoal-mods/OG-warp-randomizer/releases/download/v0.0.16/macos-intel-v0.0.16.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 245,
+            "windows": 246,
             "linux": 25,
             "macos": 25
           }
@@ -11714,5 +11714,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-15T14:28:24.527Z"
+  "lastUpdated": "2026-08-15T14:53:26.668Z"
 }
