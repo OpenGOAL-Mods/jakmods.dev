@@ -1981,7 +1981,7 @@
           },
           "assetDownloadCounts": {
             "windows": 391,
-            "linux": 48,
+            "linux": 49,
             "macos": 13
           }
         },
@@ -4569,7 +4569,7 @@
           },
           "assetDownloadCounts": {
             "windows": 761,
-            "linux": 94,
+            "linux": 95,
             "macos": 23
           }
         },
@@ -5691,7 +5691,7 @@
             "macos": "https://github.com/RealOfficialKraken/Jak1-Fish/releases/download/v1.1.7/macos-intel-v1.1.7.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 4,
+            "windows": 5,
             "linux": 0,
             "macos": 0
           }
@@ -6284,7 +6284,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v1.0.1/macos-intel-v1.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 308,
+            "windows": 309,
             "linux": 30,
             "macos": 1
           }
@@ -7301,8 +7301,8 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.54/macos-intel-v0.0.54.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1335,
-            "linux": 192,
+            "windows": 1336,
+            "linux": 193,
             "macos": 18
           }
         },
@@ -10908,7 +10908,7 @@
           },
           "assetDownloadCounts": {
             "windows": 744,
-            "linux": 104,
+            "linux": 105,
             "macos": 29
           }
         },
@@ -11143,7 +11143,7 @@
           },
           "assetDownloadCounts": {
             "windows": 1589,
-            "linux": 246,
+            "linux": 247,
             "macos": 56
           }
         },
@@ -11294,7 +11294,7 @@
           },
           "assetDownloadCounts": {
             "windows": 3040,
-            "linux": 463,
+            "linux": 464,
             "macos": 85
           }
         },
@@ -11693,5 +11693,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-15T06:47:07.835Z"
+  "lastUpdated": "2026-08-15T07:36:15.260Z"
 }
