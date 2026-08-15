@@ -2566,7 +2566,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Patched/releases/download/v1.1.3/macos-intel-v1.1.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1232,
+            "windows": 1234,
             "linux": 214,
             "macos": 32
           }
@@ -3016,7 +3016,7 @@
             "macos": "https://github.com/EvelynTSMG/Jak-EveBase/releases/download/v0.1.2/macos-intel-v0.1.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1537,
+            "windows": 1538,
             "linux": 306,
             "macos": 22
           }
@@ -4397,7 +4397,7 @@
             "macos": "https://github.com/Blake645/ArchipelaGOAL-3/releases/download/v1.1.0-jak3.0/macos-intel-v0.2.1-jak3.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 51,
+            "windows": 52,
             "linux": 3,
             "macos": 0
           }
@@ -5691,7 +5691,7 @@
             "macos": "https://github.com/RealOfficialKraken/Jak1-Fish/releases/download/v1.1.7/macos-intel-v1.1.7.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 7,
+            "windows": 8,
             "linux": 0,
             "macos": 0
           }
@@ -7301,7 +7301,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.54/macos-intel-v0.0.54.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1339,
+            "windows": 1340,
             "linux": 193,
             "macos": 18
           }
@@ -9701,6 +9701,27 @@
       ],
       "versions": [
         {
+          "version": "0.0.42",
+          "publishedDate": "2026-08-15T14:11:28Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.42/windows-v0.0.42.zip",
+            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.42/linux-v0.0.42.tar.gz",
+            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.42/macos-intel-v0.0.42.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
           "version": "0.0.41",
           "publishedDate": "2026-08-15T01:21:47Z",
           "supportedGames": [
@@ -11693,5 +11714,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-15T13:35:57.553Z"
+  "lastUpdated": "2026-08-15T14:28:24.527Z"
 }
