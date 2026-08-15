@@ -2566,7 +2566,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Patched/releases/download/v1.1.3/macos-intel-v1.1.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1234,
+            "windows": 1235,
             "linux": 214,
             "macos": 32
           }
@@ -3796,7 +3796,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 5336,
+            "windows": 5337,
             "linux": 422,
             "macos": 31
           }
@@ -5691,7 +5691,7 @@
             "macos": "https://github.com/RealOfficialKraken/Jak1-Fish/releases/download/v1.1.7/macos-intel-v1.1.7.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 10,
+            "windows": 11,
             "linux": 1,
             "macos": 0
           }
@@ -7874,7 +7874,7 @@
           },
           "assetDownloadCounts": {
             "windows": 1891,
-            "linux": 349,
+            "linux": 350,
             "macos": 25
           }
         }
@@ -11163,7 +11163,7 @@
             "macos": "https://github.com/Cuttlefishthesage/LL-OpenGOAL-ModBase/releases/download/v4.3.4/macos-intel-v4.3.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1590,
+            "windows": 1591,
             "linux": 247,
             "macos": 56
           }
@@ -11714,5 +11714,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-15T16:55:18.815Z"
+  "lastUpdated": "2026-08-15T17:26:02.401Z"
 }
