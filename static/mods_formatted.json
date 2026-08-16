@@ -1564,7 +1564,7 @@
             "macos": "https://github.com/Hat-Kid/og-j1-board/releases/download/v0.0.6/macos-intel-v0.0.6.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 361,
+            "windows": 362,
             "linux": 51,
             "macos": 6
           }
@@ -11033,7 +11033,7 @@
             "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base/releases/download/v0.0.8-afoniddwr.2/macos-intel-v0.0.8-afoniddwr.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 746,
+            "windows": 747,
             "linux": 105,
             "macos": 29
           }
@@ -11203,7 +11203,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 1301,
+            "windows": 1302,
             "linux": 0,
             "macos": 0
           }
@@ -11592,7 +11592,7 @@
             "macos": "https://github.com/slak1-OG-mods/jak1-sandpit-level/releases/download/v2.0.1-modbase-merge.4/macos-intel-v2.0.1-modbase-merge.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 903,
+            "windows": 904,
             "linux": 124,
             "macos": 32
           }
@@ -11819,5 +11819,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-16T06:50:04.213Z"
+  "lastUpdated": "2026-08-16T07:36:52.165Z"
 }
