@@ -4418,7 +4418,7 @@
             "macos": "https://github.com/Blake645/ArchipelaGOAL-3/releases/download/v1.2.0/macos-intel-v1.2.0-jak3.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 6,
+            "windows": 7,
             "linux": 1,
             "macos": 0
           }
@@ -11819,5 +11819,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-16T14:28:50.239Z"
+  "lastUpdated": "2026-08-16T14:53:51.193Z"
 }
