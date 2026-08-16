@@ -3195,7 +3195,7 @@
             "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.6/macos-intel-v1.0.6.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 231,
+            "windows": 233,
             "linux": 37,
             "macos": 1
           }
@@ -3796,7 +3796,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 5364,
+            "windows": 5365,
             "linux": 424,
             "macos": 31
           }
@@ -6389,7 +6389,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v1.0.1/macos-intel-v1.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 323,
+            "windows": 324,
             "linux": 33,
             "macos": 1
           }
@@ -9806,6 +9806,27 @@
       ],
       "versions": [
         {
+          "version": "0.0.43",
+          "publishedDate": "2026-08-16T23:19:21Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.43/windows-v0.0.43.zip",
+            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.43/linux-v0.0.43.tar.gz",
+            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.43/macos-intel-v0.0.43.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
           "version": "0.0.42",
           "publishedDate": "2026-08-15T14:11:28Z",
           "supportedGames": [
@@ -9821,7 +9842,7 @@
             "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.42/macos-intel-v0.0.42.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 9,
+            "windows": 11,
             "linux": 0,
             "macos": 1
           }
@@ -11819,5 +11840,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-16T22:50:45.353Z"
+  "lastUpdated": "2026-08-16T23:26:27.074Z"
 }
