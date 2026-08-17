@@ -97,10 +97,225 @@
       "supportedGames": [
         "jak1"
       ],
-      "versions": [],
+      "versions": [
+        {
+          "version": "0.2.5-mergetime1127.3",
+          "publishedDate": "2025-10-09T21:18:02Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/releases/download/v0.2.5-mergetime1127.3/windows-v0.2.5-mergetime1127.3.zip",
+            "linux": "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/releases/download/v0.2.5-mergetime1127.3/linux-v0.2.5-mergetime1127.3.tar.gz",
+            "macos": "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/releases/download/v0.2.5-mergetime1127.3/macos-intel-v0.2.5-mergetime1127.3.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 394,
+            "linux": 50,
+            "macos": 16
+          }
+        },
+        {
+          "version": "0.2.5-mergetime1127.1",
+          "publishedDate": "2025-05-10T15:54:30Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/releases/download/v0.2.5-mergetime1127.1/windows-v0.2.5-mergetime1127.1.zip",
+            "linux": "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/releases/download/v0.2.5-mergetime1127.1/linux-v0.2.5-mergetime1127.1.tar.gz",
+            "macos": "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/releases/download/v0.2.5-mergetime1127.1/macos-intel-v0.2.5-mergetime1127.1.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 172,
+            "linux": 12,
+            "macos": 12
+          }
+        },
+        {
+          "version": "0.2.3-mergetime1127.0",
+          "publishedDate": "2024-12-29T20:01:16Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/releases/download/v0.2.3-mergetime1127.0/windows-v0.2.3-mergetime1127.0.zip",
+            "linux": "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/releases/download/v0.2.3-mergetime1127.0/linux-v0.2.3-mergetime1127.0.tar.gz",
+            "macos": "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/releases/download/v0.2.3-mergetime1127.0/macos-intel-v0.2.3-mergetime1127.0.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 88,
+            "linux": 15,
+            "macos": 10
+          }
+        },
+        {
+          "version": "0.2.4",
+          "publishedDate": "2025-03-03T22:15:10Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/releases/download/v0.2.4/windows-v0.2.4.zip",
+            "linux": "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/releases/download/v0.2.4/linux-v0.2.4.tar.gz",
+            "macos": "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/releases/download/v0.2.4/macos-intel-v0.2.4.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 105,
+            "linux": 15,
+            "macos": 9
+          }
+        },
+        {
+          "version": "0.2.2",
+          "publishedDate": "2024-11-28T04:33:57Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/releases/download/v0.2.2/windows-v0.2.2-mergetime1127.0.zip",
+            "linux": "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/releases/download/v0.2.2/linux-v0.2.2-mergetime1127.0.tar.gz",
+            "macos": "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/releases/download/v0.2.2/macos-intel-v0.2.2-mergetime1127.0.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 74,
+            "linux": 7,
+            "macos": 7
+          }
+        },
+        {
+          "version": "0.2.1",
+          "publishedDate": "2024-11-27T21:24:31Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/releases/download/v0.2.1/windows-v0.2.1-mergetime1127.1.zip",
+            "linux": "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/releases/download/v0.2.1/linux-v0.2.1-mergetime1127.1.tar.gz",
+            "macos": "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/releases/download/v0.2.1/macos-intel-v0.2.1-mergetime1127.1.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 16,
+            "linux": 6,
+            "macos": 6
+          }
+        },
+        {
+          "version": "0.2.0",
+          "publishedDate": "2024-09-02T20:06:20Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/releases/download/v0.2.0/windows-v0.2.0.zip",
+            "linux": "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/releases/download/v0.2.0/linux-v0.2.0.tar.gz",
+            "macos": "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/releases/download/v0.2.0/macos-intel-v0.2.0.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 129,
+            "linux": 16,
+            "macos": 9
+          }
+        },
+        {
+          "version": "0.1.4",
+          "publishedDate": "2024-08-19T19:31:27Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/releases/download/v0.1.4/windows-v0.1.4.zip",
+            "linux": null,
+            "macos": null
+          },
+          "assetDownloadCounts": {
+            "windows": 31,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
+          "version": "0.1.3",
+          "publishedDate": "2024-08-17T04:09:35Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/releases/download/v0.1.3/windows-v0.1.3.zip",
+            "linux": null,
+            "macos": null
+          },
+          "assetDownloadCounts": {
+            "windows": 11,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
+          "version": "0.1.2",
+          "publishedDate": "2024-08-16T21:27:07Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/releases/download/v0.1.2/windows-v0.1.2.zip",
+            "linux": null,
+            "macos": null
+          },
+          "assetDownloadCounts": {
+            "windows": 15,
+            "linux": 0,
+            "macos": 0
+          }
+        }
+      ],
       "coverArtUrl": "https://raw.githubusercontent.com/dallmeyer/modimages/main/flutflutlegacy.png",
       "thumbnailArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/FlutFlutSmall.png",
-      "perGameConfig": {},
+      "perGameConfig": {
+        "jak1": {
+          "releaseDate": "2022-09-10"
+        }
+      },
       "externalLink": null
     },
     "zoomer-legacy": {
@@ -774,99 +989,10 @@
       "supportedGames": [
         "jak1"
       ],
-      "versions": [
-        {
-          "version": "1.2.0-fools",
-          "publishedDate": "2025-03-19T16:42:33Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/EvelynTSMG/JakSpeeb/releases/download/v1.2.0-fools/windows-v1.2.0-fools.zip",
-            "linux": "https://github.com/EvelynTSMG/JakSpeeb/releases/download/v1.2.0-fools/linux-v1.2.0-fools.tar.gz",
-            "macos": "https://github.com/EvelynTSMG/JakSpeeb/releases/download/v1.2.0-fools/macos-intel-v1.2.0-fools.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 42,
-            "linux": 8,
-            "macos": 7
-          }
-        },
-        {
-          "version": "1.2.0",
-          "publishedDate": "2025-04-17T18:18:10Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/EvelynTSMG/JakSpeeb/releases/download/v1.2.0/windows-v1.2.0.zip",
-            "linux": "https://github.com/EvelynTSMG/JakSpeeb/releases/download/v1.2.0/linux-v1.2.0.tar.gz",
-            "macos": "https://github.com/EvelynTSMG/JakSpeeb/releases/download/v1.2.0/macos-intel-v1.2.0.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 229,
-            "linux": 24,
-            "macos": 15
-          }
-        },
-        {
-          "version": "1.1.0",
-          "publishedDate": "2025-02-25T06:30:46Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/EvelynTSMG/JakSpeeb/releases/download/v1.1.0/windows-v1.1.0.zip",
-            "linux": "https://github.com/EvelynTSMG/JakSpeeb/releases/download/v1.1.0/linux-v1.1.0.tar.gz",
-            "macos": "https://github.com/EvelynTSMG/JakSpeeb/releases/download/v1.1.0/macos-intel-v1.1.0.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 11,
-            "linux": 8,
-            "macos": 8
-          }
-        },
-        {
-          "version": "1.0.0",
-          "publishedDate": "2024-12-31T22:56:46Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/EvelynTSMG/JakSpeeb/releases/download/v1.0.0/windows-v1.0.0.zip",
-            "linux": "https://github.com/EvelynTSMG/JakSpeeb/releases/download/v1.0.0/linux-v1.0.0.tar.gz",
-            "macos": "https://github.com/EvelynTSMG/JakSpeeb/releases/download/v1.0.0/macos-intel-v1.0.0.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 102,
-            "linux": 13,
-            "macos": 12
-          }
-        }
-      ],
+      "versions": [],
       "coverArtUrl": "https://raw.githubusercontent.com/EvelynTSMG/JakSpeeb/refs/heads/main/_background.png",
       "thumbnailArtUrl": "https://raw.githubusercontent.com/EvelynTSMG/JakSpeeb/refs/heads/main/_thumbnail.png",
-      "perGameConfig": {
-        "jak1": {
-          "releaseDate": "2024-12-31"
-        }
-      },
+      "perGameConfig": {},
       "externalLink": null
     },
     "platformia": {
@@ -962,17 +1088,65 @@
       ],
       "websiteUrl": "https://github.com/OpenGOAL-Mods/OG-ILs/blob/main/README.md",
       "supportedGames": [
-        "jak1"
+        "jak2",
+        "jak3"
       ],
-      "versions": [],
+      "versions": [
+        {
+          "version": "0.0.2",
+          "publishedDate": "2025-03-15T05:39:54Z",
+          "supportedGames": [
+            "jak2",
+            "jak3"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.0.2/windows-v0.0.2.zip",
+            "linux": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.0.2/linux-v0.0.2.tar.gz",
+            "macos": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.0.2/macos-intel-v0.0.2.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 17,
+            "linux": 11,
+            "macos": 10
+          }
+        },
+        {
+          "version": "0.0.1",
+          "publishedDate": "2025-03-15T03:21:37Z",
+          "supportedGames": [
+            "jak2",
+            "jak3"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.0.1/windows-v0.0.1.zip",
+            "linux": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.0.1/linux-v0.0.1.tar.gz",
+            "macos": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.0.1/macos-intel-v0.0.1.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 15,
+            "linux": 8,
+            "macos": 12
+          }
+        }
+      ],
       "perGameConfig": {
         "jak2": {
           "coverArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-ILs/refs/heads/main/ils-background.png",
-          "thumbnailArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-ILs/refs/heads/main/ils-thumb.png"
+          "thumbnailArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-ILs/refs/heads/main/ils-thumb.png",
+          "releaseDate": "2025-03-15"
         },
         "jak3": {
           "coverArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-ILs/refs/heads/main/ils-background-3.png",
-          "thumbnailArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/refs/heads/main/ModImages/jak3og_missions.png"
+          "thumbnailArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/refs/heads/main/ModImages/jak3og_missions.png",
+          "releaseDate": "2026-04-01"
         }
       },
       "externalLink": null
@@ -1284,5 +1458,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-17T13:43:53.563Z"
+  "lastUpdated": "2026-08-17T14:34:10.952Z"
 }
