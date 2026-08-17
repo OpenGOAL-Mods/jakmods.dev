@@ -1564,7 +1564,7 @@
             "macos": "https://github.com/Hat-Kid/og-j1-board/releases/download/v0.0.6/macos-intel-v0.0.6.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 375,
+            "windows": 377,
             "linux": 54,
             "macos": 6
           }
@@ -10690,7 +10690,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 4263,
+            "windows": 4264,
             "linux": 583,
             "macos": 0
           }
@@ -11840,5 +11840,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-17T09:50:45.551Z"
+  "lastUpdated": "2026-08-17T10:38:38.468Z"
 }
