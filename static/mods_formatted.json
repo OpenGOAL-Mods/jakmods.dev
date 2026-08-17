@@ -1240,7 +1240,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/releases/download/v0.2.5-mergetime1127.3/macos-intel-v0.2.5-mergetime1127.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 394,
+            "windows": 395,
             "linux": 50,
             "macos": 16
           }
@@ -8134,7 +8134,7 @@
             "macos": "https://github.com/gratefulforest/Platformia/releases/download/v0.0.1/macos-intel-v0.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 581,
+            "windows": 582,
             "linux": 64,
             "macos": 18
           }
@@ -10690,7 +10690,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 4266,
+            "windows": 4269,
             "linux": 583,
             "macos": 0
           }
@@ -11840,5 +11840,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-17T16:34:20.787Z"
+  "lastUpdated": "2026-08-17T17:33:48.121Z"
 }
