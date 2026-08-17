@@ -480,6 +480,8 @@ mods:
     repo_owner: "RealOfficialKraken"
     repo_name: "Jak1-Fish"
     url: "https://github.com/RealOfficialKraken/Jak1-Fish"
+    ignore_versions:
+      - "1.2.0"
     display_name: "The Fishing Legacy"
     description: "What if you could beat Jak and Daxter by fishing? It was bound to be done at some point."
     authors: ["Kraken"]
