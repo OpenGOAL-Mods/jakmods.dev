@@ -42,7 +42,7 @@ function BuildTable(game, data) {
         mod["authors"].join(", "),
         mod["tags"].sort().join(", "),
         [...new Set(platforms)].join(", "), // dedupe
-        releaseDate.substring(0,10),
+        releaseDate ? releaseDate.substring(0,10) : "Unknown",
         downloads,
         mod["websiteUrl"], 
         game
@@ -50,7 +50,7 @@ function BuildTable(game, data) {
     }
   }
 
-  console.log(mods);
+  // console.log(mods);
 
   // add blank tables
   let table = document.createElement("table");
@@ -137,7 +137,9 @@ function ModListTable(props) {
     }, []);
 
   if (!data) {
-    return <div>Loading data...</div>;
+    return <div><b>Loading data...</b></div>;
+  } else if (data.sourceName !== "JakMods") {
+    return <div><b>Failed to load mod list! GitHub may be experiencing issues, check their <a href="https://www.githubstatus.com/">Status Page</a>.</b></div>;
   }
 
   console.log(data);
