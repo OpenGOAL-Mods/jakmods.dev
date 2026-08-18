@@ -3218,7 +3218,7 @@
             "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.6/macos-intel-v1.0.6.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 242,
+            "windows": 243,
             "linux": 39,
             "macos": 1
           }
@@ -3819,7 +3819,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 5396,
+            "windows": 5397,
             "linux": 430,
             "macos": 31
           }
@@ -11463,7 +11463,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 3067,
+            "windows": 3068,
             "linux": 465,
             "macos": 85
           }
@@ -11529,7 +11529,7 @@
             "macos": "https://github.com/Cuttlefishthesage/ErodedCoast/releases/download/v5.0.3/macos-intel-v5.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1704,
+            "windows": 1705,
             "linux": 274,
             "macos": 50
           }
@@ -11863,5 +11863,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-18T10:34:59.290Z"
+  "lastUpdated": "2026-08-18T11:31:55.281Z"
 }
