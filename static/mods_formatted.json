@@ -1111,7 +1111,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-RCO/releases/download/v0.3.0/macos-intel-v0.3.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 127,
+            "windows": 128,
             "linux": 15,
             "macos": 7
           }
@@ -3819,7 +3819,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 5403,
+            "windows": 5405,
             "linux": 430,
             "macos": 31
           }
@@ -5756,7 +5756,7 @@
             "macos": "https://github.com/RealOfficialKraken/Jak1-Fish/releases/download/v1.2.2/macos-intel-v1.2.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2,
+            "windows": 5,
             "linux": 0,
             "macos": 0
           }
@@ -6647,7 +6647,7 @@
             "macos": "https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus/releases/download/v1.0.2/macos-intel-v1.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 631,
+            "windows": 632,
             "linux": 88,
             "macos": 7
           }
@@ -8022,7 +8022,7 @@
             "macos": "https://github.com/CraiyDev/Better-Dark-Jak/releases/download/v0.0.2/macos-intel-v0.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1912,
+            "windows": 1913,
             "linux": 352,
             "macos": 25
           }
@@ -11571,7 +11571,7 @@
             "macos": "https://github.com/Cuttlefishthesage/ErodedCoast/releases/download/v5.0.3/macos-intel-v5.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1709,
+            "windows": 1711,
             "linux": 274,
             "macos": 50
           }
@@ -11905,5 +11905,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-18T23:50:39.002Z"
+  "lastUpdated": "2026-08-19T01:38:12.407Z"
 }
