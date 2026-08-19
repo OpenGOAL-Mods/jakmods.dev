@@ -39,7 +39,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Speedrun-Practice/releases/download/v0.5.6/macos-intel-v0.5.6.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 6,
+            "windows": 7,
             "linux": 0,
             "macos": 0
           }
@@ -2003,7 +2003,7 @@
             "macos": "https://github.com/dallmeyer/OG-OrbHunt/releases/download/v1.10.15/macos-intel-v1.10.15.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 394,
+            "windows": 395,
             "linux": 49,
             "macos": 13
           }
@@ -3819,7 +3819,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 5405,
+            "windows": 5408,
             "linux": 430,
             "macos": 31
           }
@@ -4203,7 +4203,7 @@
             "macos": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.2.0/macos-intel-v0.2.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 33,
+            "windows": 34,
             "linux": 2,
             "macos": 0
           }
@@ -4224,7 +4224,7 @@
             "macos": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.1.1/macos-intel-v0.1.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 794,
+            "windows": 795,
             "linux": 56,
             "macos": 2
           }
@@ -4633,7 +4633,7 @@
             "macos": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.9/macos-intel-v2.1.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 769,
+            "windows": 770,
             "linux": 97,
             "macos": 23
           }
@@ -5741,6 +5741,27 @@
       ],
       "versions": [
         {
+          "version": "1.2.3",
+          "publishedDate": "2026-08-19T01:56:14Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/RealOfficialKraken/Jak1-Fish/releases/download/v1.2.3/windows-v1.2.3.zip",
+            "linux": "https://github.com/RealOfficialKraken/Jak1-Fish/releases/download/v1.2.3/linux-v1.2.3.tar.gz",
+            "macos": "https://github.com/RealOfficialKraken/Jak1-Fish/releases/download/v1.2.3/macos-intel-v1.2.3.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
           "version": "1.2.2",
           "publishedDate": "2026-08-18T21:45:53Z",
           "supportedGames": [
@@ -5756,9 +5777,9 @@
             "macos": "https://github.com/RealOfficialKraken/Jak1-Fish/releases/download/v1.2.2/macos-intel-v1.2.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 5,
+            "windows": 6,
             "linux": 0,
-            "macos": 0
+            "macos": 1
           }
         },
         {
@@ -7451,7 +7472,7 @@
           },
           "assetDownloadCounts": {
             "windows": 1358,
-            "linux": 196,
+            "linux": 197,
             "macos": 18
           }
         },
@@ -11506,7 +11527,7 @@
           },
           "assetDownloadCounts": {
             "windows": 3070,
-            "linux": 465,
+            "linux": 466,
             "macos": 85
           }
         },
@@ -11905,5 +11926,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-19T01:38:12.407Z"
+  "lastUpdated": "2026-08-19T03:02:50.251Z"
 }
