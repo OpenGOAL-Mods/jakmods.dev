@@ -4633,7 +4633,7 @@
             "macos": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.9/macos-intel-v2.1.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 770,
+            "windows": 771,
             "linux": 97,
             "macos": 23
           }
@@ -5756,7 +5756,7 @@
             "macos": "https://github.com/RealOfficialKraken/Jak1-Fish/releases/download/v1.2.3/macos-intel-v1.2.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2,
+            "windows": 4,
             "linux": 0,
             "macos": 0
           }
@@ -10776,7 +10776,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 4280,
+            "windows": 4281,
             "linux": 585,
             "macos": 0
           }
@@ -11440,7 +11440,7 @@
             "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base-Glacier/releases/download/v1.0.9/macos-intel-v1.0.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1203,
+            "windows": 1204,
             "linux": 170,
             "macos": 54
           }
@@ -11926,5 +11926,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-19T05:58:24.991Z"
+  "lastUpdated": "2026-08-19T06:58:38.114Z"
 }
