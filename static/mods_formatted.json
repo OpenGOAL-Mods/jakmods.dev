@@ -4441,7 +4441,7 @@
             "macos": "https://github.com/Blake645/ArchipelaGOAL-3/releases/download/v1.2.0/macos-intel-v1.2.0-jak3.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 30,
+            "windows": 31,
             "linux": 5,
             "macos": 0
           }
@@ -5756,7 +5756,7 @@
             "macos": "https://github.com/RealOfficialKraken/Jak1-Fish/releases/download/v1.2.3/macos-intel-v1.2.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 10,
+            "windows": 11,
             "linux": 1,
             "macos": 0
           }
@@ -11947,5 +11947,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-19T19:31:31.076Z"
+  "lastUpdated": "2026-08-19T19:55:13.934Z"
 }
