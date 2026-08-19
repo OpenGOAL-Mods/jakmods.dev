@@ -3218,7 +3218,7 @@
             "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.6/macos-intel-v1.0.6.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 247,
+            "windows": 248,
             "linux": 42,
             "macos": 1
           }
@@ -3684,7 +3684,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Yosemite/releases/download/v0.0.3/macos-intel-v0.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 344,
+            "windows": 346,
             "linux": 29,
             "macos": 4
           }
@@ -5756,7 +5756,7 @@
             "macos": "https://github.com/RealOfficialKraken/Jak1-Fish/releases/download/v1.2.3/macos-intel-v1.2.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 17,
+            "windows": 18,
             "linux": 1,
             "macos": 0
           }
@@ -9225,7 +9225,7 @@
             "macos": "https://github.com/my-opengoal-mods/OG-warp-randomizer/releases/download/v0.0.16/macos-intel-v0.0.16.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 251,
+            "windows": 252,
             "linux": 25,
             "macos": 25
           }
@@ -9886,7 +9886,7 @@
             "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.45/macos-intel-v0.0.45.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 3,
+            "windows": 4,
             "linux": 0,
             "macos": 1
           }
@@ -11720,7 +11720,7 @@
             "macos": "https://github.com/slak1-OG-mods/jak1-sandpit-level/releases/download/v2.0.1-modbase-merge.4/macos-intel-v2.0.1-modbase-merge.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 910,
+            "windows": 911,
             "linux": 124,
             "macos": 32
           }
@@ -11947,5 +11947,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-19T22:56:25.634Z"
+  "lastUpdated": "2026-08-19T23:28:15.116Z"
 }
