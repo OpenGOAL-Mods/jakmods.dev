@@ -3219,7 +3219,7 @@
           },
           "assetDownloadCounts": {
             "windows": 244,
-            "linux": 40,
+            "linux": 41,
             "macos": 1
           }
         },
@@ -3819,7 +3819,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 5408,
+            "windows": 5409,
             "linux": 430,
             "macos": 31
           }
@@ -4203,7 +4203,7 @@
             "macos": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.2.0/macos-intel-v0.2.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 34,
+            "windows": 35,
             "linux": 2,
             "macos": 0
           }
@@ -5756,7 +5756,7 @@
             "macos": "https://github.com/RealOfficialKraken/Jak1-Fish/releases/download/v1.2.3/macos-intel-v1.2.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 0,
+            "windows": 2,
             "linux": 0,
             "macos": 0
           }
@@ -6668,7 +6668,7 @@
             "macos": "https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus/releases/download/v1.0.2/macos-intel-v1.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 632,
+            "windows": 633,
             "linux": 88,
             "macos": 7
           }
@@ -11926,5 +11926,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-19T04:10:59.146Z"
+  "lastUpdated": "2026-08-19T05:05:22.642Z"
 }
