@@ -3108,7 +3108,7 @@
             "macos": "https://github.com/this-guy-git/JGChaos/releases/download/v0.3.0/macos-intel-v0.3.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 68,
+            "windows": 69,
             "linux": 12,
             "macos": 5
           }
@@ -4203,7 +4203,7 @@
             "macos": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.2.0/macos-intel-v0.2.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 38,
+            "windows": 39,
             "linux": 3,
             "macos": 0
           }
@@ -5204,7 +5204,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 581,
+            "windows": 582,
             "linux": 136,
             "macos": 0
           }
@@ -11968,5 +11968,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-20T13:54:58.240Z"
+  "lastUpdated": "2026-08-20T14:41:32.187Z"
 }
