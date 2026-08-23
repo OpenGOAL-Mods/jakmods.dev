@@ -788,7 +788,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Randomizer/releases/download/v0.6.4/macos-intel-v0.6.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 594,
+            "windows": 595,
             "linux": 69,
             "macos": 31
           }
@@ -3819,7 +3819,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 5467,
+            "windows": 5468,
             "linux": 436,
             "macos": 32
           }
@@ -5777,7 +5777,7 @@
             "macos": "https://github.com/RealOfficialKraken/Jak1-Fish/releases/download/v1.2.4/macos-intel-v1.2.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 34,
+            "windows": 35,
             "linux": 3,
             "macos": 0
           }
@@ -6496,7 +6496,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v1.0.1/macos-intel-v1.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 355,
+            "windows": 356,
             "linux": 37,
             "macos": 1
           }
@@ -6710,7 +6710,7 @@
             "macos": "https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus/releases/download/v1.0.2/macos-intel-v1.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 660,
+            "windows": 662,
             "linux": 89,
             "macos": 7
           }
@@ -8086,7 +8086,7 @@
           },
           "assetDownloadCounts": {
             "windows": 1931,
-            "linux": 352,
+            "linux": 353,
             "macos": 26
           }
         }
@@ -10860,7 +10860,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 4306,
+            "windows": 4307,
             "linux": 588,
             "macos": 0
           }
@@ -12010,5 +12010,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-22T23:49:40.291Z"
+  "lastUpdated": "2026-08-23T01:43:42.605Z"
 }
