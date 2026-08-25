@@ -1587,7 +1587,7 @@
             "macos": "https://github.com/Hat-Kid/og-j1-board/releases/download/v0.0.6/macos-intel-v0.0.6.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 426,
+            "windows": 427,
             "linux": 58,
             "macos": 6
           }
@@ -3819,7 +3819,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 5516,
+            "windows": 5518,
             "linux": 441,
             "macos": 32
           }
@@ -8512,7 +8512,7 @@
           },
           "assetDownloadCounts": {
             "windows": 0,
-            "linux": 0,
+            "linux": 1,
             "macos": 0
           }
         },
@@ -12074,5 +12074,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-25T11:02:27.942Z"
+  "lastUpdated": "2026-08-25T11:56:32.920Z"
 }
