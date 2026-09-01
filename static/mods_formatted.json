@@ -2589,7 +2589,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Patched/releases/download/v1.1.3/macos-intel-v1.1.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1298,
+            "windows": 1299,
             "linux": 226,
             "macos": 33
           }
@@ -3219,7 +3219,7 @@
           },
           "assetDownloadCounts": {
             "windows": 353,
-            "linux": 53,
+            "linux": 54,
             "macos": 2
           }
         },
@@ -3685,7 +3685,7 @@
           },
           "assetDownloadCounts": {
             "windows": 362,
-            "linux": 34,
+            "linux": 35,
             "macos": 4
           }
         },
@@ -3819,7 +3819,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 5665,
+            "windows": 5667,
             "linux": 451,
             "macos": 33
           }
@@ -10992,8 +10992,8 @@
       ],
       "versions": [
         {
-          "version": "0.1.0",
-          "publishedDate": "2026-08-30T08:47:59Z",
+          "version": "0.1.0-beta.2",
+          "publishedDate": "2026-09-01T17:03:30Z",
           "supportedGames": [
             "jak3"
           ],
@@ -11002,14 +11002,35 @@
             "shareVanillaSaves": false
           },
           "assets": {
-            "windows": "https://github.com/Jak-3-Modifer/Jak-3-ReBalanced/releases/download/v0.1.0/windows-v0.1.0.zip",
-            "linux": "https://github.com/Jak-3-Modifer/Jak-3-ReBalanced/releases/download/v0.1.0/linux-v0.1.0.tar.gz",
-            "macos": "https://github.com/Jak-3-Modifer/Jak-3-ReBalanced/releases/download/v0.1.0/macos-intel-v0.1.0.tar.gz"
+            "windows": "https://github.com/Jak-3-Modifer/Jak-3-ReBalanced/releases/download/v0.1.0-beta.2/windows-v0.1.0-beta.2.zip",
+            "linux": "https://github.com/Jak-3-Modifer/Jak-3-ReBalanced/releases/download/v0.1.0-beta.2/linux-v0.1.0-beta.2.tar.gz",
+            "macos": "https://github.com/Jak-3-Modifer/Jak-3-ReBalanced/releases/download/v0.1.0-beta.2/macos-intel-v0.1.0-beta.2.tar.gz"
           },
           "assetDownloadCounts": {
             "windows": 2,
             "linux": 0,
             "macos": 1
+          }
+        },
+        {
+          "version": "0.1.0-beta.1",
+          "publishedDate": "2026-09-01T08:12:29Z",
+          "supportedGames": [
+            "jak3"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/Jak-3-Modifer/Jak-3-ReBalanced/releases/download/v0.1.0-beta.1/windows-v0.1.0-beta.1.zip",
+            "linux": "https://github.com/Jak-3-Modifer/Jak-3-ReBalanced/releases/download/v0.1.0-beta.1/linux-v0.1.0-beta.1.tar.gz",
+            "macos": "https://github.com/Jak-3-Modifer/Jak-3-ReBalanced/releases/download/v0.1.0-beta.1/macos-intel-v0.1.0-beta.1.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 1,
+            "linux": 1,
+            "macos": 0
           }
         }
       ],
@@ -11871,7 +11892,7 @@
           },
           "assetDownloadCounts": {
             "windows": 1764,
-            "linux": 285,
+            "linux": 286,
             "macos": 50
           }
         },
@@ -12204,5 +12225,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-09-01T22:46:50.061Z"
+  "lastUpdated": "2026-09-01T23:32:48.800Z"
 }
