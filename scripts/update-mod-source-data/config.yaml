@@ -766,7 +766,8 @@ mods:
     url: "https://github.com/Jak-3-Modifer/Jak-3-ReBalanced"
     release_date_override: "2026-09-01"
     ignore_versions:
-      - "<0.1.0"
+      - "<0.1.0-beta.1"
+      - "0.1.0"
     display_name: "Jak 3 ReBalanced"
     description: "A comprehensive Jak 3 gameplay rebalance that revises missions, enemies, weapons, vehicles, encounters, and difficulty."
     authors: ["Kidwithamnesiac"]
