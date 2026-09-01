@@ -759,6 +759,18 @@ mods:
     tags: ["challenge", "gameplay-mod"]
     cover_art_url: "https://raw.githubusercontent.com/EvelynTSMG/Jak1-LifeDrain/refs/heads/main/banner.png"
     thumbnail_art_url: "https://raw.githubusercontent.com/EvelynTSMG/Jak1-LifeDrain/refs/heads/main/thumb.png"
+
+  jak-3-rebalanced:
+    repo_owner: "Jak-3-Modifer"
+    repo_name: "Jak-3-ReBalanced"
+    url: "https://github.com/Jak-3-Modifer/Jak-3-ReBalanced"
+    release_date_override: "2026-09-01"
+    display_name: "Jak 3 ReBalanced"
+    description: "A comprehensive Jak 3 gameplay rebalance that revises missions, enemies, weapons, vehicles, encounters, and difficulty."
+    authors: ["Kidwithamnesiac"]
+    tags: ["challenge", "gameplay-mod"]
+    cover_art_url: "https://raw.githubusercontent.com/Jak-3-Modifer/Jak-3-ReBalanced/main/ModImage.png"
+    thumbnail_art_url: "https://raw.githubusercontent.com/Jak-3-Modifer/Jak-3-ReBalanced/main/ModThumbnail.png"
     
   #### CUSTOM LEVEL MODS ####
 
