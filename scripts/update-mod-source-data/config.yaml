@@ -731,7 +731,7 @@ mods:
     ignore_versions:
       - "<1.0.0"
     display_name: "A Complicated Mod"
-    description: "Race against a timer to complete the game with a random set of rules and complications. Each run is different! Adjust the difficulty and settings in the options menu."
+    description: "Race against a timer to complete the game with a random set of rules and complications. Each run is different! Difficulty and settings can be adjusted in the Complicated Options menu."
     authors: ["MikeGamePro"]
     tags: ["challenge", "speedrunning", "rng", "gameplay-mod"]
     website_url: "https://github.com/MikeGamePro/OG-Complicated/blob/main/README.md"
