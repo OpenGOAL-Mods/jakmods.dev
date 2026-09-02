@@ -728,10 +728,13 @@ mods:
     repo_owner: "MikeGamePro"
     repo_name: "OG-Complicated"
     url: "https://github.com/MikeGamePro/OG-Complicated"
+    ignore_versions:
+      - "<1.0.0"
     display_name: "A Complicated Mod"
-    description: "Race against a timer to complete the game with a random set of rules and complications. Each run is different!"
+    description: "Race against a timer to complete the game with a random set of rules and complications. Each run is different! Adjust the difficulty and settings in the options menu."
     authors: ["MikeGamePro"]
     tags: ["challenge", "speedrunning", "rng", "gameplay-mod"]
+    website_url: "https://github.com/MikeGamePro/OG-Complicated/blob/main/README.md"
     cover_art_url: "https://raw.githubusercontent.com/MikeGamePro/OG-Complicated/refs/heads/main/cover.png"
     thumbnail_art_url: "https://raw.githubusercontent.com/MikeGamePro/OG-Complicated/refs/heads/main/thumbnail.png"
 
