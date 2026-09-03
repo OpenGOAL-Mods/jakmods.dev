@@ -40,7 +40,7 @@
           },
           "assetDownloadCounts": {
             "windows": 54,
-            "linux": 3,
+            "linux": 4,
             "macos": 0
           }
         },
@@ -1587,8 +1587,8 @@
             "macos": "https://github.com/Hat-Kid/og-j1-board/releases/download/v0.0.6/macos-intel-v0.0.6.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 469,
-            "linux": 68,
+            "windows": 471,
+            "linux": 69,
             "macos": 6
           }
         },
@@ -2589,7 +2589,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Patched/releases/download/v1.1.3/macos-intel-v1.1.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1303,
+            "windows": 1304,
             "linux": 226,
             "macos": 33
           }
@@ -2679,7 +2679,7 @@
           },
           "assetDownloadCounts": {
             "windows": 281,
-            "linux": 39,
+            "linux": 40,
             "macos": 14
           }
         },
@@ -3040,7 +3040,7 @@
           },
           "assetDownloadCounts": {
             "windows": 1608,
-            "linux": 318,
+            "linux": 319,
             "macos": 22
           }
         },
@@ -3218,8 +3218,8 @@
             "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.6/macos-intel-v1.0.6.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 362,
-            "linux": 55,
+            "windows": 363,
+            "linux": 56,
             "macos": 2
           }
         },
@@ -3684,7 +3684,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Yosemite/releases/download/v0.0.3/macos-intel-v0.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 364,
+            "windows": 365,
             "linux": 35,
             "macos": 4
           }
@@ -3819,7 +3819,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 5684,
+            "windows": 5686,
             "linux": 454,
             "macos": 33
           }
@@ -4203,7 +4203,7 @@
             "macos": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.2.2/macos-intel-v0.2.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 73,
+            "windows": 74,
             "linux": 3,
             "macos": 0
           }
@@ -4462,7 +4462,7 @@
             "macos": "https://github.com/Blake645/ArchipelaGOAL-3/releases/download/v1.2.3/macos-intel-v1.2.3-jak3.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 42,
+            "windows": 43,
             "linux": 4,
             "macos": 0
           }
@@ -5288,8 +5288,8 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 636,
-            "linux": 154,
+            "windows": 638,
+            "linux": 155,
             "macos": 0
           }
         },
@@ -5840,7 +5840,7 @@
             "macos": "https://github.com/RealOfficialKraken/Jak1-Fish/releases/download/v1.2.4/macos-intel-v1.2.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 90,
+            "windows": 91,
             "linux": 8,
             "macos": 0
           }
@@ -5861,7 +5861,7 @@
             "macos": "https://github.com/RealOfficialKraken/Jak1-Fish/releases/download/v1.2.3/macos-intel-v1.2.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 20,
+            "windows": 21,
             "linux": 1,
             "macos": 0
           }
@@ -6559,7 +6559,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v1.0.1/macos-intel-v1.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 431,
+            "windows": 432,
             "linux": 48,
             "macos": 1
           }
@@ -7577,7 +7577,7 @@
           },
           "assetDownloadCounts": {
             "windows": 1410,
-            "linux": 203,
+            "linux": 204,
             "macos": 18
           }
         },
@@ -8149,7 +8149,7 @@
           },
           "assetDownloadCounts": {
             "windows": 1976,
-            "linux": 363,
+            "linux": 365,
             "macos": 26
           }
         }
@@ -9329,7 +9329,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Obama/releases/download/v0.0.1/macos-intel-v0.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 874,
+            "windows": 875,
             "linux": 94,
             "macos": 25
           }
@@ -10005,7 +10005,7 @@
     },
     "complicated": {
       "displayName": "A Complicated Mod",
-      "description": "Race against a timer to complete the game with a random set of rules and complications. Each run is different!",
+      "description": "Race against a timer to complete the game with a random set of rules and complications. Each run is different! Difficulty and settings can be adjusted in the Complicated Options menu.",
       "authors": [
         "MikeGamePro"
       ],
@@ -10015,6 +10015,7 @@
         "rng",
         "gameplay-mod"
       ],
+      "websiteUrl": "https://github.com/MikeGamePro/OG-Complicated/blob/main/README.md",
       "supportedGames": [
         "jak1"
       ],
@@ -10035,7 +10036,7 @@
             "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v1.0.1/macos-intel-v1.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 5,
+            "windows": 6,
             "linux": 0,
             "macos": 0
           }
@@ -10060,895 +10061,13 @@
             "linux": 0,
             "macos": 0
           }
-        },
-        {
-          "version": "0.0.47",
-          "publishedDate": "2026-08-25T07:25:19Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.47/windows-v0.0.47.zip",
-            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.47/linux-v0.0.47.tar.gz",
-            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.47/macos-intel-v0.0.47.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 17,
-            "linux": 2,
-            "macos": 2
-          }
-        },
-        {
-          "version": "0.0.46",
-          "publishedDate": "2026-08-21T01:41:03Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.46/windows-v0.0.46.zip",
-            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.46/linux-v0.0.46.tar.gz",
-            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.46/macos-intel-v0.0.46.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 14,
-            "linux": 1,
-            "macos": 0
-          }
-        },
-        {
-          "version": "0.0.45",
-          "publishedDate": "2026-08-19T14:41:16Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.45/windows-v0.0.45.zip",
-            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.45/linux-v0.0.45.tar.gz",
-            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.45/macos-intel-v0.0.45.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 14,
-            "linux": 0,
-            "macos": 1
-          }
-        },
-        {
-          "version": "0.0.44",
-          "publishedDate": "2026-08-18T02:51:36Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.44/windows-v0.0.44.zip",
-            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.44/linux-v0.0.44.tar.gz",
-            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.44/macos-intel-v0.0.44.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 9,
-            "linux": 0,
-            "macos": 1
-          }
-        },
-        {
-          "version": "0.0.43",
-          "publishedDate": "2026-08-16T23:19:21Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.43/windows-v0.0.43.zip",
-            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.43/linux-v0.0.43.tar.gz",
-            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.43/macos-intel-v0.0.43.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 7,
-            "linux": 0,
-            "macos": 1
-          }
-        },
-        {
-          "version": "0.0.42",
-          "publishedDate": "2026-08-15T14:11:28Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.42/windows-v0.0.42.zip",
-            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.42/linux-v0.0.42.tar.gz",
-            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.42/macos-intel-v0.0.42.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 11,
-            "linux": 0,
-            "macos": 1
-          }
-        },
-        {
-          "version": "0.0.41",
-          "publishedDate": "2026-08-15T01:21:47Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.41/windows-v0.0.41.zip",
-            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.41/linux-v0.0.41.tar.gz",
-            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.41/macos-intel-v0.0.41.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 2,
-            "linux": 0,
-            "macos": 0
-          }
-        },
-        {
-          "version": "0.0.40",
-          "publishedDate": "2026-08-14T02:21:39Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.40/windows-v0.0.40.zip",
-            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.40/linux-v0.0.40.tar.gz",
-            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.40/macos-intel-v0.0.40.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 3,
-            "linux": 0,
-            "macos": 1
-          }
-        },
-        {
-          "version": "0.0.39",
-          "publishedDate": "2026-08-13T01:42:58Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.39/windows-v0.0.39.zip",
-            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.39/linux-v0.0.39.tar.gz",
-            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.39/macos-intel-v0.0.39.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 8,
-            "linux": 0,
-            "macos": 0
-          }
-        },
-        {
-          "version": "0.0.38",
-          "publishedDate": "2026-08-13T00:18:58Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.38/windows-v0.0.38.zip",
-            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.38/linux-v0.0.38.tar.gz",
-            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.38/macos-intel-v0.0.38.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 0,
-            "linux": 0,
-            "macos": 0
-          }
-        },
-        {
-          "version": "0.0.37",
-          "publishedDate": "2026-08-12T19:38:14Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.37/windows-v0.0.37.zip",
-            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.37/linux-v0.0.37.tar.gz",
-            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.37/macos-intel-v0.0.37.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 1,
-            "linux": 0,
-            "macos": 0
-          }
-        },
-        {
-          "version": "0.0.35",
-          "publishedDate": "2026-08-11T19:10:42Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.35/windows-v0.0.35.zip",
-            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.35/linux-v0.0.35.tar.gz",
-            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.35/macos-intel-v0.0.35.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 7,
-            "linux": 1,
-            "macos": 0
-          }
-        },
-        {
-          "version": "0.0.33",
-          "publishedDate": "2026-08-11T11:07:43Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.33/windows-v0.0.33.zip",
-            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.33/linux-v0.0.33.tar.gz",
-            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.33/macos-intel-v0.0.33.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 4,
-            "linux": 0,
-            "macos": 0
-          }
-        },
-        {
-          "version": "0.0.32",
-          "publishedDate": "2026-08-10T12:46:25Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.32/windows-v0.0.32.zip",
-            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.32/linux-v0.0.32.tar.gz",
-            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.32/macos-intel-v0.0.32.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 11,
-            "linux": 0,
-            "macos": 0
-          }
-        },
-        {
-          "version": "0.0.31",
-          "publishedDate": "2026-08-09T08:46:28Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.31/windows-v0.0.31.zip",
-            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.31/linux-v0.0.31.tar.gz",
-            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.31/macos-intel-v0.0.31.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 7,
-            "linux": 1,
-            "macos": 1
-          }
-        },
-        {
-          "version": "0.0.30",
-          "publishedDate": "2026-08-08T12:24:12Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.30/windows-v0.0.30.zip",
-            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.30/linux-v0.0.30.tar.gz",
-            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.30/macos-intel-v0.0.30.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 9,
-            "linux": 1,
-            "macos": 0
-          }
-        },
-        {
-          "version": "0.0.29",
-          "publishedDate": "2026-08-07T09:53:08Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.29/windows-v0.0.29.zip",
-            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.29/linux-v0.0.29.tar.gz",
-            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.29/macos-intel-v0.0.29.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 13,
-            "linux": 1,
-            "macos": 0
-          }
-        },
-        {
-          "version": "0.0.28",
-          "publishedDate": "2026-08-06T12:41:41Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.28/windows-v0.0.28.zip",
-            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.28/linux-v0.0.28.tar.gz",
-            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.28/macos-intel-v0.0.28.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 2,
-            "linux": 0,
-            "macos": 0
-          }
-        },
-        {
-          "version": "0.0.26",
-          "publishedDate": "2026-08-05T23:08:29Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.26/windows-v0.0.26.zip",
-            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.26/linux-v0.0.26.tar.gz",
-            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.26/macos-intel-v0.0.26.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 14,
-            "linux": 0,
-            "macos": 1
-          }
-        },
-        {
-          "version": "0.0.25",
-          "publishedDate": "2026-08-05T10:01:35Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.25/windows-v0.0.25.zip",
-            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.25/linux-v0.0.25.tar.gz",
-            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.25/macos-intel-v0.0.25.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 11,
-            "linux": 1,
-            "macos": 0
-          }
-        },
-        {
-          "version": "0.0.24",
-          "publishedDate": "2026-08-04T10:50:21Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.24/windows-v0.0.24.zip",
-            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.24/linux-v0.0.24.tar.gz",
-            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.24/macos-intel-v0.0.24.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 15,
-            "linux": 0,
-            "macos": 0
-          }
-        },
-        {
-          "version": "0.0.23",
-          "publishedDate": "2026-08-04T06:20:58Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.23/windows-v0.0.23.zip",
-            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.23/linux-v0.0.23.tar.gz",
-            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.23/macos-intel-v0.0.23.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 4,
-            "linux": 0,
-            "macos": 0
-          }
-        },
-        {
-          "version": "0.0.22",
-          "publishedDate": "2026-08-03T08:39:55Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.22/windows-v0.0.22.zip",
-            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.22/linux-v0.0.22.tar.gz",
-            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.22/macos-intel-v0.0.22.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 16,
-            "linux": 1,
-            "macos": 0
-          }
-        },
-        {
-          "version": "0.0.21",
-          "publishedDate": "2026-08-03T02:31:21Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.21/windows-v0.0.21.zip",
-            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.21/linux-v0.0.21.tar.gz",
-            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.21/macos-intel-v0.0.21.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 0,
-            "linux": 0,
-            "macos": 0
-          }
-        },
-        {
-          "version": "0.0.20",
-          "publishedDate": "2026-08-01T22:04:10Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.20/windows-v0.0.20.zip",
-            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.20/linux-v0.0.20.tar.gz",
-            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.20/macos-intel-v0.0.20.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 24,
-            "linux": 1,
-            "macos": 0
-          }
-        },
-        {
-          "version": "0.0.19",
-          "publishedDate": "2026-08-01T04:41:41Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.19/windows-v0.0.19.zip",
-            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.19/linux-v0.0.19.tar.gz",
-            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.19/macos-intel-v0.0.19.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 5,
-            "linux": 0,
-            "macos": 0
-          }
-        },
-        {
-          "version": "0.0.18",
-          "publishedDate": "2026-07-31T22:17:26Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.18/windows-v0.0.18.zip",
-            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.18/linux-v0.0.18.tar.gz",
-            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.18/macos-intel-v0.0.18.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 7,
-            "linux": 0,
-            "macos": 0
-          }
-        },
-        {
-          "version": "0.0.17",
-          "publishedDate": "2026-07-31T18:27:47Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.17/windows-v0.0.17.zip",
-            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.17/linux-v0.0.17.tar.gz",
-            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.17/macos-intel-v0.0.17.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 3,
-            "linux": 0,
-            "macos": 0
-          }
-        },
-        {
-          "version": "0.0.16",
-          "publishedDate": "2026-07-31T05:42:20Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.16/windows-v0.0.16.zip",
-            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.16/linux-v0.0.16.tar.gz",
-            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.16/macos-intel-v0.0.16.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 1,
-            "linux": 0,
-            "macos": 0
-          }
-        },
-        {
-          "version": "0.0.15",
-          "publishedDate": "2026-07-30T04:11:39Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.15/windows-v0.0.15.zip",
-            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.15/linux-v0.0.15.tar.gz",
-            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.15/macos-intel-v0.0.15.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 10,
-            "linux": 1,
-            "macos": 0
-          }
-        },
-        {
-          "version": "0.0.12",
-          "publishedDate": "2026-07-29T00:31:38Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.12/windows-v0.0.12.zip",
-            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.12/linux-v0.0.12.tar.gz",
-            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.12/macos-intel-v0.0.12.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 14,
-            "linux": 0,
-            "macos": 0
-          }
-        },
-        {
-          "version": "0.0.11",
-          "publishedDate": "2026-07-28T23:44:48Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.11/windows-v0.0.11.zip",
-            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.11/linux-v0.0.11.tar.gz",
-            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.11/macos-intel-v0.0.11.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 1,
-            "linux": 0,
-            "macos": 0
-          }
-        },
-        {
-          "version": "0.0.10",
-          "publishedDate": "2026-07-28T02:45:07Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.10/windows-v0.0.10.zip",
-            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.10/linux-v0.0.10.tar.gz",
-            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.10/macos-intel-v0.0.10.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 8,
-            "linux": 0,
-            "macos": 0
-          }
-        },
-        {
-          "version": "0.0.9",
-          "publishedDate": "2026-07-27T06:45:58Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.9/windows-v0.0.9.zip",
-            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.9/linux-v0.0.9.tar.gz",
-            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.9/macos-intel-v0.0.9.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 9,
-            "linux": 1,
-            "macos": 0
-          }
-        },
-        {
-          "version": "0.0.8",
-          "publishedDate": "2026-07-27T06:23:01Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.8/windows-v0.0.8.zip",
-            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.8/linux-v0.0.8.tar.gz",
-            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.8/macos-intel-v0.0.8.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 0,
-            "linux": 0,
-            "macos": 0
-          }
-        },
-        {
-          "version": "0.0.7",
-          "publishedDate": "2026-07-27T03:15:15Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.7/windows-v0.0.7.zip",
-            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.7/linux-v0.0.7.tar.gz",
-            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.7/macos-intel-v0.0.7.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 4,
-            "linux": 1,
-            "macos": 0
-          }
-        },
-        {
-          "version": "0.0.6",
-          "publishedDate": "2026-07-26T23:08:55Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.6/windows-v0.0.6.zip",
-            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.6/linux-v0.0.6.tar.gz",
-            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.6/macos-intel-v0.0.6.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 1,
-            "linux": 0,
-            "macos": 0
-          }
-        },
-        {
-          "version": "0.0.5",
-          "publishedDate": "2026-07-26T20:55:20Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.5/windows-v0.0.5.zip",
-            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.5/linux-v0.0.5.tar.gz",
-            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.5/macos-intel-v0.0.5.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 5,
-            "linux": 0,
-            "macos": 0
-          }
-        },
-        {
-          "version": "0.0.4",
-          "publishedDate": "2026-07-26T06:48:50Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.4/windows-v0.0.4.zip",
-            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.4/linux-v0.0.4.tar.gz",
-            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.4/macos-intel-v0.0.4.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 7,
-            "linux": 1,
-            "macos": 0
-          }
-        },
-        {
-          "version": "0.0.3",
-          "publishedDate": "2026-07-26T06:36:35Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.3/windows-v0.0.3.zip",
-            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.3/linux-v0.0.3.tar.gz",
-            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.3/macos-intel-v0.0.3.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 0,
-            "linux": 0,
-            "macos": 0
-          }
-        },
-        {
-          "version": "0.0.2",
-          "publishedDate": "2026-07-26T05:15:19Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.2/windows-v0.0.2.zip",
-            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.2/linux-v0.0.2.tar.gz",
-            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.2/macos-intel-v0.0.2.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 4,
-            "linux": 1,
-            "macos": 1
-          }
-        },
-        {
-          "version": "0.0.1",
-          "publishedDate": "2026-07-20T21:32:22Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.1/windows-v0.0.1.zip",
-            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.1/linux-v0.0.1.tar.gz",
-            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.1/macos-intel-v0.0.1.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 3,
-            "linux": 0,
-            "macos": 0
-          }
         }
       ],
       "coverArtUrl": "https://raw.githubusercontent.com/MikeGamePro/OG-Complicated/refs/heads/main/cover.png",
       "thumbnailArtUrl": "https://raw.githubusercontent.com/MikeGamePro/OG-Complicated/refs/heads/main/thumbnail.png",
       "perGameConfig": {
         "jak1": {
-          "releaseDate": "2026-07-20T21:32:22Z"
+          "releaseDate": "2026-09-01T04:52:58Z"
         }
       },
       "externalLink": null
@@ -11028,7 +10147,7 @@
             "macos": "https://github.com/Jak-3-Modifer/Jak-3-ReBalanced/releases/download/v0.1.0-beta.4/macos-intel-v0.1.0-beta.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 3,
+            "windows": 5,
             "linux": 0,
             "macos": 0
           }
@@ -11138,7 +10257,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 4372,
+            "windows": 4373,
             "linux": 605,
             "macos": 0
           }
@@ -11737,7 +10856,7 @@
             "macos": "https://github.com/Cuttlefishthesage/LL-OpenGOAL-ModBase/releases/download/v4.3.4/macos-intel-v4.3.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1638,
+            "windows": 1639,
             "linux": 252,
             "macos": 56
           }
@@ -11888,7 +11007,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 3157,
+            "windows": 3159,
             "linux": 485,
             "macos": 85
           }
@@ -12061,7 +11180,7 @@
             "macos": "https://github.com/slak1-OG-mods/jak1-sandpit-level/releases/download/v2.0.1-modbase-merge.4/macos-intel-v2.0.1-modbase-merge.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 926,
+            "windows": 927,
             "linux": 130,
             "macos": 32
           }
@@ -12288,5 +11407,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-09-02T23:57:58.477Z"
+  "lastUpdated": "2026-09-03T04:02:54.103Z"
 }
