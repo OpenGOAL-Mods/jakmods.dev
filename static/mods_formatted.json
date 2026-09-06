@@ -3819,7 +3819,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 5759,
+            "windows": 5760,
             "linux": 467,
             "macos": 33
           }
@@ -6773,7 +6773,7 @@
             "macos": "https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus/releases/download/v1.0.2/macos-intel-v1.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 789,
+            "windows": 790,
             "linux": 112,
             "macos": 7
           }
@@ -8537,6 +8537,28 @@
       ],
       "versions": [
         {
+          "version": "0.1.17",
+          "publishedDate": "2026-09-06T22:03:11Z",
+          "supportedGames": [
+            "jak2",
+            "jak3"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.1.17/windows-v0.1.17.zip",
+            "linux": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.1.17/linux-v0.1.17.tar.gz",
+            "macos": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.1.17/macos-intel-v0.1.17.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
           "version": "0.1.16",
           "publishedDate": "2026-08-25T18:11:03Z",
           "supportedGames": [
@@ -8553,7 +8575,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.1.16/macos-intel-v0.1.16.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 42,
+            "windows": 43,
             "linux": 1,
             "macos": 0
           }
@@ -11512,5 +11534,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-09-06T21:52:00.526Z"
+  "lastUpdated": "2026-09-06T22:05:45.591Z"
 }
