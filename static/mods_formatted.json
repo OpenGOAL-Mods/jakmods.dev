@@ -1587,7 +1587,7 @@
             "macos": "https://github.com/Hat-Kid/og-j1-board/releases/download/v0.0.6/macos-intel-v0.0.6.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 498,
+            "windows": 499,
             "linux": 73,
             "macos": 6
           }
@@ -3039,7 +3039,7 @@
             "macos": "https://github.com/EvelynTSMG/Jak-EveBase/releases/download/v0.1.2/macos-intel-v0.1.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1627,
+            "windows": 1628,
             "linux": 321,
             "macos": 22
           }
@@ -3684,7 +3684,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Yosemite/releases/download/v0.0.3/macos-intel-v0.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 370,
+            "windows": 372,
             "linux": 35,
             "macos": 4
           }
@@ -3819,7 +3819,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 5783,
+            "windows": 5787,
             "linux": 469,
             "macos": 33
           }
@@ -4203,7 +4203,7 @@
             "macos": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.2.3/macos-intel-v0.2.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1,
+            "windows": 2,
             "linux": 0,
             "macos": 0
           }
@@ -5330,7 +5330,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 656,
+            "windows": 657,
             "linux": 159,
             "macos": 0
           }
@@ -6601,7 +6601,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v1.0.1/macos-intel-v1.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 459,
+            "windows": 460,
             "linux": 55,
             "macos": 1
           }
@@ -10121,7 +10121,7 @@
             "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v1.1.0/macos-intel-v1.1.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 0,
+            "windows": 1,
             "linux": 0,
             "macos": 0
           }
@@ -10253,8 +10253,8 @@
             "macos": "https://github.com/Jak-3-Modifer/Jak-3-ReBalanced/releases/download/v0.1.0-beta.11/macos-intel-v0.1.0-beta.11.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 0,
-            "linux": 0,
+            "windows": 2,
+            "linux": 1,
             "macos": 0
           }
         },
@@ -10511,7 +10511,7 @@
           },
           "assetDownloadCounts": {
             "windows": 4412,
-            "linux": 609,
+            "linux": 610,
             "macos": 0
           }
         },
@@ -11260,7 +11260,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 3188,
+            "windows": 3189,
             "linux": 490,
             "macos": 85
           }
@@ -11326,7 +11326,7 @@
             "macos": "https://github.com/Cuttlefishthesage/ErodedCoast/releases/download/v5.0.3/macos-intel-v5.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1784,
+            "windows": 1785,
             "linux": 289,
             "macos": 50
           }
@@ -11582,7 +11582,7 @@
             "macos": "https://github.com/Clankape/OG-Mod-Base-Halloween/releases/download/v0.0.4/macos-intel-v0.0.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 678,
+            "windows": 679,
             "linux": 53,
             "macos": 23
           }
@@ -11660,5 +11660,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-09-08T15:03:47.161Z"
+  "lastUpdated": "2026-09-08T18:57:36.153Z"
 }
