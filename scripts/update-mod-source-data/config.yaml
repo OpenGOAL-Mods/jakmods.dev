@@ -910,7 +910,7 @@ mods:
     cover_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/refs/heads/main/SNPModImage.png"
     thumbnail_art_url: "https://raw.githubusercontent.com/dallmeyer/modimages/refs/heads/main/SNPthumbnail.png"
 
-  #### MODEL REPLACEMENT MODS ####
+  #### MODEL/TEXTURE REPLACEMENT MODS ####
 
   # its-ogre-now:
   #   repo_owner: "OpenGOAL-Mods"
@@ -942,6 +942,19 @@ mods:
   #   cover_art_url: "https://i.ytimg.com/vi/iVhPEnZxric/hqdefault.jpg"
   #   thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/RaymanSmall.png"
 
+  rainy-tpl:
+    repo_owner: "DaMaskV"
+    repo_name: "Rainy-Precursor-Legacy"
+    url: "https://github.com/DaMaskV/Rainy-Precursor-Legacy"
+    # release_date_override: "2026-09-08"
+    display_name: "Rainy Precursor Legacy"
+    description: "A rain and storm overhaul for early areas of Jak and Daxter: The Precursor Legacy. It adds rain, darker storm lighting and skies, lighting, storm ambience, and recolored environment textures across Geyser Rock, Sandover Village, Sentinel Beach, Misty Island, and Forbidden Jungle."
+    authors: ["DaMaskV"]
+    tags: ["texture-replacement]
+    website_url: "https://github.com/DaMaskV/Rainy-Precursor-Legacy/blob/main/README.md"
+    cover_art_url: "https://raw.githubusercontent.com/DaMaskV/Rainy-Precursor-Legacy/main/assets/background.png"
+    thumbnail_art_url: "https://raw.githubusercontent.com/DaMaskV/Rainy-Precursor-Legacy/main/assets/thumbnail.png"
+    
   halloween:
     repo_owner: "Clankape"
     repo_name: "OG-Mod-Base-Halloween"
