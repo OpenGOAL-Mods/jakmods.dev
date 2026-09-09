@@ -232,7 +232,7 @@ for (const [modName, modInfo] of Object.entries(configFile["mods"])) {
                             }
                             if (!Object.keys(data).includes("supportedGames")) {
                                 console.warn(`ignoring version - metadata.json, for version: ${modName}:${cleaned_release_tag} does not include 'supportedGames'`);
-                                continue;
+                                break;
                             } else {
                                 // read from metadata.json (yep this is the only field we actually read from here, since it can vary from one release to the next)
                                 newVersion.supportedGames = data.supportedGames;
