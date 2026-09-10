@@ -2004,7 +2004,7 @@
           },
           "assetDownloadCounts": {
             "windows": 416,
-            "linux": 51,
+            "linux": 52,
             "macos": 13
           }
         },
@@ -3218,7 +3218,7 @@
             "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.6/macos-intel-v1.0.6.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 411,
+            "windows": 412,
             "linux": 65,
             "macos": 2
           }
@@ -3819,7 +3819,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 5804,
+            "windows": 5805,
             "linux": 471,
             "macos": 33
           }
@@ -8579,6 +8579,28 @@
       ],
       "versions": [
         {
+          "version": "0.1.18",
+          "publishedDate": "2026-09-10T03:14:55Z",
+          "supportedGames": [
+            "jak2",
+            "jak3"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.1.18/windows-v0.1.18.zip",
+            "linux": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.1.18/linux-v0.1.18.tar.gz",
+            "macos": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.1.18/macos-intel-v0.1.18.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
           "version": "0.1.17",
           "publishedDate": "2026-09-06T22:03:11Z",
           "supportedGames": [
@@ -9800,7 +9822,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-SC/releases/download/v1.6.5/macos-intel-v1.6.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 246,
+            "windows": 247,
             "linux": 42,
             "macos": 18
           }
@@ -10234,7 +10256,8 @@
         "gameplay-mod"
       ],
       "supportedGames": [
-        "jak3"
+        "jak3",
+        "jak1"
       ],
       "versions": [
         {
@@ -10495,6 +10518,9 @@
       "perGameConfig": {
         "jak3": {
           "releaseDate": "2026-09-01"
+        },
+        "jak1": {
+          "releaseDate": "2026-09-01"
         }
       },
       "externalLink": null
@@ -10531,7 +10557,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 4420,
+            "windows": 4421,
             "linux": 610,
             "macos": 0
           }
@@ -11065,7 +11091,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 1341,
+            "windows": 1342,
             "linux": 0,
             "macos": 0
           }
@@ -11281,7 +11307,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 3196,
+            "windows": 3199,
             "linux": 491,
             "macos": 85
           }
@@ -11347,7 +11373,7 @@
             "macos": "https://github.com/Cuttlefishthesage/ErodedCoast/releases/download/v5.0.3/macos-intel-v5.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1792,
+            "windows": 1793,
             "linux": 289,
             "macos": 50
           }
@@ -11704,5 +11730,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-09-10T01:22:01.913Z"
+  "lastUpdated": "2026-09-10T03:18:16.724Z"
 }
