@@ -33,7 +33,7 @@ mods:
     ignore_versions:
       - "<0.1.21"
     display_name: "Speedrun Practice"
-    description: "A mod that helps you practice speedrunning. See website for more info"
+    description: "A mod that helps you practice speedrunning. Click website button for more info"
     authors: ["barg", "zed", "yopie"]
     tags: ["speedrunning", "practice"]
     website_url: "https://github.com/OpenGOAL-Mods/OG-Speedrun-Practice/blob/main/README.md"
@@ -43,15 +43,15 @@ mods:
       jak1:
         release_date_override: "2022-10-23"
         cover_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Speedrun-Practice/main/ModImage.png"
-        thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Speedrun-Practice/main/ModImage.png"
+        thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/Speedrun1Small.png"
       jak2:
         release_date_override: "2023-12-11"
         cover_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Speedrun-Practice/main/ModImage2.jpeg"
-        thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Speedrun-Practice/main/ModImage2.jpeg"
+        thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/Speedrun2Small.png"
       jak3:
         release_date_override: "2024-06-28"
         cover_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Speedrun-Practice/main/ModImage3.jpg"
-        thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Speedrun-Practice/main/ModImage3.jpg"
+        thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/Speedrun3Small.png"
 
   checkpoint-randomizer:
     repo_owner: "OpenGOAL-Mods"
@@ -76,7 +76,7 @@ mods:
     ignore_versions:
       - "<0.0.3"
     display_name: "Random Cell Order"
-    description: "Jak 1 but you must pick up cells in the (random) specified order. Check the website for more info on toggle-able settings."
+    description: "Jak 1 but you must pick up cells in the (random) specified order. Click the website button for more info on toggle-able settings."
     authors: ["barg", "SixRock", "Dexz"]
     tags: ["speedrunning", "challenge", "gameplay-mod", "rng"]
     website_url: "https://github.com/OpenGOAL-Mods/OG-RCO/blob/main/README.md"
@@ -204,7 +204,7 @@ mods:
     ignore_versions:
       - "<0.1.22"
     display_name: "Bugged"
-    description: "Over 25 bugs added to completely change the speedrun! Think you can find them all? Check the website for hints"
+    description: "Over 25 bugs added to completely change the speedrun! Think you can find them all? Click the website button for hints"
     authors: ["bintendo42", "barg"]
     tags: ["speedrunning", "challenge", "gameplay-mod"]
     website_url: "https://jakmods.dev/bugged/buglist.html"
@@ -307,7 +307,7 @@ mods:
     tags: ["challenge", "gameplay-mod", "speedrunning"]
     # website_url: "https://github.com/dallmeyer/OG-NoOrb/blob/main/README.md"
     cover_art_url: "https://raw.githubusercontent.com/dallmeyer/OG-NoOrb/refs/heads/main/orbless-bg.png"
-    thumbnail_art_url: "https://raw.githubusercontent.com/dallmeyer/OG-NoOrb/refs/heads/main/orbless-thumb.png"
+    thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/OrblessSmall.png"
 
   evebase:
     repo_owner: "EvelynTSMG"
@@ -374,7 +374,7 @@ mods:
     repo_name: "OG-Yosemite"
     url: "https://github.com/OpenGOAL-Mods/OG-Yosemite"
     display_name: "Yosemite"
-    description: "Special build that will play the cut Yosemite level! BEFORE INSTALLING: Click mod name^^ for instructions on where to paste the YOS.DGO file"
+    description: "Special build that will play the cut Yosemite level! BEFORE INSTALLING: Click website button below for instructions on where to paste the YOS.DGO file"
     authors: ["barg", "LuminarLight"]
     tags: ["gameplay-mod"]
     website_url: "https://github.com/OpenGOAL-Mods/OG-Yosemite/blob/main/README.md"
@@ -643,7 +643,7 @@ mods:
     url: "https://github.com/gratefulforest/Cratetopia"
     release_date_override: "2025-12-20"
     display_name: "Cratetopia"
-    description: "A fully themed Jak puzzle game spin-off with 4 modes + leaderboards!"
+    description: "A fully themed Jak puzzle game with 4 modes + leaderboards!"
     authors: ["Grateful Forest"]
     tags: ["gameplay-mod", "challenge"]
     website_url: "https://github.com/gratefulforest/Cratetopia/blob/main/README.md"
@@ -656,7 +656,7 @@ mods:
     url: "https://github.com/Nick0778/OG-Jak2-Defend-The-Portwall"
     release_date_override: "2025-02-25"
     display_name: "Defend the Port Wall"
-    description: "Play the cut mission 'Defend the Port Wall'. Special install instructions: https://github.com/Nick0778/OG-Jak2-Defend-The-Portwall/blob/main/README.md"
+    description: "Play the cut mission 'Defend the Port Wall'. Special install instructions: Click website button or visit https://github.com/Nick0778/OG-Jak2-Defend-The-Portwall/blob/main/README.md"
     authors: ["Nick07"]
     tags: ["gameplay-mod"]
     website_url: "https://github.com/Nick0778/OG-Jak2-Defend-The-Portwall/blob/main/README.md"
@@ -707,7 +707,7 @@ mods:
     tags: ["gameplay-mod"]
     # website_url: "https://jakmods.dev"
     cover_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Obama/main/background.png"
-    thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Obama/main/thumbnail.png"
+    thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/ObamaSmall.png"
 
   warp-randomizer:
     repo_owner: "my-opengoal-mods"
@@ -736,7 +736,7 @@ mods:
     tags: ["challenge", "speedrunning", "gameplay-mod"]
     # website_url: "https://github.com/OpenGOAL-Mods/OG-SC/blob/main/README.md"
     cover_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-SC/refs/heads/main/jadsc-bg.png"
-    thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-SC/refs/heads/main/jadsc-thumb.png"
+    thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/SuperchargedSmall.png"
 
   complicated:
     repo_owner: "MikeGamePro"
@@ -868,7 +868,7 @@ mods:
     tags: ["custom-level"]
     # website_url: "https://github.com/Cuttlefishthesage/OG-Mod-Base-Glacier/blob/main/README.md"
     cover_art_url: "https://raw.githubusercontent.com/Cuttlefishthesage/OG-Mod-Base-Glacier/refs/heads/main/GlacierThumbnailFinal.PNG"
-    thumbnail_art_url: "https://raw.githubusercontent.com/Cuttlefishthesage/OG-Mod-Base-Glacier/refs/heads/main/GlacierThumbnailFinal.PNG"
+    thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/GlacierSmall.png"
 
   brume_village:
     repo_owner: "Cuttlefishthesage"
