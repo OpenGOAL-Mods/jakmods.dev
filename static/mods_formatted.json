@@ -4,7 +4,7 @@
   "mods": {
     "speedrun-practice": {
       "displayName": "Speedrun Practice",
-      "description": "A mod that helps you practice speedrunning. See website for more info",
+      "description": "A mod that helps you practice speedrunning. Click website button for more info",
       "authors": [
         "barg",
         "zed",
@@ -738,17 +738,17 @@
       "perGameConfig": {
         "jak1": {
           "coverArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Speedrun-Practice/main/ModImage.png",
-          "thumbnailArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Speedrun-Practice/main/ModImage.png",
+          "thumbnailArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/Speedrun1Small.png",
           "releaseDate": "2022-10-23"
         },
         "jak2": {
           "coverArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Speedrun-Practice/main/ModImage2.jpeg",
-          "thumbnailArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Speedrun-Practice/main/ModImage2.jpeg",
+          "thumbnailArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/Speedrun2Small.png",
           "releaseDate": "2023-12-11"
         },
         "jak3": {
           "coverArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Speedrun-Practice/main/ModImage3.jpg",
-          "thumbnailArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Speedrun-Practice/main/ModImage3.jpg",
+          "thumbnailArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/Speedrun3Small.png",
           "releaseDate": "2024-06-28"
         }
       },
@@ -1078,7 +1078,7 @@
     },
     "random-cell-order": {
       "displayName": "Random Cell Order",
-      "description": "Jak 1 but you must pick up cells in the (random) specified order. Check the website for more info on toggle-able settings.",
+      "description": "Jak 1 but you must pick up cells in the (random) specified order. Click the website button for more info on toggle-able settings.",
       "authors": [
         "barg",
         "SixRock",
@@ -1263,7 +1263,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-FlutFlut-Legacy/releases/download/v0.2.5-mergetime1127.3/macos-intel-v0.2.5-mergetime1127.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 418,
+            "windows": 419,
             "linux": 51,
             "macos": 17
           }
@@ -1587,7 +1587,7 @@
             "macos": "https://github.com/Hat-Kid/og-j1-board/releases/download/v0.0.6/macos-intel-v0.0.6.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 527,
+            "windows": 528,
             "linux": 79,
             "macos": 7
           }
@@ -2468,7 +2468,7 @@
     },
     "bugged": {
       "displayName": "Bugged",
-      "description": "Over 25 bugs added to completely change the speedrun! Think you can find them all? Check the website for hints",
+      "description": "Over 25 bugs added to completely change the speedrun! Think you can find them all? Click the website button for hints",
       "authors": [
         "bintendo42",
         "barg"
@@ -2589,7 +2589,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Patched/releases/download/v1.1.3/macos-intel-v1.1.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1343,
+            "windows": 1344,
             "linux": 230,
             "macos": 35
           }
@@ -3001,7 +3001,7 @@
         }
       ],
       "coverArtUrl": "https://raw.githubusercontent.com/dallmeyer/OG-NoOrb/refs/heads/main/orbless-bg.png",
-      "thumbnailArtUrl": "https://raw.githubusercontent.com/dallmeyer/OG-NoOrb/refs/heads/main/orbless-thumb.png",
+      "thumbnailArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/OrblessSmall.png",
       "perGameConfig": {
         "jak1": {
           "releaseDate": "2025-10-25T20:50:55Z"
@@ -3039,7 +3039,7 @@
             "macos": "https://github.com/EvelynTSMG/Jak-EveBase/releases/download/v0.1.2/macos-intel-v0.1.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1648,
+            "windows": 1650,
             "linux": 323,
             "macos": 22
           }
@@ -3218,7 +3218,7 @@
             "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.6/macos-intel-v1.0.6.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 445,
+            "windows": 447,
             "linux": 70,
             "macos": 3
           }
@@ -3655,7 +3655,7 @@
     },
     "yosemite": {
       "displayName": "Yosemite",
-      "description": "Special build that will play the cut Yosemite level! BEFORE INSTALLING: Click mod name^^ for instructions on where to paste the YOS.DGO file",
+      "description": "Special build that will play the cut Yosemite level! BEFORE INSTALLING: Click website button below for instructions on where to paste the YOS.DGO file",
       "authors": [
         "barg",
         "LuminarLight"
@@ -3819,7 +3819,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 5879,
+            "windows": 5881,
             "linux": 474,
             "macos": 33
           }
@@ -4504,7 +4504,7 @@
             "macos": "https://github.com/Blake645/ArchipelaGOAL-3/releases/download/v1.3.0/macos-intel-v1.2.4-jak3.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 34,
+            "windows": 36,
             "linux": 0,
             "macos": 0
           }
@@ -7639,7 +7639,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.54/macos-intel-v0.0.54.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1436,
+            "windows": 1437,
             "linux": 210,
             "macos": 18
           }
@@ -8211,7 +8211,7 @@
             "macos": "https://github.com/CraiyDev/Better-Dark-Jak/releases/download/v0.0.2/macos-intel-v0.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2017,
+            "windows": 2018,
             "linux": 369,
             "macos": 26
           }
@@ -8384,7 +8384,7 @@
     },
     "cratetopia": {
       "displayName": "Cratetopia",
-      "description": "A fully themed Jak puzzle game spin-off with 4 modes + leaderboards!",
+      "description": "A fully themed Jak puzzle game with 4 modes + leaderboards!",
       "authors": [
         "Grateful Forest"
       ],
@@ -8413,7 +8413,7 @@
             "macos": "https://github.com/gratefulforest/Cratetopia/releases/download/v3.0.0/macos-intel-v3.0.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 19,
+            "windows": 20,
             "linux": 3,
             "macos": 0
           }
@@ -8472,7 +8472,7 @@
     },
     "defend_port_wall": {
       "displayName": "Defend the Port Wall",
-      "description": "Play the cut mission 'Defend the Port Wall'. Special install instructions: https://github.com/Nick0778/OG-Jak2-Defend-The-Portwall/blob/main/README.md",
+      "description": "Play the cut mission 'Defend the Port Wall'. Special install instructions: Click website button or visit https://github.com/Nick0778/OG-Jak2-Defend-The-Portwall/blob/main/README.md",
       "authors": [
         "Nick07"
       ],
@@ -9436,14 +9436,14 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Obama/releases/download/v0.0.1/macos-intel-v0.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 886,
+            "windows": 887,
             "linux": 97,
             "macos": 25
           }
         }
       ],
       "coverArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Obama/main/background.png",
-      "thumbnailArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Obama/main/thumbnail.png",
+      "thumbnailArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/ObamaSmall.png",
       "perGameConfig": {
         "jak1": {
           "releaseDate": "2025-04-01"
@@ -10102,7 +10102,7 @@
         }
       ],
       "coverArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-SC/refs/heads/main/jadsc-bg.png",
-      "thumbnailArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-SC/refs/heads/main/jadsc-thumb.png",
+      "thumbnailArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/SuperchargedSmall.png",
       "perGameConfig": {
         "jak1": {
           "releaseDate": "2025-08-31T19:49:05Z"
@@ -10620,8 +10620,8 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 4449,
-            "linux": 619,
+            "windows": 4451,
+            "linux": 620,
             "macos": 0
           }
         },
@@ -11333,7 +11333,7 @@
         }
       ],
       "coverArtUrl": "https://raw.githubusercontent.com/Cuttlefishthesage/OG-Mod-Base-Glacier/refs/heads/main/GlacierThumbnailFinal.PNG",
-      "thumbnailArtUrl": "https://raw.githubusercontent.com/Cuttlefishthesage/OG-Mod-Base-Glacier/refs/heads/main/GlacierThumbnailFinal.PNG",
+      "thumbnailArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/GlacierSmall.png",
       "perGameConfig": {
         "jak1": {
           "releaseDate": "2024-12-22"
@@ -11371,7 +11371,7 @@
           },
           "assetDownloadCounts": {
             "windows": 3223,
-            "linux": 499,
+            "linux": 500,
             "macos": 85
           }
         },
@@ -11436,8 +11436,8 @@
             "macos": "https://github.com/Cuttlefishthesage/ErodedCoast/releases/download/v5.0.3/macos-intel-v5.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1815,
-            "linux": 290,
+            "windows": 1817,
+            "linux": 291,
             "macos": 52
           }
         },
@@ -11544,7 +11544,7 @@
           },
           "assetDownloadCounts": {
             "windows": 941,
-            "linux": 132,
+            "linux": 133,
             "macos": 32
           }
         },
@@ -11693,7 +11693,7 @@
             "macos": "https://github.com/DaMaskV/Rainy-Precursor-Legacy/releases/download/v1.0.1/macos-intel-v1.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 10,
+            "windows": 12,
             "linux": 1,
             "macos": 0
           }
@@ -11815,5 +11815,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-09-14T13:49:21.728Z"
+  "lastUpdated": "2026-09-14T19:10:36.354Z"
 }
