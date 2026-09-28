@@ -775,6 +775,7 @@ mods:
     description: "A comprehensive Jak 3 gameplay rebalance that revises missions, enemies, weapons, vehicles, encounters, and difficulty."
     authors: ["Kidwithamnesiac"]
     tags: ["challenge", "gameplay-mod"]
+    website_url: "https://github.com/Jak-3-Modifer/Jak-3-ReBalanced/blob/main/README.md"
     cover_art_url: "https://raw.githubusercontent.com/Jak-3-Modifer/Jak-3-ReBalanced/main/ModImage.png"
     thumbnail_art_url: "https://raw.githubusercontent.com/Jak-3-Modifer/Jak-3-ReBalanced/main/ModThumbnail.png"
     
