@@ -218,6 +218,12 @@ for (const [modName, modInfo] of Object.entries(configFile["mods"])) {
                 }
             }
 
+            // If there are no assets, skip it -- there's nothing to download!
+            if (newVersion.assets.windows === null && newVersion.assets.linux === null && newVersion.assets.macos === null) {
+                console.warn(`ignoring version - no assets found - ${modName}:${cleaned_release_tag}`);
+                continue;
+            }
+
             // default to this if metadata.json missing
             newVersion.supportedGames = ["jak1"]
             if (metadataFileUrl !== null) {
@@ -314,11 +320,6 @@ for (const [modName, modInfo] of Object.entries(configFile["mods"])) {
                 }
             }
 
-            // If there are no assets, skip it -- there's nothing to download!
-            if (newVersion.assets.windows === null && newVersion.assets.linux === null && newVersion.assets.macos === null) {
-                console.warn(`ignoring version - no assets found - ${modName}:${cleaned_release_tag}`);
-                continue;
-            }
             // otherwise, add it to the list
             modSourceInfo.versions.push(newVersion);
         }
