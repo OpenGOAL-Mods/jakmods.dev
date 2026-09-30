@@ -4888,8 +4888,8 @@
           }
         }
       ],
-      "coverArtUrl": "https://raw.githubusercontent.com/ArchipelaGOAL/ArchipelaGOAL/main/thumbnails/background.gif",
-      "thumbnailArtUrl": "https://raw.githubusercontent.com/ArchipelaGOAL/ArchipelaGOAL/main/thumbnails/thumbnail.png",
+      "coverArtUrl": "https://raw.githubusercontent.com/Blake645/ArchipelaGOAL-3/refs/heads/main/images/background.gif",
+      "thumbnailArtUrl": "https://raw.githubusercontent.com/Blake645/ArchipelaGOAL-3/refs/heads/main/images/thumbnail.png",
       "perGameConfig": {
         "jak3": {
           "releaseDate": "2026-06-17"
@@ -12212,5 +12212,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-09-30T21:24:22.455Z"
+  "lastUpdated": "2026-09-30T21:29:45.205Z"
 }
