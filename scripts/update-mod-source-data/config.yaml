@@ -416,8 +416,8 @@ mods:
     repo_name: "ArchipelaGOAL-II"
     url: "https://github.com/narramoment/ArchipelaGOAL-II"
     release_date_override: "2025-09-20"
-    display_name: "ArchipelaGOAL II (ALPHA)"
-    description: "Jak 2 Archipelago Randomizer - Alpha Release"
+    display_name: "ArchipelaGOAL II"
+    description: "Jak 2 Archipelago Randomizer"
     authors: ["narra", "markus"]
     tags: ["rng", "challenge", "gameplay-mod"]
     website_url: "https://github.com/ArchipelaGOAL/Archipelago/blob/main/worlds/jakanddaxter/docs/setup_en.md"
@@ -429,8 +429,8 @@ mods:
     repo_name: "ArchipelaGOAL-3"
     url: "https://github.com/Blake645/ArchipelaGOAL-3"
     release_date_override: "2026-06-17"
-    display_name: "ArchipelaGOAL 3 (ALPHA)"
-    description: "Jak 3 Archipelago Randomizer - Alpha Release"
+    display_name: "ArchipelaGOAL 3"
+    description: "Jak 3 Archipelago Randomizer"
     authors: ["Blake645", "narra", "markus"]
     tags: ["rng", "challenge", "gameplay-mod"]
     website_url: "https://github.com/Blake645/ArchipelaGOAL-3/blob/main/README.md"
