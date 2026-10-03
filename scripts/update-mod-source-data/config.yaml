@@ -971,6 +971,30 @@ mods:
     cover_art_url: "https://raw.githubusercontent.com/Clankape/OG-Mod-Base-Halloween/main/Background.png"
     thumbnail_art_url: "https://raw.githubusercontent.com/Clankape/OG-Mod-Base-Halloween/main/thumbnail.png"
 
+  dark-flight:
+    repo_owner: "cjsilva-dev"
+    repo_name: "jak2-dark-flight"
+    url: "https://github.com/cjsilva-dev/jak2-dark-flight"
+    display_name: "Dark Flight"
+    description: "Dark Jak grows wings and flies: flap, glide, turbo, a lightning dash and a Dark Bomb landing. Two wing sets, Metal Head (Metal Kor's) or Dark Angel, switched with R3. Works as Giant Dark Jak too."
+    authors: ["cjsilva-dev"]
+    tags: ["gameplay-mod"]
+    website_url: "https://github.com/cjsilva-dev/jak2-dark-flight#readme"
+    cover_art_url: "https://raw.githubusercontent.com/cjsilva-dev/jak3-true-flight/main/launcher-art/dark-flight-cover.png"
+    thumbnail_art_url: "https://raw.githubusercontent.com/cjsilva-dev/jak3-true-flight/main/launcher-art/dark-flight-thumbnail.png"
+
+  true-flight:
+    repo_owner: "cjsilva-dev"
+    repo_name: "jak3-true-flight"
+    url: "https://github.com/cjsilva-dev/jak3-true-flight"
+    display_name: "True Flight"
+    description: "Light Jak really flies: stacking flaps, a momentum glide, turbo, a dash and a superhero landing. Dark Jak flies too, with his own ragged wings, a bomb dash and the real Dark Bomb landing."
+    authors: ["cjsilva-dev"]
+    tags: ["gameplay-mod"]
+    website_url: "https://github.com/cjsilva-dev/jak3-true-flight#readme"
+    cover_art_url: "https://raw.githubusercontent.com/cjsilva-dev/jak3-true-flight/main/launcher-art/true-flight-cover.png"
+    thumbnail_art_url: "https://raw.githubusercontent.com/cjsilva-dev/jak3-true-flight/main/launcher-art/true-flight-thumbnail.png"
+
   # NOTE - allows for just links to mods as well, for ones that don't really fit into
   # the standard mod installation experience
   teamruns:
