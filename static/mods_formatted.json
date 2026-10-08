@@ -1587,7 +1587,7 @@
             "macos": "https://github.com/Hat-Kid/og-j1-board/releases/download/v0.0.6/macos-intel-v0.0.6.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 660,
+            "windows": 661,
             "linux": 103,
             "macos": 17
           }
@@ -3819,7 +3819,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.9/macos-intel-v0.5.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 339,
+            "windows": 340,
             "linux": 37,
             "macos": 2
           }
@@ -12381,6 +12381,201 @@
       },
       "externalLink": null
     },
+    "dark-flight": {
+      "displayName": "Dark Flight",
+      "description": "Dark Jak grows wings and flies: flap, glide, turbo, a lightning dash and a Dark Bomb landing. Two wing sets, Metal Head (Metal Kor's) or Dark Angel, switched with R3. Works as Giant Dark Jak too.",
+      "authors": [
+        "cjsilva-dev"
+      ],
+      "tags": [
+        "gameplay-mod"
+      ],
+      "websiteUrl": "https://github.com/cjsilva-dev/jak2-dark-flight#readme",
+      "supportedGames": [
+        "jak2"
+      ],
+      "versions": [
+        {
+          "version": "0.3.0",
+          "publishedDate": "2026-10-04T13:09:04Z",
+          "supportedGames": [
+            "jak2"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/cjsilva-dev/jak2-dark-flight/releases/download/v0.3.0/windows-v0.3.0.zip",
+            "linux": "https://github.com/cjsilva-dev/jak2-dark-flight/releases/download/v0.3.0/linux-v0.3.0.tar.gz",
+            "macos": "https://github.com/cjsilva-dev/jak2-dark-flight/releases/download/v0.3.0/macos-intel-v0.3.0.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 5,
+            "linux": 1,
+            "macos": 1
+          }
+        },
+        {
+          "version": "0.2.0",
+          "publishedDate": "2026-09-28T20:39:24Z",
+          "supportedGames": [
+            "jak2"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/cjsilva-dev/jak2-dark-flight/releases/download/v0.2.0/windows-v0.2.0.zip",
+            "linux": "https://github.com/cjsilva-dev/jak2-dark-flight/releases/download/v0.2.0/linux-v0.2.0.tar.gz",
+            "macos": "https://github.com/cjsilva-dev/jak2-dark-flight/releases/download/v0.2.0/macos-intel-v0.2.0.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 3,
+            "linux": 5,
+            "macos": 0
+          }
+        },
+        {
+          "version": "0.1.0",
+          "publishedDate": "2026-09-28T01:39:08Z",
+          "supportedGames": [
+            "jak2"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/cjsilva-dev/jak2-dark-flight/releases/download/v0.1.0/windows-v0.1.0.zip",
+            "linux": "https://github.com/cjsilva-dev/jak2-dark-flight/releases/download/v0.1.0/linux-v0.1.0.tar.gz",
+            "macos": "https://github.com/cjsilva-dev/jak2-dark-flight/releases/download/v0.1.0/macos-intel-v0.1.0.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 2,
+            "linux": 2,
+            "macos": 1
+          }
+        }
+      ],
+      "coverArtUrl": "https://raw.githubusercontent.com/cjsilva-dev/jak3-true-flight/main/launcher-art/dark-flight-cover.png",
+      "thumbnailArtUrl": "https://raw.githubusercontent.com/cjsilva-dev/jak3-true-flight/main/launcher-art/dark-flight-thumbnail.png",
+      "perGameConfig": {
+        "jak2": {
+          "releaseDate": "2026-09-28T01:39:08Z"
+        }
+      },
+      "externalLink": null
+    },
+    "true-flight": {
+      "displayName": "True Flight",
+      "description": "Light Jak really flies: stacking flaps, a momentum glide, turbo, a dash and a superhero landing. Dark Jak flies too, with his own ragged wings, a bomb dash and the real Dark Bomb landing.",
+      "authors": [
+        "cjsilva-dev"
+      ],
+      "tags": [
+        "gameplay-mod"
+      ],
+      "websiteUrl": "https://github.com/cjsilva-dev/jak3-true-flight#readme",
+      "supportedGames": [
+        "jak3"
+      ],
+      "versions": [
+        {
+          "version": "0.3.0",
+          "publishedDate": "2026-10-04T13:06:50Z",
+          "supportedGames": [
+            "jak3"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/cjsilva-dev/jak3-true-flight/releases/download/v0.3.0/windows-v0.3.0.zip",
+            "linux": "https://github.com/cjsilva-dev/jak3-true-flight/releases/download/v0.3.0/linux-v0.3.0.tar.gz",
+            "macos": "https://github.com/cjsilva-dev/jak3-true-flight/releases/download/v0.3.0/macos-intel-v0.3.0.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 1,
+            "linux": 1,
+            "macos": 1
+          }
+        },
+        {
+          "version": "0.2.0",
+          "publishedDate": "2026-09-29T02:13:28Z",
+          "supportedGames": [
+            "jak3"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/cjsilva-dev/jak3-true-flight/releases/download/v0.2.0/windows-v0.2.0.zip",
+            "linux": "https://github.com/cjsilva-dev/jak3-true-flight/releases/download/v0.2.0/linux-v0.2.0.tar.gz",
+            "macos": "https://github.com/cjsilva-dev/jak3-true-flight/releases/download/v0.2.0/macos-intel-v0.2.0.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 4,
+            "linux": 3,
+            "macos": 1
+          }
+        },
+        {
+          "version": "0.1.1",
+          "publishedDate": "2026-09-28T02:41:31Z",
+          "supportedGames": [
+            "jak3"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/cjsilva-dev/jak3-true-flight/releases/download/v0.1.1/windows-v0.1.1.zip",
+            "linux": "https://github.com/cjsilva-dev/jak3-true-flight/releases/download/v0.1.1/linux-v0.1.1.tar.gz",
+            "macos": "https://github.com/cjsilva-dev/jak3-true-flight/releases/download/v0.1.1/macos-intel-v0.1.1.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 4,
+            "linux": 2,
+            "macos": 0
+          }
+        },
+        {
+          "version": "0.1.0",
+          "publishedDate": "2026-09-28T01:45:20Z",
+          "supportedGames": [
+            "jak3"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/cjsilva-dev/jak3-true-flight/releases/download/v0.1.0/windows-v0.1.0.zip",
+            "linux": "https://github.com/cjsilva-dev/jak3-true-flight/releases/download/v0.1.0/linux-v0.1.0.tar.gz",
+            "macos": "https://github.com/cjsilva-dev/jak3-true-flight/releases/download/v0.1.0/macos-intel-v0.1.0.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 1,
+            "linux": 2,
+            "macos": 1
+          }
+        }
+      ],
+      "coverArtUrl": "https://raw.githubusercontent.com/cjsilva-dev/jak3-true-flight/main/launcher-art/true-flight-cover.png",
+      "thumbnailArtUrl": "https://raw.githubusercontent.com/cjsilva-dev/jak3-true-flight/main/launcher-art/true-flight-thumbnail.png",
+      "perGameConfig": {
+        "jak3": {
+          "releaseDate": "2026-09-28T01:45:20Z"
+        }
+      },
+      "externalLink": null
+    },
     "teamruns": {
       "displayName": "TeamRuns",
       "description": "Online and couch co-op multiplayer mod",
@@ -12402,5 +12597,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-10-08T07:11:59.633Z"
+  "lastUpdated": "2026-10-08T07:26:54.543Z"
 }
