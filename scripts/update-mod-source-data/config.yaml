@@ -778,6 +778,22 @@ mods:
     website_url: "https://github.com/Jak-3-Modifer/Jak-3-ReBalanced/blob/main/README.md"
     cover_art_url: "https://raw.githubusercontent.com/Jak-3-Modifer/Jak-3-ReBalanced/main/ModImage.png"
     thumbnail_art_url: "https://raw.githubusercontent.com/Jak-3-Modifer/Jak-3-ReBalanced/main/ModThumbnail.png"
+
+    BlastBot:
+    repo_owner: "JoaoSaMarques"
+    repo_name: "Jak3_BlastBot_Mod"
+    url: "https://github.com/JoaoSaMarques/Jak3_BlastBot_Mod.git"
+    release_date_override: "2026-09-10"
+    ignore_versions:
+      - "<0.1.0-beta.1"
+      - "0.1.0"
+    display_name: "BlastBot Gameplay Overhaul"
+    description: "Jak 3 mod that changes Jak into a customized version of the playable BlastBot and rebalances gameplay like including more enemies and different stats."
+    authors: ["Virtus"]
+    tags: ["challenge", "gameplay-mod"]
+    website_url: "https://github.com/JoaoSaMarques/Jak3_BlastBot_Mod/blob/Testing-Branch-Rewrite/README.md"
+    cover_art_url: "https://github.com/JoaoSaMarques/Jak3_BlastBot_Mod/blob/Testing-Branch-Rewrite/ModPageImages/ModImage.png"
+    thumbnail_art_url: "https://github.com/JoaoSaMarques/Jak3_BlastBot_Mod/blob/Testing-Branch-Rewrite/ModPageImages/BlastBotModIcon.png"
     
   #### CUSTOM LEVEL MODS ####
 
