@@ -1610,7 +1610,7 @@
             "macos": "https://github.com/Hat-Kid/og-j1-board/releases/download/v0.0.6/macos-intel-v0.0.6.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 699,
+            "windows": 701,
             "linux": 111,
             "macos": 21
           }
@@ -3062,7 +3062,7 @@
             "macos": "https://github.com/EvelynTSMG/Jak-EveBase/releases/download/v0.1.2/macos-intel-v0.1.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1796,
+            "windows": 1797,
             "linux": 341,
             "macos": 27
           }
@@ -3842,7 +3842,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.9/macos-intel-v0.5.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 507,
+            "windows": 508,
             "linux": 51,
             "macos": 4
           }
@@ -5076,7 +5076,7 @@
             "macos": "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/releases/download/v2.1.9/macos-intel-v2.1.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 867,
+            "windows": 868,
             "linux": 105,
             "macos": 29
           }
@@ -7935,7 +7935,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.54/macos-intel-v0.0.54.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1505,
+            "windows": 1506,
             "linux": 219,
             "macos": 21
           }
@@ -10506,7 +10506,7 @@
           "assetDownloadCounts": {
             "windows": 5,
             "linux": 1,
-            "macos": 0
+            "macos": 1
           }
         },
         {
@@ -11419,7 +11419,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 4657,
+            "windows": 4658,
             "linux": 662,
             "macos": 0
           }
@@ -12492,7 +12492,7 @@
             "macos": "https://github.com/DaMaskV/Rainy-Precursor-Legacy/releases/download/v1.0.1/macos-intel-v1.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 94,
+            "windows": 95,
             "linux": 15,
             "macos": 3
           }
@@ -12977,6 +12977,74 @@
       },
       "externalLink": null
     },
+    "jad-2-multiplayer": {
+      "displayName": "Jak & Daxter 2 Multiplayer",
+      "description": "A P2P Multiplayer implementation for Jak 2, mostly featuring Co-op features.",
+      "authors": [
+        "Stan"
+      ],
+      "tags": [
+        "beta",
+        "multiplayer",
+        "co-op"
+      ],
+      "websiteUrl": "https://github.com/himstan/Jak-And-Daxter-2-Multiplayer/blob/main/README.md",
+      "supportedGames": [
+        "jak2"
+      ],
+      "versions": [
+        {
+          "version": "0.1.1",
+          "publishedDate": "2026-10-14T19:45:25Z",
+          "supportedGames": [
+            "jak2"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/himstan/Jak-And-Daxter-2-Multiplayer/releases/download/v0.1.1/windows-v0.1.1.zip",
+            "linux": "https://github.com/himstan/Jak-And-Daxter-2-Multiplayer/releases/download/v0.1.1/linux-v0.1.1.tar.gz",
+            "macos": "https://github.com/himstan/Jak-And-Daxter-2-Multiplayer/releases/download/v0.1.1/macos-intel-v0.1.1.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
+          "version": "0.1.0",
+          "publishedDate": "2026-10-11T20:36:17Z",
+          "supportedGames": [
+            "jak2"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/himstan/Jak-And-Daxter-2-Multiplayer/releases/download/v0.1.0/windows-v0.1.0.zip",
+            "linux": "https://github.com/himstan/Jak-And-Daxter-2-Multiplayer/releases/download/v0.1.0/linux-v0.1.0.tar.gz",
+            "macos": "https://github.com/himstan/Jak-And-Daxter-2-Multiplayer/releases/download/v0.1.0/macos-intel-v0.1.0.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 3,
+            "linux": 0,
+            "macos": 0
+          }
+        }
+      ],
+      "coverArtUrl": "https://github.com/himstan/Jak-And-Daxter-2-Multiplayer/blob/main/images/jad2mp-background.png?raw=true",
+      "thumbnailArtUrl": "https://github.com/himstan/Jak-And-Daxter-2-Multiplayer/blob/main/images/jad2mp-thumbnail.png?raw=true",
+      "perGameConfig": {
+        "jak2": {
+          "releaseDate": "2026-10-11T20:36:17Z"
+        }
+      },
+      "externalLink": null
+    },
     "teamruns": {
       "displayName": "TeamRuns",
       "description": "Online and couch co-op multiplayer mod",
@@ -12998,5 +13066,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-10-15T09:20:29.078Z"
+  "lastUpdated": "2026-10-15T11:14:47.376Z"
 }
