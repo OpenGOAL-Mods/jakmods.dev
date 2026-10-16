@@ -56,28 +56,41 @@ Yes - see the below links! In particular, Zed's videos are a great starting poin
 - [OpenGOAL language documentation](https://opengoal.dev/docs/reference)
 - Source Code documentation for [Jak 1](https://opengoal.dev/docs/category/jak-1) / [Jak 2](https://opengoal.dev/docs/category/jak-2)
 - [Modding guides and devlogs (YouTube playlist)](https://www.youtube.com/playlist?list=PLgmHXU3d2jJBpD18G-2pjkO5U1GnWCKLD)
-- [OpenGOAL ModBase - Getting Started tutorial](https://www.youtube.com/watch?v=3QiqmEA6Wc8)
 - [Texture Packs how-to](https://opengoal.dev/docs/developing/texture_packs)
 - [Custom Levels how-to](https://opengoal.dev/docs/category/custom-levels)
 - [Modding example blogs](https://opengoal.dev/docs/category/modding-examples)
 - [JakMods blogs](/blog)
 - [The Forgotten Lands blog](/blog/2023-11-21-tfl)
 
-Additionally, if you are curious and want to peek at the source code for any of the existing mods in the mod launcher, you can find each mod's Github repo listed in our mod launcher config file [here](https://github.com/OpenGOAL-Mods/jakmods.dev/blob/main/scripts/update-mod-source-data/config.yaml).
-</details>
-
-<details>
-<summary>I made a texture pack / custom level / mod, how can I get it listed in the mod launcher?</summary>
-
-The mod launcher expects to download mods as a Github release bundle of the ['jak-project'](https://github.com/open-goal/jak-project), so in short: you'll need to get your creation hosted on a Github repository and create a release in the expected format.
+The launcher expects each mod to be downloadable as a Github release bundle similar to the vanilla ['jak-project'](https://github.com/open-goal/jak-project). In short: you'll need to get your creation hosted on a Github repository and create a release in the expected format.
 
 We recommend making a fork of our [OG-Mod-Base project](https://github.com/OpenGOAL-Mods/OG-Mod-Base), as this comes with an easy workflow for creating release bundles. You can follow this video for using the ModBase and creating a release for your mod:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3QiqmEA6Wc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-At this point, your mod should be bundled and ready for us to add! Just reach out to <u>barg034</u> or <u>zedb0t</u> on Discord with the name, description, and thumbnail image - we'll work with you to get it added to the mod list.
+Additionally, if you are curious and want to peek at the source code for any of the existing mods in the mod list, you can find each mod's Github repo listed in our mod list config file [here](https://github.com/OpenGOAL-Mods/jakmods.dev/blob/main/scripts/update-mod-source-data/lists).
+</details>
 
-Whenever you'd like to publish updates to your mod, simply push those changes to your Github repo, and kick off a new Cut Mod Release action. Our mod list periodically refreshes and will pick up your new release so it shows up in the launcher.
+<details>
+<summary>I made a texture pack / custom level / mod, how can I get it added to the mod list?</summary>
+
+At this time we are NOT accepting pure texture packs to be added to the mod list. These can be distributed as simple zip files and do not/should not require downloading an entire fork of jak-project the way mods do. You may want to use NexusMods or similar sites as a way to distribute these instead.
+
+This answer will assume you already have a functional mod with releases built. If that's not the case, please refer to the previous question first.
+
+Due to the recent increase in AI/LLM usage, we are seeing new mods and new modders pop up more frequently than ever. Generally speaking we want to encourage and support this by adding new mods to our list, but we also want to maintain a respectable quality bar for what shows up in our list.
+
+To this end, we will continue to maintain our primary `mods.json` list, but we have also added support for modders to easily spin up their own separate lists (e.g. `mods_barg.json`), still hosted on jakmods.dev. This will allow modders to distribute work-in-progress mods for testing, without adding noise to the primary list for other users.
+
+To set up your own mod list:
+- fork our jakmods.dev repo
+- create your own `mods_XXX.yaml` [here](https://github.com/OpenGOAL-Mods/jakmods.dev/tree/main/scripts/update-mod-source-data/lists) (replace `XXX` with your name/handle)
+- send us a pull request with these changes
+- once the PR is merged in, our jobs will run periodically to generate the full `mods_XXX.json` file
+    - whenever you have updates, just create new releases, and the next run of this job will pick it up
+- done! your full URL will be `https://jakmods.dev/mods_XXX.json`
+
+Once the mod is in a more completed state (you should be able to play through the game without crashing or requiring debug mode), feel free to request that we (<u>barg034</u> or <u>zedb0t</u> on Discord) upgrade your mod to the primary list.
 </details>
 
 <details>

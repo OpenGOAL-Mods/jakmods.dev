@@ -1,0 +1,15 @@
+metadata:
+  name: "CJSilva-Dev"
+mods:
+
+  jet-board-start:
+    repo_owner: "cjsilva-dev"
+    repo_name: "jak2-jet-board-start"
+    url: "https://github.com/cjsilva-dev/jak2-jet-board-start"
+    display_name: "JET-Board Start"
+    description: "The JET-Board from the first moment of the game: press R2 to ride from the prison onwards. The story plays out as written; Keira's training and the board missions are unchanged."
+    authors: ["cjsilva-dev"]
+    tags: ["gameplay-mod"]
+    website_url: "https://github.com/cjsilva-dev/jak2-jet-board-start#readme"
+    cover_art_url: "https://raw.githubusercontent.com/cjsilva-dev/jak3-true-flight/main/launcher-art/jet-board-start-cover.png"
+    thumbnail_art_url: "https://raw.githubusercontent.com/cjsilva-dev/jak3-true-flight/main/launcher-art/jet-board-start-thumbnail.png"

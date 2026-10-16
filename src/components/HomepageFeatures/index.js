@@ -99,7 +99,7 @@ export default function HomepageFeatures() {
         <p><h1>Disclaimer ⚠️</h1></p>
         <p>The mod list and the mods themselves are NOT supported by the main OpenGOAL developers!</p>
         <p>For more information see the <a href="docs/faq">FAQ</a>, or join us in the <a href="https://discord.gg/k5PKHta6d8">OpenGOAL Modding Discord server</a> for any questions.</p>
-        <p>All mods are installed and ran at your own risk. You can find the repository containing the source code for any mod in our list <a href="https://github.com/OpenGOAL-Mods/jakmods.dev/blob/main/scripts/update-mod-source-data/config.yaml">here</a>.</p>
+        <p>All mods are installed and ran at your own risk. With the recent increase in AI/LLM usage, it's easier than ever for someone to develop software, whether that be for good or for bad, so please be cautious. You can find the repository containing the source code for any mod in our list <a href="https://github.com/OpenGOAL-Mods/jakmods.dev/blob/main/scripts/update-mod-source-data/lists">here</a>.</p>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/r9E01A3BlEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         <p></p>
       </div>

@@ -1034,15 +1034,3 @@ mods:
     tags: ["multiplayer", "speedrunning"]
     cover_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/TeamrunsLarge.png"
     thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/TeamrunsSmall.png"
-
-texture_packs:
-  # TODO - this one actually isn't supported end-to-end yet (no releases)
-  # snowy-legacy:
-  #   repo_owner: "kekdeveloper"
-  #   repo_name: "opengoal-mod-snowy-legacy"
-  #   display_name: "Snowy Legacy"
-  #   description: "Snowy texture pack and snowy weather everywhere."
-  #   authors: ["InnocentMiau"]
-  #   supported_games: ["jak1"]
-  #   tags: []
-  #   thumbnail_art_url: "https://github.com/kekdeveloper/opengoal-mod-snowy-legacy/blob/main/ModImage.png?raw=true"
