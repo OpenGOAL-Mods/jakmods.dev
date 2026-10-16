@@ -791,9 +791,9 @@ mods:
     description: "Jak 3 mod that changes Jak into a customized version of the playable BlastBot and rebalances gameplay like including more enemies and different stats."
     authors: ["Virtus"]
     tags: ["challenge", "gameplay-mod"]
-    website_url: "https://github.com/JoaoSaMarques/Jak3_BlastBot_Mod/blob/Testing-Branch-Rewrite/README.md"
-    cover_art_url: "https://github.com/JoaoSaMarques/Jak3_BlastBot_Mod/blob/Testing-Branch-Rewrite/ModPageImages/ModImage.png"
-    thumbnail_art_url: "https://github.com/JoaoSaMarques/Jak3_BlastBot_Mod/blob/Testing-Branch-Rewrite/ModPageImages/BlastBotModIcon.png"
+    website_url: "https://github.com/JoaoSaMarques/Jak3_BlastBot_Mod/blob/main/README.md"
+    cover_art_url: "https://github.com/JoaoSaMarques/Jak3_BlastBot_Mod/blob/main/ModPageImages/ModImage.png"
+    thumbnail_art_url: "https://github.com/JoaoSaMarques/Jak3_BlastBot_Mod/blob/main/ModPageImages/BlastBotModIcon.png"
     
   #### CUSTOM LEVEL MODS ####
 
