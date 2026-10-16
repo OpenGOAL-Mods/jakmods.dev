@@ -778,6 +778,21 @@ mods:
     website_url: "https://github.com/Jak-3-Modifer/Jak-3-ReBalanced/blob/main/README.md"
     cover_art_url: "https://raw.githubusercontent.com/Jak-3-Modifer/Jak-3-ReBalanced/main/ModImage.png"
     thumbnail_art_url: "https://raw.githubusercontent.com/Jak-3-Modifer/Jak-3-ReBalanced/main/ModThumbnail.png"
+
+  bullet-hell:
+    repo_owner: "Erdeppol"
+    repo_name: "OG-BulletHellMod"
+    url: "https://github.com/Erdeppol/OG-BulletHellMod"
+    release_date_override: "2026-10-13"
+    ignore_versions:
+      - "<1.0.0"
+    display_name: "Bullet Hell"
+    description: "Bullets constantly rain down upon you. When you pick up a powercell the difficulty increases unlocking new bullet patterns and speeding up the bullet hell. Precursor orbs and scout flies also fire bullets at you. Includes power cell cutscene skip and mini game skips."
+    authors: ["Erdeppol"]
+    tags: ["speedrunning", "challenge", "gameplay-mod", "rng"]
+    # website_url: "https://www.youtube.com/@Erdeppol"
+    cover_art_url: "https://raw.githubusercontent.com/Erdeppol/OG-BulletHellMod/refs/heads/main/storeimages/bullethellLarge.PNG"
+    thumbnail_art_url: "https://raw.githubusercontent.com/Erdeppol/OG-BulletHellMod/refs/heads/main/storeimages/bullethellSmall.PNG"
     
   #### CUSTOM LEVEL MODS ####
 
