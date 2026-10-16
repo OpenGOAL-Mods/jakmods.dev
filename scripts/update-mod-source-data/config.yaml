@@ -795,6 +795,21 @@ mods:
     cover_art_url: "https://github.com/JoaoSaMarques/Jak3_BlastBot_Mod/blob/main/ModPageImages/ModImage.png"
     thumbnail_art_url: "https://github.com/JoaoSaMarques/Jak3_BlastBot_Mod/blob/main/ModPageImages/BlastBotModIcon.png"
     
+  bullet-hell:
+    repo_owner: "Erdeppol"
+    repo_name: "OG-BulletHellMod"
+    url: "https://github.com/Erdeppol/OG-BulletHellMod"
+    release_date_override: "2026-10-13"
+    ignore_versions:
+      - "<1.0.0"
+    display_name: "Bullet Hell"
+    description: "Bullets constantly rain down upon you. When you pick up a powercell the difficulty increases unlocking new bullet patterns and speeding up the bullet hell. Precursor orbs and scout flies also fire bullets at you. Includes power cell cutscene skip and mini game skips."
+    authors: ["Erdeppol"]
+    tags: ["speedrunning", "challenge", "gameplay-mod", "rng"]
+    # website_url: "https://www.youtube.com/@Erdeppol"
+    cover_art_url: "https://raw.githubusercontent.com/Erdeppol/OG-BulletHellMod/refs/heads/main/storeimages/bullethellLarge.PNG"
+    thumbnail_art_url: "https://raw.githubusercontent.com/Erdeppol/OG-BulletHellMod/refs/heads/main/storeimages/bullethellSmall.PNG"
+    
   #### CUSTOM LEVEL MODS ####
 
   forgotten-lands:
@@ -1010,6 +1025,18 @@ mods:
     website_url: "https://github.com/cjsilva-dev/jak3-true-flight#readme"
     cover_art_url: "https://raw.githubusercontent.com/cjsilva-dev/jak3-true-flight/main/launcher-art/true-flight-cover.png"
     thumbnail_art_url: "https://raw.githubusercontent.com/cjsilva-dev/jak3-true-flight/main/launcher-art/true-flight-thumbnail.png"
+
+  jad-2-multiplayer:
+    repo_owner: "himstan"
+    repo_name: "Jak-And-Daxter-2-Multiplayer"
+    url: "https://github.com/himstan/Jak-And-Daxter-2-Multiplayer"
+    display_name: "Jak & Daxter 2 Multiplayer"
+    description: "A P2P Multiplayer implementation for Jak 2, mostly featuring Co-op features."
+    authors: ["Stan"]
+    tags: ["beta", "multiplayer", "co-op"]
+    website_url: "https://github.com/himstan/Jak-And-Daxter-2-Multiplayer/blob/main/README.md"
+    cover_art_url: "https://github.com/himstan/Jak-And-Daxter-2-Multiplayer/blob/main/images/jad2mp-background.png?raw=true"
+    thumbnail_art_url: "https://github.com/himstan/Jak-And-Daxter-2-Multiplayer/blob/main/images/jad2mp-thumbnail.png?raw=true"
 
   # NOTE - allows for just links to mods as well, for ones that don't really fit into
   # the standard mod installation experience
