@@ -1610,8 +1610,8 @@
             "macos": "https://github.com/Hat-Kid/og-j1-board/releases/download/v0.0.6/macos-intel-v0.0.6.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 787,
-            "linux": 123,
+            "windows": 788,
+            "linux": 124,
             "macos": 24
           }
         },
@@ -3062,7 +3062,7 @@
             "macos": "https://github.com/EvelynTSMG/Jak-EveBase/releases/download/v0.1.2/macos-intel-v0.1.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1853,
+            "windows": 1854,
             "linux": 350,
             "macos": 32
           }
@@ -3241,7 +3241,7 @@
             "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.6/macos-intel-v1.0.6.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 712,
+            "windows": 713,
             "linux": 116,
             "macos": 14
           }
@@ -3842,7 +3842,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.9/macos-intel-v0.5.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 873,
+            "windows": 876,
             "linux": 88,
             "macos": 15
           }
@@ -6848,7 +6848,7 @@
             "macos": "https://github.com/myogmods/Jak-the-Mercenary/releases/download/v0.0.5/macos-intel-v0.0.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 155,
+            "windows": 156,
             "linux": 21,
             "macos": 1
           }
@@ -6981,7 +6981,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v1.0.1/macos-intel-v1.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 780,
+            "windows": 781,
             "linux": 99,
             "macos": 5
           }
@@ -7195,7 +7195,7 @@
             "macos": "https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus/releases/download/v1.0.2/macos-intel-v1.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1211,
+            "windows": 1213,
             "linux": 169,
             "macos": 12
           }
@@ -7998,7 +7998,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.54/macos-intel-v0.0.54.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1560,
+            "windows": 1561,
             "linux": 229,
             "macos": 26
           }
@@ -11231,6 +11231,27 @@
       ],
       "versions": [
         {
+          "version": "0.1.0-beta.24",
+          "publishedDate": "2026-10-31T09:17:41Z",
+          "supportedGames": [
+            "jak3"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/Jak-3-Modifer/Jak-3-ReBalanced/releases/download/v0.1.0-beta.24/windows-v0.1.0-beta.24.zip",
+            "linux": "https://github.com/Jak-3-Modifer/Jak-3-ReBalanced/releases/download/v0.1.0-beta.24/linux-v0.1.0-beta.24.tar.gz",
+            "macos": "https://github.com/Jak-3-Modifer/Jak-3-ReBalanced/releases/download/v0.1.0-beta.24/macos-intel-v0.1.0-beta.24.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 1,
+            "linux": 1,
+            "macos": 1
+          }
+        },
+        {
           "version": "0.1.0-beta.23",
           "publishedDate": "2026-10-27T16:39:45Z",
           "supportedGames": [
@@ -11246,9 +11267,9 @@
             "macos": "https://github.com/Jak-3-Modifer/Jak-3-ReBalanced/releases/download/v0.1.0-beta.23/macos-intel-v0.1.0-beta.23.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 22,
-            "linux": 4,
-            "macos": 3
+            "windows": 25,
+            "linux": 5,
+            "macos": 4
           }
         },
         {
@@ -11267,9 +11288,9 @@
             "macos": "https://github.com/Jak-3-Modifer/Jak-3-ReBalanced/releases/download/v0.1.0-beta.22/macos-intel-v0.1.0-beta.22.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 57,
-            "linux": 7,
-            "macos": 1
+            "windows": 58,
+            "linux": 8,
+            "macos": 2
           }
         },
         {
@@ -11288,9 +11309,9 @@
             "macos": "https://github.com/Jak-3-Modifer/Jak-3-ReBalanced/releases/download/v0.1.0-beta.21/macos-intel-v0.1.0-beta.21.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 45,
-            "linux": 2,
-            "macos": 1
+            "windows": 46,
+            "linux": 3,
+            "macos": 2
           }
         },
         {
@@ -11309,9 +11330,9 @@
             "macos": "https://github.com/Jak-3-Modifer/Jak-3-ReBalanced/releases/download/v0.1.0-beta.20/macos-intel-v0.1.0-beta.20.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 78,
-            "linux": 2,
-            "macos": 1
+            "windows": 79,
+            "linux": 3,
+            "macos": 2
           }
         },
         {
@@ -11330,9 +11351,9 @@
             "macos": "https://github.com/Jak-3-Modifer/Jak-3-ReBalanced/releases/download/v0.1.0-beta.19/macos-intel-v0.1.0-beta.19.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 102,
-            "linux": 10,
-            "macos": 0
+            "windows": 103,
+            "linux": 11,
+            "macos": 1
           }
         },
         {
@@ -11351,9 +11372,9 @@
             "macos": "https://github.com/Jak-3-Modifer/Jak-3-ReBalanced/releases/download/v0.1.0-beta.18/macos-intel-v0.1.0-beta.18.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 22,
-            "linux": 2,
-            "macos": 0
+            "windows": 23,
+            "linux": 3,
+            "macos": 1
           }
         },
         {
@@ -11372,9 +11393,9 @@
             "macos": "https://github.com/Jak-3-Modifer/Jak-3-ReBalanced/releases/download/v0.1.0-beta.17/macos-intel-v0.1.0-beta.17.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 35,
-            "linux": 4,
-            "macos": 0
+            "windows": 36,
+            "linux": 5,
+            "macos": 1
           }
         },
         {
@@ -11393,9 +11414,9 @@
             "macos": "https://github.com/Jak-3-Modifer/Jak-3-ReBalanced/releases/download/v0.1.0-beta.16/macos-intel-v0.1.0-beta.16.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 82,
-            "linux": 12,
-            "macos": 5
+            "windows": 83,
+            "linux": 13,
+            "macos": 6
           }
         },
         {
@@ -11414,9 +11435,9 @@
             "macos": "https://github.com/Jak-3-Modifer/Jak-3-ReBalanced/releases/download/v0.1.0-beta.15/macos-intel-v0.1.0-beta.15.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 50,
-            "linux": 10,
-            "macos": 3
+            "windows": 51,
+            "linux": 11,
+            "macos": 4
           }
         },
         {
@@ -11435,9 +11456,9 @@
             "macos": "https://github.com/Jak-3-Modifer/Jak-3-ReBalanced/releases/download/v0.1.0-beta.14/macos-intel-v0.1.0-beta.14.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 42,
-            "linux": 4,
-            "macos": 0
+            "windows": 43,
+            "linux": 5,
+            "macos": 1
           }
         },
         {
@@ -11456,9 +11477,9 @@
             "macos": "https://github.com/Jak-3-Modifer/Jak-3-ReBalanced/releases/download/v0.1.0-beta.13/macos-intel-v0.1.0-beta.13.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 16,
-            "linux": 6,
-            "macos": 0
+            "windows": 17,
+            "linux": 7,
+            "macos": 1
           }
         },
         {
@@ -11477,9 +11498,9 @@
             "macos": "https://github.com/Jak-3-Modifer/Jak-3-ReBalanced/releases/download/v0.1.0-beta.11/macos-intel-v0.1.0-beta.11.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 18,
-            "linux": 3,
-            "macos": 0
+            "windows": 19,
+            "linux": 4,
+            "macos": 1
           }
         },
         {
@@ -11498,9 +11519,9 @@
             "macos": "https://github.com/Jak-3-Modifer/Jak-3-ReBalanced/releases/download/v0.1.0-beta.10/macos-intel-v0.1.0-beta.10.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1,
-            "linux": 0,
-            "macos": 0
+            "windows": 2,
+            "linux": 1,
+            "macos": 1
           }
         },
         {
@@ -11519,9 +11540,9 @@
             "macos": "https://github.com/Jak-3-Modifer/Jak-3-ReBalanced/releases/download/v0.1.0-beta.9/macos-intel-v0.1.0-beta.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 26,
-            "linux": 3,
-            "macos": 0
+            "windows": 27,
+            "linux": 4,
+            "macos": 1
           }
         },
         {
@@ -11540,9 +11561,9 @@
             "macos": "https://github.com/Jak-3-Modifer/Jak-3-ReBalanced/releases/download/v0.1.0-beta.8/macos-intel-v0.1.0-beta.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 41,
-            "linux": 8,
-            "macos": 1
+            "windows": 42,
+            "linux": 9,
+            "macos": 2
           }
         },
         {
@@ -11561,9 +11582,9 @@
             "macos": "https://github.com/Jak-3-Modifer/Jak-3-ReBalanced/releases/download/v0.1.0-beta.7/macos-intel-v0.1.0-beta.7.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 5,
-            "linux": 2,
-            "macos": 1
+            "windows": 6,
+            "linux": 3,
+            "macos": 2
           }
         },
         {
@@ -11582,9 +11603,9 @@
             "macos": "https://github.com/Jak-3-Modifer/Jak-3-ReBalanced/releases/download/v0.1.0-beta.6/macos-intel-v0.1.0-beta.6.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 9,
-            "linux": 0,
-            "macos": 0
+            "windows": 10,
+            "linux": 1,
+            "macos": 1
           }
         },
         {
@@ -11603,9 +11624,9 @@
             "macos": "https://github.com/Jak-3-Modifer/Jak-3-ReBalanced/releases/download/v0.1.0-beta.5/macos-intel-v0.1.0-beta.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 9,
-            "linux": 0,
-            "macos": 0
+            "windows": 10,
+            "linux": 1,
+            "macos": 1
           }
         },
         {
@@ -11624,9 +11645,9 @@
             "macos": "https://github.com/Jak-3-Modifer/Jak-3-ReBalanced/releases/download/v0.1.0-beta.4/macos-intel-v0.1.0-beta.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 8,
-            "linux": 1,
-            "macos": 0
+            "windows": 9,
+            "linux": 2,
+            "macos": 1
           }
         },
         {
@@ -11645,9 +11666,9 @@
             "macos": "https://github.com/Jak-3-Modifer/Jak-3-ReBalanced/releases/download/v0.1.0-beta.3/macos-intel-v0.1.0-beta.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 6,
-            "linux": 1,
-            "macos": 0
+            "windows": 7,
+            "linux": 2,
+            "macos": 1
           }
         },
         {
@@ -11666,9 +11687,9 @@
             "macos": "https://github.com/Jak-3-Modifer/Jak-3-ReBalanced/releases/download/v0.1.0-beta.2/macos-intel-v0.1.0-beta.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 7,
-            "linux": 0,
-            "macos": 1
+            "windows": 8,
+            "linux": 1,
+            "macos": 2
           }
         },
         {
@@ -11687,9 +11708,9 @@
             "macos": "https://github.com/Jak-3-Modifer/Jak-3-ReBalanced/releases/download/v0.1.0-beta.1/macos-intel-v0.1.0-beta.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2,
-            "linux": 3,
-            "macos": 0
+            "windows": 3,
+            "linux": 4,
+            "macos": 1
           }
         }
       ],
@@ -12531,7 +12552,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 3492,
+            "windows": 3493,
             "linux": 540,
             "macos": 100
           }
@@ -12704,7 +12725,7 @@
             "macos": "https://github.com/slak1-OG-mods/jak1-sandpit-level/releases/download/v2.0.1-modbase-merge.4/macos-intel-v2.0.1-modbase-merge.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 986,
+            "windows": 987,
             "linux": 138,
             "macos": 34
           }
@@ -12985,7 +13006,7 @@
             "macos": "https://github.com/cjsilva-dev/jak2-dark-flight/releases/download/v0.5.2/macos-intel-v0.5.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 110,
+            "windows": 111,
             "linux": 7,
             "macos": 0
           }
@@ -13156,7 +13177,7 @@
             "macos": "https://github.com/cjsilva-dev/jak3-true-flight/releases/download/v0.6.0/macos-intel-v0.6.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 140,
+            "windows": 141,
             "linux": 11,
             "macos": 0
           }
@@ -13371,8 +13392,8 @@
             "macos": "https://github.com/himstan/Jak-And-Daxter-2-Multiplayer/releases/download/v0.2.1/macos-intel-v0.2.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 160,
-            "linux": 17,
+            "windows": 162,
+            "linux": 18,
             "macos": 1
           }
         },
@@ -13470,5 +13491,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-10-31T05:24:18.961Z"
+  "lastUpdated": "2026-10-31T11:08:04.949Z"
 }
