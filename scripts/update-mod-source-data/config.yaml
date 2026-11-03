@@ -794,6 +794,17 @@ mods:
     cover_art_url: "https://raw.githubusercontent.com/Erdeppol/OG-BulletHellMod/refs/heads/main/storeimages/bullethellLarge.PNG"
     thumbnail_art_url: "https://raw.githubusercontent.com/Erdeppol/OG-BulletHellMod/refs/heads/main/storeimages/bullethellSmall.PNG"
     
+  gauntlet:
+    repo_owner: "rodrigopsasaki"
+    repo_name: "OG-Gauntlet"
+    url: "https://github.com/rodrigopsasaki/OG-Gauntlet"
+    ignore_versions:
+      - "<0.3.0"
+    display_name: "Gauntlet"
+    description: "The world turns against Jak. The training dummies become Yellow Sages firing eco volleys, the farm's yakows stampede, Klaww crashes the beach, and Misty goes mad while the muse is loose. Work in progress: covers hub 1 only so far (Geyser Rock to Misty Island). Fire Canyon and everything after it are still mostly the original game."
+    authors: ["rodrigopsasaki"]
+    tags: ["challenge", "gameplay-mod", "beta"]
+
   #### CUSTOM LEVEL MODS ####
 
   forgotten-lands:
