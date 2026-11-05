@@ -39,7 +39,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Speedrun-Practice/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 11,
+            "windows": 13,
             "linux": 4,
             "macos": 1
           }
@@ -1633,7 +1633,7 @@
             "macos": "https://github.com/Hat-Kid/og-j1-board/releases/download/v0.0.6/macos-intel-v0.0.6.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 813,
+            "windows": 814,
             "linux": 127,
             "macos": 25
           }
@@ -3085,7 +3085,7 @@
             "macos": "https://github.com/EvelynTSMG/Jak-EveBase/releases/download/v0.1.2/macos-intel-v0.1.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1867,
+            "windows": 1868,
             "linux": 352,
             "macos": 32
           }
@@ -3264,9 +3264,9 @@
             "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.6/macos-intel-v1.0.6.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 724,
+            "windows": 725,
             "linux": 121,
-            "macos": 14
+            "macos": 15
           }
         },
         {
@@ -3865,7 +3865,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.9/macos-intel-v0.5.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 969,
+            "windows": 970,
             "linux": 96,
             "macos": 18
           }
@@ -4270,7 +4270,7 @@
             "macos": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v1.1.1/macos-intel-v1.1.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 271,
+            "windows": 272,
             "linux": 13,
             "macos": 1
           }
@@ -4613,7 +4613,7 @@
             "macos": "https://github.com/Blake645/ArchipelaGOAL-3/releases/download/v3.0.3/macos-intel-v3.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 86,
+            "windows": 88,
             "linux": 8,
             "macos": 2
           }
@@ -5733,7 +5733,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 871,
+            "windows": 873,
             "linux": 198,
             "macos": 0
           }
@@ -7004,7 +7004,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v1.0.1/macos-intel-v1.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 808,
+            "windows": 810,
             "linux": 104,
             "macos": 5
           }
@@ -7218,7 +7218,7 @@
             "macos": "https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus/releases/download/v1.0.2/macos-intel-v1.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1255,
+            "windows": 1258,
             "linux": 171,
             "macos": 12
           }
@@ -8593,7 +8593,7 @@
             "macos": "https://github.com/CraiyDev/Better-Dark-Jak/releases/download/v0.0.2/macos-intel-v0.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2231,
+            "windows": 2232,
             "linux": 402,
             "macos": 36
           }
@@ -11290,7 +11290,7 @@
             "macos": "https://github.com/Jak-3-Modifer/Jak-3-ReBalanced/releases/download/v0.1.0-beta.25/macos-intel-v0.1.0-beta.25.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1,
+            "windows": 3,
             "linux": 1,
             "macos": 1
           }
@@ -11626,7 +11626,7 @@
             "macos": "https://github.com/Jak-3-Modifer/Jak-3-ReBalanced/releases/download/v0.1.0-beta.8/macos-intel-v0.1.0-beta.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 42,
+            "windows": 43,
             "linux": 9,
             "macos": 2
           }
@@ -11888,7 +11888,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 4774,
+            "windows": 4776,
             "linux": 684,
             "macos": 0
           }
@@ -12638,7 +12638,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 3513,
+            "windows": 3515,
             "linux": 543,
             "macos": 101
           }
@@ -12704,7 +12704,7 @@
             "macos": "https://github.com/Cuttlefishthesage/ErodedCoast/releases/download/v5.0.3/macos-intel-v5.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 2038,
+            "windows": 2039,
             "linux": 328,
             "macos": 67
           }
@@ -12811,7 +12811,7 @@
             "macos": "https://github.com/slak1-OG-mods/jak1-sandpit-level/releases/download/v2.0.1-modbase-merge.4/macos-intel-v2.0.1-modbase-merge.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 992,
+            "windows": 993,
             "linux": 138,
             "macos": 34
           }
@@ -13113,7 +13113,7 @@
             "macos": "https://github.com/cjsilva-dev/jak2-dark-flight/releases/download/v0.5.2/macos-intel-v0.5.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 133,
+            "windows": 134,
             "linux": 9,
             "macos": 0
           }
@@ -13499,7 +13499,7 @@
             "macos": "https://github.com/himstan/Jak-And-Daxter-2-Multiplayer/releases/download/v0.2.1/macos-intel-v0.2.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 247,
+            "windows": 248,
             "linux": 25,
             "macos": 1
           }
@@ -13598,5 +13598,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-11-05T07:14:41.513Z"
+  "lastUpdated": "2026-11-05T15:53:50.870Z"
 }
