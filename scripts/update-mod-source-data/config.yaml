@@ -1022,6 +1022,21 @@ mods:
     cover_art_url: "https://github.com/himstan/Jak-And-Daxter-2-Multiplayer/blob/main/images/jad2mp-background.png?raw=true"
     thumbnail_art_url: "https://github.com/himstan/Jak-And-Daxter-2-Multiplayer/blob/main/images/jad2mp-thumbnail.png?raw=true"
 
+  jak-enhanced-light:
+    repo_owner: "stichlola"
+    repo_name: "jak-enhanced-trilogy"
+    url: "https://github.com/stichlola/jak-enhanced-trilogy"
+    # (the repo's older releases have two-part tags, v0.12: not semantic versions, skipped anyway)
+    ignore_versions:
+      - "<0.13.0"
+    display_name: "Jak Enhanced Light"
+    description: "New lighting and graphics for the game as it is: real-time sun and shadows, ambient occlusion, reflections on water and wet streets, rain, fog, sandstorms and a night sky, HD pause maps, and an in-game menu to tune it all (F1). Gameplay is untouched. The single-game version of Jak Enhanced Trilogy."
+    authors: ["stichlola"]
+    tags: ["graphics", "visual", "weather"]
+    website_url: "https://github.com/stichlola/jak-enhanced-trilogy/blob/main/README.md"
+    cover_art_url: "https://raw.githubusercontent.com/stichlola/jak-enhanced-trilogy/main/game/assets/enhanced/art/cover.jpg"
+    thumbnail_art_url: "https://raw.githubusercontent.com/stichlola/jak-enhanced-trilogy/main/game/assets/enhanced/art/banner-1280x640.png"
+
   # NOTE - allows for just links to mods as well, for ones that don't really fit into
   # the standard mod installation experience
   teamruns:
