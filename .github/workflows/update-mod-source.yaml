@@ -40,7 +40,7 @@ jobs:
           npm run update
           
       - name: Commit Version Bump
-        uses: EndBug/add-and-commit@v10
+        uses: EndBug/add-and-commit@v11
         with:
           message: "source: Updated mod source data"
           push: true
