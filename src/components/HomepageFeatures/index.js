@@ -96,6 +96,12 @@ export default function HomepageFeatures() {
             </ol>
           </details>
         <p></p>
+        <p><h1>Update about new mods ✨</h1></p>
+        <p>Given the recent influx of AI-assisted / AI-generated mods, it is not possible for us to properly vet all these new mods. So at this time, we are NOT accepting submissions to the JakMods mod list from new modders.</p>
+        <p>Please note this is nothing personal and is not meant to outright discourage the use of AI, we just don't want to take on the risk of showcasing mods with code that we (and possibly the modder themselves) aren't familiar with. It's easier than ever for someone to develop software, whether that be for good or for bad, so we encourage everyone to be cautious about installing software.</p>
+        <p>We will keep an eye out for new mods, and if/when we determine we are comfortable with the quality and safety of a mod, we may reach out to the creator about adding it to the main JakMods mod list.</p>
+        <p><b>With all that said, we have a <a href="https://github.com/OpenGOAL-Mods/ModListTemplate#opengoal-mod-list-template">mod list template repo</a> that anyone is free to use for maintaining their own mod list! Please follow the instructions in the README to setup your own mod list which can then be added to the OpenGOAL launcher.</b></p>
+        <p></p>
         <p><h1>Disclaimer ⚠️</h1></p>
         <p>The mod list and the mods themselves are NOT supported by the main OpenGOAL developers!</p>
         <p>For more information see the <a href="docs/faq">FAQ</a>, or join us in the <a href="https://discord.gg/k5PKHta6d8">OpenGOAL Modding Discord server</a> for any questions.</p>
