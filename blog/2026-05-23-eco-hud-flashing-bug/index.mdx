@@ -54,7 +54,7 @@ In Jak 2, there are two separate HUD elements involved - `hud-health` which incl
 
 As I expected, there was nothing related to checking game progression in this code, so what's causing the bug? Let's look more closely at the math for the flash effect.
 
-The `(-> *display* game-clock frame-counter)` tracks how long you've been playing the game on this save file (e.g. for the playtime display on the save/load screens). This just an integer counting the number of ticks (300 ticks / sec) since the game was started (technically it start at `(seconds 1000) = 300000`). This doesn't include time where the game is paused or in cutscenes.
+The `(-> *display* game-clock frame-counter)` tracks how long you've been playing the game on this save file (e.g. for the playtime display on the save/load screens). This is just an integer counting the number of ticks (300 ticks / sec) since the game was started (technically it starts at `(seconds 1000) = 300000`). This doesn't include time where the game is paused or in cutscenes.
 
 The bug lies within the `(sin (* 182.04445 (the float (* (-> *display* game-clock frame-counter) <multiplier>))))` calculation - it turns out GOAL's `sin` breaks down when you feed it really big float values (~2147483584.0 or bigger):
 
